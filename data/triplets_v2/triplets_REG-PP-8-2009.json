@@ -1,0 +1,1892 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-8-2009",
+  "extraction_metadata": {
+    "timestamp": "2026-05-23T02:13:19.211373+00:00",
+    "extractor": "extract_triplets_v2_explicit.py",
+    "methods": [
+      "llm",
+      "regex",
+      "structural"
+    ],
+    "processed_path": "data/processed_v2/REG-PP-8-2009.json",
+    "chunks_path": "data/chunks_v2/chunks_REG-PP-8-2009.jsonl",
+    "note": "Explicit triplets are rule-based and do not use an LLM."
+  },
+  "triplets": [
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_KONSIDERANS",
+      "target_id": "KONS-REG-PP-8-2009-MENIMBANG-A",
+      "target_type": "Konsiderans",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa dalam rangka meningkatkan daya guna dan hasil guna serta kesejahteraan Pegawai Negeri Sipil, perlu mengubah gaji pokok Pegawai Negeri Sipil sebagaimana diatur dalam Peraturan Pemerintah Nomor 10 Tahun 2008 tentang Perubahan Kesepuluh Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor": "a"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_KONSIDERANS",
+      "target_id": "KONS-REG-PP-8-2009-MENIMBANG-B",
+      "target_type": "Konsiderans",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor": "b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-PP-8-2009-MENGINGAT-2",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Undang-Undang Nomor 8 Tahun 1974 tentang PokokPokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Peraturan . . .",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "nomor": "3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "nomor": "3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DIKTUM",
+      "target_id": "DIKTUM-REG-PP-8-2009-MEMUTUSKAN",
+      "target_type": "Diktum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "MEMUTUSKAN:",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "jenis": "memutuskan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DIKTUM",
+      "target_id": "DIKTUM-REG-PP-8-2009-MENETAPKAN",
+      "target_type": "Diktum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "PERATURAN PEMERINTAH TENTANG PERUBAHAN KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 7 TAHUN 1977 TENTANG PERATURAN GAJI PEGAWAI NEGERI SIPIL.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "jenis": "menetapkan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-PP-8-2009-I",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal I",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor_pasal": "I"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-angka-1",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah:",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "jenis": "angka",
+        "nomor": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-A",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 13 Tahun 1980 (Lembaran Negara Republik Indonesia Tahun 1980 Nomor 21, Tambahan Lembaran Negara Republik Indonesia Nomor 3162);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "jenis": "huruf",
+        "nomor": "a"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-B",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 15 . . .",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "jenis": "huruf",
+        "nomor": "b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-B",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 15 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 21);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "jenis": "huruf",
+        "nomor": "b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-C",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 51 Tahun 1992 (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 90);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 5,
+        "jenis": "huruf",
+        "nomor": "c"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-D",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 15 Tahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 21);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 6,
+        "jenis": "huruf",
+        "nomor": "d"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-E",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 6 Tahun 1997 (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 19);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 7,
+        "jenis": "huruf",
+        "nomor": "e"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-F",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 26 Tahun 2001 (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 49);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 8,
+        "jenis": "huruf",
+        "nomor": "f"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-G",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 11 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 17);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 9,
+        "jenis": "huruf",
+        "nomor": "g"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-H",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 66 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 151);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 10,
+        "jenis": "huruf",
+        "nomor": "h"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-I",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 9 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 25); dan",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 11,
+        "jenis": "huruf",
+        "nomor": "i"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-huruf-J",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 12,
+        "jenis": "huruf",
+        "nomor": "j"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_SUBITEM",
+      "target_id": "SUB-REG-PP-8-2009-I-angka-2",
+      "target_type": "SubItem",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 13,
+        "jenis": "angka",
+        "nomor": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-PP-8-2009-II",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal II",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor_pasal": "II"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PENUTUP",
+      "target_id": "PENUTUP-REG-PP-8-2009",
+      "target_type": "Penutup",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 16 Januari 2009 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya SEKRETARIAT NEGARA RI Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "tanggal_ditetapkan": "16 Januari 2009",
+        "tanggal_diundangkan": "16 Januari 2009"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-PP-8-2009-MENIMBANG-A",
+      "source_type": "Konsiderans",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0001",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa dalam rangka meningkatkan daya guna dan hasil guna serta kesejahteraan Pegawai Negeri Sipil, perlu mengubah gaji pokok Pegawai Negeri Sipil sebagaimana diatur dalam Peraturan Pemerintah Nomor 10 Tahun 2008 tentang Perubahan Kesepuluh Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0001"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "section_type": "menimbang",
+        "reference_label": "REG-PP-8-2009 Menimbang a"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-PP-8-2009-MENIMBANG-B",
+      "source_type": "Konsiderans",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0002",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0002"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "section_type": "menimbang",
+        "reference_label": "REG-PP-8-2009 Menimbang b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0003",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0003"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "section_type": "mengingat",
+        "reference_label": "REG-PP-8-2009 Mengingat 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0004",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Undang-Undang Nomor 8 Tahun 1974 tentang PokokPokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0004"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "section_type": "mengingat",
+        "reference_label": "REG-PP-8-2009 Mengingat 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0005",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Peraturan . . .",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0005"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 5,
+        "section_type": "mengingat",
+        "reference_label": "REG-PP-8-2009 Mengingat 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0006",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0006"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 6,
+        "section_type": "mengingat",
+        "reference_label": "REG-PP-8-2009 Mengingat 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0007",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "1. Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah: a. Nomor 13 Tahun 1980 (Lembaran Negara Republik Indonesia Tahun 1980 Nomor 21, Tambahan Lembaran Negara Republik Indonesia Nomor 3162); b. Nomor 15 . . . b. Nomor 15 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 21); c. Nomor 51 Tahun 1992 (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 90); d. Nomor 15 Tahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 21); e. Nomor 6 Tahun 1997 (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 19); f. Nomor 26 Tahun 2001 (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 49); g. Nomor 11 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 17); h. Nomor 66 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 151); i. Nomor 9 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 25); dan j. Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini. 2. Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009.",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0007"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 7,
+        "section_type": "pasal",
+        "reference_label": "REG-PP-8-2009 Pasal I"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-angka-1",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0008",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah:",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0008"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 8,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I angka 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-A",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0009",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 13 Tahun 1980 (Lembaran Negara Republik Indonesia Tahun 1980 Nomor 21, Tambahan Lembaran Negara Republik Indonesia Nomor 3162);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0009"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 9,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf a"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-B",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0010",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 15 . . .",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0010"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 10,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-B",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0011",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 15 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 21);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0011"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 11,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-C",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0012",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 51 Tahun 1992 (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 90);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0012"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 12,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf c"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-D",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0013",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 15 Tahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 21);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0013"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 13,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf d"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-E",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0014",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 6 Tahun 1997 (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 19);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0014"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 14,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf e"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-F",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0015",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 26 Tahun 2001 (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 49);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0015"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 15,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf f"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-G",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0016",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 11 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 17);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0016"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 16,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf g"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-H",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0017",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 66 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 151);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0017"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 17,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf h"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-I",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0018",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 9 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 25); dan",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0018"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 18,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf i"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-J",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0019",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini.",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0019"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 19,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf j"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-angka-2",
+      "source_type": "SubItem",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0020",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009.",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0020"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 20,
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I angka 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-II",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0021",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 ttd. Diundangkan di Jakarta pada tanggal 16 Januari 2009 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0021"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 21,
+        "section_type": "pasal",
+        "reference_label": "REG-PP-8-2009 Pasal II"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PENUTUP-REG-PP-8-2009",
+      "source_type": "Penutup",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-PP-8-2009-0022",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 16 Januari 2009 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya SEKRETARIAT NEGARA RI Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0022"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "urutan": 22,
+        "section_type": "penutup",
+        "reference_label": "REG-PP-8-2009 Penutup"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-peraturan-gaji-pegawai-negeri-sipil",
+      "target_type": "Topik",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0007"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "target_name": "Peraturan Gaji Pegawai Negeri Sipil",
+        "category": "topik",
+        "reason": "Teks menyebutkan peraturan ini mengubah peraturan tentang gaji PNS, sehingga topik yang diatur adalah peraturan gaji PNS.",
+        "section_type": "pasal",
+        "reference_label": "REG-PP-8-2009 Pasal I"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_SUBJEK",
+      "target_id": "SBJ-pegawai-negeri-sipil",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Peraturan Gaji Pegawai Negeri Sipil",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0007"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "target_name": "Pegawai Negeri Sipil",
+        "category": "subjek",
+        "reason": "Subjek yang diatur dalam peraturan ini adalah Pegawai Negeri Sipil, sebagaimana disebutkan dalam judul peraturan yang diubah.",
+        "section_type": "pasal",
+        "reference_label": "REG-PP-8-2009 Pasal I"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-perubahan-lampiran-ii-pp-7-1977",
+      "target_type": "Topik",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0007"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "target_name": "perubahan lampiran II PP 7/1977",
+        "category": "topik",
+        "reason": "Teks secara eksplisit menyatakan peraturan ini mengubah Lampiran II PP 7/1977.",
+        "section_type": "pasal",
+        "reference_label": "REG-PP-8-2009 Pasal I"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-tanggal-berlaku-1-januari-2009",
+      "target_type": "Topik",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0007"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "target_name": "tanggal berlaku 1 Januari 2009",
+        "category": "topik",
+        "reason": "Teks menetapkan tanggal efektif pemberlakuan peraturan ini.",
+        "section_type": "pasal",
+        "reference_label": "REG-PP-8-2009 Pasal I"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-huruf-J",
+      "source_type": "SubItem",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-undang-undang-nomor-10-tahun-2008",
+      "target_type": "Topik",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini.",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0019"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "target_name": "Undang-Undang Nomor 10 Tahun 2008",
+        "category": "regulasi",
+        "reason": "Peraturan Pemerintah ini mengubah Undang-Undang Nomor 10 Tahun 2008 dan menetapkan ketentuan hasil perubahan dalam Lampiran.",
+        "section_type": "subitem",
+        "reference_label": "REG-PP-8-2009 Pasal I huruf j"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "BERDASARKAN",
+      "target_id": "REG-UUD-1945",
+      "target_type": "Regulasi",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "nomor": "1",
+        "urutan": 1
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "BERDASARKAN",
+      "target_id": "REG-UU-8-1974",
+      "target_type": "Regulasi",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Undang-Undang Nomor 8 Tahun 1974 tentang PokokPokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "nomor": "2",
+        "urutan": 2
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "source_type": "Dasar_Hukum",
+      "predicate": "BERDASARKAN",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "nomor": "3",
+        "urutan": 4
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "DIUNDANGKAN_PADA",
+      "target_id": "EVT-REG-PP-8-2009-DIUNDANGKAN",
+      "target_type": "Peristiwa_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 16 Januari 2009 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya SEKRETARIAT NEGARA RI Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "jenis": "diundangkan",
+        "tanggal": "16 Januari 2009"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MULAI_BERLAKU",
+      "target_id": "EVT-REG-PP-8-2009-MULAI-BERLAKU",
+      "target_type": "Peristiwa_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 16 Januari 2009 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya SEKRETARIAT NEGARA RI Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "jenis": "mulai_berlaku",
+        "tanggal": "16 Januari 2009"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MULAI_BERLAKU",
+      "target_id": "EVT-REG-PP-8-2009-MULAI-BERLAKU",
+      "target_type": "Peristiwa_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 ttd. Diundangkan di Jakarta pada tanggal 16 Januari 2009 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "jenis": "mulai_berlaku",
+        "tanggal": "diundangkan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MENGAMANDEMEN",
+      "target_id": "REG-PP-TENTANG",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Perubahan atas Peraturan Gaji Pegawai Negeri Sipil Perubahan atas Peraturan Gaji Pegawai Negeri Sipil PERATURAN PEMERINTAH TENTANG PERUBAHAN KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 7 TAHUN 1977 TENTANG PERATURAN GAJI PEGAWAI NEGERI SIPIL.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "source": "title_or_menetapkan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-PP-8-2009",
+      "source_type": "Regulasi",
+      "predicate": "MENGAMANDEMEN",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Perubahan atas Peraturan Gaji Pegawai Negeri Sipil Perubahan atas Peraturan Gaji Pegawai Negeri Sipil PERATURAN PEMERINTAH TENTANG PERUBAHAN KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 7 TAHUN 1977 TENTANG PERATURAN GAJI PEGAWAI NEGERI SIPIL.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "source": "title_or_menetapkan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-PP-8-2009-MENIMBANG-A",
+      "source_type": "Konsiderans",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-10-2008",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "bahwa dalam rangka meningkatkan daya guna dan hasil guna serta kesejahteraan Pegawai Negeri Sipil, perlu mengubah gaji pokok Pegawai Negeri Sipil sebagaimana diatur dalam Peraturan Pemerintah Nomor 10 Tahun 2008 tentang Perubahan Kesepuluh Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0001"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-PP-8-2009-MENIMBANG-A",
+      "source_type": "Konsiderans",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "bahwa dalam rangka meningkatkan daya guna dan hasil guna serta kesejahteraan Pegawai Negeri Sipil, perlu mengubah gaji pokok Pegawai Negeri Sipil sebagaimana diatur dalam Peraturan Pemerintah Nomor 10 Tahun 2008 tentang Perubahan Kesepuluh Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0001"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-PP-8-2009-MENIMBANG-B",
+      "source_type": "Konsiderans",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-TENTANG",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0002"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-PP-8-2009-MENIMBANG-B",
+      "source_type": "Konsiderans",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0002"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UUD-1945",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0003"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0003"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UUD-1945-5",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0003"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UUD-1945",
+        "nomor_pasal": "5",
+        "nomor_ayat": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-5",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0003"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "5",
+        "nomor_ayat": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-8-1974",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Undang-Undang Nomor 8 Tahun 1974 tentang PokokPokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0004"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-43-1999",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Undang-Undang Nomor 8 Tahun 1974 tentang PokokPokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0004"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0006"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-10-2008",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23);",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0006"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-PP-8-2009-I",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "1. Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah: a. Nomor 13 Tahun 1980 (Lembaran Negara Republik Indonesia Tahun 1980 Nomor 21, Tambahan Lembaran Negara Republik Indonesia Nomor 3162); b. Nomor 15 . . . b. Nomor 15 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 21); c. Nomor 51 Tahun 1992 (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 90); d. Nomor 15 Tahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 21); e. Nomor 6 Tahun 1997 (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 19); f. Nomor 26 Tahun 2001 (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 49); g. Nomor 11 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 17); h. Nomor 66 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 151); i. Nomor 9 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 25); dan j. Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini. 2. Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009.",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0007"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "SUB-REG-PP-8-2009-I-angka-1",
+      "source_type": "SubItem",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-PP-7-1977",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah:",
+        "chunk_ids": [
+          "CHK-REG-PP-8-2009-0008"
+        ],
+        "source_file": "data/raw/REG-PP-8-2009.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    }
+  ]
+}

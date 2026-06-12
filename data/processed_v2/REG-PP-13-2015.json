@@ -1,0 +1,1539 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-13-2015",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "13",
+    "tahun": 2015,
+    "judul": "Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan",
+    "tentang": "Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-13-2015.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-13-2015-MENIMBANG-A",
+        "nomor": "a",
+        "teks_isi": "bahwa pendidikan di Indonesia membutuhkan standar nasional yang memerlukan penyesuaian terhadap dinamika kehidupan yang berkembang di masyarakat;",
+        "urutan": 1
+      },
+      {
+        "id": "KONS-REG-PP-13-2015-MENIMBANG-B",
+        "nomor": "b",
+        "teks_isi": "bahwa Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 32 Tahun 2013 tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan belum dapat memenuhi kebutuhan dunia pendidikan saat ini;",
+        "urutan": 2
+      },
+      {
+        "id": "KONS-REG-PP-13-2015-MENIMBANG-C",
+        "nomor": "c",
+        "teks_isi": "bahwa syarat kelulusan peserta didik dan akreditasi penyelenggaraan pendidikan, serta kurikulum pendidikan merupakan bagian penting yang harus diperhatikan dalam peningkatan mutu pendidikan;",
+        "urutan": 3
+      },
+      {
+        "id": "KONS-REG-PP-13-2015-MENIMBANG-D",
+        "nomor": "d",
+        "teks_isi": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu",
+        "urutan": 4
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-13-2015-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-13-2015-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang . . .",
+        "urutan": 2,
+        "target_regulasi_id": "",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-13-2015-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301);",
+        "urutan": 3,
+        "target_regulasi_id": "REG-UU-20-2003",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-13-2015-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 4496) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 32 Tahun 2013 tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 71, Tambahan Lembaran Negara Republik Indonesia Nomor 5410);",
+        "urutan": 4,
+        "target_regulasi_id": "REG-PP-19-2005",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "Peraturan Pemerintah tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan; Mengingat : 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang . . . 2. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301); 3. Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 4496) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 32 Tahun 2013 tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 71, Tambahan Lembaran Negara Republik Indonesia Nomor 5410); MEMUTUSKAN: Menetapkan : PERATURAN PEMERINTAH TENTANG PERUBAHAN KEDUA ATAS PERATURAN PEMERINTAH NOMOR 19 TAHUN 2005 TENTANG STANDAR NASIONAL PENDIDIKAN."
+  },
+  "body": {
+    "bab": [],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-13-2015-I",
+        "nomor_pasal": "I",
+        "teks_isi": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 19 Tahun 2005 Tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 41, Tambahan Lembaran Negara Nomor 4496) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 32 Tahun 2013 tentang Perubahan atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 71, Tambahan Lembaran Negara Nomor 5410), diubah sebagai berikut: 1. Ketentuan . . . 1. Ketentuan Pasal 1 diubah, sehingga Pasal 1 berbunyi sebagai berikut:",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-13-2015-I-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Ketentuan . . .",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-I-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Ketentuan Pasal 1 diubah, sehingga Pasal 1 berbunyi sebagai berikut:",
+            "urutan": 2,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam Peraturan Pemerintah ini yang dimaksud dengan: 1. Standar Nasional Pendidikan adalah kriteria minimal tentang sistem pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia. 2. Pendidikan Formal adalah jalur pendidikan yang terstruktur dan berjenjang yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi. 3. Pendidikan Nonformal adalah jalur pendidikan di luar pendidikan formal yang dapat dilaksanakan secara terstruktur dan berjenjang. 4. Kompetensi adalah seperangkat sikap, pengetahuan, dan keterampilan, yang harus dimiliki, dihayati, dan dikuasai oleh Peserta Didik setelah mempelajari suatu muatan pembelajaran, menamatkan suatu program, atau menyelesaikan satuan pendidikan tertentu. 5. Standar Kompetensi Lulusan adalah kriteria mengenai kualifikasi kemampuan lulusan yang mencakup sikap, pengetahuan, dan keterampilan. 6. Standar Isi adalah kriteria mengenai ruang lingkup materi dan tingkat Kompetensi untuk mencapai Kompetensi lulusan pada jenjang dan jenis pendidikan tertentu. 7. Standar Proses adalah kriteria mengenai pelaksanaan pembelajaran pada satu satuan pendidikan untuk mencapai Standar Kompetensi Lulusan. 8. Standar . . . 8. Standar Pendidik dan Tenaga Kependidikan adalah kriteria mengenai pendidikan prajabatan dan kelayakan fisik maupun mental, serta pendidikan dalam jabatan. 9. Standar Sarana dan Prasarana adalah kriteria mengenai ruang belajar, tempat berolahraga, tempat beribadah, perpustakaan, laboratorium, bengkel kerja, tempat bermain, tempat berkreasi dan berekreasi serta sumber belajar lain, yang diperlukan untuk menunjang proses pembelajaran, termasuk penggunaan teknologi informasi dan komunikasi. 10. Standar Pengelolaan adalah kriteria mengenai perencanaan, pelaksanaan, dan pengawasan kegiatan pendidikan pada tingkat satuan pendidikan, kabupaten/kota, provinsi, atau nasional agar tercapai efisiensi dan efektivitas penyelenggaraan pendidikan. 11. Standar Pembiayaan adalah kriteria mengenai komponen dan besarnya biaya operasi satuan pendidikan yang berlaku selama satu tahun. 12. Standar Penilaian Pendidikan adalah kriteria mengenai mekanisme, prosedur, dan instrumen penilaian hasil belajar Peserta Didik. 13. Kompetensi Inti adalah tingkat kemampuan untuk mencapai Standar Kompetensi Lulusan yang harus dimiliki seorang Peserta Didik pada setiap tingkat kelas atau program. 14. Kompetensi Dasar adalah kemampuan untuk mencapai Kompetensi Inti yang harus diperoleh Peserta Didik melalui pembelajaran. 15. Biaya operasi satuan pendidikan adalah bagian dari dana pendidikan yang diperlukan untuk membiayai kegiatan operasi satuan pendidikan agar dapat berlangsungnya kegiatan pendidikan yang sesuai Standar Nasional Pendidikan secara teratur dan berkelanjutan. 16. Kurikulum . . . 16. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara yang digunakan sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk mencapai tujuan pendidikan tertentu. 17. Kerangka Dasar Kurikulum adalah tatanan konseptual Kurikulum yang dikembangkan berdasarkan Standar Nasional Pendidikan. 18. Silabus adalah rencana pembelajaran pada suatu mata pelajaran atau tema tertentu yang mencakup Kompetensi Inti, Kompetensi Dasar, materi pembelajaran, kegiatan pembelajaran, penilaian, alokasi waktu, dan sumber belajar. 19. Pembelajaran adalah proses interaksi antarpeserta Didik, antara Peserta Didik dengan pendidik dan sumber belajar pada suatu lingkungan belajar. 20. Kurikulum Tingkat Satuan Pendidikan adalah Kurikulum operasional yang disusun oleh dan dilaksanakan di masing-masing satuan pendidikan. 21. Peserta Didik adalah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses Pembelajaran yang tersedia pada jalur, jenjang, dan jenis pendidikan tertentu. 22. Buku Panduan Guru adalah pedoman yang memuat strategi Pembelajaran, metode Pembelajaran, teknik Pembelajaran, dan penilaian untuk setiap mata pelajaran dan/atau tema Pembelajaran. 23. Buku Teks Pelajaran adalah sumber Pembelajaran utama untuk mencapai Kompetensi Dasar dan Kompetensi Inti. 24. Penilaian adalah proses pengumpulan dan pengolahan informasi untuk mengukur pencapaian hasil belajar Peserta Didik. 25. Evaluasi . . . 25. Evaluasi pendidikan adalah kegiatan pengendalian, penjaminan, dan penetapan mutu pendidikan terhadap berbagai komponen pendidikan pada setiap jalur, jenjang, dan jenis pendidikan sebagai bentuk pertanggungjawaban penyelenggaraan pendidikan. 26. Ulangan adalah proses yang dilakukan untuk mengukur pencapaian Kompetensi Peserta Didik secara berkelanjutan dalam proses Pembelajaran, untuk memantau kemajuan dan perbaikan hasil belajar Peserta Didik. 27. Ujian adalah kegiatan yang dilakukan untuk mengukur pencapaian Kompetensi Peserta Didik sebagai pengakuan prestasi belajar dan/atau penyelesaian dari suatu satuan pendidikan. 28. Akreditasi adalah kegiatan penilaian kelayakan program dan/atau satuan pendidikan berdasarkan kriteria yang telah ditetapkan. 29. Badan Standar Nasional Pendidikan yang selanjutnya disingkat BSNP adalah badan mandiri dan independen yang bertugas mengembangkan, memantau, dan mengendalikan Standar Nasional Pendidikan. 30. Lembaga Penjaminan Mutu Pendidikan yang selanjutnya disingkat LPMP adalah unit pelaksana teknis Kementerian Pendidikan dan Kebudayaan yang berkedudukan di provinsi dan bertugas untuk membantu pemerintah daerah dalam bentuk supervisi, bimbingan, arahan, saran, dan bantuan teknis kepada satuan pendidikan dasar dan menengah, dalam berbagai upaya penjaminan mutu satuan pendidikan untuk mencapai Standar Nasional Pendidikan. 31. Badan . . . 31. Badan Akreditasi Nasional Sekolah/Madrasah yang selanjutnya disingkat BAN-S/M adalah badan evaluasi mandiri yang menetapkan kelayakan program dan/atau satuan pendidikan jenjang pendidikan dasar dan menengah jalur formal dengan mengacu pada Standar Nasional Pendidikan. 32. Badan Akreditasi Nasional Pendidikan Anak Usia Dini dan Pendidikan Nonformal yang selanjutnya disebut BAN PAUD dan PNF adalah badan evaluasi mandiri yang menetapkan kelayakan program dan/atau satuan pendidikan anak usia dini dan pendidikan nonformal dengan mengacu pada Standar Nasional Pendidikan. 33. Badan Akreditasi Nasional Perguruan Tinggi yang selanjutnya disingkat BAN-PT adalah badan evaluasi mandiri yang menetapkan kelayakan program dan/atau satuan pendidikan pada jenjang Pendidikan Tinggi dengan mengacu pada Standar Nasional Pendidikan. 34. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan. 2. Ketentuan Pasal 66 ayat (1) dan ayat (3) diubah, sehingga Pasal 66 berbunyi sebagai berikut:",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Standar Nasional Pendidikan adalah kriteria minimal tentang sistem pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Pendidikan Formal adalah jalur pendidikan yang terstruktur dan berjenjang yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi.",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-3",
+            "jenis": "angka",
+            "nomor": "3",
+            "teks_isi": "Pendidikan Nonformal adalah jalur pendidikan di luar pendidikan formal yang dapat dilaksanakan secara terstruktur dan berjenjang.",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-4",
+            "jenis": "angka",
+            "nomor": "4",
+            "teks_isi": "Kompetensi adalah seperangkat sikap, pengetahuan, dan keterampilan, yang harus dimiliki, dihayati, dan dikuasai oleh Peserta Didik setelah mempelajari suatu muatan pembelajaran, menamatkan suatu program, atau menyelesaikan satuan pendidikan tertentu.",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Standar Kompetensi Lulusan adalah kriteria mengenai kualifikasi kemampuan lulusan yang mencakup sikap, pengetahuan, dan keterampilan.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Standar Isi adalah kriteria mengenai ruang lingkup materi dan tingkat Kompetensi untuk mencapai Kompetensi lulusan pada jenjang dan jenis pendidikan tertentu.",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Standar Proses adalah kriteria mengenai pelaksanaan pembelajaran pada satu satuan pendidikan untuk mencapai Standar Kompetensi Lulusan.",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Standar . . .",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Standar Pendidik dan Tenaga Kependidikan adalah kriteria mengenai pendidikan prajabatan dan kelayakan fisik maupun mental, serta pendidikan dalam jabatan.",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Standar Sarana dan Prasarana adalah kriteria mengenai ruang belajar, tempat berolahraga, tempat beribadah, perpustakaan, laboratorium, bengkel kerja, tempat bermain, tempat berkreasi dan berekreasi serta sumber belajar lain, yang diperlukan untuk menunjang proses pembelajaran, termasuk penggunaan teknologi informasi dan komunikasi.",
+            "urutan": 10,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-10",
+            "jenis": "angka",
+            "nomor": "10",
+            "teks_isi": "Standar Pengelolaan adalah kriteria mengenai perencanaan, pelaksanaan, dan pengawasan kegiatan pendidikan pada tingkat satuan pendidikan, kabupaten/kota, provinsi, atau nasional agar tercapai efisiensi dan efektivitas penyelenggaraan pendidikan.",
+            "urutan": 11,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-11",
+            "jenis": "angka",
+            "nomor": "11",
+            "teks_isi": "Standar Pembiayaan adalah kriteria mengenai komponen dan besarnya biaya operasi satuan pendidikan yang berlaku selama satu tahun.",
+            "urutan": 12,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-12",
+            "jenis": "angka",
+            "nomor": "12",
+            "teks_isi": "Standar Penilaian Pendidikan adalah kriteria mengenai mekanisme, prosedur, dan instrumen penilaian hasil belajar Peserta Didik.",
+            "urutan": 13,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-13",
+            "jenis": "angka",
+            "nomor": "13",
+            "teks_isi": "Kompetensi Inti adalah tingkat kemampuan untuk mencapai Standar Kompetensi Lulusan yang harus dimiliki seorang Peserta Didik pada setiap tingkat kelas atau program.",
+            "urutan": 14,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-14",
+            "jenis": "angka",
+            "nomor": "14",
+            "teks_isi": "Kompetensi Dasar adalah kemampuan untuk mencapai Kompetensi Inti yang harus diperoleh Peserta Didik melalui pembelajaran.",
+            "urutan": 15,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-15",
+            "jenis": "angka",
+            "nomor": "15",
+            "teks_isi": "Biaya operasi satuan pendidikan adalah bagian dari dana pendidikan yang diperlukan untuk membiayai kegiatan operasi satuan pendidikan agar dapat berlangsungnya kegiatan pendidikan yang sesuai Standar Nasional Pendidikan secara teratur dan berkelanjutan.",
+            "urutan": 16,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-16",
+            "jenis": "angka",
+            "nomor": "16",
+            "teks_isi": "Kurikulum . . .",
+            "urutan": 17,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-16",
+            "jenis": "angka",
+            "nomor": "16",
+            "teks_isi": "Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara yang digunakan sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk mencapai tujuan pendidikan tertentu.",
+            "urutan": 18,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-17",
+            "jenis": "angka",
+            "nomor": "17",
+            "teks_isi": "Kerangka Dasar Kurikulum adalah tatanan konseptual Kurikulum yang dikembangkan berdasarkan Standar Nasional Pendidikan.",
+            "urutan": 19,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-18",
+            "jenis": "angka",
+            "nomor": "18",
+            "teks_isi": "Silabus adalah rencana pembelajaran pada suatu mata pelajaran atau tema tertentu yang mencakup Kompetensi Inti, Kompetensi Dasar, materi pembelajaran, kegiatan pembelajaran, penilaian, alokasi waktu, dan sumber belajar.",
+            "urutan": 20,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-19",
+            "jenis": "angka",
+            "nomor": "19",
+            "teks_isi": "Pembelajaran adalah proses interaksi antarpeserta Didik, antara Peserta Didik dengan pendidik dan sumber belajar pada suatu lingkungan belajar.",
+            "urutan": 21,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-20",
+            "jenis": "angka",
+            "nomor": "20",
+            "teks_isi": "Kurikulum Tingkat Satuan Pendidikan adalah Kurikulum operasional yang disusun oleh dan dilaksanakan di masing-masing satuan pendidikan.",
+            "urutan": 22,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-21",
+            "jenis": "angka",
+            "nomor": "21",
+            "teks_isi": "Peserta Didik adalah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses Pembelajaran yang tersedia pada jalur, jenjang, dan jenis pendidikan tertentu.",
+            "urutan": 23,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-22",
+            "jenis": "angka",
+            "nomor": "22",
+            "teks_isi": "Buku Panduan Guru adalah pedoman yang memuat strategi Pembelajaran, metode Pembelajaran, teknik Pembelajaran, dan penilaian untuk setiap mata pelajaran dan/atau tema Pembelajaran.",
+            "urutan": 24,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-23",
+            "jenis": "angka",
+            "nomor": "23",
+            "teks_isi": "Buku Teks Pelajaran adalah sumber Pembelajaran utama untuk mencapai Kompetensi Dasar dan Kompetensi Inti.",
+            "urutan": 25,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-24",
+            "jenis": "angka",
+            "nomor": "24",
+            "teks_isi": "Penilaian adalah proses pengumpulan dan pengolahan informasi untuk mengukur pencapaian hasil belajar Peserta Didik.",
+            "urutan": 26,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-25",
+            "jenis": "angka",
+            "nomor": "25",
+            "teks_isi": "Evaluasi . . .",
+            "urutan": 27,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-25",
+            "jenis": "angka",
+            "nomor": "25",
+            "teks_isi": "Evaluasi pendidikan adalah kegiatan pengendalian, penjaminan, dan penetapan mutu pendidikan terhadap berbagai komponen pendidikan pada setiap jalur, jenjang, dan jenis pendidikan sebagai bentuk pertanggungjawaban penyelenggaraan pendidikan.",
+            "urutan": 28,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-26",
+            "jenis": "angka",
+            "nomor": "26",
+            "teks_isi": "Ulangan adalah proses yang dilakukan untuk mengukur pencapaian Kompetensi Peserta Didik secara berkelanjutan dalam proses Pembelajaran, untuk memantau kemajuan dan perbaikan hasil belajar Peserta Didik.",
+            "urutan": 29,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-27",
+            "jenis": "angka",
+            "nomor": "27",
+            "teks_isi": "Ujian adalah kegiatan yang dilakukan untuk mengukur pencapaian Kompetensi Peserta Didik sebagai pengakuan prestasi belajar dan/atau penyelesaian dari suatu satuan pendidikan.",
+            "urutan": 30,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-28",
+            "jenis": "angka",
+            "nomor": "28",
+            "teks_isi": "Akreditasi adalah kegiatan penilaian kelayakan program dan/atau satuan pendidikan berdasarkan kriteria yang telah ditetapkan.",
+            "urutan": 31,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-29",
+            "jenis": "angka",
+            "nomor": "29",
+            "teks_isi": "Badan Standar Nasional Pendidikan yang selanjutnya disingkat BSNP adalah badan mandiri dan independen yang bertugas mengembangkan, memantau, dan mengendalikan Standar Nasional Pendidikan.",
+            "urutan": 32,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-30",
+            "jenis": "angka",
+            "nomor": "30",
+            "teks_isi": "Lembaga Penjaminan Mutu Pendidikan yang selanjutnya disingkat LPMP adalah unit pelaksana teknis Kementerian Pendidikan dan Kebudayaan yang berkedudukan di provinsi dan bertugas untuk membantu pemerintah daerah dalam bentuk supervisi, bimbingan, arahan, saran, dan bantuan teknis kepada satuan pendidikan dasar dan menengah, dalam berbagai upaya penjaminan mutu satuan pendidikan untuk mencapai Standar Nasional Pendidikan.",
+            "urutan": 33,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-31",
+            "jenis": "angka",
+            "nomor": "31",
+            "teks_isi": "Badan . . .",
+            "urutan": 34,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-31",
+            "jenis": "angka",
+            "nomor": "31",
+            "teks_isi": "Badan Akreditasi Nasional Sekolah/Madrasah yang selanjutnya disingkat BAN-S/M adalah badan evaluasi mandiri yang menetapkan kelayakan program dan/atau satuan pendidikan jenjang pendidikan dasar dan menengah jalur formal dengan mengacu pada Standar Nasional Pendidikan.",
+            "urutan": 35,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-32",
+            "jenis": "angka",
+            "nomor": "32",
+            "teks_isi": "Badan Akreditasi Nasional Pendidikan Anak Usia Dini dan Pendidikan Nonformal yang selanjutnya disebut BAN PAUD dan PNF adalah badan evaluasi mandiri yang menetapkan kelayakan program dan/atau satuan pendidikan anak usia dini dan pendidikan nonformal dengan mengacu pada Standar Nasional Pendidikan.",
+            "urutan": 36,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-33",
+            "jenis": "angka",
+            "nomor": "33",
+            "teks_isi": "Badan Akreditasi Nasional Perguruan Tinggi yang selanjutnya disingkat BAN-PT adalah badan evaluasi mandiri yang menetapkan kelayakan program dan/atau satuan pendidikan pada jenjang Pendidikan Tinggi dengan mengacu pada Standar Nasional Pendidikan.",
+            "urutan": 37,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-34",
+            "jenis": "angka",
+            "nomor": "34",
+            "teks_isi": "Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan.",
+            "urutan": 38,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Ketentuan Pasal 66 ayat (1) dan ayat (3) diubah, sehingga Pasal 66 berbunyi sebagai berikut:",
+            "urutan": 39,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-66",
+        "nomor_pasal": "66",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-66-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Penilaian hasil belajar sebagaimana dimaksud dalam Pasal 63 ayat (1) huruf c bertujuan untuk menilai pencapaian kompetensi lulusan secara nasional pada mata pelajaran tertentu dan dilakukan dalam bentuk Ujian nasional.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-66-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ujian nasional dilakukan secara obyektif, berkeadilan, dan akuntabel.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-66-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ujian . . .",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-66-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ujian nasional diadakan paling sedikit 1 (satu) kali dalam 1 (satu) tahun pelajaran. 3. Ketentuan Pasal 67 ayat (3) dihapus, sehingga Pasal 67 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-66-3-angka-3",
+                "jenis": "angka",
+                "nomor": "3",
+                "teks_isi": "Ketentuan Pasal 67 ayat (3) dihapus, sehingga Pasal 67 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-67",
+        "nomor_pasal": "67",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-67-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah menugaskan BSNP untuk menyelenggarakan Ujian nasional yang diikuti peserta didik pada setiap satuan pendidikan jalur formal pendidikan dasar dan menengah, dan jalur nonformal kesetaraan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-67-1A",
+            "nomor_ayat": "1a",
+            "teks_isi": "Ujian nasional untuk satuan pendidikan jalur formal pendidikan dasar sebagaimana dimaksud pada ayat (1) dikecualikan untuk SD/MI/SDLB atau bentuk lain yang sederajat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-67-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Dalam penyelenggaraan Ujian nasional, BSNP bekerja sama dengan instansi terkait di lingkungan Pemerintah, pemerintah provinsi, pemerintah kabupaten/kota, dan satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-67-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dihapus. 4. Ketentuan Pasal 68 huruf b diubah dan huruf c dihapus, sehingga Pasal 68 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-67-3-angka-4",
+                "jenis": "angka",
+                "nomor": "4",
+                "teks_isi": "Ketentuan Pasal 68 huruf b diubah dan huruf c dihapus, sehingga Pasal 68 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-68",
+        "nomor_pasal": "68",
+        "teks_isi": "Hasil Ujian nasional digunakan sebagai dasar untuk: a. pemetaan mutu program dan/atau satuan pendidikan; b. pertimbangan seleksi masuk jenjang pendidikan berikutnya; c. dihapus . . . c. dihapus; dan d. pembinaan dan pemberian bantuan kepada satuan pendidikan dalam upayanya untuk meningkatkan mutu pendidikan. 5. Ketentuan Pasal 69 ayat (1) diubah, sehingga Pasal 69 berbunyi sebagai berikut:",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-13-2015-68-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "pemetaan mutu program dan/atau satuan pendidikan;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-68-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "pertimbangan seleksi masuk jenjang pendidikan berikutnya;",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-68-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "dihapus . . .",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-68-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "dihapus; dan",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-68-huruf-D",
+            "jenis": "huruf",
+            "nomor": "d",
+            "teks_isi": "pembinaan dan pemberian bantuan kepada satuan pendidikan dalam upayanya untuk meningkatkan mutu pendidikan.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-68-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Ketentuan Pasal 69 ayat (1) diubah, sehingga Pasal 69 berbunyi sebagai berikut:",
+            "urutan": 6,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-69",
+        "nomor_pasal": "69",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-69-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap Peserta Didik jalur pendidikan formal pendidikan dasar dan menengah dan jalur pendidikan nonformal kesetaraan berhak mengikuti Ujian nasional dan berhak mengulanginya sepanjang belum dinyatakan memenuhi kriteria pencapaian kompetensi lulusan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-69-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap Peserta Didik sebagaimana dimaksud pada ayat (1) wajib mengikuti satu kali Ujian nasional tanpa dipungut biaya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-69-2A",
+            "nomor_ayat": "2a",
+            "teks_isi": "Peserta Didik jalur pendidikan formal pendidikan dasar sebagaimana dimaksud pada ayat (1) dan ayat (2) dikecualikan untuk Peserta Didik SD/MI/SDLB atau bentuk lain yang sederajat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-69-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Peserta Didik pendidikan informal dapat mengikuti Ujian nasional setelah memenuhi syarat yang ditetapkan oleh BSNP.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-69-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Peserta Ujian nasional memperoleh surat keterangan hasil Ujian nasional yang diterbitkan oleh satuan pendidikan penyelenggara Ujian nasional. 6. Ketentuan Pasal 71 diubah, sehingga Pasal 71 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-69-4-angka-6",
+                "jenis": "angka",
+                "nomor": "6",
+                "teks_isi": "Ketentuan Pasal 71 diubah, sehingga Pasal 71 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-71",
+        "nomor_pasal": "71",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-71-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kriteria pencapaian Kompetensi lulusan dalam Ujian nasional dikembangkan oleh BSNP.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-71-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan lebih lanjut mengenai kriteria pencapaian kompetensi lulusan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri. 7. Di antara Pasal 71 dan Pasal 72 disisipkan 1 (satu) pasal, yakni Pasal 71A sehingga berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-71-2-angka-7",
+                "jenis": "angka",
+                "nomor": "7",
+                "teks_isi": "Di antara Pasal 71 dan Pasal 72 disisipkan 1 (satu) pasal, yakni Pasal 71A sehingga berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-71A",
+        "nomor_pasal": "71A",
+        "teks_isi": "Ketentuan lebih lanjut mengenai penilaian hasil belajar oleh Pemerintah diatur dengan Peraturan Menteri. 8. Ketentuan Pasal 72 ayat (1) dan ayat (2) diubah, serta ayat (1a) dihapus, sehingga Pasal 72 berbunyi sebagai berikut:",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-13-2015-71A-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Ketentuan Pasal 72 ayat (1) dan ayat (2) diubah, serta ayat (1a) dihapus, sehingga Pasal 72 berbunyi sebagai berikut:",
+            "urutan": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-72",
+        "nomor_pasal": "72",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-72-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Peserta Didik dinyatakan lulus dari satuan/program pendidikan pada pendidikan dasar dan menengah setelah: a. menyelesaikan seluruh program Pembelajaran; b. memperoleh nilai sikap/perilaku minimal baik; dan c. lulus Ujian satuan/program pendidikan; d. dihapus.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-72-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "menyelesaikan seluruh program Pembelajaran;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-72-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "memperoleh nilai sikap/perilaku minimal baik; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-72-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "lulus Ujian satuan/program pendidikan;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-72-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "dihapus.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-72-1A",
+            "nomor_ayat": "1a",
+            "teks_isi": "Dihapus.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-72-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kelulusan . . .",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-72-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kelulusan Peserta Didik dari satuan/program pendidikan sebagaimana dimaksud pada ayat",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-72-1",
+            "nomor_ayat": "1",
+            "teks_isi": "ditetapkan oleh satuan/program pendidikan yang bersangkutan. 9. Ketentuan Pasal 77B ayat (5) dan ayat (9) diubah, sehingga Pasal 77B berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-72-1-angka-9",
+                "jenis": "angka",
+                "nomor": "9",
+                "teks_isi": "Ketentuan Pasal 77B ayat (5) dan ayat (9) diubah, sehingga Pasal 77B berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-77B",
+        "nomor_pasal": "77B",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-77B-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Struktur Kurikulum merupakan pengorganisasian Kompetensi Inti, Kompetensi Dasar, muatan Pembelajaran, mata pelajaran, dan beban belajar pada setiap satuan pendidikan dan program pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kompetensi Inti sebagaimana dimaksud pada ayat (1) merupakan tingkat kemampuan untuk mencapai Standar Kompetensi Lulusan yang harus dimiliki seorang Peserta Didik pada setiap tingkat kelas atau program yang menjadi landasan pengembangan Kompetensi Dasar.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kompetensi Dasar sebagaimana dimaksud pada ayat (1) merupakan tingkat kemampuan dalam konteks muatan Pembelajaran, pengalaman belajar, atau mata pelajaran yang mengacu pada Kompetensi Inti.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Struktur Kurikulum sebagaimana dimaksud pada ayat (1) merupakan pengorganisasian mata pelajaran untuk setiap satuan pendidikan dan/atau program pendidikan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Struktur Kurikulum PAUD berisi program pengembangan pribadi anak.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Struktur Kurikulum untuk satuan pendidikan dasar berisi muatan umum.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Struktur . . .",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Struktur Kurikulum untuk satuan pendidikan menengah terdiri atas: a. muatan umum; b. muatan peminatan akademik; c. muatan peminatan kejuruan; dan d. muatan pilihan lintas minat/pendalaman minat.",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-77B-7-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "muatan umum;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-77B-7-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "muatan peminatan akademik;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-77B-7-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "muatan peminatan kejuruan; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-77B-7-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "muatan pilihan lintas minat/pendalaman minat.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-8",
+            "nomor_ayat": "8",
+            "teks_isi": "Struktur Kurikulum nonformal satuan pendidikan dan program pendidikan berisi program pengembangan kecakapan hidup.",
+            "status": "Aktif",
+            "urutan": 9,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77B-9",
+            "nomor_ayat": "9",
+            "teks_isi": "Muatan umum sebagaimana dimaksud pada ayat (6) dan ayat (7) huruf a terdiri atas: a. muatan nasional untuk satuan pendidikan; dan b. muatan lokal untuk satuan pendidikan sesuai dengan potensi dan kearifan lokal. 10. Judul Paragraf 1 dalam Bagian Keempat BAB XIA diubah, sehingga Paragraf 1 dalam Bagian Keempat BAB XIA berbunyi sebagai berikut: Struktur Kurikulum Pendidikan Anak Usia Dini 11. Ketentuan Pasal 77G diubah, sehingga Pasal 77G berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 10,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-77B-9-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "muatan nasional untuk satuan pendidikan; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-77B-9-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "muatan lokal untuk satuan pendidikan sesuai dengan potensi dan kearifan lokal.",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-77B-9-angka-10",
+                "jenis": "angka",
+                "nomor": "10",
+                "teks_isi": "Judul Paragraf 1 dalam Bagian Keempat BAB XIA diubah, sehingga Paragraf 1 dalam Bagian Keempat BAB XIA berbunyi sebagai berikut: Struktur Kurikulum Pendidikan Anak Usia Dini",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-77B-9-angka-11",
+                "jenis": "angka",
+                "nomor": "11",
+                "teks_isi": "Ketentuan Pasal 77G diubah, sehingga Pasal 77G berbunyi sebagai berikut:",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-77G",
+        "nomor_pasal": "77G",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-77G-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Struktur Kurikulum pendidikan anak usia dini berisi program pengembangan nilai agama dan moral, fisik-motorik, kognitif, bahasa, sosial emosional, dan seni.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77G-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-77G-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan lebih lanjut mengenai struktur Kurikulum pendidikan anak usia dini sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Menteri. 12. Ketentuan Pasal 87 ayat (1) huruf c, ayat (2), ayat (3), dan ayat (5) diubah serta di antara ayat (2) dan ayat (3) disisipkan 1 (satu) ayat, yakni ayat (2a), sehingga Pasal 87 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-77G-2-angka-12",
+                "jenis": "angka",
+                "nomor": "12",
+                "teks_isi": "Ketentuan Pasal 87 ayat (1) huruf c, ayat (2), ayat (3), dan ayat (5) diubah serta di antara ayat (2) dan ayat (3) disisipkan 1 (satu) ayat, yakni ayat (2a), sehingga Pasal 87 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-87",
+        "nomor_pasal": "87",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-87-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi oleh Pemerintah sebagaimana dimaksud dalam Pasal 86 ayat (1) dilaksanakan oleh: a. BAN-S/M terhadap program dan/atau satuan pendidikan jalur formal pada jenjang pendidikan dasar dan menengah; b. BAN-PT terhadap program dan/atau satuan pendidikan jenjang pendidikan tinggi; dan c. BAN PAUD dan PNF terhadap program dan/atau satuan PAUD dan pendidikan jalur nonformal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-87-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "BAN-S/M terhadap program dan/atau satuan pendidikan jalur formal pada jenjang pendidikan dasar dan menengah;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-87-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "BAN-PT terhadap program dan/atau satuan pendidikan jenjang pendidikan tinggi; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-87-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "BAN PAUD dan PNF terhadap program dan/atau satuan PAUD dan pendidikan jalur nonformal.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-87-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Dalam melaksanakan akreditasi sebagaimana dimaksud pada ayat (1), BAN-S/M dan BAN PAUD dan PNF dibantu oleh badan akreditasi provinsi yang dibentuk oleh gubernur.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-87-2A",
+            "nomor_ayat": "2a",
+            "teks_isi": "Pemerintah provinsi mengalokasikan dana untuk pelaksanaan akreditasi oleh badan akreditasi provinsi sebagaimana dimaksud pada ayat (2).",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-87-3",
+            "nomor_ayat": "3",
+            "teks_isi": "BAN-S/M dan BAN PAUD dan PNF sebagaimana dimaksud pada ayat (1) huruf a dan huruf c berada di bawah dan bertanggung jawab kepada Menteri.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-87-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Dalam . . .",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-87-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Dalam melaksanakan tugas dan fungsinya badan akreditasi sebagaimana dimaksud pada ayat (1) bersifat mandiri.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-87-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan lebih lanjut mengenai BAN-S/M dan BAN PAUD dan PNF sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Menteri. 13. Ketentuan Pasal 89 ayat (1) sampai dengan ayat (6) diubah, dan ayat (3a) dihapus, di antara ayat (4) dan ayat (5) disisipkan 1 (satu) ayat, yakni ayat (4a), sehingga Pasal 89 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-87-5-angka-13",
+                "jenis": "angka",
+                "nomor": "13",
+                "teks_isi": "Ketentuan Pasal 89 ayat (1) sampai dengan ayat (6) diubah, dan ayat (3a) dihapus, di antara ayat (4) dan ayat (5) disisipkan 1 (satu) ayat, yakni ayat (4a), sehingga Pasal 89 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-89",
+        "nomor_pasal": "89",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-89-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Peserta Didik yang lulus dari satuan pendidikan diberi ijazah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ijazah sebagaimana dimaksud pada ayat (1) diterbitkan oleh satuan pendidikan dasar dan menengah serta satuan pendidikan tinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pada jenjang pendidikan dasar dan menengah, Ijazah sebagaimana dimaksud pada ayat (2) paling sedikit berisi: a. identitas Peserta Didik; b. pernyataan bahwa Peserta Didik yang bersangkutan lulus dari penilaian akhir satuan pendidikan; dan c. daftar nilai mata pelajaran yang ditempuhnya. d. dihapus.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-89-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas Peserta Didik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan lulus dari penilaian akhir satuan pendidikan; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "daftar nilai mata pelajaran yang ditempuhnya.",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "dihapus.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-3A",
+            "nomor_ayat": "3a",
+            "teks_isi": "Dihapus.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pada jenjang pendidikan tinggi ijazah sebagaimana dimaksud pada ayat (2) paling sedikit berisi: a. identitas . . . a. identitas Peserta Didik; dan b. pernyataan bahwa Peserta Didik yang bersangkutan telah memenuhi seluruh kriteria dan dinyatakan lulus dari satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-89-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas . . .",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas Peserta Didik; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan telah memenuhi seluruh kriteria dan dinyatakan lulus dari satuan pendidikan.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-4A",
+            "nomor_ayat": "4a",
+            "teks_isi": "Peserta Didik yang lulus Ujian Kompetensi diberi sertifikat Kompetensi.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Sertifikat Kompetensi sebagaimana dimaksud pada ayat (4a) diterbitkan oleh satuan pendidikan yang terakreditasi atau oleh lembaga sertifikasi mandiri yang dibentuk oleh organisasi profesi yang diakui Pemerintah.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-89-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Sertifikat Kompetensi sebagaimana dimaksud pada ayat (5) paling sedikit berisi: a. identitas Peserta Didik; b. pernyataan bahwa Peserta Didik yang bersangkutan telah lulus uji Kompetensi untuk semua mata pelajaran atau mata kuliah keahlian yang dipersyaratkan dengan nilai yang memenuhi syarat sesuai dengan ketentuan peraturan perundang-undangan; dan c. daftar semua mata pelajaran atau mata kuliah keahlian yang telah ditempuh uji Kompetensinya oleh Peserta Didik, beserta nilai akhirnya. 14. Ketentuan Pasal 90 ayat (1) dan ayat (2) diubah, sehingga Pasal 90 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-89-6-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas Peserta Didik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-6-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan telah lulus uji Kompetensi untuk semua mata pelajaran atau mata kuliah keahlian yang dipersyaratkan dengan nilai yang memenuhi syarat sesuai dengan ketentuan peraturan perundang-undangan; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-6-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "daftar semua mata pelajaran atau mata kuliah keahlian yang telah ditempuh uji Kompetensinya oleh Peserta Didik, beserta nilai akhirnya.",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-13-2015-89-6-angka-14",
+                "jenis": "angka",
+                "nomor": "14",
+                "teks_isi": "Ketentuan Pasal 90 ayat (1) dan ayat (2) diubah, sehingga Pasal 90 berbunyi sebagai berikut:",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-90",
+        "nomor_pasal": "90",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-90-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Peserta Didik pendidikan informal dapat memperoleh sertifikat Kompetensi yang setara dengan sertifikat Kompetensi dari pendidikan formal atau nonformal setelah lulus uji Kompetensi yang diselenggarakan oleh satuan pendidikan yang terakreditasi atau oleh lembaga sertifikasi mandiri/profesi sesuai dengan ketentuan peraturan perundanganundangan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-90-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Peserta Didik pendidikan informal dapat memperoleh ijazah yang setara dengan ijazah dari pendidikan dasar dan menengah jalur formal atau nonformal setelah lulus uji Kompetensi yang diselenggarakan oleh satuan pendidikan yang terakreditasi dan telah mengikuti Ujian nasional bagi Peserta Didik sederajat SMP/MTs atau SMA/MA/SMK/MAK. 15. Ketentuan Pasal 92 ayat (1) dihapus, dan ayat (2) sampai dengan ayat (8) diubah, sehingga Pasal 92 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-13-2015-90-2-angka-15",
+                "jenis": "angka",
+                "nomor": "15",
+                "teks_isi": "Ketentuan Pasal 92 ayat (1) dihapus, dan ayat (2) sampai dengan ayat (8) diubah, sehingga Pasal 92 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-92",
+        "nomor_pasal": "92",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-13-2015-92-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Dihapus.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Menteri yang menangani urusan pemerintahan di bidang agama melakukan supervisi dan membantu madrasah dan satuan pendidikan keagamaan dalam melakukan penjaminan mutu.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah provinsi melakukan supervisi dan membantu satuan pendidikan yang berada di bawah kewenangannya untuk meyelenggarakan atau mengatur penyelenggaraannya dalam rangka penjaminan mutu.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pemerintah . . .",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pemerintah kabupaten/kota melakukan supervisi dan membantu satuan pendidikan yang berada di bawah kewenangannya untuk menyelenggarakan atau mengatur penyelenggaraannya dalam rangka penjaminan mutu.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-5",
+            "nomor_ayat": "5",
+            "teks_isi": "BAN-S/M dan BAN PAUD dan PNF memberikan rekomendasi penjaminan mutu pendidikan kepada program dan/atau satuan pendidikan yang diakreditasi, dan kepada Pemerintah dan pemerintah daerah.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-6",
+            "nomor_ayat": "6",
+            "teks_isi": "LPMP melakukan supervisi dan membantu satuan pendidikan pada jenjang pendidikan dasar dan menengah dalam rangka penjaminan mutu pendidikan.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Dalam melaksanakan tugasnya sebagaimana dimaksud pada ayat (6), LPMP bekerja sama dengan pemerintah daerah dan perguruan tinggi.",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-13-2015-92-8",
+            "nomor_ayat": "8",
+            "teks_isi": "Menteri menerbitkan pedoman program penjaminan mutu untuk satuan pendidikan di semua jenis dan jalur pada jenjang pendidikan anak usia dini, pendidikan dasar, dan pendidikan menengah.",
+            "status": "Aktif",
+            "urutan": 9,
+            "sub_items": []
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-13-2015-II",
+        "nomor_pasal": "II",
+        "teks_isi": "1. Pada saat Peraturan Pemerintah ini mulai berlaku BAN-PT tetap melaksanakan tugas sampai terbentuknya BAN-PT berdasarkan Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi. 2. Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 6 Maret 2015 ttd. Diundangkan di Jakarta pada tanggal 6 Maret 2015 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 45",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-13-2015-II-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Pada saat Peraturan Pemerintah ini mulai berlaku BAN-PT tetap melaksanakan tugas sampai terbentuknya BAN-PT berdasarkan Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-13-2015-II-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 6 Maret 2015 ttd. Diundangkan di Jakarta pada tanggal 6 Maret 2015 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 45",
+            "urutan": 2,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "Upaya peningkatan mutu pendidikan dan daya saing sumber daya manusia Indonesia perlu senantiasa memperhatikan perubahan masyarakat dan dinamika global. Untuk itu, pemantapan Standar Nasional Pendidikan dan upaya pemenuhannya merupakan hal penting dan mendesak untuk dilakukan. Ketentuan Standar Nasional Pendidikan yang diatur dalam Peraturan Pemerintah Nomor 19 Tahun 2005, telah diubah pertama kali terkait penyempurnaan kurikulum, yaitu dengan terbitnya Peraturan Pemerintah Nomor 32 Tahun 2013 tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Perubahan kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 perlu dilakukan karena ketentuan yang terkait dengan Ujian nasional, kurikulum pendidikan anak usia dini, dan akreditasi memerlukan penyesuaian atas berbagai tantangan baru. Perubahan kebijakan mengenai Ujian nasional, Pemerintah memandang perlu untuk melakukan evaluasi berskala nasional yang dapat memantau dan memetakan tingkat pencapaian kompetensi peserta didik sebagaimana ditetapkan dalam Standar Nasional Pendidikan yang berfungsi sebagai salah satu sarana penjaminan dan peningkatan mutu penyelenggaraan pendidikan. Dalam upaya menyempurnakan kualitas pelaksanaannya, perlu memperhatikan data hasil belajar siswa yang dihimpun yang mencerminkan kondisi pendidikan dari waktu ke waktu sehingga lebih membantu menentukan langkah-langkah perbaikan mutu sebagaimana mestinya. Peraturan . . . Peraturan Pemerintah ini mengubah ketentuan hasil Ujian nasional yang semula sebagai salah satu syarat kelulusan menjadi bukan salah satu syarat kelulusan peserta didik dari satuan pendidikan. Perubahan mengenai kurikulum pendidikan anak usia dini dilakukan melalui penyelenggaraan pendidikan anak usia dini yang dibangun melalui kesatuan substansi kurikulum antara pendidikan anak usia dini di jalur formal, nonformal, dan informal karena memiliki tujuan yang sama. Perubahan terkait dengan akreditasi yang dilaksanakan oleh BAN PAUD dan PNF perlu memperhatikan penyelenggaraan pendidikan anak usia dini. Badan Akreditasi Nasional perlu melibatkan peran pemerintah daerah dalam pelaksanaan akreditasi untuk pendidikan anak usia dini, pendidikan dasar, dan pendidikan menengah. Berdasarkan pertimbangan tersebut, maka Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan perlu untuk diadakan penyempurnaan dalam Peraturan Pemerintah tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan.",
+    "pasal_demi_pasal": [
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-I",
+        "nomor_pasal": "I",
+        "target_pasal_id": "PSL-REG-PP-13-2015-I",
+        "teks_isi": "Angka 1"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-1",
+        "nomor_pasal": "1",
+        "target_pasal_id": "PSL-REG-PP-13-2015-1",
+        "teks_isi": "Cukup jelas. Angka 2"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-66",
+        "nomor_pasal": "66",
+        "target_pasal_id": "PSL-REG-PP-13-2015-66",
+        "teks_isi": "Cukup jelas. Angka 3"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-67",
+        "nomor_pasal": "67",
+        "target_pasal_id": "PSL-REG-PP-13-2015-67",
+        "teks_isi": "Cukup jelas. Angka 4 . . . Angka 4"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-68",
+        "nomor_pasal": "68",
+        "target_pasal_id": "PSL-REG-PP-13-2015-68",
+        "teks_isi": "Huruf a Cukup jelas. Huruf b Hasil Ujian nasional dijadikan sebagai pertimbangan seleksi untuk masuk ke jenjang pendidikan yang lebih tinggi. Satuan pendidikan dapat melakukan seleksi dengan menggunakan instrumen seleksi yang materinya tidak diujikan dalam Ujian nasional, misalnya tes bakat skolastik, tes intelegensi, tes minat, tes bakat, tes kesehatan, atau tes lainnya sesuai dengan kriteria pada satuan pendidikan tersebut. Huruf c Dihapus. Huruf d Cukup jelas. Angka 5"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-69",
+        "nomor_pasal": "69",
+        "target_pasal_id": "PSL-REG-PP-13-2015-69",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (2a) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) . . . Ayat (4) Surat keterangan hasil Ujian nasional paling sedikit berisi: a. identitas Peserta Didik; b. pernyataan bahwa Peserta Didik yang bersangkutan telah menempuh Ujian nasional; c. tanggal dan tempat pelaksanaan Ujian nasional; d. nilai Ujian nasional untuk setiap mata pelajaran yang diujikan; dan e. kriteria pencapaian Standar Kompetensi Lulusan, untuk jenjang SMP/SMPLB/MTs atau bentuk lain yang sederajat, SMA/SMALB/MA atau bentuk lain yang sederajat, dan SMK/MAK atau bentuk lain yang sederajat. Angka 6"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-71",
+        "nomor_pasal": "71",
+        "target_pasal_id": "PSL-REG-PP-13-2015-71",
+        "teks_isi": "Cukup jelas. Angka 7"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-71A",
+        "nomor_pasal": "71A",
+        "target_pasal_id": "PSL-REG-PP-13-2015-71A",
+        "teks_isi": "Cukup jelas. Angka 8"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-72",
+        "nomor_pasal": "72",
+        "target_pasal_id": "PSL-REG-PP-13-2015-72",
+        "teks_isi": "Cukup jelas. Angka 9"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-77B",
+        "nomor_pasal": "77B",
+        "target_pasal_id": "PSL-REG-PP-13-2015-77B",
+        "teks_isi": "Cukup jelas. Angka 10 Cukup jelas. Angka 11 . . . Angka 11"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-77G",
+        "nomor_pasal": "77G",
+        "target_pasal_id": "PSL-REG-PP-13-2015-77G",
+        "teks_isi": "Cukup jelas. Angka 12"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-87",
+        "nomor_pasal": "87",
+        "target_pasal_id": "PSL-REG-PP-13-2015-87",
+        "teks_isi": "Cukup jelas. Angka 13"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-89",
+        "nomor_pasal": "89",
+        "target_pasal_id": "PSL-REG-PP-13-2015-89",
+        "teks_isi": "Cukup jelas. Angka 14"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-90",
+        "nomor_pasal": "90",
+        "target_pasal_id": "PSL-REG-PP-13-2015-90",
+        "teks_isi": "Cukup jelas. Angka 15"
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-92",
+        "nomor_pasal": "92",
+        "target_pasal_id": "PSL-REG-PP-13-2015-92",
+        "teks_isi": "Cukup Jelas."
+      },
+      {
+        "id": "PJL-REG-PP-13-2015-PASAL-II",
+        "nomor_pasal": "II",
+        "target_pasal_id": "PSL-REG-PP-13-2015-II",
+        "teks_isi": "Cukup jelas. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5670"
+      }
+    ]
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 6 Maret 2015 PRESIDEN REPUBLIK INDONESIA, ttd. JOKO WIDODO Diundangkan di Jakarta pada tanggal 6 Maret 2015 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. YASONNA H. LAOLY LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 45",
+    "tanggal_ditetapkan": "6 Maret 2015",
+    "tanggal_diundangkan": "6 Maret 2015",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA JOKO WIDODO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA YASONNA H. LAOLY"
+  },
+  "parse_quality": {
+    "status": "WARN",
+    "scan_detected": false,
+    "total_pasal": 16,
+    "total_ayat": 59,
+    "total_bab": 0,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": [
+      "Numeric pasal sequence has gaps: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, ...."
+    ]
+  }
+}

@@ -1,0 +1,970 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-41-2009",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "41",
+    "tahun": 2009,
+    "judul": "Tunjangan Profesi Guru dan Dosen, Tunjangan Khusus Guru dan Dosen, serta Tunjangan Kehormatan Profesor",
+    "tentang": "Tunjangan Profesi Guru dan Dosen, Tunjangan Khusus Guru dan Dosen, serta Tunjangan Kehormatan Profesor",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-41-2009.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-41-2009-MENIMBANG-A",
+        "nomor": "a",
+        "teks_isi": "bahwa untuk melaksanakan ketentuan Pasal 16, Pasal 18, Pasal 53, Pasal 55, dan Pasal 56 UndangUndang Nomor 14 Tahun 2005 tentang Guru dan Dosen, guru dan dosen yang telah memiliki sertifikat pendidik dan/atau memiliki jabatan akademik profesor dan memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan perlu diberi tunjangan profesi, tunjangan khusus, dan/atau tunjangan kehormatan;",
+        "urutan": 1
+      },
+      {
+        "id": "KONS-REG-PP-41-2009-MENIMBANG-B",
+        "nomor": "b",
+        "teks_isi": "bahwa besaran dan waktu pemberian tunjangan profesi guru dan dosen, tunjangan khusus guru dan dosen, serta tunjangan kehormatan profesor perlu diatur;",
+        "urutan": 2
+      },
+      {
+        "id": "KONS-REG-PP-41-2009-MENIMBANG-C",
+        "nomor": "c",
+        "teks_isi": "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu",
+        "urutan": 3
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-41-2009-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-41-2009-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 4586);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-14-2005",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-41-2009-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Peraturan . . . REPUBLIKINDONESIA",
+        "urutan": 3,
+        "target_regulasi_id": "",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-41-2009-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil sebagaimana telah sebelas kali diubah terakhir dengan Peraturan Pemerintah Nomor 8 Tahun 2009 (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 21);",
+        "urutan": 4,
+        "target_regulasi_id": "REG-PP-7-1977",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-41-2009-MENGINGAT-4",
+        "nomor": "4",
+        "teks_isi": "Peraturan Pemerintah Nomor 74 Tahun 2008 tentang Guru (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 194, Tambahan Lembaran Negara Republik Indonesia Nomor 4941);",
+        "urutan": 5,
+        "target_regulasi_id": "REG-PP-74-2008",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-41-2009-MENGINGAT-5",
+        "nomor": "5",
+        "teks_isi": "Peraturan Pemerintah Nomor 37 Tahun 2009 tentang Dosen (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 76, Tambahan Lembaran Negara Republik Indonesia Nomor 5007);",
+        "urutan": 6,
+        "target_regulasi_id": "REG-PP-37-2009",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "Peraturan Pemerintah tentang Tunjangan Profesi Guru dan Dosen, Tunjangan Khusus Guru dan Dosen, serta Tunjangan Kehormatan Profesor; Mengingat : 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 4586); 3. Peraturan . . . REPUBLIKINDONESIA 3. Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil sebagaimana telah sebelas kali diubah terakhir dengan Peraturan Pemerintah Nomor 8 Tahun 2009 (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 21); 4. Peraturan Pemerintah Nomor 74 Tahun 2008 tentang Guru (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 194, Tambahan Lembaran Negara Republik Indonesia Nomor 4941); 5. Peraturan Pemerintah Nomor 37 Tahun 2009 tentang Dosen (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 76, Tambahan Lembaran Negara Republik Indonesia Nomor 5007); MEMUTUSKAN: Menetapkan : PERATURAN PEMERINTAH TENTANG TUNJANGAN PROFESI GURU DAN DOSEN, TUNJANGAN KHUSUS GURU DAN DOSEN, SERTA TUNJANGAN KEHORMATAN PROFESOR."
+  },
+  "body": {
+    "bab": [
+      {
+        "id": "BAB-REG-PP-41-2009-I",
+        "nomor_bab": "I",
+        "judul": "KETENTUAN UMUM",
+        "urutan": 1,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-1",
+          "PSL-REG-PP-41-2009-2"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-41-2009-II",
+        "nomor_bab": "II",
+        "judul": "TUNJANGAN PROFESI",
+        "urutan": 2,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-3",
+          "PSL-REG-PP-41-2009-4",
+          "PSL-REG-PP-41-2009-5",
+          "PSL-REG-PP-41-2009-6",
+          "PSL-REG-PP-41-2009-7",
+          "PSL-REG-PP-41-2009-8",
+          "PSL-REG-PP-41-2009-9"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-41-2009-III",
+        "nomor_bab": "III",
+        "judul": "TUNJANGAN KHUSUS",
+        "urutan": 3,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-10",
+          "PSL-REG-PP-41-2009-11",
+          "PSL-REG-PP-41-2009-12",
+          "PSL-REG-PP-41-2009-13"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-41-2009-IV",
+        "nomor_bab": "IV",
+        "judul": "TUNJANGAN KEHORMATAN",
+        "urutan": 4,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-14",
+          "PSL-REG-PP-41-2009-15",
+          "PSL-REG-PP-41-2009-16",
+          "PSL-REG-PP-41-2009-17",
+          "PSL-REG-PP-41-2009-18",
+          "PSL-REG-PP-41-2009-19"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-41-2009-V",
+        "nomor_bab": "V",
+        "judul": "PENGANGGARAN DAN PEMBAYARAN",
+        "urutan": 5,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-20",
+          "PSL-REG-PP-41-2009-21"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-41-2009-VI",
+        "nomor_bab": "VI",
+        "judul": "KETENTUAN PERALIHAN",
+        "urutan": 6,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-22",
+          "PSL-REG-PP-41-2009-23",
+          "PSL-REG-PP-41-2009-24"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-41-2009-VII",
+        "nomor_bab": "VII",
+        "judul": "KETENTUAN PENUTUP",
+        "urutan": 7,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-41-2009-25"
+        ]
+      }
+    ],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-41-2009-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam Peraturan Pemerintah ini yang dimaksud dengan: 1. Guru adalah pendidik profesional dengan tugas utama mendidik, mengajar, membimbing, mengarahkan, melatih, menilai, dan mengevaluasi peserta didik pada pendidikan anak usia dini jalur pendidikan formal, pendidikan dasar dan pendidikan menengah. 2. Dosen . . . 2. Dosen adalah pendidik profesional dan ilmuwan dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan, teknologi, dan seni melalui pendidikan, penelitian, dan pengabdian kepada masyarakat. 3. Profesor adalah jabatan fungsional tertinggi dosen yang masih mengajar di lingkungan satuan pendidikan tinggi. 4. Tunjangan profesi adalah tunjangan yang diberikan kepada guru dan dosen yang memiliki sertifikat pendidik sebagai penghargaan atas profesionalitasnya. 5. Tunjangan khusus adalah tunjangan yang diberikan kepada guru dan dosen yang ditugaskan oleh Pemerintah atau pemerintah daerah sebagai kompensasi atas kesulitan hidup yang dihadapi dalam melaksanakan tugas di daerah khusus. 6. Daerah khusus adalah daerah yang terpencil atau terbelakang, daerah dengan kondisi masyarakat adat yang terpencil, daerah perbatasan dengan negara lain, daerah yang mengalami bencana alam, bencana sosial, atau daerah yang berada dalam keadaan darurat lain. 7. Tunjangan Kehormatan adalah tunjangan yang diberikan kepada dosen yang memiliki jabatan akademik profesor. 8. Departemen adalah departemen yang menangani urusan pemerintahan dalam bidang pendidikan nasional. 9. Menteri adalah menteri yang menangani urusan pemerintahan dalam bidang pendidikan nasional. 10. Pemerintah adalah Pemerintah Pusat.",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Guru adalah pendidik profesional dengan tugas utama mendidik, mengajar, membimbing, mengarahkan, melatih, menilai, dan mengevaluasi peserta didik pada pendidikan anak usia dini jalur pendidikan formal, pendidikan dasar dan pendidikan menengah.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Dosen . . .",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Dosen adalah pendidik profesional dan ilmuwan dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan ilmu pengetahuan, teknologi, dan seni melalui pendidikan, penelitian, dan pengabdian kepada masyarakat.",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-3",
+            "jenis": "angka",
+            "nomor": "3",
+            "teks_isi": "Profesor adalah jabatan fungsional tertinggi dosen yang masih mengajar di lingkungan satuan pendidikan tinggi.",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-4",
+            "jenis": "angka",
+            "nomor": "4",
+            "teks_isi": "Tunjangan profesi adalah tunjangan yang diberikan kepada guru dan dosen yang memiliki sertifikat pendidik sebagai penghargaan atas profesionalitasnya.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Tunjangan khusus adalah tunjangan yang diberikan kepada guru dan dosen yang ditugaskan oleh Pemerintah atau pemerintah daerah sebagai kompensasi atas kesulitan hidup yang dihadapi dalam melaksanakan tugas di daerah khusus.",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Daerah khusus adalah daerah yang terpencil atau terbelakang, daerah dengan kondisi masyarakat adat yang terpencil, daerah perbatasan dengan negara lain, daerah yang mengalami bencana alam, bencana sosial, atau daerah yang berada dalam keadaan darurat lain.",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Tunjangan Kehormatan adalah tunjangan yang diberikan kepada dosen yang memiliki jabatan akademik profesor.",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Departemen adalah departemen yang menangani urusan pemerintahan dalam bidang pendidikan nasional.",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Menteri adalah menteri yang menangani urusan pemerintahan dalam bidang pendidikan nasional.",
+            "urutan": 10,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-1-angka-10",
+            "jenis": "angka",
+            "nomor": "10",
+            "teks_isi": "Pemerintah adalah Pemerintah Pusat.",
+            "urutan": 11,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-41-2009-I"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-2",
+        "nomor_pasal": "2",
+        "teks_isi": "Peraturan Pemerintah ini mengatur: a. Tunjangan profesi bagi guru dan dosen; b. Tunjangan khusus bagi guru dan dosen; c. Tunjangan kehormatan bagi dosen yang memiliki jabatan akademik profesor.",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-41-2009-2-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "Tunjangan profesi bagi guru dan dosen;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-2-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Tunjangan khusus bagi guru dan dosen;",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-2-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "Tunjangan kehormatan bagi dosen yang memiliki jabatan akademik profesor.",
+            "urutan": 3,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-41-2009-I"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-3",
+        "nomor_pasal": "3",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-3-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Guru dan dosen yang telah memiliki sertifikat pendidik dan memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan diberi tunjangan profesi setiap bulan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-3-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Tunjangan profesi sebagaimana dimaksud pada ayat (1) diberikan kepada guru dan dosen pegawai negeri sipil dan bukan pegawai negeri sipil.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-4",
+        "nomor_pasal": "4",
+        "teks_isi": "Tunjangan profesi bagi guru dan dosen pegawai negeri sipil yang menduduki jabatan fungsional guru dan dosen diberikan sebesar 1 (satu) kali gaji pokok pegawai negeri sipil yang bersangkutan sesuai dengan ketentuan peraturan perundang-undangan.",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-5",
+        "nomor_pasal": "5",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-5-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Tunjangan profesi bagi guru dan dosen bukan pegawai negeri sipil diberikan sesuai dengan kesetaraan tingkat, masa kerja, dan kualifikasi akademik yang berlaku bagi guru dan dosen pegawai negeri sipil.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-5-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-5-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan lebih lanjut mengenai kesetaraan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-6",
+        "nomor_pasal": "6",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-6-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kesetaraan sebagaimana dimaksud dalam Pasal 5 bagi guru dan dosen bukan pegawai negeri sipil ditetapkan oleh Menteri atau Menteri Agama sesuai dengan kewenangannya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-6-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Menteri atau Menteri Agama dapat mendelegasikan kewenangan sebagaimana dimaksud pada ayat (1) kepada pejabat lain di lingkungannya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-7",
+        "nomor_pasal": "7",
+        "teks_isi": "Tunjangan profesi bagi guru diberikan terhitung mulai bulan Januari tahun berikutnya setelah yang bersangkutan mendapat Nomor Registrasi Guru dari Departemen.",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-8",
+        "nomor_pasal": "8",
+        "teks_isi": "Tunjangan profesi bagi dosen diberikan terhitung mulai bulan Januari tahun berikutnya setelah yang bersangkutan mendapat sertifikat pendidik yang telah diberi Nomor Registrasi Dosen dari Departemen.",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-9",
+        "nomor_pasal": "9",
+        "teks_isi": "Pemberian tunjangan profesi sebagaimana dimaksud dalam Pasal 3 dihentikan apabila guru atau dosen tidak lagi memenuhi syarat sesuai dengan ketentuan peraturan perundang-undangan.",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-II"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-10",
+        "nomor_pasal": "10",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-10-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Guru dan dosen yang ditugaskan oleh Pemerintah atau pemerintah daerah di daerah khusus sesuai ketentuan peraturan perundang-undangan diberi tunjangan khusus setiap bulan selama masa penugasan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-10-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Tunjangan khusus bagi guru dan dosen diberikan setelah yang bersangkutan secara nyata melaksanakan tugas di daerah khusus.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-10-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kuota bagi guru dan dosen yang memperoleh tunjangan khusus sebagaimana dimaksud pada ayat (1) ditetapkan oleh Menteri atau Menteri Agama sesuai dengan kewenangannya.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-10-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan lebih lanjut mengenai penugasan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-III"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-11",
+        "nomor_pasal": "11",
+        "teks_isi": "Tunjangan khusus bagi guru dan dosen pegawai negeri sipil yang menduduki jabatan fungsional guru dan dosen diberikan sebesar 1 (satu) kali gaji pokok pegawai negeri sipil yang bersangkutan sesuai dengan ketentuan peraturan perundang-undangan.",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-III"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-12",
+        "nomor_pasal": "12",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-12-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Tunjangan khusus bagi guru dan dosen bukan pegawai negeri sipil diberikan sesuai dengan kesetaraan tingkat, masa kerja, dan kualifikasi akademik bagi guru dan dosen pegawai negeri sipil.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-12-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-12-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan lebih lanjut mengenai kesetaraan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-III"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-13",
+        "nomor_pasal": "13",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-13-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kesetaraan sebagaimana dimaksud dalam Pasal 12 bagi guru dan dosen bukan pegawai negeri sipil ditetapkan oleh Menteri atau Menteri Agama sesuai dengan kewenangannya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-13-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Menteri atau Menteri Agama dapat mendelegasikan kewenangan sebagaimana dimaksud pada ayat (1) kepada pejabat lain di lingkungannya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-III"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-14",
+        "nomor_pasal": "14",
+        "teks_isi": "Dosen yang memiliki jabatan akademik profesor dan memenuhi persyaratan sesuai dengan ketentuan peraturan perundang-undangan diberi tunjangan kehormatan setiap bulan.",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-IV"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-15",
+        "nomor_pasal": "15",
+        "teks_isi": "Tunjangan kehormatan bagi profesor pegawai negeri sipil diberikan sebesar 2 (dua) kali gaji pokok pegawai negeri sipil yang bersangkutan sesuai dengan ketentuan peraturan perundang-undangan.",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-IV"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-16",
+        "nomor_pasal": "16",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-16-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Tunjangan kehormatan bagi profesor bukan pegawai negeri sipil diberikan sesuai dengan kesetaraan tingkat, masa kerja, dan kualifikasi akademik yang berlaku bagi profesor pegawai negeri sipil.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-16-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan lebih lanjut mengenai kesetaraan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-IV"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-17",
+        "nomor_pasal": "17",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 17,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-17-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kesetaraan sebagaimana dimaksud dalam Pasal 16 bagi profesor bukan pegawai negeri sipil ditetapkan oleh Menteri atau Menteri Agama sesuai dengan kewenangannya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-17-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Menteri atau Menteri Agama dapat mendelegasikan kewenangan sebagaimana dimaksud pada ayat (1) kepada pejabat lain di lingkungannya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-IV"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-18",
+        "nomor_pasal": "18",
+        "teks_isi": "Tunjangan kehormatan diberikan terhitung mulai bulan Januari tahun berikutnya setelah yang bersangkutan memenuhi persyaratan sebagaimana dimaksud dalam",
+        "status": "Aktif",
+        "urutan": 18,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-IV"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-19",
+        "nomor_pasal": "19",
+        "teks_isi": "Pemberian tunjangan kehormatan sebagaimana dimaksud dalam Pasal 14 dihentikan apabila dosen yang bersangkutan tidak lagi memenuhi syarat sesuai dengan ketentuan peraturan perundang-undangan.",
+        "status": "Aktif",
+        "urutan": 19,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-IV"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-20",
+        "nomor_pasal": "20",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 20,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-20-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Tunjangan profesi dan tunjangan khusus bagi guru baik pegawai negeri sipil maupun bukan pegawai negeri sipil, dianggarkan dalam anggaran Pemerintah dan/atau anggaran pemerintah daerah sesuai dengan ketentuan peraturan perundangundangan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-20-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Tunjangan profesi dan tunjangan khusus bagi dosen serta tunjangan kehormatan bagi dosen baik pegawai negeri sipil maupun bukan pegawai negeri sipil dianggarkan dalam anggaran Pemerintah sesuai dengan ketentuan peraturan perundangundangan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-V"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-21",
+        "nomor_pasal": "21",
+        "teks_isi": "Pelaksanaan pembayaran tunjangan sebagaimana dimaksud dalam Peraturan Pemerintah ini diatur oleh Menteri Keuangan.",
+        "status": "Aktif",
+        "urutan": 21,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-V"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-22",
+        "nomor_pasal": "22",
+        "teks_isi": "Pada saat Peraturan Pemerintah ini mulai berlaku: a. Tunjangan profesi bagi guru di lingkungan Departemen Pendidikan Nasional yang lulus sertifikasi pendidik kuota sebelum tahun 2008 dibayarkan terhitung mulai tanggal ditetapkan oleh Menteri atau pejabat lain yang ditunjuk oleh Menteri. b. Tunjangan . . . b. Tunjangan profesi bagi guru dan dosen di lingkungan Departemen Agama yang memperoleh sertifikat pendidik sebelum tahun 2008 dibayarkan terhitung mulai tanggal 1 Januari 2008. c. Tunjangan kehormatan bagi dosen yang memiliki jabatan akademik profesor sebelum tahun 2009 dibayarkan terhitung mulai tanggal 1 Januari 2009.",
+        "status": "Aktif",
+        "urutan": 22,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-41-2009-22-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "Tunjangan profesi bagi guru di lingkungan Departemen Pendidikan Nasional yang lulus sertifikasi pendidik kuota sebelum tahun 2008 dibayarkan terhitung mulai tanggal ditetapkan oleh Menteri atau pejabat lain yang ditunjuk oleh Menteri.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-22-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Tunjangan . . .",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-22-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Tunjangan profesi bagi guru dan dosen di lingkungan Departemen Agama yang memperoleh sertifikat pendidik sebelum tahun 2008 dibayarkan terhitung mulai tanggal 1 Januari 2008.",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-41-2009-22-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "Tunjangan kehormatan bagi dosen yang memiliki jabatan akademik profesor sebelum tahun 2009 dibayarkan terhitung mulai tanggal 1 Januari 2009.",
+            "urutan": 4,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-41-2009-VI"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-23",
+        "nomor_pasal": "23",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 23,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-41-2009-23-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Tunjangan khusus atau bantuan kesejahteraan bagi guru dan dosen di daerah khusus yang dibebankan pada anggaran Pemerintah yang telah dibayarkan sebelum berlakunya Peraturan Pemerintah ini bersifat final.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-41-2009-23-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Dengan berlakunya Peraturan Pemerintah ini, pembayaran tunjangan khusus atau bantuan kesejahteraan bagi guru dan dosen di daerah khusus sebagaimana dimaksud pada ayat (1) dihentikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-VI"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-24",
+        "nomor_pasal": "24",
+        "teks_isi": "Pada saat Peraturan Pemerintah ini mulai berlaku semua peraturan pelaksanaan Tunjangan Profesi Guru dan Dosen, Tunjangan Khusus Guru dan Dosen, serta Tunjangan Kehormatan Profesor dinyatakan masih tetap berlaku sepanjang tidak bertentangan atau belum diganti dengan peraturan baru berdasarkan Peraturan Pemerintah ini.",
+        "status": "Aktif",
+        "urutan": 24,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-VI"
+      },
+      {
+        "id": "PSL-REG-PP-41-2009-25",
+        "nomor_pasal": "25",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 8 Juni 2009 ttd. Diundangkan di Jakarta pada tanggal 8 Juni 2009 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 85 Salinan sesuai dengan aslinya Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, Wisnu Setiawan",
+        "status": "Aktif",
+        "urutan": 25,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-41-2009-VII"
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen mengatur bahwa guru dan dosen berkedudukan sebagai tenaga profesional yang bertujuan untuk melaksanakan sistem pendidikan nasional. Dalam melaksanakan tugas keprofesionalan, guru dan dosen berhak atas tunjangan profesi yang ditetapkan dengan prinsip penghargaan atas dasar prestasi. Tunjangan profesi tersebut diberikan kepada guru dan dosen yang telah memiliki sertifikat pendidik yang diangkat oleh penyelenggara pendidikan dan/atau satuan pendidikan yang diselenggarakan oleh masyarakat. Selain memperoleh tunjangan profesi, guru dan dosen yang ditugaskan oleh Pemerintah dan pemerintah daerah di daerah khusus berhak atas tunjangan khusus. Tunjangan khusus merupakan tunjangan yang diberikan kepada guru atau dosen yang ditugaskan oleh Pemerintah atau pemerintah daerah sebagai kompensasi atas kesulitan hidup yang dihadapi dalam melaksanakan tugas di daerah khusus. Selanjutnya, Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen juga mengatur mengenai pemberian tunjangan kehormatan bagi dosen yang memiliki jabatan akademik profesor. Untuk melaksanakan amanat Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen, perlu ditetapkan Peraturan Pemerintah tentang Tunjangan Profesi Guru dan Dosen, Tunjangan Khusus Guru dan Dosen, serta Tunjangan Kehormatan Profesor. Ruang lingkup Peraturan Pemerintah ini meliputi besaran dan waktu pemberian tunjangan profesi guru dan dosen, tunjangan khusus guru dan dosen, serta tunjangan kehormatan. II. PASAL . . . REPUBLIKINDONESIA",
+    "pasal_demi_pasal": [
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-1",
+        "nomor_pasal": "1",
+        "target_pasal_id": "PSL-REG-PP-41-2009-1",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-2",
+        "nomor_pasal": "2",
+        "target_pasal_id": "PSL-REG-PP-41-2009-2",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-3",
+        "nomor_pasal": "3",
+        "target_pasal_id": "PSL-REG-PP-41-2009-3",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-4",
+        "nomor_pasal": "4",
+        "target_pasal_id": "PSL-REG-PP-41-2009-4",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-5",
+        "nomor_pasal": "5",
+        "target_pasal_id": "PSL-REG-PP-41-2009-5",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-6",
+        "nomor_pasal": "6",
+        "target_pasal_id": "PSL-REG-PP-41-2009-6",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-7",
+        "nomor_pasal": "7",
+        "target_pasal_id": "PSL-REG-PP-41-2009-7",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-8",
+        "nomor_pasal": "8",
+        "target_pasal_id": "PSL-REG-PP-41-2009-8",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-9",
+        "nomor_pasal": "9",
+        "target_pasal_id": "PSL-REG-PP-41-2009-9",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-10",
+        "nomor_pasal": "10",
+        "target_pasal_id": "PSL-REG-PP-41-2009-10",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-11",
+        "nomor_pasal": "11",
+        "target_pasal_id": "PSL-REG-PP-41-2009-11",
+        "teks_isi": "Cukup jelas. REPUBLIKINDONESIA"
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-12",
+        "nomor_pasal": "12",
+        "target_pasal_id": "PSL-REG-PP-41-2009-12",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-13",
+        "nomor_pasal": "13",
+        "target_pasal_id": "PSL-REG-PP-41-2009-13",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-14",
+        "nomor_pasal": "14",
+        "target_pasal_id": "PSL-REG-PP-41-2009-14",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-15",
+        "nomor_pasal": "15",
+        "target_pasal_id": "PSL-REG-PP-41-2009-15",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-16",
+        "nomor_pasal": "16",
+        "target_pasal_id": "PSL-REG-PP-41-2009-16",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-17",
+        "nomor_pasal": "17",
+        "target_pasal_id": "PSL-REG-PP-41-2009-17",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-18",
+        "nomor_pasal": "18",
+        "target_pasal_id": "PSL-REG-PP-41-2009-18",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-19",
+        "nomor_pasal": "19",
+        "target_pasal_id": "PSL-REG-PP-41-2009-19",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-20",
+        "nomor_pasal": "20",
+        "target_pasal_id": "PSL-REG-PP-41-2009-20",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-21",
+        "nomor_pasal": "21",
+        "target_pasal_id": "PSL-REG-PP-41-2009-21",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-22",
+        "nomor_pasal": "22",
+        "target_pasal_id": "PSL-REG-PP-41-2009-22",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-23",
+        "nomor_pasal": "23",
+        "target_pasal_id": "PSL-REG-PP-41-2009-23",
+        "teks_isi": "Cukup jelas. REPUBLIKINDONESIA"
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-24",
+        "nomor_pasal": "24",
+        "target_pasal_id": "PSL-REG-PP-41-2009-24",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-41-2009-PASAL-25",
+        "nomor_pasal": "25",
+        "target_pasal_id": "PSL-REG-PP-41-2009-25",
+        "teks_isi": "Cukup jelas. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5016"
+      }
+    ]
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 8 Juni 2009 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 8 Juni 2009 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 85 Salinan sesuai dengan aslinya SEKRETARIAT NEGARA RI Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, Wisnu Setiawan REPUBLIKINDONESIA",
+    "tanggal_ditetapkan": "8 Juni 2009",
+    "tanggal_diundangkan": "8 Juni 2009",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA DR. H. SUSILO BAMBANG YUDHOYONO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA ANDI MATTALATTA"
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": false,
+    "total_pasal": 25,
+    "total_ayat": 24,
+    "total_bab": 7,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": []
+  }
+}

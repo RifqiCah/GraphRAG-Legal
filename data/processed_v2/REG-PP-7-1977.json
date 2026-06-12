@@ -1,0 +1,491 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-7-1977",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "7",
+    "tahun": 1977,
+    "judul": "Peraturan Gaji Pegawai Negeri Sipil",
+    "tentang": "Peraturan Gaji Pegawai Negeri Sipil",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-7-1977.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-7-1977-MENIMBANG-1",
+        "nomor": "1",
+        "teks_isi": "bahwa penggajian Pegawai Negeri Sipil sebagaimana diatur dalam Peraturan Pemerintah Nomor 12 Tahun 1967 tentang Peraturan Gaji Pegawai Negeri Sipil Republik Indonesia Tahun 1968 (PGPS-1968) (Lembaran Negara Tahun 1967 Nomor 24, Tambahan Lembaran Negara Nomor 2833), dipandang tidak sesuai lagi dengan keadaan, sehingga perlu disempurnakan;",
+        "urutan": 1
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-7-1977-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (2) Undang-Undang Dasar 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-7-1977-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok Kepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan Lembaran Negara Nomor 3041);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-8-1974",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "PERATURAN PEMERINTAH TENTANG PERATURAN GAJI PEGAWAI NEGERI SIPIL BAB I … -2BAB I KETENTUAN UMUM"
+  },
+  "body": {
+    "bab": [
+      {
+        "id": "BAB-REG-PP-7-1977-III",
+        "nomor_bab": "III",
+        "judul": "KENAIKAN GAJI BERKALA DAN KENAIKAN",
+        "urutan": 1,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-7-1977-11",
+          "PSL-REG-PP-7-1977-12",
+          "PSL-REG-PP-7-1977-13",
+          "PSL-REG-PP-7-1977-14"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-7-1977-IV",
+        "nomor_bab": "IV",
+        "judul": "TUNJANGAN",
+        "urutan": 2,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-7-1977-15",
+          "PSL-REG-PP-7-1977-16",
+          "PSL-REG-PP-7-1977-17",
+          "PSL-REG-PP-7-1977-18",
+          "PSL-REG-PP-7-1977-19",
+          "PSL-REG-PP-7-1977-20"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-7-1977-V",
+        "nomor_bab": "V",
+        "judul": "LAIN-LAIN",
+        "urutan": 3,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-7-1977-21",
+          "PSL-REG-PP-7-1977-22",
+          "PSL-REG-PP-7-1977-23"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-7-1977-VI",
+        "nomor_bab": "VI",
+        "judul": "PENUTUP",
+        "urutan": 4,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-7-1977-24",
+          "PSL-REG-PP-7-1977-25",
+          "PSL-REG-PP-7-1977-26"
+        ]
+      }
+    ],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-7-1977-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam Peraturan Pemerintah ini yang dimaksud dengan pangkat adalah kedudukan yang menunjukkan tingkat seorang Pegawai Negeri Sipil dalam rangkaian susunan kepegawaian dan digunakan sebagai dasar pengajian.",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-2",
+        "nomor_pasal": "2",
+        "teks_isi": "Nama dan susunan pangkat Pegawai Negeri Sipil dari yang terendah sampai dengan yang tertinggi adalah sebagaimana tersebut dalam daftar Lampiran I Peraturan Pemerintah ini",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-3",
+        "nomor_pasal": "3",
+        "teks_isi": "(1)Pegawai Negeri Sipil diangkat dalam pangkat tertentu sebagaimana dimaksud dalam Pasal 2. (2)Pengangkatan dalam pangkat sebagaimana dimaksud dalam ayat (1) dilakukan berdasarkan peraturan perundang-undangan yang berlaku. (3)Syarat-syarat dan ketentuan-ketentuan lain mengenai pengangkatan diatur dengan peraturan perundang-undangan. -3BAB II",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-4",
+        "nomor_pasal": "4",
+        "teks_isi": "Kepada Pegawai Negeri Sipil yang diangkat dalam suatu pangkat menurut Peraturan Pemerintah ini, diberikan gaji pokok berdasarkan golongan ruang yang ditetapkan untuk pangkat itu sebagaimana tersebut dalam daftar Lampiran II Peraturan Pemerintah ini.",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-5",
+        "nomor_pasal": "5",
+        "teks_isi": "(1)Kepada seorang yang diangkat menjadi calon Pegawai Negeri Sipil, diberikan gaji pokok sebesar 80% (delapan puluh persen) dari gaji pokok sebagaimana dimaksud dalam Pasal 4. (2)Kepada calon Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat (1),apabila telah mempunyai pengalaman kerja yang dapat diperhitungkan untuk menetapkan gaji pokok, diberikan gaji pokok yang segaris dengan pengalaman kerjanya yang telah ditetapkan sebagai masa kerja golongan. (3)Pemberian gaji pokok sebagaimana dimaksud dalam ayat (2) setinggi-tingginya ditetapkan berdasarkan gaji pokok maksimum dalam golongan ruang yang bersangkutan setelah dikurangi dengan 2 (dua) kali kenaikan gaji berkala yang terakhir dalam golongan ruang tersebut. Pasal 6 …",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-6",
+        "nomor_pasal": "6",
+        "teks_isi": "Kepada seorang yang diangkat langsung menjadi Pegawai Negeri Sipil apabila telah mempunyai pengalaman kerja yang dapat diperhitungkan untuk menetapkan gaji pokok, diberikan gaji pokok yang segaris dengan pengalaman kerja yang ditetapkan sebagai masa kerja golongan.",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-7",
+        "nomor_pasal": "7",
+        "teks_isi": "Kepada Pegawai Negeri Sipil yang diangkat dalam suatu pangkat yang lebih tinggi dari pangkat lama, diberikan gaji pokok baru berdasarkan pangkat baru yang segaris dengan gaji pokok dan masa kerja golongan dalam golongan ruang menurut pangkat lama.",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-8",
+        "nomor_pasal": "8",
+        "teks_isi": "Kepada Pegawai Negeri Sipil yang diturunkan pangkatnya ke dalam suatu pangkat yang lebih rendah dari pangkat semula, diberikan gaji pokok berdasarkan pangkat baru yang segaris dengan gaji pokok dan masa kerja golongan dalam golongan ruang menurut pangkat lama.",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-9",
+        "nomor_pasal": "9",
+        "teks_isi": "Kepada pensiunan Pegawai Negeri yang diangkat menjadi pegawai bulanan, disamping pensiun diberikan gaji pokok berdasarkan pangkat dan masa kerja golongan yang dimiliki pada saat ia pensiun. Pasal 10 …",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-10",
+        "nomor_pasal": "10",
+        "teks_isi": "Masa kerja yang dapat diperhitungkan untuk menetapkan gaji pokok bagi calon Pegawai Negeri Sipil dan Pegawai Negeri Sipil ditetapkan menurut peraturan perundang-undangan yang berlaku.",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-11",
+        "nomor_pasal": "11",
+        "teks_isi": "Kepada Pegawai Negeri Sipil diberikan kenaikan gaji berkala apabila dipenuhi syarat-syarat : a. telah mencapai masa kerja golongan yang ditentukan untuk kenaikan gaji berkala; b. penilaian pelaksanaan pekerjaan dengan nilai rata-rata sekurangkurangnya \"cukup\".",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-7-1977-11-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "telah mencapai masa kerja golongan yang ditentukan untuk kenaikan gaji berkala;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-11-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "penilaian pelaksanaan pekerjaan dengan nilai rata-rata sekurangkurangnya \"cukup\".",
+            "urutan": 2,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-7-1977-III"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-12",
+        "nomor_pasal": "12",
+        "teks_isi": "(1)Pemberian kenaikan gaji berkala sebagaimana dimaksud dalam Pasal 11 dilakukan dengan surat pemberitahuan oleh kepala kantor/satuan organisasi yang bersangkutan atas nama pejabat yang berwenang. (2)Pemberitahuan kenaikan gaji berkala sebagaimana dimaksud dalam ayat (1)diterbitkan 2 (dua) bulan sebelum kenaikan gaji berkala itu berlaku.",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-III"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-13",
+        "nomor_pasal": "13",
+        "teks_isi": "(1)Apabila Pegawai Negeri Sipil yang bersangkutan belum memenuhi syarat sebagaimana dimaksud dalam Pasal 11 huruf b, maka kenaikan gaji berkalanya ditunda paling lama untuk waktu 1 (satu) tahun. (2)Apabila sehabis waktu penundaan sebagaimana dimaksud dalam ayat (1), Pegawai Negeri Sipil yang bersangkutan belum juga memenuhi syarat sebagaimana dimaksud dalam Pasal 11 huruf b, maka kenaikan gaji berkalanya ditunda lagi tiap-tiap kali paling lama untuk 1 (satu) tahun. (3)Apabila tidak ada alasan lagi untuk penundaan, maka kenaikan gaji berkala tersebut diberikan mulai bulan, berikutnya dari masa penundaan itu. (4)Penundaan kenaikan gaji berkala dilakukan dengan surat keputusan pejabat yang berwenang. (5)Masa penundaan kenaikan gaji berkala dihitung penuh untuk kenaikan gaji berkala berikutnya.",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-III"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-14",
+        "nomor_pasal": "14",
+        "teks_isi": "(1)Kepada Pegawai Negeri Sipil yang menurut daftar penilaian pelaksanaan pekerjaan menunjukkan nilai \"amat baik\", sehingga ia patut dijadikan teladan, dapat diberikan kenaikan gaji istimewa sebagai penghargaan dengan memajukan saat kenaikan gaji berkala yang akan datang dan saat-saat kenaikan gaji berkala selanjutnya dalam pangkat yang dijabatnya pada saat pemberian kenaikan gaji istimewa itu. (2)Pemberian ... (2)Pemberian kenaikan gaji istimewa sebagaimana dimaksud dalam ayat (1) dilakukan oleh Menteri/Pimpinan Lembaga yang bersangkutan.",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-III"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-15",
+        "nomor_pasal": "15",
+        "teks_isi": "(1)Disamping gaji pokok kepada Pegawai Negeri Sipil diberikan: a. tunjangan keluarga; b. tunjangan jabatan. (2)Selain daripada tunjangan sebagaimana dimaksud dalam ayat (1), kepada Pegawai Negeri Sipil dapat diberikan tunjangan pangan dan tunjangan-tunjangan lain.",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-7-1977-15-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "tunjangan keluarga;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-15-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "tunjangan jabatan. (2)Selain daripada tunjangan sebagaimana dimaksud dalam ayat (1), kepada Pegawai Negeri Sipil dapat diberikan tunjangan pangan dan tunjangan-tunjangan lain.",
+            "urutan": 2,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-7-1977-IV"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-16",
+        "nomor_pasal": "16",
+        "teks_isi": "(1)Kepada Pegawai Negeri Sipil yang beristeri/bersuami diberikan tunjangan istri/suami sebesar 5% (lima persen) dari gaji pokok, dengan ketentuan apabila suami isteri keduaduanya berkedudukan sebagai Pegawai Negeri, maka tunjangan ini hanya diberikan kepada yang mempunyai gaji pokok lebih tinggi. (2)Kepada Pegawai Negeri Sipil yang mempunyai anak atau anak angkat yang berumur kurang dari 18 (delapan belas) tahun, belum pernah kawin, tidak mempunyai penghasilan sendiri dan nyata menjadi tanggungannya, diberikan tunjangan anak sebesar 2% (dua persen) dari gaji pokok untuk tiap-tiap anak.",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-7-1977-16-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Tunjangan … (3)Tunjangan anak sebagaimana dimaksud dalam ayat (2) diberikan -8sebanyak-banyaknya untuk 3 (tiga) orang anak, termasuk 1 (satu) orang anak angkat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-IV"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-17",
+        "nomor_pasal": "17",
+        "teks_isi": "(1)Kepada Pegawai Negeri Sipil yang menjabat jabatan tertentu diberikan tunjangan jabatan. (2)Macam-macam jabatan serta besarnya tunjangan jabatan diatur dengan Keputusan Presiden.",
+        "status": "Aktif",
+        "urutan": 17,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-IV"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-18",
+        "nomor_pasal": "18",
+        "teks_isi": "(1)Kepada Pegawai Negeri Sipil beserta keluarganya dapat diberikan tunjangan pangan. (2)Tunjangan pangan sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut oleh Menteri Keuangan setelah mendengar Kepala Badan Administrasi Kepegawaian Negara.",
+        "status": "Aktif",
+        "urutan": 18,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-IV"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-19",
+        "nomor_pasal": "19",
+        "teks_isi": "(1)Selain dari tunjangan sebagaimana dimaksud Pasal 15 sampai dengan Pasal 18, apabila ada alasan-alasan yang kuat, kepada Pegawai Negeri Sipil dapat diberikan tunjangan-tunjangan. (2)Tunjangan-tunjangan sebagaimana dimaksud dalam ayat (1) : a. apabila berlaku bagi seluruh Pegawai Negeri Sipil diatur dengan Peraturan Pemerintah ; b. apabila ... b. apabila berlaku bagi Pegawai Negeri Sipil tertentu diatur dengan Keputusan Presiden.",
+        "status": "Aktif",
+        "urutan": 19,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-7-1977-19-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "apabila berlaku bagi seluruh Pegawai Negeri Sipil diatur dengan Peraturan Pemerintah ;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-19-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "apabila ...",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-19-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "apabila berlaku bagi Pegawai Negeri Sipil tertentu diatur dengan Keputusan Presiden.",
+            "urutan": 3,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-7-1977-IV"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-20",
+        "nomor_pasal": "20",
+        "teks_isi": "Kepada pegawai bulanan disamping pensiun sebagaimana dimaksud dalam Pasal 9 diberikan tunjangan-tunjangan yang berlaku bagi Pegawai Negeri Sipil.",
+        "status": "Aktif",
+        "urutan": 20,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-IV"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-21",
+        "nomor_pasal": "21",
+        "teks_isi": "Penyesuaian pangkat dan gaji pokok lama ke dalam pangkat dan gaji pokok menurut Peraturan Pemerintah ini diatur dengan Keputusan Presiden.",
+        "status": "Aktif",
+        "urutan": 21,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-V"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-22",
+        "nomor_pasal": "22",
+        "teks_isi": "Hal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini diatur lebih lanjut dengan Keputusan Presiden.",
+        "status": "Aktif",
+        "urutan": 22,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-V"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-23",
+        "nomor_pasal": "23",
+        "teks_isi": "Ketentuan-ketentuan teknis pelaksanaan Peraturan Pemerintah ini ditetapkan oleh Menteri Keuangan dan Kepala Badan Administrasi Kepegawaian Negara, baik secara bersama maupun secara tersendiri menurut bidangnya",
+        "status": "Aktif",
+        "urutan": 23,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-V"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-24",
+        "nomor_pasal": "24",
+        "teks_isi": "Peraturan Pemerintah ini disebut Peraturan Gaji Pegawai Negeri Sipil Tahun 1977.",
+        "status": "Aktif",
+        "urutan": 24,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-VI"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-25",
+        "nomor_pasal": "25",
+        "teks_isi": "Dengan berlakunya Peraturan Pemerintah ini, maka dinyatakan tidak berlaku lagi : a. Peraturan Pemerintah Nomor 12 Tahun 1967 tentang Peraturan Gaji Pegawai Negeri Sipil Republik Indonesia Tahun 1968 (PGPS-1968) (Lembaran Negara Tahun 1967 Nomor 24, Tambahan Lembaran Negara Nomor 2833) sepanjang mengenai susunan pangkat, gaji pokok, dan tunjangan, Pegawai Negeri Sipil; b. Peraturan Pemerintah Nomor 11 Tahun 1973 tentang berlakunya PGPS-1968 di Propinsi Irian Jaya (Lembaran Negara Tahun 1973 Nomor 17, Tambahan Lembaran Negara Nomor 3000), sepanjang mengenai gaji dan tunjangan termasuk tunjangan Irian Jaya; c. Peraturan Pemerintah Nomor 41 Tahun 1974 tentang Tunjangan Kerja Bagi Pegawai Negeri dan Pejabat Negara (Lembaran Negara Tahun 1974 Nomor 59, Tambahan Lembaran Negara Nomor 3042); d. Peraturan Pemerintah Nomor 7 Tahun 1976 tentang Perbaikan Penghasilan Pegawai Negeri Golongan I (Lembaran Negara Tahun 1976 Nomor 13, Tambahan Lembaran Negara Nomor 3071).",
+        "status": "Aktif",
+        "urutan": 25,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-7-1977-25-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "Peraturan Pemerintah Nomor 12 Tahun 1967 tentang Peraturan Gaji Pegawai Negeri Sipil Republik Indonesia Tahun 1968 (PGPS-1968) (Lembaran Negara Tahun 1967 Nomor 24, Tambahan Lembaran Negara Nomor 2833) sepanjang mengenai susunan pangkat, gaji pokok, dan tunjangan, Pegawai Negeri Sipil;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-25-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Peraturan Pemerintah Nomor 11 Tahun 1973 tentang berlakunya PGPS-1968 di Propinsi Irian Jaya (Lembaran Negara Tahun 1973 Nomor 17, Tambahan Lembaran Negara Nomor 3000), sepanjang mengenai gaji dan tunjangan termasuk tunjangan Irian Jaya;",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-25-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "Peraturan Pemerintah Nomor 41 Tahun 1974 tentang Tunjangan Kerja Bagi Pegawai Negeri dan Pejabat Negara (Lembaran Negara Tahun 1974 Nomor 59, Tambahan Lembaran Negara Nomor 3042);",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-7-1977-25-huruf-D",
+            "jenis": "huruf",
+            "nomor": "d",
+            "teks_isi": "Peraturan Pemerintah Nomor 7 Tahun 1976 tentang Perbaikan Penghasilan Pegawai Negeri Golongan I (Lembaran Negara Tahun 1976 Nomor 13, Tambahan Lembaran Negara Nomor 3071).",
+            "urutan": 4,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-7-1977-VI"
+      },
+      {
+        "id": "PSL-REG-PP-7-1977-26",
+        "nomor_pasal": "26",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal 1 April 1977. Agar … Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. -11Ditetapkan di Jakarta pada tanggal 1 Maret 1977 ttd Diundangkan di Jakarta pada tanggal 1 Maret 1977 ttd LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1977 NOMOR 11",
+        "status": "Aktif",
+        "urutan": 26,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-7-1977-VI"
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "",
+    "pasal_demi_pasal": []
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar … Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. -11Ditetapkan di Jakarta pada tanggal 1 Maret 1977 PRESIDEN REPUBLIK INDONESIA, ttd SOEHARTO Diundangkan di Jakarta pada tanggal 1 Maret 1977 MENTERI/SEKRETARIS NEGARA REPUBLIK INDONESIA, ttd SUDHARMONO, SH LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1977 NOMOR 11",
+    "tanggal_ditetapkan": "1 Maret 1977",
+    "tanggal_diundangkan": "1 Maret 1977",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA SOEHARTO",
+    "pejabat_pengundangan": "MENTERI/SEKRETARIS NEGARA REPUBLIK INDONESIA SUDHARMONO, SH"
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": false,
+    "total_pasal": 26,
+    "total_ayat": 1,
+    "total_bab": 4,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": []
+  }
+}

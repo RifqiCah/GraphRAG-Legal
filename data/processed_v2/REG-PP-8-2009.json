@@ -1,0 +1,232 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-8-2009",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "8",
+    "tahun": 2009,
+    "judul": "Perubahan atas Peraturan Gaji Pegawai Negeri Sipil",
+    "tentang": "Perubahan atas Peraturan Gaji Pegawai Negeri Sipil",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-8-2009.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-8-2009-MENIMBANG-A",
+        "nomor": "a",
+        "teks_isi": "bahwa dalam rangka meningkatkan daya guna dan hasil guna serta kesejahteraan Pegawai Negeri Sipil, perlu mengubah gaji pokok Pegawai Negeri Sipil sebagaimana diatur dalam Peraturan Pemerintah Nomor 10 Tahun 2008 tentang Perubahan Kesepuluh Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "urutan": 1
+      },
+      {
+        "id": "KONS-REG-PP-8-2009-MENIMBANG-B",
+        "nomor": "b",
+        "teks_isi": "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil;",
+        "urutan": 2
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-8-2009-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-8-2009-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Nomor 8 Tahun 1974 tentang PokokPokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-8-1974",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Peraturan . . .",
+        "urutan": 3,
+        "target_regulasi_id": "",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-8-2009-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah terakhir dengan Peraturan Pemerintah Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23);",
+        "urutan": 4,
+        "target_regulasi_id": "REG-PP-7-1977",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "PERATURAN PEMERINTAH TENTANG PERUBAHAN KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 7 TAHUN 1977 TENTANG PERATURAN GAJI PEGAWAI NEGERI SIPIL."
+  },
+  "body": {
+    "bab": [],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-8-2009-I",
+        "nomor_pasal": "I",
+        "teks_isi": "1. Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah: a. Nomor 13 Tahun 1980 (Lembaran Negara Republik Indonesia Tahun 1980 Nomor 21, Tambahan Lembaran Negara Republik Indonesia Nomor 3162); b. Nomor 15 . . . b. Nomor 15 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 21); c. Nomor 51 Tahun 1992 (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 90); d. Nomor 15 Tahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 21); e. Nomor 6 Tahun 1997 (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 19); f. Nomor 26 Tahun 2001 (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 49); g. Nomor 11 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 17); h. Nomor 66 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 151); i. Nomor 9 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 25); dan j. Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini. 2. Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009.",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-8-2009-I-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Mengubah Lampiran II Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1977 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor 3098) sebagaimana telah sepuluh kali diubah dengan Peraturan Pemerintah:",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "Nomor 13 Tahun 1980 (Lembaran Negara Republik Indonesia Tahun 1980 Nomor 21, Tambahan Lembaran Negara Republik Indonesia Nomor 3162);",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Nomor 15 . . .",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Nomor 15 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 21);",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "Nomor 51 Tahun 1992 (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 90);",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-D",
+            "jenis": "huruf",
+            "nomor": "d",
+            "teks_isi": "Nomor 15 Tahun 1993 (Lembaran Negara Republik Indonesia Tahun 1993 Nomor 21);",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-E",
+            "jenis": "huruf",
+            "nomor": "e",
+            "teks_isi": "Nomor 6 Tahun 1997 (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 19);",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-F",
+            "jenis": "huruf",
+            "nomor": "f",
+            "teks_isi": "Nomor 26 Tahun 2001 (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 49);",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-G",
+            "jenis": "huruf",
+            "nomor": "g",
+            "teks_isi": "Nomor 11 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 17);",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-H",
+            "jenis": "huruf",
+            "nomor": "h",
+            "teks_isi": "Nomor 66 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 151);",
+            "urutan": 10,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-I",
+            "jenis": "huruf",
+            "nomor": "i",
+            "teks_isi": "Nomor 9 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 25); dan",
+            "urutan": 11,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-huruf-J",
+            "jenis": "huruf",
+            "nomor": "j",
+            "teks_isi": "Nomor 10 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 23), sehingga menjadi sebagaimana tercantum dalam Lampiran Peraturan Pemerintah ini.",
+            "urutan": 12,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-8-2009-I-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Ketentuan sebagaimana dimaksud pada angka 1 berlaku sejak tanggal 1 Januari 2009.",
+            "urutan": 13,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-8-2009-II",
+        "nomor_pasal": "II",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 ttd. Diundangkan di Jakarta pada tanggal 16 Januari 2009 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "explanation": {
+    "available": false,
+    "source_file": "",
+    "umum": "",
+    "pasal_demi_pasal": []
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 16 Januari 2009 PRESIDEN REPUBLIK INDONESIA, ttd. DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 16 Januari 2009 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2009 NOMOR 21 Salinan sesuai dengan aslinya SEKRETARIAT NEGARA RI Kepala Biro Peraturan Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat, ttd Wisnu Setiawan",
+    "tanggal_ditetapkan": "16 Januari 2009",
+    "tanggal_diundangkan": "16 Januari 2009",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA DR. H. SUSILO BAMBANG YUDHOYONO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA ANDI MATTALATTA"
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": false,
+    "total_pasal": 2,
+    "total_ayat": 0,
+    "total_bab": 0,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": false,
+    "warnings": []
+  }
+}

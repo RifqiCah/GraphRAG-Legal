@@ -16,6 +16,10 @@ memerlukan database graph eksternal.
 File yang dilacak Git:
 
 - `dataset.csv`: dataset QA sumber untuk menyiapkan split Part 1.
+- `data/raw/`: PDF sumber yang dibagikan untuk review dan reproducibility.
+- `data/processed_v2/`, `data/chunks_v2/`, dan `data/triplets_v2/`: data
+  Knowledge Graph v2 yang dipakai dalam paper.
+- `data/sft/`: split train/test deterministik untuk eksperimen Part 1.
 - `ontology/`: schema dan constraint Knowledge Graph.
 - `scripts/`: ekstraksi, graph construction, retrieval, training, dan evaluasi.
 - `docs/`: rencana eksperimen, checklist, serta ringkasan hasil.
@@ -23,13 +27,13 @@ File yang dilacak Git:
 File yang sengaja tidak dilacak Git:
 
 - `.env` dan credential lokal.
-- `data/raw/`: PDF sumber yang diperoleh dari portal regulasi resmi.
-- `data/processed*`, `data/chunks_v2`, `data/triplets_v2`, dan `data/sft`.
+- Data legacy di `data/processed/` dan `data/triplets/`.
+- Source dan turunan `REG-UUD-1945` karena PDF tersebut diketahui salah label.
 - `indexes/`, `outputs/`, `logs/`, model, checkpoint, dan artefak eksperimen.
 
-Raw PDF tidak perlu dipush untuk review mentor. Simpan PDF secara lokal dan
-cantumkan sumber dokumen dalam paper. Artefak intermediate dan hasil eksperimen
-dapat diregenerasi dari script yang tersedia.
+Data v2 dibagikan agar mentor dapat meninjau input, hasil parsing, chunk, dan
+triplet yang digunakan dalam paper. Index, model, dan output eksperimen tetap
+diregenerasi dari script yang tersedia.
 
 ## Struktur Utama
 
@@ -49,14 +53,9 @@ pskp-legal-graph/
 `-- requirements.txt
 ```
 
-Direktori berikut akan dibuat secara lokal ketika pipeline dijalankan:
+Direktori berikut tetap dibuat secara lokal ketika pipeline dijalankan:
 
 ```text
-data/raw/
-data/processed_v2/
-data/chunks_v2/
-data/triplets_v2/
-data/sft/
 indexes/graph_v2/
 indexes/vector_v2_model/
 outputs/
@@ -150,5 +149,4 @@ python scripts/evaluation/eval_predictions_qa.py \
 
 - Jangan commit `.env`, token, model weights, checkpoint, atau output eksperimen.
 - Simpan versi model, seed, dan parameter eksperimen pada laporan.
-- Pastikan lisensi dan sumber PDF regulasi dicantumkan sebelum mendistribusikan
-  salinan raw corpus.
+- Pastikan sumber dan ketentuan distribusi setiap PDF regulasi dicantumkan.

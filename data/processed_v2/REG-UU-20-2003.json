@@ -1,0 +1,3204 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-UU-20-2003",
+  "metadata": {
+    "jenis": "UU",
+    "nomor": "20",
+    "tahun": 2003,
+    "judul": "Sistem Pendidikan Nasional",
+    "tentang": "Sistem Pendidikan Nasional",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-UU-20-2003.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "",
+    "menimbang": [
+      {
+        "id": "KONS-REG-UU-20-2003-MENIMBANG-A",
+        "nomor": "a",
+        "teks_isi": "bahwa pembukaan Undang-Undang Dasar Negara Republik Indonesia tahun 1945 mengamanatkan Pemerintah Negara Indonesia yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia dan untuk memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan,perdamaianabadi dankeadilansosial;",
+        "urutan": 1
+      },
+      {
+        "id": "KONS-REG-UU-20-2003-MENIMBANG-B",
+        "nomor": "b",
+        "teks_isi": "bahwa Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 mengamanatkan Pemerintah mengusahakan dan menyelenggarakan satu sistem pendidikan nasional yang meningkatkan keimanan dan ketakwaan kepada Tuhan Yang Maha Esa serta akhlak mulia dalam rangka mencerdaskankehidupan bangsa yangdiaturdenganundang-undang;",
+        "urutan": 2
+      },
+      {
+        "id": "KONS-REG-UU-20-2003-MENIMBANG-C",
+        "nomor": "c",
+        "teks_isi": "bahwa sistem pendidikan nasional harus mampu menjamin pemerataan kesempatan pendidikan, peningkatan mutu serta relevansi dan efisiensi manajemen pendidikan untuk menghadapi tantangan sesuai dengan tuntutan perubahan kehidupan lokal, nasional, dan global sehingga perlu dilakukan pembaharuan pendidikan secara terencana, terarah, dan berkesinambungan;",
+        "urutan": 3
+      },
+      {
+        "id": "KONS-REG-UU-20-2003-MENIMBANG-D",
+        "nomor": "d",
+        "teks_isi": "bahwa Undang-undang Nomor 2 Tahun 1989 tentang Sistem Pendidikan Nasional tidak memadai lagi dan perlu diganti serta perlu disempurnakan agar sesuai dengan amanat perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun1945;",
+        "urutan": 4
+      },
+      {
+        "id": "KONS-REG-UU-20-2003-MENIMBANG-E",
+        "nomor": "e",
+        "teks_isi": "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, b, c, dan d perlu membentuk Undang-Undang tentang Sistem Pendidikan Nasional.",
+        "urutan": 5
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-UU-20-2003-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "... REPUBLIKINDONESIA -2Mengingat : Pasal 20, Pasal 21, Pasal 28 C ayat (1), Pasal 31, dan Pasal 32 Undang-Undang DasarNegaraRepublik IndonesiaTahun1945; DENGANPERSETUJUANBERSAMA DEWANPERWAKILANRAKYATREPUBLIK INDONESIA DAN PRESIDENREPUBLIK INDONESIA",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UU-DASARNEGARAREPUBLIK",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "Undang-UndangTentangSistem PendidikanNasional."
+  },
+  "body": {
+    "bab": [
+      {
+        "id": "BAB-REG-UU-20-2003-I",
+        "nomor_bab": "I",
+        "judul": "KETENTUAN UMUM",
+        "urutan": 1,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-UU-20-2003-1"
+        ]
+      },
+      {
+        "id": "BAB-REG-UU-20-2003-II",
+        "nomor_bab": "II",
+        "judul": "DASAR,FUNGSI,DAN TUJUAN",
+        "urutan": 2,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-UU-20-2003-2",
+          "PSL-REG-UU-20-2003-3",
+          "PSL-REG-UU-20-2003-4"
+        ]
+      },
+      {
+        "id": "BAB-REG-UU-20-2003-IV",
+        "nomor_bab": "IV",
+        "judul": "HAKDAN KEWAJIBANWARGANEGARA,",
+        "urutan": 3,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-UU-20-2003-5",
+          "PSL-REG-UU-20-2003-6",
+          "PSL-REG-UU-20-2003-7",
+          "PSL-REG-UU-20-2003-8",
+          "PSL-REG-UU-20-2003-9",
+          "PSL-REG-UU-20-2003-10",
+          "PSL-REG-UU-20-2003-11",
+          "PSL-REG-UU-20-2003-12",
+          "PSL-REG-UU-20-2003-13",
+          "PSL-REG-UU-20-2003-14",
+          "PSL-REG-UU-20-2003-15",
+          "PSL-REG-UU-20-2003-16",
+          "PSL-REG-UU-20-2003-17",
+          "PSL-REG-UU-20-2003-18",
+          "PSL-REG-UU-20-2003-19",
+          "PSL-REG-UU-20-2003-20",
+          "PSL-REG-UU-20-2003-21",
+          "PSL-REG-UU-20-2003-22",
+          "PSL-REG-UU-20-2003-23",
+          "PSL-REG-UU-20-2003-24",
+          "PSL-REG-UU-20-2003-25",
+          "PSL-REG-UU-20-2003-26",
+          "PSL-REG-UU-20-2003-27",
+          "PSL-REG-UU-20-2003-28",
+          "PSL-REG-UU-20-2003-29",
+          "PSL-REG-UU-20-2003-30",
+          "PSL-REG-UU-20-2003-31",
+          "PSL-REG-UU-20-2003-32",
+          "PSL-REG-UU-20-2003-33",
+          "PSL-REG-UU-20-2003-34"
+        ]
+      },
+      {
+        "id": "BAB-REG-UU-20-2003-IX",
+        "nomor_bab": "IX",
+        "judul": "STANDAR NASIONALPENDIDIKAN",
+        "urutan": 4,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-UU-20-2003-35",
+          "PSL-REG-UU-20-2003-36",
+          "PSL-REG-UU-20-2003-37",
+          "PSL-REG-UU-20-2003-38",
+          "PSL-REG-UU-20-2003-39",
+          "PSL-REG-UU-20-2003-40",
+          "PSL-REG-UU-20-2003-41",
+          "PSL-REG-UU-20-2003-42",
+          "PSL-REG-UU-20-2003-43",
+          "PSL-REG-UU-20-2003-44",
+          "PSL-REG-UU-20-2003-45",
+          "PSL-REG-UU-20-2003-46",
+          "PSL-REG-UU-20-2003-47",
+          "PSL-REG-UU-20-2003-48",
+          "PSL-REG-UU-20-2003-49",
+          "PSL-REG-UU-20-2003-50",
+          "PSL-REG-UU-20-2003-51",
+          "PSL-REG-UU-20-2003-52",
+          "PSL-REG-UU-20-2003-53",
+          "PSL-REG-UU-20-2003-54",
+          "PSL-REG-UU-20-2003-55",
+          "PSL-REG-UU-20-2003-56",
+          "PSL-REG-UU-20-2003-57",
+          "PSL-REG-UU-20-2003-58",
+          "PSL-REG-UU-20-2003-59",
+          "PSL-REG-UU-20-2003-60",
+          "PSL-REG-UU-20-2003-61",
+          "PSL-REG-UU-20-2003-62",
+          "PSL-REG-UU-20-2003-63",
+          "PSL-REG-UU-20-2003-64",
+          "PSL-REG-UU-20-2003-65",
+          "PSL-REG-UU-20-2003-66",
+          "PSL-REG-UU-20-2003-67",
+          "PSL-REG-UU-20-2003-68",
+          "PSL-REG-UU-20-2003-69",
+          "PSL-REG-UU-20-2003-70",
+          "PSL-REG-UU-20-2003-71",
+          "PSL-REG-UU-20-2003-72",
+          "PSL-REG-UU-20-2003-73",
+          "PSL-REG-UU-20-2003-74",
+          "PSL-REG-UU-20-2003-75",
+          "PSL-REG-UU-20-2003-76",
+          "PSL-REG-UU-20-2003-77"
+        ]
+      }
+    ],
+    "pasal": [
+      {
+        "id": "PSL-REG-UU-20-2003-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam undang-undangini yangdimaksud dengan : 1. Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yangdiperlukandirinya,masyarakat,bangsadannegara. 2. Pendidikan nasional adalah pendidikan yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang berakar pada nilai-nilai agama, kebudayaan nasional Indonesia dan tanggap terhadap tuntutanperubahanzaman. 3. Sistem pendidikan nasional adalah keseluruhan komponen pendidikan yang saling terkait secara terpadu untuk mencapai tujuan pendidikan nasional. 4.Peserta… -34. Peserta didik adalah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses pembelajaran yang tersedia pada jalur, jenjang, danjenis pendidikantertentu. 5. Tenaga kependidikan adalah anggota masyarakat yang mengabdikan diri dandiangkat untukmenunjangpenyelenggaraanpendidikan. 6. Pendidik adalah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakanpendidikan. 7. Jalur pendidikan adalah wahana yang dilalui peserta didik untuk mengembangkan potensi diri dalam suatu proses pendidikan yang sesuai dengantujuanpendidikan. 8. Jenjang pendidikan adalah tahapan pendidikan yang ditetapkan berdasarkan tingkat perkembangan peserta didik, tujuan yang akan dicapai, dankemampuan yangdikembangkan. 9. Jenis pendidikan adalah kelompok yang didasarkan pada kekhususan tujuanpendidikansuatusatuanpendidikan. 10. Satuan pendidikan adalah kelompok layanan pendidikan yang menyelenggarakan pendidikan pada jalur formal, nonformal, dan informal padasetiapjenjangdanjenis pendidikan. 11. Pendidikan formal adalah jalur pendidikan yang terstruktur dan berjenjang yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi. 12. Pendidikan nonformal adalah jalur pendidikan di luar pendidikan formal yangdapatdilaksanakan secaraterstrukturdanberjenjang. 13. Pendidikaninformal adalahjalurpendidikankeluargadanlingkungan. 14. Pendidikan anak usia dini adalah suatu upaya pembinaan yang ditujukan kepada anak sejak lahir sampai dengan usia enam tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikanlebihlanjut. 15.Pendidikan... -415. Pendidikan jarak jauh adalah pendidikan yang peserta didiknya terpisah dari pendidik dan pembelajarannya menggunakan berbagai sumber belajar melalui teknologi komunikasi,informasi,danmedialain. 16. Pendidikan berbasis masyarakat adalah penyelenggaraan pendidikan berdasarkan kekhasan agama, sosial, budaya, aspirasi, dan potensi masyarakat sebagai perwujudan pendidikan dari, oleh, dan untuk masyarakat. 17. Standar nasional pendidikan adalah kriteria minimal tentang sistem pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia. 18. Wajib belajar adalah program pendidikan minimal yang harus diikuti oleh Warga Negara Indonesia atas tanggung jawab Pemerintah dan Pemerintah Daerah. 19. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara yang digunakan sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk mencapai tujuan pendidikan tertentu. 20. Pembelajaran adalah proses interaksi peserta didik dengan pendidik dan sumberbelajarpadasuatulingkunganbelajar. 21. Evaluasi pendidikan adalah kegiatan pengendalian, penjaminan, dan penetapan mutu pendidikan terhadap berbagai komponen pendidikan pada setiap jalur, jenjang, dan jenis pendidikan sebagai bentuk pertanggungjawabanpenyelenggaraanpendidikan. 22. Akreditasi adalah kegiatan penilaian kelayakan program dalam satuan pendidikanberdasarkan kriteria yangtelah ditetapkan. 23. Sumber daya pendidikan adalah segala sesuatu yang dipergunakan dalam penyelenggaraan pendidikan yang meliputi tenaga kependidikan, masyarakat,dana,sarana,danprasarana. 24. Dewan pendidikan adalah lembaga mandiri yang beranggotakan berbagai unsurmasyarakat yangpeduli pendidikan. 25.Komite... -525. Komite sekolah/madrasah adalah lembaga mandiri yang beranggotakan orang tua/wali peserta didik, komunitas sekolah, serta tokoh masyarakat yangpeduli pendidikan. 26. Warga negara adalah WargaNegara Indonesiabaik yangtinggal di wilayah Negara Kesatuan Republik Indonesia maupun di luar wilayah Negara KesatuanRepublik Indonesia. 27. Masyarakat adalah kelompok Warga Negara Indonesia nonpemerintah yangmempunyai perhatiandanperanandalam bidangpendidikan. 28. PemerintahadalahPemerintahPusat. 29. Pemerintah Daerah adalah Pemerintah Propinsi, Pemerintah Kabupaten, atauPemerintahKota. 30. Menteri adalah menteri yang bertanggung jawab dalam bidang pendidikan nasional.",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yangdiperlukandirinya,masyarakat,bangsadannegara.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Pendidikan nasional adalah pendidikan yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang berakar pada nilai-nilai agama, kebudayaan nasional Indonesia dan tanggap terhadap tuntutanperubahanzaman.",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-3",
+            "jenis": "angka",
+            "nomor": "3",
+            "teks_isi": "Sistem pendidikan nasional adalah keseluruhan komponen pendidikan yang saling terkait secara terpadu untuk mencapai tujuan pendidikan nasional. 4.Peserta… -34. Peserta didik adalah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses pembelajaran yang tersedia pada jalur, jenjang, danjenis pendidikantertentu.",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Tenaga kependidikan adalah anggota masyarakat yang mengabdikan diri dandiangkat untukmenunjangpenyelenggaraanpendidikan.",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Pendidik adalah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakanpendidikan.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Jalur pendidikan adalah wahana yang dilalui peserta didik untuk mengembangkan potensi diri dalam suatu proses pendidikan yang sesuai dengantujuanpendidikan.",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Jenjang pendidikan adalah tahapan pendidikan yang ditetapkan berdasarkan tingkat perkembangan peserta didik, tujuan yang akan dicapai, dankemampuan yangdikembangkan.",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Jenis pendidikan adalah kelompok yang didasarkan pada kekhususan tujuanpendidikansuatusatuanpendidikan.",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-10",
+            "jenis": "angka",
+            "nomor": "10",
+            "teks_isi": "Satuan pendidikan adalah kelompok layanan pendidikan yang menyelenggarakan pendidikan pada jalur formal, nonformal, dan informal padasetiapjenjangdanjenis pendidikan.",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-11",
+            "jenis": "angka",
+            "nomor": "11",
+            "teks_isi": "Pendidikan formal adalah jalur pendidikan yang terstruktur dan berjenjang yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi.",
+            "urutan": 10,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-12",
+            "jenis": "angka",
+            "nomor": "12",
+            "teks_isi": "Pendidikan nonformal adalah jalur pendidikan di luar pendidikan formal yangdapatdilaksanakan secaraterstrukturdanberjenjang.",
+            "urutan": 11,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-13",
+            "jenis": "angka",
+            "nomor": "13",
+            "teks_isi": "Pendidikaninformal adalahjalurpendidikankeluargadanlingkungan.",
+            "urutan": 12,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-14",
+            "jenis": "angka",
+            "nomor": "14",
+            "teks_isi": "Pendidikan anak usia dini adalah suatu upaya pembinaan yang ditujukan kepada anak sejak lahir sampai dengan usia enam tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikanlebihlanjut. 15.Pendidikan... -415. Pendidikan jarak jauh adalah pendidikan yang peserta didiknya terpisah dari pendidik dan pembelajarannya menggunakan berbagai sumber belajar melalui teknologi komunikasi,informasi,danmedialain.",
+            "urutan": 13,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-16",
+            "jenis": "angka",
+            "nomor": "16",
+            "teks_isi": "Pendidikan berbasis masyarakat adalah penyelenggaraan pendidikan berdasarkan kekhasan agama, sosial, budaya, aspirasi, dan potensi masyarakat sebagai perwujudan pendidikan dari, oleh, dan untuk masyarakat.",
+            "urutan": 14,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-17",
+            "jenis": "angka",
+            "nomor": "17",
+            "teks_isi": "Standar nasional pendidikan adalah kriteria minimal tentang sistem pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia.",
+            "urutan": 15,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-18",
+            "jenis": "angka",
+            "nomor": "18",
+            "teks_isi": "Wajib belajar adalah program pendidikan minimal yang harus diikuti oleh Warga Negara Indonesia atas tanggung jawab Pemerintah dan Pemerintah Daerah.",
+            "urutan": 16,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-19",
+            "jenis": "angka",
+            "nomor": "19",
+            "teks_isi": "Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara yang digunakan sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk mencapai tujuan pendidikan tertentu.",
+            "urutan": 17,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-20",
+            "jenis": "angka",
+            "nomor": "20",
+            "teks_isi": "Pembelajaran adalah proses interaksi peserta didik dengan pendidik dan sumberbelajarpadasuatulingkunganbelajar.",
+            "urutan": 18,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-21",
+            "jenis": "angka",
+            "nomor": "21",
+            "teks_isi": "Evaluasi pendidikan adalah kegiatan pengendalian, penjaminan, dan penetapan mutu pendidikan terhadap berbagai komponen pendidikan pada setiap jalur, jenjang, dan jenis pendidikan sebagai bentuk pertanggungjawabanpenyelenggaraanpendidikan.",
+            "urutan": 19,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-22",
+            "jenis": "angka",
+            "nomor": "22",
+            "teks_isi": "Akreditasi adalah kegiatan penilaian kelayakan program dalam satuan pendidikanberdasarkan kriteria yangtelah ditetapkan.",
+            "urutan": 20,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-23",
+            "jenis": "angka",
+            "nomor": "23",
+            "teks_isi": "Sumber daya pendidikan adalah segala sesuatu yang dipergunakan dalam penyelenggaraan pendidikan yang meliputi tenaga kependidikan, masyarakat,dana,sarana,danprasarana.",
+            "urutan": 21,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-24",
+            "jenis": "angka",
+            "nomor": "24",
+            "teks_isi": "Dewan pendidikan adalah lembaga mandiri yang beranggotakan berbagai unsurmasyarakat yangpeduli pendidikan. 25.Komite... -525. Komite sekolah/madrasah adalah lembaga mandiri yang beranggotakan orang tua/wali peserta didik, komunitas sekolah, serta tokoh masyarakat yangpeduli pendidikan.",
+            "urutan": 22,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-26",
+            "jenis": "angka",
+            "nomor": "26",
+            "teks_isi": "Warga negara adalah WargaNegara Indonesiabaik yangtinggal di wilayah Negara Kesatuan Republik Indonesia maupun di luar wilayah Negara KesatuanRepublik Indonesia.",
+            "urutan": 23,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-27",
+            "jenis": "angka",
+            "nomor": "27",
+            "teks_isi": "Masyarakat adalah kelompok Warga Negara Indonesia nonpemerintah yangmempunyai perhatiandanperanandalam bidangpendidikan.",
+            "urutan": 24,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-28",
+            "jenis": "angka",
+            "nomor": "28",
+            "teks_isi": "PemerintahadalahPemerintahPusat.",
+            "urutan": 25,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-29",
+            "jenis": "angka",
+            "nomor": "29",
+            "teks_isi": "Pemerintah Daerah adalah Pemerintah Propinsi, Pemerintah Kabupaten, atauPemerintahKota.",
+            "urutan": 26,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-UU-20-2003-1-angka-30",
+            "jenis": "angka",
+            "nomor": "30",
+            "teks_isi": "Menteri adalah menteri yang bertanggung jawab dalam bidang pendidikan nasional.",
+            "urutan": 27,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-UU-20-2003-I"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-2",
+        "nomor_pasal": "2",
+        "teks_isi": "Pendidikan nasional berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun1945.",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-II"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-3",
+        "nomor_pasal": "3",
+        "teks_isi": "Pendidikan nasional berfungsi mengembangkan kemampuan dan membentuk watak serta peradaban bangsa yang bermartabat dalam rangka mencerdaskan kehidupan bangsa, bertujuan untuk berkembangnya potensi peserta didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga negara yangdemokratis sertabertanggungjawab. -6BAB III",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-II"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-4",
+        "nomor_pasal": "4",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-4-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan diselenggarakan secara demokratis dan berkeadilan serta tidak diskriminatif dengan menjunjung tinggi hak asasi manusia, nilai keagamaan,nilai kultural,dankemajemukanbangsa.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-4-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan diselenggarakan sebagai satu kesatuan yang sistemik dengan sistem terbukadanmultimakna.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-4-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan diselenggarakan sebagai suatu proses pembudayaan dan pemberdayaanpesertadidik yangberlangsungsepanjanghayat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-4-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan diselenggarakan dengan memberi keteladanan, membangun kemauan, dan mengembangkan kreativitas peserta didik dalam proses pembelajaran.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-4-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pendidikan diselenggarakan dengan mengembangkan budaya membaca, menulis, danberhitungbagi segenapwargamasyarakat.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-4-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidikan diselenggarakan dengan memberdayakan semua komponen masyarakat melalui peran serta dalam penyelenggaraan dan pengendalian mutulayananpendidikan. BagianKesatu Hak danKewajibanWarga Negara",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-II"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-5",
+        "nomor_pasal": "5",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-5-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap warga negara mempunyai hak yang sama untuk memperoleh pendidikan yangbermutu.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-5-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Warga negara yang memiliki kelainan fisik, emosional, mental, intelektual, dan/atausosial berhakmemperolehpendidikankhusus. (3)Warga...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-5-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Warga negara di daerah terpencil atau terbelakang serta masyarakat adat yangterpencil berhakmemperolehpendidikanlayanankhusus.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-5-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Warga negara yang memiliki potensi kecerdasan dan bakat istimewa berhakmemperolehpendidikankhusus.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-5-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Setiap warga negara berhak mendapat kesempatan meningkatkan pendidikansepanjanghayat.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-6",
+        "nomor_pasal": "6",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-6-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap warga negara yang berusia tujuh sampai dengan lima belas tahun wajibmengikuti pendidikandasar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-6-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap warga negara bertanggung jawab terhadap keberlangsungan penyelenggaraanpendidikan. BagianKedua HakdanKewajibanOrangTua",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-7",
+        "nomor_pasal": "7",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-7-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Orang tua berhak berperan serta dalam memilih satuan pendidikan dan memperolehinformasi tentangperkembanganpendidikananaknya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-7-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Orang tua dari anak usia wajib belajar, berkewajiban memberikan pendidikandasarkepada anaknya. BagianKetiga HakdanKewajibanMasyarakat",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-8",
+        "nomor_pasal": "8",
+        "teks_isi": "Masyarakat berhak berperan serta dalam perencanaan, pelaksanaan, pengawasan,dan evaluasi program pendidikan.",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-9",
+        "nomor_pasal": "9",
+        "teks_isi": "Masyarakat berkewajiban memberikan dukungan sumber daya dalam penyelenggaraanpendidikan. Bagian… -8BagianKeempat HakdanKewajibanPemerintah danPemerintahDaerah",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-10",
+        "nomor_pasal": "10",
+        "teks_isi": "Pemerintah dan Pemerintah Daerah berhak mengarahkan, membimbing, membantu, dan mengawasi penyelenggaraan pendidikan sesuai dengan peraturanperundang-undangan yangberlaku.",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-11",
+        "nomor_pasal": "11",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-11-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah wajib memberikan layanan dan kemudahan, serta menjamin terselenggaranya pendidikan yang bermutu bagi setiap warganegara tanpadiskriminasi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-11-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah wajib menjamin tersedianya dana guna terselenggaranya pendidikan bagi setiap warga negara yang berusia tujuh sampai denganlimabelas tahun.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-12",
+        "nomor_pasal": "12",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-12-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap pesertadidikpada setiapsatuanpendidikan berhak: a. mendapatkan pendidikan agama sesuai dengan agama yangdianutnya dandiajarkanolehpendidik yangseagama; b. mendapatkan pelayanan pendidikan sesuai dengan bakat, minat, dan kemampuannya; c. mendapatkan beasiswa bagi yang berprestasi yang orang tuanya tidak mampumembiayai pendidikannya; d. mendapatkan biaya pendidikan bagi mereka yang orang tuanya tidak mampumembiayai pendidikannya; e. pindah ke program pendidikan pada jalur dan satuan pendidikan lain yangsetara; f.menyelesaikan... -9f. menyelesaikan program pendidikan sesuai dengan kecepatan belajar masing-masing dan tidak menyimpang dari ketentuan batas waktu yangditetapkan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-12-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "mendapatkan pendidikan agama sesuai dengan agama yangdianutnya dandiajarkanolehpendidik yangseagama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-12-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "mendapatkan pelayanan pendidikan sesuai dengan bakat, minat, dan kemampuannya;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-12-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "mendapatkan beasiswa bagi yang berprestasi yang orang tuanya tidak mampumembiayai pendidikannya;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-12-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "mendapatkan biaya pendidikan bagi mereka yang orang tuanya tidak mampumembiayai pendidikannya;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-12-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "pindah ke program pendidikan pada jalur dan satuan pendidikan lain yangsetara; f.menyelesaikan... -9f. menyelesaikan program pendidikan sesuai dengan kecepatan belajar masing-masing dan tidak menyimpang dari ketentuan batas waktu yangditetapkan.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-12-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap pesertadidikberkewajiban: a. menjaga norma-norma pendidikan untuk menjamin keberlangsungan proses dankeberhasilan pendidikan; b. ikut menanggung biaya penyelenggaraan pendidikan, kecuali bagi peserta didik yang dibebaskan dari kewajiban tersebut sesuai dengan peraturanperundang-undangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-12-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "menjaga norma-norma pendidikan untuk menjamin keberlangsungan proses dankeberhasilan pendidikan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-12-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "ikut menanggung biaya penyelenggaraan pendidikan, kecuali bagi peserta didik yang dibebaskan dari kewajiban tersebut sesuai dengan peraturanperundang-undangan yangberlaku.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-12-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Warga negara asing dapat menjadi peserta didik pada satuan pendidikan yangdiselenggarakandalam wilayahNegara KesatuanRepublik Indonesia.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-12-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai hak dan kewajiban peserta didik sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan PeraturanPemerintah. BagianKesatu Umum",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-13",
+        "nomor_pasal": "13",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-13-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Jalur pendidikan terdiri atas pendidikan formal, nonformal, dan informal yangdapat salingmelengkapi danmemperkaya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-13-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan sebagaimana dimaksud dalam ayat (1) diselenggarakan dengan sistem terbukamelalui tatapmukadan/ataumelalui jarakjauh.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-14",
+        "nomor_pasal": "14",
+        "teks_isi": "Jenjang pendidikan formal terdiri atas pendidikan dasar, pendidikan menengah,danpendidikan tinggi. Pasal 15…",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-15",
+        "nomor_pasal": "15",
+        "teks_isi": "-10Jenis pendidikan mencakup pendidikan umum, kejuruan, akademik, profesi,vokasi,keagamaan,dankhusus.",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-16",
+        "nomor_pasal": "16",
+        "teks_isi": "Jalur, jenjang, dan jenis pendidikan dapat diwujudkan dalam bentuk satuan pendidikan yang diselenggarakan oleh Pemerintah, Pemerintah Daerah, dan/atau masyarakat. BagianKedua PendidikanDasar",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-17",
+        "nomor_pasal": "17",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 17,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-17-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan dasar merupakan jenjang pendidikan yang melandasi jenjang pendidikanmenengah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-17-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan dasar berbentuk Sekolah Dasar (SD) dan Madrasah Ibtidaiyah (MI) atau bentuk lain yang sederajat serta Sekolah Menengah Pertama (SMP)danMadrasah Tsanawiyah(MTs),ataubentuklain yangsederajat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-17-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai pendidikan dasar sebagaimana dimaksud dalam ayat (1)danayat (2)diaturlebihlanjut denganPeraturanPemerintah. BagianKetiga PendidikanMenengah",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-18",
+        "nomor_pasal": "18",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 18,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-18-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikanmenengahmerupakanlanjutanpendidikan dasar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-18-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan menengah terdiri atas pendidikan menengah umum dan pendidikanmenengahkejuruan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-18-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan menengah berbentuk Sekolah Menengah Atas (SMA), Madrasah Aliyah (MA), Sekolah Menengah Kejuruan (SMK), dan Madrasah AliyahKejuruan(MAK), ataubentuklain yangsederajat. (4)Ketentuan...",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-18-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai pendidikan menengah sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKeempat PendidikanTinggi",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-19",
+        "nomor_pasal": "19",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 19,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-19-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan tinggi merupakan jenjang pendidikan setelah pendidikan menengah yang mencakup program pendidikan diploma, sarjana, magister, spesialis, dandoktor yangdiselenggarakanolehperguruantinggi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-19-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikantinggi diselenggarakandengansistem terbuka.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-20",
+        "nomor_pasal": "20",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 20,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-20-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Perguruan tinggi dapat berbentuk akademi, politeknik, sekolah tinggi, institut,atauuniversitas.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-20-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Perguruan tinggi berkewajiban menyelenggarakan pendidikan, penelitian, danpengabdiankepada masyarakat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-20-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Perguruan tinggi dapat menyelenggarakan program akademik, profesi,",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-20-4",
+            "nomor_ayat": "4",
+            "teks_isi": "dan/atauvokasi. Ketentuan mengenai perguruan tinggi sebagaimana dimaksud dalam ayat (1),ayat (2),dan ayat (3) diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-21",
+        "nomor_pasal": "21",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 21,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-21-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Perguruan tinggi yang memenuhi persyaratan pendirian dan dinyatakan berhak menyelenggarakan program pendidikan tertentu dapat memberikan gelar akademik, profesi, atau vokasi sesuai dengan program pendidikan yangdiselenggarakannya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-21-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Perseorangan, organisasi, atau penyelenggara pendidikan yang bukan perguruan tinggi dilarang memberikan gelar akademik, profesi, atau vokasi. (3)Gelar...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-21-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Gelar akademik, profesi, atau vokasi hanya digunakan oleh lulusan dari perguruan tinggi yang dinyatakan berhak memberikan gelar akademik, profesi,atauvokasi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-21-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penggunaan gelar akademik, profesi, atau vokasi lulusan perguruan tinggi hanya dibenarkan dalam bentuk dan singkatan yang diterima dari perguruantinggi yangbersangkutan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-21-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Penyelenggara pendidikan yang tidak memenuhi persyaratan pendirian sebagaimana dimaksud dalam ayat (1) atau penyelenggara pendidikan bukan perguruan tinggi yang melakukan tindakan sebagaimana dimaksud dalam ayat (2) dikenakan sanksi administratif berupa penutupan penyelenggaraanpendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-21-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Gelar akademik, profesi, atau vokasi yang dikeluarkan oleh penyelenggara pendidikan yang tidak sesuai dengan ketentuan sebagaimana dimaksud dalam ayat (1)ataupenyelenggarapendidikan yangbukanperguruantinggi sebagaimanadimaksud dalam ayat (2)dinyatakan tidaksah.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-21-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Ketentuan mengenai gelar akademik, profesi, atau vokasi sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), ayat (4), ayat (5), dan ayat (6) diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-22",
+        "nomor_pasal": "22",
+        "teks_isi": "Universitas, institut, dan sekolah tinggi yang memiliki program doktor berhak memberikan gelar doktor kehormatan (doktor honoris causa) kepada setiap individu yang layak memperoleh penghargaan berkenaan dengan jasa-jasa yang luar biasa dalam bidang ilmu pengetahuan, teknologi, kemasyarakatan, keagamaan,kebudayaan, atauseni.",
+        "status": "Aktif",
+        "urutan": 22,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-23",
+        "nomor_pasal": "23",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 23,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-23-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pada universitas, institut, dan sekolah tinggi dapat diangkat guru besar atau profesorsesuai denganperaturanperundang-undangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-23-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Sebutan guru besar atau profesor hanya dipergunakan selama yang bersangkutanmasihaktif bekerjasebagai pendidikdi perguruantinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-24",
+        "nomor_pasal": "24",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 24,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-24-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Dalam penyelenggaraan pendidikan dan pengembangan ilmu pengetahuan, pada perguruan tinggi berlaku kebebasan akademik dan kebebasan mimbar akademiksertaotonomi keilmuan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-24-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Perguruan tinggi memiliki otonomi untuk mengelola sendiri lembaganya sebagai pusat penyelenggaraan pendidikan tinggi, penelitian ilmiah, dan pengabdiankepadamasyarakat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-24-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Perguruan tinggi dapat memperoleh sumber dana dari masyarakat yang pengelolaannya dilakukanberdasarkanprinsipakuntabilitas publik.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-24-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai penyelenggaraan pendidikan tinggi sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan PeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-25",
+        "nomor_pasal": "25",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 25,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-25-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Perguruan tinggi menetapkan persyaratan kelulusan untuk mendapatkan gelarakademik,profesi,atauvokasi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-25-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Lulusan perguruan tinggi yang karya ilmiahnya digunakan untuk memperoleh gelar akademik, profesi, atau vokasi terbukti merupakan jiplakandicabut gelarnya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-25-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai persyaratan kelulusan dan pencabutan gelar akademik, profesi, atau vokasi sebagaimana dimaksud dalam ayat (1) dan ayat (2)diaturlebihlanjut denganPeraturanPemerintah. BagianKelima PendidikanNonformal",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-26",
+        "nomor_pasal": "26",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 26,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-26-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan nonformal diselenggarakan bagi warga masyarakat yang memerlukan layanan pendidikan yang berfungsi sebagai pengganti, penambah, dan/atau pelengkap pendidikan formal dalam rangka mendukungpendidikansepanjanghayat. (2)Pendidikan...",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-26-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan nonformal berfungsi mengembangkan potensi peserta didik dengan penekanan pada penguasaan pengetahuan dan keterampilan fungsional sertapengembangansikapdankepribadianprofesional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-26-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan nonformal meliputi pendidikan kecakapan hidup, pendidikan anak usia dini, pendidikan kepemudaan, pendidikan pemberdayaan perempuan, pendidikan keaksaraan, pendidikan keterampilan dan pelatihan kerja, pendidikan kesetaraan, serta pendidikan lain yang ditujukan untuk mengembangkankemampuanpesertadidik.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-26-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Satuan pendidikan nonformal terdiri atas lembaga kursus, lembaga pelatihan,kelompokbelajar,pusat kegiatanbelajarmasyarakat,danmajelis taklim,sertasatuanpendidikan yangsejenis.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-26-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Kursus dan pelatihan diselenggarakan bagi masyarakat yang memerlukan bekal pengetahuan, keterampilan, kecakapan hidup, dan sikap untuk mengembangkan diri, mengembangkan profesi, bekerja, usaha mandiri, dan/ataumelanjutkanpendidikankejenjang yanglebih tinggi.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-26-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Hasil pendidikan nonformal dapat dihargai setara dengan hasil program pendidikan formal setelah melalui proses penilaian penyetaraan oleh lembaga yang ditunjuk oleh Pemerintah atau Pemerintah Daerah dengan mengacupadastandarnasional pendidikan.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-26-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Ketentuan mengenai penyelenggaraan pendidikan nonformal sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), ayat (4), ayat (5), dan ayat (6) diaturlebihlanjut denganPeraturanPemerintah. BagianKeenam Pendidikan Informal",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-27",
+        "nomor_pasal": "27",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 27,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-27-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kegiatan pendidikan informal yang dilakukan oleh keluarga dan lingkunganberbentukkegiatanbelajarsecaramandiri.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-27-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Hasil pendidikan sebagaimana dimaksud dalam ayat (1) diakui sama dengan pendidikan formal dan nonformal setelah peserta didik lulus ujian sesuai denganstandarnasional pendidikan. (3)Ketentuan...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-27-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai pengakuan hasil pendidikan informal sebagaimana dimaksud dalam ayat (2) diaturlebihlanjut denganPeraturanPemerintah. BagianKetujuh PendidikanAnakUsiaDini",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-28",
+        "nomor_pasal": "28",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 28,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-28-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan anak usia dini diselenggarakan sebelum jenjang pendidikan dasar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-28-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan anak usia dini dapat diselenggarakan melalui jalur pendidikan formal, nonformal,dan/atauinformal.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-28-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan anak usia dini pada jalur pendidikan formal berbentuk Taman Kanak-kanak(TK),Raudatul Athfal (RA),ataubentuklain yangsederajat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-28-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan anak usia dini pada jalur pendidikan nonformal berbentuk Kelompok Bermain (KB), Taman Penitipan Anak (TPA), atau bentuk lain yangsederajat.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-28-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pendidikan anak usia dini pada jalur pendidikan informal berbentuk pendidikan keluarga atau pendidikan yang diselenggarakan oleh lingkungan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-28-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan mengenai pendidikan anak usia dini sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur lebih lanjut dengan PeraturanPemerintah. BagianKedelapan PendidikanKedinasan",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-29",
+        "nomor_pasal": "29",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 29,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-29-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan kedinasan merupakan pendidikan profesi yang diselenggarakanolehdepartemenataulembagapemerintahnondepartemen.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-29-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan kedinasan berfungsi meningkatkan kemampuan dan keterampilan dalam pelaksanaan tugas kedinasan bagi pegawai dan calon pegawai negeri suatu departemen atau lembaga pemerintah nondepartemen. (3)Pendidikan...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-29-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan kedinasan diselenggarakan melalui jalur pendidikan formal dan nonformal.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-29-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai pendidikan kedinasan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKesembilan PendidikanKeagamaan",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-30",
+        "nomor_pasal": "30",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 30,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-30-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan diselenggarakan oleh Pemerintah dan/atau kelompok masyarakat dari pemeluk agama, sesuai dengan peraturan perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-30-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan berfungsi mempersiapkan peserta didik menjadi anggota masyarakat yang memahami dan mengamalkan nilai-nilai ajaran agamanyadan/ataumenjadi ahli ilmuagama.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-30-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan keagamaan dapat diselenggarakan pada jalur pendidikan formal,nonformal,daninformal.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-30-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan keagamaan berbentuk pendidikan diniyah, pesantren, pasraman,pabhajasamanera,danbentuklain yangsejenis.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-30-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan mengenai pendidikan keagamaan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKesepuluh PendidikanJarakJauh",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-31",
+        "nomor_pasal": "31",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 31,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-31-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan jarak jauh dapat diselenggarakan pada semua jalur, jenjang,",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-31-2",
+            "nomor_ayat": "2",
+            "teks_isi": "danjenis pendidikan. Pendidikan jarak jauh berfungsi memberikan layanan pendidikan kepada kelompok masyarakat yang tidak dapat mengikuti pendidikan secara tatap mukaataureguler. (3)Pendidikan...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-31-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan jarak jauh diselenggarakan dalam berbagai bentuk, modus, dan cakupan yang didukung oleh sarana dan layanan belajar serta sistem penilaian yang menjamin mutu lulusan sesuai dengan standar nasional pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-31-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai penyelenggaraan pendidikan jarak jauh sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan PeraturanPemerintah. BagianKesebelas PendidikanKhusus dan Pendidikan LayananKhusus",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-32",
+        "nomor_pasal": "32",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 32,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-32-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan khusus merupakan pendidikan bagi peserta didik yang memiliki tingkat kesulitan dalam mengikuti proses pembelajaran karena kelainan fisik, emosional, mental, sosial, dan/atau memiliki potensi kecerdasandanbakat istimewa.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-32-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan layanan khusus merupakan pendidikan bagi peserta didik di daerah terpencil atau terbelakang, masyarakat adat yang terpencil, dan/atau mengalami bencana alam, bencana sosial, dan tidak mampu dari segi ekonomi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-32-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai pelaksanaan pendidikan khusus dan pendidikan layanan khusus sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-33",
+        "nomor_pasal": "33",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 33,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-33-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Bahasa Indonesia sebagai Bahasa Negara menjadi bahasa pengantar dalam pendidikannasional. (2)Bahasa…",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-33-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Bahasa daerah dapat digunakan sebagai bahasa pengantar dalam tahap awal pendidikan apabila diperlukan dalam penyampaian pengetahuan dan/atauketerampilantertentu.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-33-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Bahasa asing dapat digunakan sebagai bahasa pengantar pada satuan pendidikan tertentu untuk mendukung kemampuan berbahasa asing peserta didik.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-34",
+        "nomor_pasal": "34",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 34,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-34-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap warga negara yangberusia 6 (enam) tahun dapat mengikuti program wajibbelajar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-34-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah menjamin terselenggaranya wajib belajarminimal padajenjangpendidikandasartanpamemungut biaya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-34-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Wajib belajar merupakan tanggung jawab negara yang diselenggarakan olehlembagapendidikan Pemerintah,Pemerintah Daerah,danmasyarakat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-34-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai wajib belajar sebagaimana dimaksud dalam ayat (1), ayat (2),danayat (3)diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IV"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-35",
+        "nomor_pasal": "35",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 35,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-35-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar nasional pendidikan terdiri atas standar isi, proses, kompetensi lulusan, tenaga kependidikan, sarana dan prasarana, pengelolaan, pembiayaan, dan penilaian pendidikan yang harus ditingkatkan secara berencanadanberkala.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-35-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Standar nasional pendidikan digunakan sebagai acuan pengembangan kurikulum, tenaga kependidikan, sarana dan prasarana, pengelolaan, dan pembiayaan. (3)Pengembangan...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-35-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengembangan standar nasional pendidikan serta pemantauan dan pelaporan pencapaiannya secara nasional dilaksanakan oleh suatu badan standardisasi,penjaminan,danpengendalianmutupendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-35-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai standar nasional pendidikan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan Peraturan Pemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-36",
+        "nomor_pasal": "36",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 36,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-36-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengembangan kurikulum dilakukan dengan mengacu pada standar nasional pendidikanuntukmewujudkantujuanpendidikannasional.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-36-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kurikulum pada semua jenjang dan jenis pendidikan dikembangkan dengan prinsip diversifikasi sesuai dengan satuan pendidikan, potensi daerah,danpesertadidik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-36-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kurikulum disusun sesuai dengan jenjang pendidikan dalam kerangka NegaraKesatuanRepublik Indonesiadenganmemperhatikan: a. peningkatanimandantakwa; b. peningkatanakhlakmulia; c. peningkatanpotensi,kecerdasan,danminat pesertadidik; d. keragamanpotensi daerahdanlingkungan; e. tuntutanpembangunandaerahdannasional; f. tuntutanduniakerja; g. perkembanganilmupengetahuan,teknologi,danseni; h. agama; i. dinamikaperkembangan global; dan j. persatuannasional dannilai-nilai kebangsaan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "peningkatanimandantakwa;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "peningkatanakhlakmulia;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "peningkatanpotensi,kecerdasan,danminat pesertadidik;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "keragamanpotensi daerahdanlingkungan;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "tuntutanpembangunandaerahdannasional;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "tuntutanduniakerja;",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "perkembanganilmupengetahuan,teknologi,danseni;",
+                "urutan": 7,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "agama;",
+                "urutan": 8,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-I",
+                "jenis": "huruf",
+                "nomor": "i",
+                "teks_isi": "dinamikaperkembangan global; dan",
+                "urutan": 9,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-36-3-huruf-J",
+                "jenis": "huruf",
+                "nomor": "j",
+                "teks_isi": "persatuannasional dannilai-nilai kebangsaan.",
+                "urutan": 10,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-36-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai pengembangan kurikulum sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan Peraturan Pemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-37",
+        "nomor_pasal": "37",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 37,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-37-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum pendidikandasardanmenengah wajib memuat : a. pendidikanagama; b. pendidikankewarganegaraan; c. bahasa; d. matematika; e. ilmupengetahuanalam; f. ilmupengetahuansosial; g. seni danbudaya; h. pendidikanjasmani dan olahraga; i. keterampilan/kejuruan; dan 1. muatanlokal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikanagama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikankewarganegaraan;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "bahasa;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "matematika;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "ilmupengetahuanalam;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "ilmupengetahuansosial;",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "seni danbudaya;",
+                "urutan": 7,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "pendidikanjasmani dan olahraga;",
+                "urutan": 8,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-huruf-I",
+                "jenis": "huruf",
+                "nomor": "i",
+                "teks_isi": "keterampilan/kejuruan; dan",
+                "urutan": 9,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-1-angka-1",
+                "jenis": "angka",
+                "nomor": "1",
+                "teks_isi": "muatanlokal.",
+                "urutan": 10,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-37-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kurikulum pendidikantinggi wajibmemuat : a. pendidikanagama; b. pendidikankewarganegaraan; dan c. bahasa.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-37-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikanagama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikankewarganegaraan; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-37-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "bahasa.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-37-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai kurikulum sebagaimana dimaksud dalam ayat (1) dan ayat (2)diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-38",
+        "nomor_pasal": "38",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 38,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-38-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kerangka dasar dan struktur kurikulum pendidikan dasar dan menengah ditetapkanolehPemerintah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-38-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kurikulum pendidikan dasar dan menengah dikembangkan sesuai dengan relevansinya oleh setiap kelompok atau satuan pendidikan dan komite sekolah/madrasah di bawah koordinasi dan supervisi dinas pendidikan atau kantor Departemen Agama Kabupaten/Kota untuk pendidikan dasar dan Propinsi untukpendidikanmenengah.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-38-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kurikulum pendidikan tinggi dikembangkan oleh perguruan tinggi yang bersangkutan dengan mengacu pada standar nasional pendidikan untuk setiapprogram studi. (4)Kerangka...",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-38-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Kerangka dasar dan struktur kurikulum pendidikan tinggi dikembangkan oleh perguruan tinggi yang bersangkutan dengan mengacu pada standar nasional pendidikanuntuksetiapprogram studi.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-39",
+        "nomor_pasal": "39",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 39,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-39-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Tenaga kependidikan bertugas melaksanakan administrasi, pengelolaan, pengembangan, pengawasan, dan pelayanan teknis untuk menunjang proses pendidikanpadasatuanpendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-39-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidik merupakan tenaga profesional yang bertugas merencanakan dan melaksanakan proses pembelajaran, menilai hasil pembelajaran, melakukan pembimbingan dan pelatihan, serta melakukan penelitian dan pengabdian kepada masyarakat, terutama bagi pendidik pada perguruan tinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-40",
+        "nomor_pasal": "40",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 40,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-40-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikdan tenagakependidikanberhakmemperoleh: a. penghasilan dan jaminan kesejahteraan sosial yang pantas dan memadai; b. penghargaan sesuai dengantugas danprestasi kerja; c. pembinaankariersesuai dengantuntutanpengembangankualitas; d. perlindungan hukum dalam melaksanakan tugas dan hak atas hasil kekayaanintelektual; dan e. kesempatan untuk menggunakan sarana, prasarana, dan fasilitas pendidikanuntukmenunjangkelancaranpelaksanaantugas.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-40-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "penghasilan dan jaminan kesejahteraan sosial yang pantas dan memadai;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-40-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penghargaan sesuai dengantugas danprestasi kerja;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-40-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pembinaankariersesuai dengantuntutanpengembangankualitas;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-40-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "perlindungan hukum dalam melaksanakan tugas dan hak atas hasil kekayaanintelektual; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-40-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "kesempatan untuk menggunakan sarana, prasarana, dan fasilitas pendidikanuntukmenunjangkelancaranpelaksanaantugas.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-40-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikdantenagakependidikanberkewajiban: a. menciptakan suasana pendidikan yang bermakna, menyenangkan, kreatif, dinamis, dandialogis; b. mempunyai komitmen secara profesional untuk meningkatkan mutu pendidikan; dan c. memberi ... -22c. memberi teladan dan menjaga nama baik lembaga, profesi, dan kedudukansesuai dengan kepercayaan yangdiberikankepadanya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-UU-20-2003-40-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "menciptakan suasana pendidikan yang bermakna, menyenangkan, kreatif, dinamis, dandialogis;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-40-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "mempunyai komitmen secara profesional untuk meningkatkan mutu pendidikan; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-UU-20-2003-40-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "memberi ... -22c. memberi teladan dan menjaga nama baik lembaga, profesi, dan kedudukansesuai dengan kepercayaan yangdiberikankepadanya.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-41",
+        "nomor_pasal": "41",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 41,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-41-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikdantenagakependidikandapat bekerjasecaralintas daerah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-41-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengangkatan, penempatan, dan penyebaran pendidik dan tenaga kependidikan diatur oleh lembaga yang mengangkatnya berdasarkan kebutuhansatuanpendidikanformal.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-41-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah wajib memfasilitasi satuan pendidikan dengan pendidik dan tenaga kependidikan yang diperlukan untuk menjaminterselenggaranya pendidikan yangbermutu.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-41-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai pendidik dan tenaga kependidikan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan PeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-42",
+        "nomor_pasal": "42",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 42,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-42-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidik harus memiliki kualifikasi minimum dan sertifikasisesuai dengan jenjang kewenangan mengajar, sehat jasmani dan rohani, serta memiliki kemampuanuntukmewujudkantujuanpendidikan nasional.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-42-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidik untuk pendidikan formal pada jenjang pendidikan usia dini, pendidikan dasar, pendidikan menengah, dan pendidikan tinggi dihasilkan olehperguruantinggi yangterakreditasi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-42-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai kualifikasi pendidik sebagaimana dimaksud dalam ayat (1)danayat (2)diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-43",
+        "nomor_pasal": "43",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 43,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-43-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Promosi dan penghargaan bagi pendidik dan tenaga kependidikan dilakukan berdasarkan latar belakang pendidikan, pengalaman, kemampuan,danprestasi kerjadalam bidangpendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-43-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Sertifikasi pendidik diselenggarakan oleh perguruan tinggi yang memiliki program pengadaantenagakependidikan yangterakreditasi. (2)Sertifikasi …",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-43-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai promosi, penghargaan, dan sertifikasi pendidik sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-44",
+        "nomor_pasal": "44",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 44,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-44-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah wajib membina dan mengembangkan tenaga kependidikan pada satuan pendidikan yang diselenggarakan oleh PemerintahdanPemerintahDaerah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-44-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggara pendidikan oleh masyarakat berkewajiban membina dan mengembangkan tenaga kependidikan pada satuan pendidikan yang diselenggarakannya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-44-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah wajib membantu pembinaan dan pengembangan tenaga kependidikan pada satuan pendidikan formal yang diselenggarakanolehmasyarakat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-45",
+        "nomor_pasal": "45",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 45,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-45-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap satuan pendidikan formal dan nonformal menyediakan sarana dan prasarana yang memenuhi keperluan pendidikan sesuai dengan pertumbuhan dan perkembangan potensi fisik, kecerdasan intelektual, sosial,emosional,dankejiwaanpesertadidik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-45-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan mengenai penyediaan sarana dan prasarana pendidikan pada semua satuan pendidikan sebagaimana dimaksud dalam ayat (1) diatur lebihlanjut denganPeraturanPemerintah. -24BABXIII BagianKesatu TanggungJawabPendanaan",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-46",
+        "nomor_pasal": "46",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 46,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-46-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendanaan pendidikan menjadi tanggung jawab bersama antara Pemerintah,Pemerintah Daerah,danmasyarakat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-46-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah bertanggung jawab menyediakan anggaran pendidikan sebagaimana diatur dalam Pasal 31 ayat (4) UndangUndangDasarNegaraRepublik IndonesiaTahun 1945.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-46-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai tanggung jawab pendanaan pendidikan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKedua SumberPendanaanPendidikan",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-47",
+        "nomor_pasal": "47",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 47,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-47-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Sumber pendanaan pendidikan ditentukan berdasarkan prinsip keadilan, kecukupan,dankeberlanjutan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-47-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah, Pemerintah Daerah, dan masyarakat mengerahkan sumber daya yangadasesuai denganperaturanperundang-undangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-47-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuanmengenai sumberpendanaanpendidikansebagaimanadimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKetiga PengelolaanDanaPendidikan",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-48",
+        "nomor_pasal": "48",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 48,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-48-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengelolaan dana pendidikan berdasarkan pada prinsip keadilan, efisiensi, transparansi,danakuntabilitas publik. (2)Ketentuan...",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-48-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan mengenai pengelolaan dana pendidikan sebagaimana dimaksud dalam ayat (1)diaturlebihlanjut denganPeraturanPemerintah. BagianKeempat PengalokasianDanaPendidikan",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-49",
+        "nomor_pasal": "49",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 49,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-49-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Dana pendidikan selain gaji pendidik dan biaya pendidikan kedinasan dialokasikan minimal 20% dari Anggaran Pendapatan dan Belanja Negara (APBN) pada sektor pendidikan dan minimal 20% dari Anggaran Pendapatandan Belanja Daerah(APBD).",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-49-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Gaji guru dan dosen yang diangkat oleh Pemerintah dialokasikan dalam AnggaranPendapatandan Belanja Negara(APBN).",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-49-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dana pendidikan dari Pemerintah dan Pemerintah Daerah untuk satuan pendidikan diberikan dalam bentuk hibah sesuai dengan peraturan perundang-undangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-49-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Dana pendidikan dari Pemerintah kepada Pemerintah Daerah diberikan dalam bentuk hibah sesuai dengan peraturan perundang-undangan yang berlaku.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-49-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan mengenai pengalokasian dana pendidikan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur lebih lanjut denganPeraturanPemerintah. BagianKesatu Umum",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-50",
+        "nomor_pasal": "50",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 50,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-50-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengelolaan sistem pendidikan nasional merupakan tanggung jawab Menteri. (2)Pemerintah…",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-50-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah menentukan kebijakan nasional dan standar nasional pendidikanuntukmenjaminmutupendidikannasional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-50-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah dan/atau Pemerintah Daerah menyelenggarakan sekurangkurangnya satu satuan pendidikan pada semua jenjang pendidikan untuk dikembangkanmenjadi satuanpendidikan yangbertarafinternasional.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-50-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pemerintah Daerah Propinsi melakukan koordinasi atas penyelenggaraan pendidikan, pengembangan tenaga kependidikan, dan penyediaan fasilitas penyelenggaraan pendidikan lintas daerah Kabupaten/Kota untuk tingkat pendidikandasardanmenengah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-50-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pemerintah Kabupaten/Kota mengelola pendidikan dasar dan pendidikan menengah,sertasatuanpendidikan yangberbasis keunggulanlokal.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-50-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Perguruan tinggi menentukan kebijakan dan memiliki otonomi dalam mengelolapendidikandi lembaganya.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-50-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Ketentuan mengenai pengelolaan pendidikan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), ayat (4), ayat (5),dan ayat (6)diaturlebih lanjut denganPeraturan Pemerintah.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-51",
+        "nomor_pasal": "51",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 51,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-51-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengelolaan satuan pendidikan anak usia dini, pendidikan dasar, dan pendidikan menengah dilaksanakan berdasarkan standar pelayanan minimal denganprinsip manajemenberbasis sekolah/madrasah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-51-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengelolaan satuan pendidikan tinggi dilaksanakan berdasarkan prinsip otonomi,akuntabilitas, jaminanmutu,danevaluasi yangtransparan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-51-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai pengelolaan satuan pendidikan sebagaimana dimaksud dalam ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-52",
+        "nomor_pasal": "52",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 52,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-52-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengelolaan satuan pendidikan nonformal dilakukan oleh Pemerintah, PemerintahDaerah,dan/ataumasyarakat. (2)Ketentuan...",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-52-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan mengenai pengelolaan satuan pendidikan nonformal sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKedua Badan Hukum Pendidikan",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-53",
+        "nomor_pasal": "53",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 53,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-53-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Penyelenggara dan/atau satuan pendidikan formal yang didirikan oleh Pemerintahataumasyarakat berbentukbadanhukum pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-53-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Badan hukum pendidikan sebagaimana dimaksud dalam ayat (1) berfungsi memberikanpelayananpendidikankepadapeserta didik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-53-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Badan hukum pendidikan sebagaimana dimaksud dalam ayat (1) berprinsip nirlaba dan dapat mengelola dana secara mandiri untuk memajukan satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-53-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan tentang badan hukum pendidikan diatur dengan Undang-undang tersendiri. BagianKesatu Umum",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-54",
+        "nomor_pasal": "54",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 54,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-54-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Peran serta masyarakat dalam pendidikan meliputi peran serta perseorangan, kelompok, keluarga, organisasi profesi, pengusaha, dan organisasi kemasyarakatan dalam penyelenggaraan dan pengendalian mutu pelayananpendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-54-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Masyarakat dapat berperan serta sebagai sumber, pelaksana, dan pengguna hasil pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-54-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai peran serta masyarakat sebagaimana dimaksud dalam ayat (1)danayat (2)diaturlebihlanjut denganPeraturanPemerintah. BagianKedua PendidikanBerbasis Masyarakat",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-55",
+        "nomor_pasal": "55",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 55,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-55-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Masyarakat berhak menyelenggarakan pendidikan berbasis masyarakat pada pendidikan formal dan nonformal sesuai dengan kekhasan agama, lingkungansosial,danbudaya untukkepentingan masyarakat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-55-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggara pendidikan berbasis masyarakat mengembangkan dan melaksanakan kurikulum dan evaluasi pendidikan, serta manajemen dan pendanaannyasesuai denganstandarnasional pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-55-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dana penyelenggaraan pendidikan berbasis masyarakat dapat bersumber dari penyelenggara, masyarakat, Pemerintah, Pemerintah Daerah dan/atau sumber lain yang tidak bertentangan dengan peraturan perundangundangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-55-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Lembaga pendidikan berbasis masyarakat dapat memperoleh bantuan teknis, subsidi dana, dan sumber daya lain secara adil dan merata dari Pemerintahdan/atauPemerintahDaerah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-55-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan mengenai peran serta masyarakat sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur lebih lanjut dengan Peraturan Pemerintah. BagianKetiga DewanPendidikandan KomiteSekolah/Madrasah",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-56",
+        "nomor_pasal": "56",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 56,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-56-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Masyarakat berperan dalam peningkatan mutu pelayanan pendidikan yang meliputi perencanaan, pengawasan, dan evaluasi program pendidikan melalui dewanpendidikandankomitesekolah/madrasah. (2)Dewan...",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-56-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Dewan pendidikan sebagai lembaga mandiri dibentuk dan berperan dalam peningkatan mutu pelayanan pendidikan dengan memberikan pertimbangan, arahan dan dukungan tenaga, sarana dan prasarana, serta pengawasan pendidikan pada tingkat Nasional, Propinsi, dan Kabupaten/ Kota yangtidakmempunyai hubunganhirarkis.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-56-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Komite sekolah/madrasah, sebagai lembaga mandiri, dibentuk dan berperan dalam peningkatan mutu pelayanan dengan memberikan pertimbangan, arahan dan dukungan tenaga, sarana dan prasarana, serta pengawasanpendidikan padatingkat satuanpendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-56-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai pembentukan dewan pendidikan dan komite sekolah/madrasah sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3)diaturlebihlanjut denganPeraturanPemerintah. BagianKesatu Evaluasi",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-57",
+        "nomor_pasal": "57",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 57,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-57-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi dilakukan dalam rangka pengendalian mutu pendidikan secara nasional sebagai bentuk akuntabilitas penyelenggara pendidikan kepada pihak-pihak yangberkepentingan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-57-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi dilakukan terhadap peserta didik, lembaga, dan program pendidikan pada jalur formal dan nonformal untuk semua jenjang, satuan, danjenis pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-58",
+        "nomor_pasal": "58",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 58,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-58-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi hasil belajar peserta didik dilakukan oleh pendidik untuk memantau proses, kemajuan, dan perbaikan hasil belajar peserta didik secaraberkesinambungan. (2)Evaluasi ...",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-58-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi peserta didik, satuan pendidikan, dan program pendidikan dilakukan oleh lembaga mandiri secara berkala, menyeluruh, transparan, dansistemikuntukmenilai pencapaianstandarnasional pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-59",
+        "nomor_pasal": "59",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 59,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-59-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah dan Pemerintah Daerah melakukan evaluasi terhadap pengelola,satuan,jalur,jenjang,danjenis pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-59-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Masyarakat dan/atau organisasi profesi dapat membentuk lembaga yang mandiri untukmelakukanevaluasi sebagaimanadimaksud dalam Pasal 58.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-59-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai evaluasi sebagaimana dimaksud dalam ayat (1) dan ayat (2)diaturlebihlanjut denganPeraturanPemerintah. BagianKedua Akreditasi",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-60",
+        "nomor_pasal": "60",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 60,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-60-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi dilakukan untuk menentukan kelayakan program dan satuan pendidikan pada jalur pendidikan formal dan nonformal pada setiap jenjangdanjenis pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-60-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Akreditasi terhadap program dan satuan pendidikan dilakukan oleh Pemerintah dan/atau lembaga mandiri yang berwenang sebagai bentuk akuntabilitas publik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-60-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Akreditasi dilakukanatas dasarkriteria yangbersifat terbuka.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-60-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai akreditasi sebagaimana dimaksud dalam ayat (1), ayat (2),danayat (3)diaturlebihlanjut denganPeraturanPemerintah. BagianKetiga Sertifikasi",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-61",
+        "nomor_pasal": "61",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 61,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-61-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Sertifikat berbentukijazahdansertifikat kompetensi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-61-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ijazah…",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-61-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ijazah diberikan kepada peserta didik sebagai pengakuan terhadap prestasi belajar dan/atau penyelesaian suatu jenjang pendidikan setelah lulus ujian yangdiselenggarakanoleh satuanpendidikan yangterakreditasi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-61-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Sertifikat kompetensi diberikan oleh penyelenggara pendidikan dan lembaga pelatihan kepada peserta didik dan warga masyarakat sebagai pengakuan terhadap kompetensi untuk melakukan pekerjaan tertentu setelah lulus uji kompetensi yang diselenggarakan oleh satuan pendidikan yangterakreditasi ataulembagasertifikasi.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-61-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai sertifikasi sebagaimana dimaksud dalam ayat (1), ayat (2),danayat (3)diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-62",
+        "nomor_pasal": "62",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 62,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-62-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap satuan pendidikan formal dan nonformal yang didirikan wajib memperolehizinPemerintahatauPemerintahDaerah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-62-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Syarat-syarat untuk memperoleh izin meliputi isi pendidikan, jumlah dan kualifikasi pendidik dan tenaga kependidikan, sarana dan prasarana pendidikan, pembiayaan pendidikan, sistem evaluasi dan sertifikasi, serta manajemendanproses pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-62-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah atau Pemerintah Daerah memberi atau mencabut izin pendirian satuan pendidikan sesuai dengan peraturan perundang-undangan yang berlaku.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-62-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai pendirian satuan pendidikan sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) diatur lebih lanjut dengan Peraturan Pemerintah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-63",
+        "nomor_pasal": "63",
+        "teks_isi": "Satuan pendidikan yang didirikan dan diselenggarakan oleh Perwakilan Republik Indonesiadi negaralainmenggunakanketentuanUndang-undangini. -32BABXVIII",
+        "status": "Aktif",
+        "urutan": 63,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-64",
+        "nomor_pasal": "64",
+        "teks_isi": "Satuan pendidikan yang diselenggarakan oleh perwakilan negara asing di wilayah Negara Kesatuan Republik Indonesia, bagi peserta didik warga negara asing, dapat menggunakan ketentuan yang berlaku di negara yang bersangkutan atas persetujuanPemerintahRepublik Indonesia.",
+        "status": "Aktif",
+        "urutan": 64,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-65",
+        "nomor_pasal": "65",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 65,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-65-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Lembaga pendidikan asing yang terakreditasi atau yang diakui di negaranya dapat menyelenggarakan pendidikan di wilayah Negara Kesatuan Republik Indonesia sesuai dengan peraturan perundangundangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-65-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Lembaga pendidikan asing pada tingkat pendidikan dasar dan menengah wajib memberikan pendidikan agama dan kewarganegaraan bagi peserta didikWargaNegara Indonesia.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-65-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggaraan pendidikan asing wajib bekerja sama dengan lembaga pendidikan di wilayah Negara Kesatuan Republik Indonesia dengan mengikutsertakantenaga pendidikdanpengelola Warga Negara Indonesia.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-65-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Kegiatan pendidikan yang menggunakan sistem pendidikan negara lain yang diselenggarakan di wilayah Negara Kesatuan Republik Indonesia dilakukansesuai dengan peraturanperundang-undangan yangberlaku.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-65-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan mengenai penyelenggaraan pendidikan asing sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) diatur lebih lanjut denganPeraturanPemerintah. -33BABXIX",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-66",
+        "nomor_pasal": "66",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 66,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-66-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah, Pemerintah Daerah, dewan pendidikan, dan komite sekolah/ madrasah melakukan pengawasan atas penyelenggaraan pendidikan pada semua jenjang dan jenis pendidikan sesuai dengan kewenangan masingmasing.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-66-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengawasan sebagaimana dimaksud dalam ayat (1) dilakukan dengan prinsip transparansi dan akuntabilitas publik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-66-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan mengenai pengawasan sebagaimana dimaksud dalam ayat (1) diaturlebihlanjut denganPeraturanPemerintah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-67",
+        "nomor_pasal": "67",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 67,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-67-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Perseorangan, organisasi, atau penyelenggara pendidikan yang memberikan ijazah, sertifikat kompetensi, gelar akademik, profesi, dan/ atau vokasi tanpa hak dipidana dengan pidana penjara paling lama sepuluh tahun dan/atau pidana denda paling banyak Rp 1.000.000.000,00 (satu miliarrupiah).",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-67-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggara perguruan tinggi yang dinyatakan ditutup berdasarkan Pasal 21 ayat (5) dan masih beroperasi dipidana dengan pidana penjara paling lama sepuluh tahun dan/atau pidana denda paling banyak Rp1.000.000.000,00(satumiliarrupiah).",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-67-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggara pendidikan yang memberikan sebutan guru besar atau profesor dengan melanggar Pasal 23 ayat (1) dipidana dengan pidana penjara palinglamasepuluhtahundan/atau pidanadenda palingbanyakRp 1.000.000.000,00(satumiliarrupiah). (4)Penyelanggara...",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-67-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penyelenggara pendidikan jarak jauh yang tidak memenuhi persyaratan sebagaimana dimaksud dalam Pasal 31 ayat (3) dipidana dengan pidana penjara palinglamasepuluhtahundan/atau pidanadenda palingbanyakRp 1.000.000.000,00(satumiliarrupiah).",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-68",
+        "nomor_pasal": "68",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 68,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-68-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap orang yang membantu memberikan ijazah, sertifikat kompetensi, gelar akademik, profesi, dan/atau vokasi dari satuan pendidikan yang tidak memenuhi persyaratan dipidana dengan pidana penjara paling lama lima tahun dan/atau pidana denda paling banyak Rp 500.000.000,00 (lima ratus jutarupiah).",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-68-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap orang yang menggunakan ijazah, sertifikat kompetensi, gelar akademik, profesi, dan/atau vokasi yang diperoleh dari satuan pendidikan yang tidak memenuhi persyaratan dipidana dengan pidana penjara paling lama lima tahun dan/atau pidana denda paling banyak Rp 500.000.000,00 (limaratus jutarupiah).",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-68-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Setiap orang yang menggunakan gelar lulusan yang tidak sesuai dengan bentuk dan singkatan yang diterima dari perguruan tinggi yang bersangkutan sebagaimana dimaksud dalam Pasal 21 ayat (4) dipidana dengan pidana penjara paling lama dua tahun dan/atau pidana denda paling banyakRp200.000.000,00(duaratus jutarupiah).",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-68-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Setiap orang yang memperoleh dan/atau menggunakan sebutan guru besar yang tidak sesuai dengan Pasal 23 ayat (1) dan/atau ayat (2) dipidana dengan pidana penjara paling lama lima tahun dan/atau pidana denda palingbanyakRp500.000.000,00(limaratus jutarupiah).",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-69",
+        "nomor_pasal": "69",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 69,
+        "ayat": [
+          {
+            "id": "AYT-REG-UU-20-2003-69-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap orang yang menggunakan ijazah, sertifikat kompetensi, gelar akademik, profesi, dan/atau vokasi yang terbukti palsu dipidana dengan pidana penjara paling lama lima tahun dan/atau pidana denda paling banyakRp500.000.000,00(limaratus jutarupiah). (2)Setiap...",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-UU-20-2003-69-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap orang yang dengan sengaja tanpa hak menggunakan ijazah dan/atau sertifikat kompetensi sebagaimana dimaksud dalam Pasal 61 ayat (2) dan ayat (3) yang terbukti palsu dipidana dengan pidana penjara paling lama lima tahun dan/atau pidana denda paling banyak Rp 500.000.000,00 (lima ratus jutarupiah).",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-70",
+        "nomor_pasal": "70",
+        "teks_isi": "Lulusan yang karya ilmiah yang digunakannya untuk mendapatkan gelar akademik, profesi, atau vokasi sebagaimana dimaksud dalam Pasal 25 ayat (2) terbukti merupakan jiplakan dipidana dengan pidana penjara paling lama dua tahun dan/atau pidana denda paling banyak Rp 200.000.000,00 (dua ratus juta rupiah).",
+        "status": "Aktif",
+        "urutan": 70,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-71",
+        "nomor_pasal": "71",
+        "teks_isi": "Penyelenggara satuan pendidikan yang didirikan tanpa izin Pemerintah atau Pemerintah Daerah sebagaimana dimaksud dalam Pasal 62 ayat (1) dipidana dengan pidana penjara paling lama sepuluh tahun dan/atau pidana denda paling banyakRp1.000.000.000,00(satumiliarrupiah).",
+        "status": "Aktif",
+        "urutan": 71,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-72",
+        "nomor_pasal": "72",
+        "teks_isi": "Penyelenggara dan/atau satuan pendidikan formal yang pada saat Undangundangini diundangkan belum berbentuk badan hukum pendidikan sebagaimana dimaksud dalam Pasal 53 tetap berlaku sampai dengan terbentuknya Undangundang yangmengaturbadanhukum pendidikan.",
+        "status": "Aktif",
+        "urutan": 72,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-73",
+        "nomor_pasal": "73",
+        "teks_isi": "Pemerintah atau Pemerintah Daerah wajib memberikan izin paling lambat dua tahun kepada satuan pendidikan formal yang telah berjalan pada saat Undangundangini diundangkan belum memiliki izin. Pasal 74…",
+        "status": "Aktif",
+        "urutan": 73,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-74",
+        "nomor_pasal": "74",
+        "teks_isi": "Semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan Undang-undang Nomor 2 Tahun 1989 tentang Sistem Pendidikan Nasional (Lembaran Negara Tahun 1989 Nomor 6, Tambahan Lembaran Negara Nomor 3390) yang ada pada saat diundangkannya Undang-undang ini masih tetap berlaku sepanjang tidak bertentangan dan belum diganti berdasarkan Undangundangini.",
+        "status": "Aktif",
+        "urutan": 74,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-75",
+        "nomor_pasal": "75",
+        "teks_isi": "Semua peraturan perundang-undangan yang diperlukan untuk melaksanakan Undang-undang ini harus diselesaikan paling lambat dua tahun terhitung sejak berlakunyaUndang-undangini.",
+        "status": "Aktif",
+        "urutan": 75,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-76",
+        "nomor_pasal": "76",
+        "teks_isi": "Pada saat mulai berlakunya Undang-undang ini, Undang-undang Nomor 48/Prp./1960 tentang Pengawasan Pendidikan dan Pengajaran Asing (Lembaran Negara Tahun 1960 Nomor 155, Tambahan Lembaran Negara Nomor 2103) dan Undang-undang Nomor 2 Tahun 1989 tentang Sistem Pendidikan Nasional (Lembaran Negara Tahun 1989 Nomor 6, Tambahan Lembaran Negara Nomor 3390)dinyatakantidakberlaku.",
+        "status": "Aktif",
+        "urutan": 76,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      },
+      {
+        "id": "PSL-REG-UU-20-2003-77",
+        "nomor_pasal": "77",
+        "teks_isi": "Undang-undangini mulai berlakupadatanggal diundangkan. Agar... -37Agar setiap orang mengetahuinya, memerintahkan pengundangan Undangundangini denganpenempatannya dalam LembaranNegaraRepublik Indonesia. Disahkandi Jakarta padatanggal 8Juli 2003 ttd. Diundangkandi Jakarta padatanggal 8Juli 2003 Sekretaris NegaraRepublik Indonesia ttd BambangKesowo LEMBARANNEGARA REPUBLIK INDONESIATAHUN2003NOMOR 78",
+        "status": "Aktif",
+        "urutan": 77,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-UU-20-2003-IX"
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "Manusia membutuhkan pendidikan dalam kehidupannya. Pendidikan merupakan usaha agar manusia dapat mengembangkan potensi dirinya melalui proses pembelajaran dan/atau cara lain yang dikenal dan diakui oleh masyarakat. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 Pasal 31 ayat (1) menyebutkan bahwa setiap warga Negara berhak mendapat pendidikan, dan ayat (3) menegaskan bahwa Pemerintah mengusahakan dan menyelenggarakan satu system pendidikan nasional yang meningkatkan keimanan dan ketakwaan serta akhlak mulia dalam rangka mencerdaskan kehidupan bangsa yang diatur dengan undang-undang. Untuk itu, seluruh komponen bangsa wajib mencerdaskan kehidupan bangsa yang merupakan salah satu tujuanNegara Indonesia. Gerakan reformasi di Indonesia secara umum menuntut diterapkannya prinsip dempkrasi, desentralisasi, keadilan, dan menjunjung tinggi hak asasi manusia dalam kehidupan berbangsa dan bernegara. Dalam hubungannya dengan pendidikan, prinsip-prinsip tersebut akan memberikan dampak yang mendasar pada kandungan, proses, dan manajemen system pendidikan. Selain itu, ilmu pengetahuan dan teknologi berkembang pesat dan memunculkan tuntutan baru dalam segala aspek kehidupan, termasuk dalam system pendidikan. Tuntutan tersebut menyangkut pembaharuan system pendidikan, diantaranya pembaharuan kurikulum, yaitu diversifikasi kurikulum untuk melayani peserta didik dan potensi daerah yang beragam, diversifikasi jenis pendidikan yang dilakukan secara professional, penyusunan standar kompetensi tamatan yang berlaku secara nasional dan daerah menyesuaikan dengan kondisi setempat; penyusunan standar kualifikasi pendidik yang sesuai dengan tuntutan pelaksanaan tugas secara professional; penyusunan standar pendanaan pendidikan untuk setiap satuan pendidikan sesuai prinsip-prinsip pemerataandankeadilan; pelaksanaan manajemenpendidikan berbasis … REPUBLIKINDONESIA -2berbasis sekolah dan otonomi perguruan tinggi; serta penyelenggaraan pendidikan dengan system terbuka dan multimakna. Pembaharuan system pendidikan juga meliputi penghapusan diskriminasi antara pendidikan yang dikelola pemerintah dan pendidikan yang dikelola masyarakat,sertapembedaanantarapendidikankeagamaandanpendidikanumum. Pembaharuan system pendidikan nasional dilakukan untuk memperbaharui visi, misi, dan strategi pembangunan pendidikan nasional. Pendidikan nasional mempunyai visi terwujudnya system pendidikan sebagai pranata social yang kuat dan berwibawa untuk memberdayakan semua Warga Negara Indonesia berkembang menjadi manusia yang berkualitas sehingga mampu dan proaktif menjawabtantanganzaman yangselaluberubah. Denganvisi pendidikantersebut,pendidikannasional mempunyai misi sebagai berikut : 1. mengupayakan perluasan dan pemerataan kesempatan memperoleh pendidikan yang bermutu bagi seluruhrakyat Indonesia; 2. membantu dan memfasilitasi pengembangan potensi anak bangsa secara utuh sejak usia dini sampai akhirhayat dalam rangkamewujudkanmasyarakat belajar; 3. meningkatkan kesiapan masukan dan kualitas proses pendidikan untuk mengoptimalkan pembentukan kepribadian yangbermoral; 4. meningkatkan keprofesionalan dn akuntabilitas lembaga pendidikan sebagai pusat pembudayaan ilmu pengetahuan, keterampilan, pengalamanan, sikap, dan nilai berdasarkan standarnasional dan global; dan 5. memberdayakan peran serta masyarakat dalam penyelenggaraan pendidikan berdasarkan prinsipotonomi dalam konteks NegaraKesatuan Republik Indonesia. Berdasarkan visi dan misi pendidikan nasional tersebut, pendidikan nasional berfungsi mengembangkan kemampuan dan membentuk watak serta peradaban bangsa yang bermartabat dalam rangka mencerdaskan kehidupan bangsa, bertujuan untuk berkembangnya potensi peserta didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga Negara yang demokratis sertabertanggungjawab. Pembaharuan… REPUBLIKINDONESIA -3Pembaharuan system pendidikan memerlukan strategi tertentu. Strategi pembangunan pendidikannasional dalam undang-undangini meliputi : 1. pelaksanaanpendidikan agamasertaakhlakmulia; 2. pengembangandanpelaksanaankurikulum berbasis kompetensi; 3. proses pembelajaran yangmendidikdandialogis; 4. evaluasi,akreditasi,dan sertifikasi pendidikan yangmemberdayakan; 5. peningkatankeprofesionalanpendidikdantenaga kependidikan; 6. penyediaansaranabelajar yangmendidik; 7. pembiayaanpendidikan yangsesuai denganprinsippemerataandanberkeadilan; 8. penyelenggaraanpendidikan yangterbukadanmerata; 9. pelaksanaanwajibbelajar; 10.pelaksanaanotonomi manajemenpendidikan; 11.pemberdayaanperanmasyarakat; 12.pusat pembudayaandan pembangunanmasyarakat; dan 13.pelaksanaanpengawasan dalam system pendidikannasional. Dengan strategi tersebut diharapkan visi, misi, dan tujuan pendidikan nasional dapat terwujud secaraefektifdenganmelibatkanberbagai pihaksecaraaktifdalam penyelenggaraanpendidikan. Pembaruan system pendidikan nasional perlu pula disesuaikan dengan pelaksanaan otonomi daerah sebagaimana diatur dalam Undang-undang Republik Indonesia Nomor 22 Tahun 1999 tentangPerimbanganKeuanganantaraPemerintahPusat danDaerah. Sehubungan dengan hal-hal di atas, Undang-undang Nomor 2 Tahun 1989 tentang Sistem PendidikanNasional perludiperbaharui dandiganti. II. Pasal … REPUBLIKINDONESIA -4II. Pasal Demi Pasal Pasal 1 Cukupjelas Pasal 2 Cukupjelas Pasal 3 Cukupjelas Pasal 4 Ayat (1) Cukupjelas Ayat (2) Pendidikan dengan system terbuka adalah pendidikan yang diselenggarakan dengan fleksibilitas pilihan dan waktu penyelesaian program lintas satuan dan jalur pendidikan (multi entry-multi exit system). Peserta didik dapat belajar sambil bekerja, atau mengambil program-program pendidikan pada jenis dan jalur pendidikan yang berbeda secara terpadu dan berkelanjutan melalui pembelajaran tatap muka atau jarak jauh. Pendidikan multimakna adalah proses pendidikan yang diselenggarakan dengan berorientasi pada pembudayaan, pemberdayaan, pembentukan watak dan kepribadian sertaberbagai kecakapan hidup. Ayat (3) Cukupjelas Ayat (4) Cukupjelas Ayat (5) Cukupjelas Ayat (6) Memberdayakan semua komponen masyarakat berarti pendidikan diselenggarakan oleh pemerintah dan masyarakat dalam suasana kemitraan dan kerja sama yang saling melengkapi danmemperkuat. Pasal 5 Cukupjelas Pasal 6… REPUBLIKINDONESIA Pasal 6 Cukupjelas Pasal 7 Cukupjelas Pasal 8 Cukupjelas Pasal 9 Cukupjelas Pasal 10 Cukupjelas Pasal 11 Cukupjelas Pasal 12 Ayat (1) Hurufa Pendidik dn/atau guru agama yang seagama dengan peserta didik difasilitasi dan/atau disediakan oleh Pemerintah atau Pemerintah Daerah sesuai kebutuhan satuanpendidikansebagaimanadiaturdalam Pasal 41ayat (3). Hurufb Pendidik dan/atau guru yang mampu mengembangkan bakat, minat, dan kemampuan peserta didik difasilitasi dan/atau disediakan oleh Pemerintah atau Pemerintah Daerah sesuai dengan kebutuhan satuan pendidikan sebagaimana diaturdalam Pasal 41ayat (3). Hurufc Cukupjelas Hurufd Cukupjelas Hurufe Cukupjelas Huruff Cukupjelas Ayat (2)… REPUBLIKINDONESIA -6Ayat (2) Cukupjelas Ayat (3) Cukupjelas Ayat (4) Cukupjelas Pasal 13 Cukupjelas Pasal 14 Cukupjelas Pasal 15 Pendidikan umum merupakan pendidikan dasar dan menengah yang mengutamakan perluasan pengetahuan yang diperlukan oleh peserta didik untuk melanjutkan pendidikan kejenjang yanglebihtinggi. Pendidikan kejuruan merupakan pendidikan menengah yangmempersiapkan peserta didik terutamauntukbekerjadalam bidangtertentu. Pendidikan akademik merupakan pendidikan tinggi program sarjana dan pascasarjana yangdiarahkanterutama padapenguasaandisiplinilmupengetahuantertentu. Pendidikan profesi merupakan pendidikan tinggi setelah program sarjana yang mempersiapkan peserta didik untuk memiliki pekerjaan dengan persyaratan keahlian khusus. Pendidikan vokasi merupakan pendidikan tinggi yang mempersiapkan peserta didik untuk memiliki pekerjaan dengan keahlian terapan terntentu maksimal setara dengan program sarjana. Pendidikan keagamaan merupakan pendidikan dasar, menengah, dan tinggi yang mempersiapkan peserta didik untuk dapat menjalankan peranan yang menuntut penguasaanpengetahuna tentangajaranagamadan/ataumenjadi ahli ilmuagama. Pendidikan khusus merupakan penyelenggaraan pendidikan untuk peserta didik yang berkelainan atau peserta didik yang memiliki kecerdasan luar biasa yang diselenggarakan secara inklusif atau berupa satuan pendidikan khusus pada tingkat pendidikan dasar dan menengah. Pasal 16… REPUBLIKINDONESIA Pasal 16 Cukupjelas Pasal 17 Ayat (1) Cukupjelas Ayat (2) Pendidikan yang sederajat denagn SD/MI adalah program seperti Paket A dan yang sederajat denganSMP/MTs adalahprogram seperti Paket B. Ayat (3) Cukupjelas Pasal 18 Ayat (1) Cukupjelas Ayat (2) Cukupjelas Ayat (3) Pendidikan yangsederajat denganSMA/MAadalahprogram seperti paket C. Ayat (4) Cukupjelas Pasal 19 Cukupjelas Pasal 20 Ayat (1) Akademi menyelenggarakan pendidikan vokasi dalam satu cabang atau sebagian cabangilmupengetahuan,teknologi,dan/atauseni tertentu. Politeknik menyelenggarakan pendidikan vokasi dalam sejumlah bidang pengetahuan khusus. Sekolah tinggi menyelenggarakan pendidikan akademik dan/atau vokasi dalam lingkup satu disiplin ilmu tertentu dan jika memenuhi syarat dapat menyelenggarakan pendidikanprofesi. Institut … REPUBLIKINDONESIA -8Institut menyelenggarakan pendidikan akademik dan/atau pendidikan vokasi dalam sekelompok disiplin ilmu pengetahuan, teknologi, dan/atau seni dan jika memeuhi syarat dapat menyelenggarakanpendidikanprofesi. Universitas menyelenggarakan pendidikan akademik dan/atau pendidikan vokasi dalam sejumlah ilmu pengetahuan, teknologi, dan/atau seni dan jika memeuhi syarat dapat menyelenggarakan pendidikanprofesi. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Ayat (4) Cukupjelas Pasal 21 Ayat (1) Gelarakademik yangdimaksud antaralain,sarjana,magister,dandoctor. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Ayat (4) Cukupjelas Ayat (5) Cukupjelas Ayat (6) Cukupjelas Ayat (7) Cukupjelas Pasal 22 Cukupjelas Pasal 23… REPUBLIKINDONESIA Pasal 23 Ayat (1) Guru besar atau professor adalah jabatan fungsional bagi dosen yang masih mengajar di lingkunganperguruan tinggi. Ayat (2) Cukupjelas Pasal 24 Cukupjelas Pasal 25 Cukupjelas Pasal 26 Ayat (1) Cukupjelas Ayat (2) Cukupjelas Ayat (3) Pendidikan kecakapan hidup (life skills) adalah pendidikan yang memberikan kecakapan personal, kecakapan social, kecakapan intelektual, dan kecakapan vokasional untukbekerja atauusahamandiri. Pendidikan kepemudaan adalah pendidikan yang diselenggarakan untuk mempersiapkan kader pemimpin bangsa, seperti organisasi pemuda, pendidikan kepanduan/kepramukaan, keolahragaan, palang merah, pelatihan, kepemimpinan, pecintaalam,sertakewirausahaan. Pendidikan pemberdayaan perempuan adalah pendidikan untuk mengangkat harkat danmartabat perempuan. Pendidikan kesetaraan adalah program pendidikan onoformal yang menyelenggarakan pendidikan umum setara SD/MI, SMP/MTs, dan SMA/MA yang mencakup program paket A,paket B,danpaket C. Pendidikan dan pelatihan kerja dilaksanakan untuk meningkatkan kemampuan peserta didik dengan penekanan pada penguasaan keterampilan fungsional yang sesuai dengankebutuhandunia kerja. Ayat (4)… REPUBLIKINDONESIA -10Ayat (4) Cukupjelas Ayat (5) Kursus dan pelatihan sebagai bentuk pendidikan berkelanjutan untukmengembangkan kemampuan peserta didik dengan penekanan pada penguasaan keterampilan, standar kompetensi, pengembangan sikap kewirausahaan serta pengembangan kepribadian professional. Kursus dan pelatihan dikembangkan melalui sertifikasi dan akreditasi yangbertarafnasional daninternasional. Ayat (6) Cukupjelas Ayat (7) Cukupjelas Pasal 27 Cukupjelas Pasal 28 Ayat (1) Pendidikan anak usia dini diselenggarakan bagi anak sejak lahir sampai dengan enam tahundanbukanmerupakanprasyarat untukmengikuti pendidikandasar. Ayat (2) Cukupjelas Ayat (3) Taman Kanak-kanak (TK) menyelenggarakan pendidikan untuk mengembangkan kepribadiandanpotensi diri sesuai dengantahap perkembanganpesertadidik. Raudhatul Athfal (RA) menyelenggarakan pendidikan keagamaan Islam yang menanamkan nilai-nilai keimanan dan ketakwaan kepada peserta didik untuk mengembangkanpotensi diri seperti padatamankanak-kanak. Ayat (4) Cukupjelas Ayat (5) Cukupjelas Ayat (6) Cukupjelas Pasal 29… REPUBLIKINDONESIA Pasal 29 Cukupjelas Pasal 30 Cukupjelas Pasal 31 Ayat (1) Cukupjelas Ayat (2) Cukupjelas Ayat (3) Bentuk pendidikan jarak jauh mencakup program pendidikan tertulis (korespondensi), radio,audio/video,TV,dan/atauberbasis jaringan computer. Modus penyelenggaraan pendidikan jarak jauh mencakup pengorganisasian tunggal (singlemode), ataubersamatatapmuka(dual mode). Cakupan pendidikan jarak jauh dapat berupa program pendidikan berbasis mata pelajaran/matakuliahdan/atauprogram pendidikanberbasis bidangstudi. Ayat (4) Cukupjelas Pasal 32 Cukupjelas Pasal 33 Ayat (1) Cukupjelas Ayat (2) Pengajaran bahasa daerah pada jenjang pendidikan dasar di suatu daerah disesuaikan denganintensitas penggunaannyadalam wilayah yangbersangkutan. Tahap awal pendidikan adalah pendidikan pada tahun pertama dan kedua sekolah dasar. Ayat (3) Cukupjelas Pasal 34 Cukupjelas Pasal 35… REPUBLIKINDONESIA Pasal 35 Ayat (1) Standar isi mencakup ruang lingkup materi dan tingkat kompetensi yang dituangkan ke dalam persyaratan tentang kompetensi tamatan, kompetensi bahan kajian, kompetensi mata pelajaran, dan silabus pembelajaran yang harus dipenuhi peserta didikpadajenjangdanjenis pendidikantertentu. Komptensi lulusan merupakan kualifikasi kemampuan lulusan yang mencakup sikap, pengetahuan,danketerampilansesuai denganstandarnasional yangtelah disepakati. Standar tenaga kependidikan mencakup persyaratan pendidikan prajabatan dan kelayakan,baikfisikmaupunmental,sertapendidikan dalam jabatan. Standar sarana dan prasarana pendidikan mencakup ruangbelajar, tempat berolahraga, tempat beribadah, perpustakaan, laboratorium, bengkel kerja, tempat bermain, tempat berkreasi dan berekreasi, dan sumber belajar lain yang diperlukan untuk menunjang proses pembelajaran,termasuk penggunaanteknologi informasi dankomunikasi. Peningkatan secara berencana dan berkala dimaksudkan untuk meningkatkan keunggulan local, kepentingan nasional, keadilan, dan kompetensi antar bangsa dalam peradabandunia. Ayat (2) Cukupjelas Ayat (3) Badan standardisasi, penjaminan, dan pengendalian mutu pendidikan bersifat mandiri padatingkat nasional dan propinsi. Ayat (4) Cukupjelas Pasal 36 Ayat (1) Cukupjelas Ayat (2) Pengembangan kurikulum secara berdiversifikasi dimaksudkan untuk memungkinkan penyesuaian program pendidikan pada satuan pendidikan dengan kondisi dan kekhasanpotensi yangadadi daerah. Ayat (3)… REPUBLIKINDONESIA -13Ayat (3) Cukupjelas Ayat (4) Cukupjelas Pasal 37 Ayat (1) Pendidikan agama dimaksudkan untuk membentuk peserta didik menjadi manusia yangberimandanbertakwakepadaTuhan YangMahaEsasertaberakhlakmulia. Pendidikan kewarganegaraan dimaksudkan untuk membentuk peserta didik menjadi manusia yangmemiliki rasakebangsaandancinta tanahair. Bahan kajian bahasa mencakup bahasa Indonesia, bahasa daerah, dan bahasa asing denganpertimbangan: 1. Bahasa Indonesiamerupakanbahasanasional; 2. Bahasadaerahmerupakanbahasaibupesertadidik; dan 3. Bahasa asing terutama bahasa Inggris merupakan bahasa internasional yang sangat pentingkegunaannya dalam pergaulan global. Bahan kajian matematika, antara lain, berhitung, ilmu ukur, dan aljabar dimaksudkan untukmengembangkanlogikadankemampuanberpikirpesertadidik. Bahan kajian ilmu pengetahuan alam, antara lain, fisika, biologi, dan kimia dimaksudkan untuk mengembangkan pengetahuan, pemahaman, dan kemampuan analisis pesertadidikterhadaplingkunganalam dansekitarnya. Bahan kajian ilmu pengetahuan social, antara lain, ilmu bumi, sejarah, ekonomi, kesehatan, dan sebagainya dimaksudkan untuk mengembangkan pengetahuan, pemahaman, dan kemampuan analisis peserta didik terhadap kondisi social masyarakat. Bahan kajian seni dan budaya dimaksudkan untuk membentuk karakter peserta didik menjasi manusia yang memiliki rasa seni dan pemahaman budaya. Bahan kajian seni mencakupmenulis, menggambar/melukis, menyanyi,danmenari. Bahan kajian jasmani dan olah raga dimaksudkan untuk membentuk karakter peserta didikagarsehat jasmani danrohani,danmenumbuhkanrasasportivitas. Bahan kajian keterampilan dimaksudkan untuk membentuk peserta didik menjadi manusia yangmemiliki keterampilan. Bahan… REPUBLIKINDONESIA -14Bahan kajian muatan local dimaksudkan untuk membentuk pemahaman terhadap potensi di daerahtempat tinggalnya. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Pasal 38 Cukupjelas Pasal 39 Ayat (1) Tenaga kependidikan meliputi pengelola satuan pendidikan, penilik, pamong belajar, pengawas, peneliti,pengembang,pustakawan,laboran,danteknisi sumber belajar. Ayat (2) Cukupjelas Pasal 40 Ayat (1) Hurufa Yang dimaksud dengan penghasilan yang pantas dan memadai adalah penghasilan yang mencerminkan martabat guru sebagai pendidik yang professional di atas kebutuhanhidupminimum (KHM). Yang dimaksud dengan jaminan kesejahteraan social yang pantas dan memadai, antaralain,jaminankesehatandanjaminanhari tua. Hurufb Cukupjelas Hurufc Cukupjelas Hurufd Cukupjelas Hurufe Cukupjelas Ayat (2) Cukupjelas Pasal 41… REPUBLIKINDONESIA Pasal 41 Ayat (1) Pendidik dan tenaga kependidikan dapat bertugas di mana pun dalam wilayah Negara Kesatuan Republik Indonesia dengan tetap memperhatikan peraturan perundangundangan yangberlaku. Ayat (2) Cukupjelas Ayat (3) Pemberian fasilitas oleh Pemerintah dan/atau Pemerintah Daerah dimaksudkan untuk menghindari adanya daerah yang kekurangan atau kelebihan pendidik dan tenaga kependidikan,sertajuga dimaksudkanuntuk peningkatankualitas satuanpendidikan. Ayat (4) Cukupjelas Pasal 42 Cukupjelas Pasal 43 Ayat (1) Cukupjelas Ayat (2) Program sertifikasi bertujuan untuk memenuhi kualifikasi minimum pendidik yang merupakan bagian dari program pengembangan karier oleh Pemerintah dan/atau PemerintahDaerah. Ayat (3) Cukupjelas Pasal 44 Cukupjelas Pasal 45 Cukupjelas Pasal 46… REPUBLIKINDONESIA Pasal 46 Ayat (1) Sumber pendanaan pendidikan dari pemerintah meliputi Anggran Pendapatan dan Belanja Negara (APBN) dan Anggaran Pendapatan dan Belanja Daerah (APBD), dan sumber pendanaan pendidikan dari masyarakat mencakup antara lain sumbangan pendidikan, hibah, wakaf, zakat, pembayaran nadzar, pinjaman, sumbangan perusahaan, keringanan dan penghapusan pajak untuk pendidikan, dan lain-lain penerimaan yangsah. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Pasal 47 Cukupjelas Pasal 48 Cukupjelas Pasal 49 Ayat (1) Pemenuhanpendanaanpendidikandapat dilakukansecarabertahap. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Ayat (4) Cukupjelas Ayat (5) Cukupjelas Pasal 50 Ayat (1) Cukupjelas Ayat (2) Cukupjelas Ayat (3)… REPUBLIKINDONESIA -17Ayat (3) Cukupjelas Ayat (4) Cukupjelas Ayat (5) Cukupjelas Ayat (6) Yang dimaksud dengna otonomi perguruan tinggi adalah kemandirian perguruan tinggi untukmengelolasendiri lembaganya. Ayat (7) Cukupjelas Pasal 51 Ayat (1) Yangdimaksud dengan manajemenberbasis sekolah/madrasah adalahbentukotonomi manajemen pendidikan pada satuan pendidikan, yang dalam hal ini kepala sekolah/madrasah dan guru dibantu oleh komite sekolah/madrasah dalam mengelola kegiatanpendidikan. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Pasal 52 Cukupjelas Pasal 53 Ayat (1) Badan hokum pendidikan dimaksudkan sebagai landasan hokum bagi penyelenggara dan/atau satuan pendidikan, antara lain, berbentuk Badan Hukum Milik Negara (BHMN). Ayat (2) Cukupjelas Ayat (3)… REPUBLIKINDONESIA -18Ayat (3) Cukupjelas Ayat (4) Cukupjelas Pasal 54 Cukupjelas Pasal 55 Ayat (1) Kekhasan satuan pendidikan yang diselenggarakan masyarakat tetap dihargai dan dijaminolehundang-undangini. Ayat (2) Cukupjelas Ayat (3) Cukupjelas Ayat (4) Cukupjelas Ayat (5) Cukupjelas Pasal 56 Cukupjelas Pasal 57 Cukupjelas Pasal 58 Cukupjelas Pasal 59 Cukupjelas Pasal 60 Cukupjelas Pasal 61 Cukupjelas Pasal 62… REPUBLIKINDONESIA Pasal 62 Cukupjelas Pasal 63 Cukupjelas Pasal 64 Cukupjelas Pasal 65 Ayat (1) Peraturan perundang-undangan yang dimaksud antara lain mencakup undang-undang tentangimigrasi,pajak,investasi asing,dantenagakerja. Ayat (2) Pelaksanaanpendidikan agamasesuai denganketentuanPasal 12 ayat (1) hurufa. Ayat (3) Cukupjelas Ayat (4) Sistem pendidikan Negara lain mencakup kurikulum, system penilaian, dan penjenjanganpendidikan. Ayat (5) Cukupjelas Pasal 66 Ayat (1) Cukupjelas Ayat (2) Cukupjelas Ayat (3) Peraturan Pemerintah yang dimaksud dalam ayat ini, antara lain, mengatur tata cara pengawasandansanksi administrative. Pasal 67 Cukupjelas Pasal 68 Cukupjelas Pasal 69…. REPUBLIKINDONESIA Pasal 69 Cukupjelas Pasal 70 Cukupjelas Pasal 71 Cukupjelas Pasal 72 Cukupjelas Pasal 73 Cukupjelas Pasal 74 Cukupjelas Pasal 75 Cukupjelas Pasal 76 Cukupjelas Pasal 77 Cukupjelas TAMBAHAN LEMBARANNEGARAREPUBLIK INDONESIATAHUN2003NOMOR 4301",
+    "pasal_demi_pasal": []
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Undangundangini denganpenempatannya dalam LembaranNegaraRepublik Indonesia. Disahkandi Jakarta padatanggal 8Juli 2003 PRESIDENREPUBLIK INDONESIA, ttd. MEGAWATISOEKARNOPUTRI Diundangkandi Jakarta padatanggal 8Juli 2003 Sekretaris NegaraRepublik Indonesia ttd BambangKesowo LEMBARANNEGARA REPUBLIK INDONESIATAHUN2003NOMOR 78 REPUBLIKINDONESIA",
+    "tanggal_ditetapkan": "",
+    "tanggal_diundangkan": "",
+    "pejabat_penetapan": "",
+    "pejabat_pengundangan": ""
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": false,
+    "total_pasal": 77,
+    "total_ayat": 204,
+    "total_bab": 4,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": []
+  }
+}

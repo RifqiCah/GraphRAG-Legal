@@ -1,0 +1,1127 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-4-2022",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "4",
+    "tahun": 2022,
+    "judul": "Perubahan atas Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional Pendidikan",
+    "tentang": "Perubahan atas Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional Pendidikan",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-4-2022.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-4-2022-MENIMBANG-C",
+        "nomor": "c",
+        "teks_isi": "bahwa pengaturan mengenai badan standardisasi, penjaminan, dan pengendalian mutu pendidikan perlu diselaraskan dengan mekanisme akreditasi yang sesuai dengan ketentuan peraturan perundangundangan; d bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan hunrf c, perlu",
+        "urutan": 1
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-4-2022-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301);",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UU-20-2003",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-4-2022-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 5336);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-12-2012",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-4-2022-MENGINGAT-4",
+        "nomor": "4",
+        "teks_isi": "Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional Pendidikan (Lembaran Negara Repubtik Indonesia Tahun 2021 Nomor 87, Tambahan Lembaran Negara Republik Indonesia Nomor 6676);",
+        "urutan": 3,
+        "target_regulasi_id": "REG-PP-57-2021",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "Peraturan Pemerintah tentang Perubahan atas Peraturan Pemerintah Nomor 57 Tahun 2O2L tentang Standar Nasional Pendidikan; Mengingat: SK No010988 A FRESIDEN -2Mengingat 1. Pasal 5 ayat (21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301); 3. Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 5336); 4. Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional Pendidikan (Lembaran Negara Repubtik Indonesia Tahun 2021 Nomor 87, Tambahan Lembaran Negara Republik Indonesia Nomor 6676); MEMUTUSKAN: Menetapkan PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 57 TAHUN 2021 TENTANG STANDAR NASIONAL PENDIDIKAN."
+  },
+  "body": {
+    "bab": [],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-4-2022-I",
+        "nomor_pasal": "I",
+        "teks_isi": "Beberapa ketentuan dalam Peraturan Pemerintah Nomor 57 Tahun 2O2L tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2021 Nomor 87, Tambahan Lembaran Negara Republik Indonesia Nomor 6676) diubah sebagai berikut: 1. Di antara Pasal 1 dan Pasal 2 disisipkan 1 (satu) pasal, yakni Pasal 1A sehingga berbunyi sebagai berikut: . SK No 010989 A",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-4-2022-I-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Di antara Pasal 1 dan Pasal 2 disisipkan 1 (satu) pasal, yakni Pasal 1A sehingga berbunyi sebagai berikut: . SK No 010989 A",
+            "urutan": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-1A",
+        "nomor_pasal": "1A",
+        "teks_isi": "Standar Nasional Pendidikan berdasarkan Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Negara Kesatuan Republik Indonesia, dan Bhinneka Tunggal Ika. 2. Ketentuan ayat (21 Pasal 5 diubah, sehingga Pasal 5 berbunyi sebagai berikut:",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-4-2022-1A-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Ketentuan ayat (21 Pasal 5 diubah, sehingga Pasal 5 berbunyi sebagai berikut:",
+            "urutan": 1,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-5",
+        "nomor_pasal": "5",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-5-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar kompetensi lulusan pada pendidikan anak usia dini merupakan standar tingkat pencapaian perkembangan anak usia dini. (21 Standar tingkat pencapaian perkembangan anak usia dini sebagaimana dimaksud pada ayat (1) difokuskan pada aspek perkembangan anak yang mencakup: a. nilai agama dan moral; b. nilai Pancasila; c. fisik motorik; d. kognitif; e. bahasa; dan f. sosial emosional. 3. Ketentuan Pasal 6 diubah, sehingga Pasal 6 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "nilai agama dan moral;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "nilai Pancasila;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "fisik motorik;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "kognitif;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "bahasa; dan",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "sosial emosional.",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-5-1-angka-3",
+                "jenis": "angka",
+                "nomor": "3",
+                "teks_isi": "Ketentuan Pasal 6 diubah, sehingga Pasal 6 berbunyi sebagai berikut:",
+                "urutan": 7,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-6",
+        "nomor_pasal": "6",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-6-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan dasar difokuskan pada: a. persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada T\\rhan Yang Maha Esa serta berakhlak mulia; b. penanaman . . . SK No010990 A -4b. penanaman karakter yang sesuai dengan nilai-nilai Pancasila; dan c. penumbuhan kompetensi literasi dan numerasi Peserta Didik untuk mengikuti Pendidikan lebih lanjut. (21 Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan menengah umum difokuskan pada: a. persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada T\\rhan Yang Maha Esa serta berakhlak muiia; b. penanaman karakter yang sesuai dengan nilai-nilai Pancasila; dan c. pengetahuan untuk meningkatkan kompetensi Peserta Didik agar dapat hidup mandiri dan mengikuti Pendidikan lebih lanjut.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-6-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada T\\rhan Yang Maha Esa serta berakhlak mulia;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penanaman . . . SK No010990 A -4b. penanaman karakter yang sesuai dengan nilai-nilai Pancasila; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "penumbuhan kompetensi literasi dan numerasi Peserta Didik untuk mengikuti Pendidikan lebih lanjut. (21 Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan menengah umum difokuskan pada:",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada T\\rhan Yang Maha Esa serta berakhlak muiia;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penanaman karakter yang sesuai dengan nilai-nilai Pancasila; dan",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pengetahuan untuk meningkatkan kompetensi Peserta Didik agar dapat hidup mandiri dan mengikuti Pendidikan lebih lanjut.",
+                "urutan": 6,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-6-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan menengah kejuruan difokuskan pada: a. persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada T\\rhan Yang Maha Esa serta berakhlak mulia; b. penanaman karakter yang sesuai dengan nilai-nilai Pancasila; dan c. keterampilan untuk meningkatkan kompetensi Peserta Didik agar dapat hidup mandiri dan mengikuti Pendidikan lebih lanjut sesuai dengan kejuruannya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-6-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada T\\rhan Yang Maha Esa serta berakhlak mulia;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penanaman karakter yang sesuai dengan nilai-nilai Pancasila; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "keterampilan untuk meningkatkan kompetensi Peserta Didik agar dapat hidup mandiri dan mengikuti Pendidikan lebih lanjut sesuai dengan kejuruannya.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-6-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan tinggi difokuskan pada: a. perslapan . . . SK No010991 A -5a. persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada Tlrhan Yang Maha Esa serta berakhlak mulia; b. penanaman karakter yang sesuai dengan nilai-niiai Pancasila; dan c. pengetahuan, keterampilan, kemandirian, dan sikap untuk menemukan, mengembangkan, serta menerapkan ilmu pengetahuan, teknologi, dan seni, yang bermanfaat bagi kemanusiaan. 4. Di antara Pasal 33 dan Pasal 34 disisipkan 1 (satu) pasal, yakni Pasal 33A sehingga Pasal 33A berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-6-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "perslapan . . . SK No010991 A -5a. persiapan Peserta Didik menjadi anggota masyarakat yang beriman dan bertakwa kepada Tlrhan Yang Maha Esa serta berakhlak mulia;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penanaman karakter yang sesuai dengan nilai-niiai Pancasila; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pengetahuan, keterampilan, kemandirian, dan sikap untuk menemukan, mengembangkan, serta menerapkan ilmu pengetahuan, teknologi, dan seni, yang bermanfaat bagi kemanusiaan.",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-6-4-angka-4",
+                "jenis": "angka",
+                "nomor": "4",
+                "teks_isi": "Di antara Pasal 33 dan Pasal 34 disisipkan 1 (satu) pasal, yakni Pasal 33A sehingga Pasal 33A berbunyi sebagai berikut:",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-33A",
+        "nomor_pasal": "33A",
+        "teks_isi": "Standar Nasional Pendidikan sebagaimana dimaksud dalam Pasal 4 sampai dengan Pasal 33 pada Jenjang Pendidikan tinggi dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan di bidang pendidikan tinggi. 5. BAB III dihapus. 6. Pasal 34 dihapus. 7. Di antara ayat (1) dan ayat (2) Pasal 37 disisipkan 1 (satu) ayat, yakni ayat (1a) sehingga Pasal 37 berbunyi sebagai berikut:",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-4-2022-33A-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "BAB III dihapus.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-4-2022-33A-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Pasal 34 dihapus.",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-4-2022-33A-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Di antara ayat (1) dan ayat (2) Pasal 37 disisipkan 1 (satu) ayat, yakni ayat (1a) sehingga Pasal 37 berbunyi sebagai berikut:",
+            "urutan": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-37",
+        "nomor_pasal": "37",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-37-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kerangka dasar kurikulum dan struktur kurikulum sebagaimana dimaksud dalam Pasal 36 untuk pendidikan anak usia dini, pendidikan dasar, dan pendidikan menengah ditetapkan oleh Menteri.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-37-1A",
+            "nomor_ayat": "1a",
+            "teks_isi": "Khusus . . . SK No010992 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-37-1A",
+            "nomor_ayat": "1a",
+            "teks_isi": "Khusus untuk muatan pembelajaran Pancasila, penetapan oleh Menteri sebagaimana dimaksud pada ayat (1) dilaksanakan setelah berkoordinasi dengan badan yang menyelenggarakan tugas pemerintahan di bidang pembinaan ideologi Pancasila. (21 Kerangka dasar kurikulum dan struktur kurikulum sebagaimana dimaksud pada ayat (1) dievaluasi relevansi dan dampaknya terhadap praktik dan hasil pembelajaran oleh kementerian.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-37-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Hasil evaluasi sebagaimana dimaksud pada ayat (21 digunakan sebagai dasar melakukan pengembangan kerangka dasar kurikulum dan struktur kurikulum. 8. Ketentuan Pasal 39 diubah, sehingga Pasal 39 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-37-3-angka-8",
+                "jenis": "angka",
+                "nomor": "8",
+                "teks_isi": "Ketentuan Pasal 39 diubah, sehingga Pasal 39 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-39",
+        "nomor_pasal": "39",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-39-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum sebagaimana dimaksud dalam Pasal 36 pada Jenjang Pendidikan tinggi dikembangkan dan ditetapkan oleh masingmasing perguruan tinggi untuk setiap program studi dengan mengacu pada standar nasional pendidikan tinggi sesuai dengan ketentuan peraturan perundang-undangan. (21 Selain mengacu pada standar nasional pendidikan tinggi, kurikulum pendidikan Pancasila juga mengacu pada pedoman tentang materi pembelajaran Pancasila yang ditetapkan oleh badan yang menyelenggarakan tugas pemerintahan di bidang pembinaan ideologi Pancasila setelah berkoordinasi dengan Menteri. 9. Ketentuan . . . SK No010993 A 9. Ketentuan Pasal 40 diubah, sehingga Pasal 40 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-39-1-angka-9",
+                "jenis": "angka",
+                "nomor": "9",
+                "teks_isi": "Ketentuan . . . SK No010993 A",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-39-1-angka-9",
+                "jenis": "angka",
+                "nomor": "9",
+                "teks_isi": "Ketentuan Pasal 40 diubah, sehingga Pasal 40 berbunyi sebagai berikut:",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-40",
+        "nomor_pasal": "40",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-40-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum disusun sesuai dengan Jenjang Pendidikan dalam kerangka Negara Kesatuan Republik Indonesia dengan memperhatikan: a. peningkatan iman dan takwa; b. nilai Pancasila; c. peningkatan akhlak mulia; d. peningkatan potensi, kecerdasan, dan minat Peserta Didik; e. keragaman potensi daerah dan lingkungan; f. tuntutan pembangunan daerah dan nasional; g. tuntutan dunia kerja; h. perkembangan ilmu pengetahuan, teknologi, dan seni; i. agama; j. dinamika perkembangan global; dan k. persatuan nasional dan nilai-nilai kebangsaan. (21 Kurikulum pendidikan dasar dan menengah wajib memuat: a. pendidikan agama; b. pendidikan Pancasila; c. pendidikan kewarganegaraan; d. bahasa; e. matematika; f. ilmu pengetahuan alam; g. ilmu pengetahuan sosial; h. seni dan budaya; i. pendidikan jasmani dan olahraga; j. keterampilan/ kejuruan; dan k. muatan lokal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "peningkatan iman dan takwa;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "nilai Pancasila;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "peningkatan akhlak mulia;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "peningkatan potensi, kecerdasan, dan minat Peserta Didik;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "keragaman potensi daerah dan lingkungan;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "tuntutan pembangunan daerah dan nasional;",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "tuntutan dunia kerja;",
+                "urutan": 7,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "perkembangan ilmu pengetahuan, teknologi, dan seni;",
+                "urutan": 8,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-I",
+                "jenis": "huruf",
+                "nomor": "i",
+                "teks_isi": "agama;",
+                "urutan": 9,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-J",
+                "jenis": "huruf",
+                "nomor": "j",
+                "teks_isi": "dinamika perkembangan global; dan",
+                "urutan": 10,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-K",
+                "jenis": "huruf",
+                "nomor": "k",
+                "teks_isi": "persatuan nasional dan nilai-nilai kebangsaan. (21 Kurikulum pendidikan dasar dan menengah wajib memuat:",
+                "urutan": 11,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan agama;",
+                "urutan": 12,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan Pancasila;",
+                "urutan": 13,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pendidikan kewarganegaraan;",
+                "urutan": 14,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "bahasa;",
+                "urutan": 15,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "matematika;",
+                "urutan": 16,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "ilmu pengetahuan alam;",
+                "urutan": 17,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "ilmu pengetahuan sosial;",
+                "urutan": 18,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "seni dan budaya;",
+                "urutan": 19,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-I",
+                "jenis": "huruf",
+                "nomor": "i",
+                "teks_isi": "pendidikan jasmani dan olahraga;",
+                "urutan": 20,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-J",
+                "jenis": "huruf",
+                "nomor": "j",
+                "teks_isi": "keterampilan/ kejuruan; dan",
+                "urutan": 21,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-1-huruf-K",
+                "jenis": "huruf",
+                "nomor": "k",
+                "teks_isi": "muatan lokal.",
+                "urutan": 22,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Muatan . . . SK No010994 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Muatan bahasa sebagaimana dimaksud pada ayat (21 huruf d meliputi: a. bahasa Indonesia; b. bahasa daerah; dan c. bahasa asing. (41 Muatan kurikulum sebagaimana dimaksud pada ayat (2\\ huruf a, huruf b, dan huruf c, dan ayat",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "bahasa Indonesia;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "bahasa daerah; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "bahasa asing. (41 Muatan kurikulum sebagaimana dimaksud pada ayat (2\\ huruf a, huruf b, dan huruf c, dan ayat",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-3",
+            "nomor_ayat": "3",
+            "teks_isi": "huruf a dituangkan dalam bentuk mata pelajaran wajib: a. pendidikan agama; b. pendidikan Pancasila; dan c. bahasa Indonesia.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan agama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan Pancasila; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "bahasa Indonesia.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Muatan kurikulum sebagaimana dimaksud pada ayat (21 huruf e sampai dengan huruf k dan ayat",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-3",
+            "nomor_ayat": "3",
+            "teks_isi": "huruf b dan huruf c dapat dituangkan secara terpisah atau terintegrasi dalam bentuk: a. mata pelajaran; b. modul; c. blok; dan/atau d. tematik.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "mata pelajaran;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "modul;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "blok; dan/atau",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "tematik.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Kurikulum pendidikan tinggi wajib memuat mata kuliah: a. agama; b. Pancasila; c. kewarganegaraan; dan d. bahasa Indonesia. (71 Kurikulum pendidikan tinggi sebagaimana dimaksud pada ayat (6) dilaksanakan melalui kegiatan kurikuler, kokurikuler, dan ekstrakurikuler.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-40-6-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "agama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-6-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "Pancasila;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-6-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kewarganegaraan; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-40-6-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "bahasa Indonesia. (71 Kurikulum pendidikan tinggi sebagaimana dimaksud pada ayat (6) dilaksanakan melalui kegiatan kurikuler, kokurikuler, dan ekstrakurikuler.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-40-8",
+            "nomor_ayat": "8",
+            "teks_isi": "Mata kuliah sebagaimana dimaksud pada ayat (6) dilaksanakan untuk program sarjana dan program diploma. 10. Ketentuan . . . SK No010979 A REPUBLIK lNDONESIA -910. Ketentuan Pasa-l 51 diubah, sehingga Pasal 51 berbunyi sebagai berikut:",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-40-8-angka-10",
+                "jenis": "angka",
+                "nomor": "10",
+                "teks_isi": "Ketentuan . . . SK No010979 A REPUBLIK lNDONESIA -910. Ketentuan Pasa-l 51 diubah, sehingga Pasal 51 berbunyi sebagai berikut:",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-51",
+        "nomor_pasal": "51",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-51-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 50 ayat (3) huruf a dilakukan terhadap: a. Satuan Pendidikan anak usia dini; b. Satuan Pendidikan padaJenjang Pendidikan dasar dan menengah; c. program pendidikan kesetaraan; d. Satuan Pendidikan pada Jenjang Pendidikan tinggi; dan e. program Pendidikan pada Jenjang Pendidikan tinggi. (21 Hasil dari akreditasi oleh Pemerintah Pusat menjadi dasar untuk penetapan status akreditasi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-51-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "Satuan Pendidikan anak usia dini;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "Satuan Pendidikan padaJenjang Pendidikan dasar dan menengah;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "program pendidikan kesetaraan;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "Satuan Pendidikan pada Jenjang Pendidikan tinggi; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "program Pendidikan pada Jenjang Pendidikan tinggi. (21 Hasil dari akreditasi oleh Pemerintah Pusat menjadi dasar untuk penetapan status akreditasi.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dihapus.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Dihapus.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Dalam hal program Pendidikan pada Jenjang Pendidikan tinggi telah diiakukan akreditasi oleh lembaga mandiri sebagaimana dimaksud dalam Pasal 50 ayat (3) huruf b, maka Pemerintah Pusat tidak melakukan akreditasi sebagaimana dimaksud pada ayat (1) huruf e.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan lebih lanjut mengenai akreditasi oleh Pemerintah Pusat diatur dengan Peraturan Menteri. 11. Di antara Pasal 51 dan Pasal 52 disisipkan 1 (satu) pasal, yakni Pasal 51A sehingga Pasal 51A berbunyi sebagai berikut: . SK No010980 A _10_",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-51-6-angka-11",
+                "jenis": "angka",
+                "nomor": "11",
+                "teks_isi": "Di antara Pasal 51 dan Pasal 52 disisipkan 1 (satu) pasal, yakni Pasal 51A sehingga Pasal 51A berbunyi sebagai berikut: . SK No010980 A _10_",
+                "urutan": 1,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-51A",
+        "nomor_pasal": "51A",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-4-2022-51A-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 51 dilaksanakan oleh: a. suatu badan standardisasi, penjaminan, dan pengendalian mutu pendidikan untuk pendidikan anak usia dini, Jenjang Pendidikan dasar, dan Jenjang Pendidikan menengah; dan b. Badan Akreditasi Nasional Perguruan Tinggi untuk Jenjang Pendidikan tinggi. (21 Badan sebagaimana dimaksud pada ayat (1) berada di bawah dan bertanggung jawab kepada Menteri.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-51A-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "suatu badan standardisasi, penjaminan, dan pengendalian mutu pendidikan untuk pendidikan anak usia dini, Jenjang Pendidikan dasar, dan Jenjang Pendidikan menengah; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51A-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "Badan Akreditasi Nasional Perguruan Tinggi untuk Jenjang Pendidikan tinggi. (21 Badan sebagaimana dimaksud pada ayat (1) berada di bawah dan bertanggung jawab kepada Menteri.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51A-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Badan sebagaimana dimaksud pada ayat (1) huruf a mempunyai tugas: a. mengembangkan instrumen akreditasi berdasarkan Standar Nasional Pendidikan; b. memantau pencapaian Standar Nasional Pendidikan melalui pelaksanaan akreditasi; c. melaporkan hasil pencapaian Standar Nasional Pendidikan secara nasional berdasarkan hasil akreditasi sebagaimana dimaksud dalam huruf b kepada Menteri; d. mengembangkan Standar Nasional Pendidikan berdasarkan evaluasi hasil pencapaian Standar Nasional Pendidikan secara nasional sebagaimana dimaksud dalam huruf c sebagai rekomendasi penetapan Standar Nasional Pendidikan oleh Menteri; dan e. memberikan . . . SK No010981 A - 11e. memberikan umpan balik kepada Satuan Pendidikan dan Pemerintah Daerah terhadap hasil pemantauan sebagaimana dimaksud dalam huruf b untuk mendorong pemenuhan Standar Nasional Pendidikan. (41 Dalam menjalankan tugas, badan sebagaimana dimaksud pada ayat (1) huruf a bersifat mandiri dan profesional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-4-2022-51A-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "mengembangkan instrumen akreditasi berdasarkan Standar Nasional Pendidikan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51A-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "memantau pencapaian Standar Nasional Pendidikan melalui pelaksanaan akreditasi;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51A-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "melaporkan hasil pencapaian Standar Nasional Pendidikan secara nasional berdasarkan hasil akreditasi sebagaimana dimaksud dalam huruf b kepada Menteri;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51A-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "mengembangkan Standar Nasional Pendidikan berdasarkan evaluasi hasil pencapaian Standar Nasional Pendidikan secara nasional sebagaimana dimaksud dalam huruf c sebagai rekomendasi penetapan Standar Nasional Pendidikan oleh Menteri; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-4-2022-51A-3-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "memberikan . . . SK No010981 A - 11e. memberikan umpan balik kepada Satuan Pendidikan dan Pemerintah Daerah terhadap hasil pemantauan sebagaimana dimaksud dalam huruf b untuk mendorong pemenuhan Standar Nasional Pendidikan. (41 Dalam menjalankan tugas, badan sebagaimana dimaksud pada ayat (1) huruf a bersifat mandiri dan profesional.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51A-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Dalam membantu pelaksanaan tugas, badan sebagaimana dimaksud pada ayat (1) huruf a dapat memiliki perwakilan di tingkat provinsi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-4-2022-51A-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan lebih lanjut mengenai badan sebagaimana dimaksud pada ayat (1) huruf a diatur dengan Peraturan Menteri. (7\\ Badan Akreditasi Nasional Perguruan Tinggi sebagaimana dimaksud pada ayat (1) huruf b melaksanakan tugasnya sesuai dengan ketentuan peraturan perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": []
+      },
+      {
+        "id": "PSL-REG-PP-4-2022-II",
+        "nomor_pasal": "II",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar SK No010982 A -t2Agar setiap orang memerintahkan pengundangan Peraturan Pemerintah ini dengan dalam Lembaran Negara Indonesia. Ditetapkan di Jakarta pada tanggal L2 Jal;uari2O22 ttd Diundangkan di Jakarta pada tanggal 12 Jan'uari 2022 ttd LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR T4 Salinan sesuai dengan aslinya Perundang-undangan dan Hukum, Djaman SK No 082486A",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [],
+        "sub_items": []
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "Dalam penyelenggaraan Pendidikan, Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional, menyebutkan bahwa: a. Pendidikan nasional berdasarkan Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Negara Kesatuan Republik Indonesia, dan Bhinneka Tunggal lka; b. Pendidikan nasional berfungsi mengembangkan kemampuan dan membentuk watak serta peradaban bangsa yang bermartabat dalam rangka mencerdaskan kehidupan bangsa, bertujuan untuk berkembangnya potensi Peserta Didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga negara yang demokratis serta bertanggung jawab; dan c. Pendidikan diselenggarakan secara demokratis dan berkeadilan serta tidak diskriminatif dengan menjunjung tinggi hak asasi manusia, nilai keagamaan, nilai kultural, dan kemajemukan bangsa. Ketentuan dalam Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional tersebut memandatkan bahwa Pancasila tidak hanya menjadi salah satu landasan dalam penyelenggaraan Pendidikan, tetapi secara konkrit juga perlu terintegrasi dalam komponen penyelenggaraan Pendidikan yaitu kurikulum. Selain SK No010984 A nepuJ.TxEsl,?S|*..,o -2Selain itu, secara khusus: a. muatan kurikulum dan standar Pendidikan bagi Jenjang Pendidikan tinggi sebagaimana diatur dalam Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional Pendidikan perlu diselaraskan dan dilaksanakan sesuai dengan undang-undang yang mengatur mengenai pendidikan tinggi; dan b. agar tercapai cita-cita pendidikan nasional secara berkesinambungan serta menjamin kepastian hukum, perlu upaya pengembangan, pemantauan, dan pelaporan pencapaian standar nasional pendidikan secara nasional, yang dilaksanakan oleh suatu badan standardisasi, penjaminan, dan pengendalian mutu pendidikan, serta keselarasan dengan ketentuan peraturan perundang-undangan lain terkait dengan bidang pendidikan. Mempertimbangkan hal tersebut maka Peraturan Pemerintah Nomor 57 Tahun 2027 tentangStandar Nasional Pendidikan dirasakan penting untuk disempurnakan dalam Peraturan Pemerintah tentang Perubahan atas Peraturan Pemerintah Nomor 57 Tahun 2021 lentang Standar Nasional Pendidikan.",
+    "pasal_demi_pasal": [
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-I",
+        "nomor_pasal": "I",
+        "target_pasal_id": "PSL-REG-PP-4-2022-I",
+        "teks_isi": "Angka I"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-1A",
+        "nomor_pasal": "1A",
+        "target_pasal_id": "PSL-REG-PP-4-2022-1A",
+        "teks_isi": "Cukup jelas. Angka2"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-5",
+        "nomor_pasal": "5",
+        "target_pasal_id": "PSL-REG-PP-4-2022-5",
+        "teks_isi": "Cukup jelas. Angka 3"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-6",
+        "nomor_pasal": "6",
+        "target_pasal_id": "PSL-REG-PP-4-2022-6",
+        "teks_isi": "Cukup jelas. Angka4... SK No010985 A FRESIDEN REPU K INDONESIA -3Angka 4"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-33A",
+        "nomor_pasal": "33A",
+        "target_pasal_id": "PSL-REG-PP-4-2022-33A",
+        "teks_isi": "Yang dimaksud dengan \"Standar Nasional Pendidikan tinggi\" adalah satuan standar yang meliputi Standar Nasional Pendidikan, ditambah dengan standar penelitian dan standar pengabdian kepada masyarakat. Angka 5 Dihapus. Angka 6"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-34",
+        "nomor_pasal": "34",
+        "target_pasal_id": "PSL-REG-PP-4-2022-34",
+        "teks_isi": "Dihapus. AngkaT"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-37",
+        "nomor_pasal": "37",
+        "target_pasal_id": "PSL-REG-PP-4-2022-37",
+        "teks_isi": "Cukup jelas. Angka 8"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-39",
+        "nomor_pasal": "39",
+        "target_pasal_id": "PSL-REG-PP-4-2022-39",
+        "teks_isi": "Cukup jelas. Angka 9"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-40",
+        "nomor_pasal": "40",
+        "target_pasal_id": "PSL-REG-PP-4-2022-40",
+        "teks_isi": "Ayat (1) Crikup jelas. Ayat (21 Cukup jelas. Ayat (s) Cukup jelas. Ayat (4) Huruf a Cukup jelas. Hurufb. . . SK No010986 A REFUBLIK TNDONESIA -4Huruf b Yang dimaksud dengan \"mata pelajaran pendidikan Pancasila\" termasuk di dalamnya muatan pendidikan kewarganegaraan. Huruf c Cukup jelas. Ayat (s) Cukup jelas. Ayat (6) Cukup jelas. Ayat (71 Cukup jelas. Ayat (8) Cukup jelas. Angka 10"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-51",
+        "nomor_pasal": "51",
+        "target_pasal_id": "PSL-REG-PP-4-2022-51",
+        "teks_isi": "Cukup jelas. Angka 11"
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-51A",
+        "nomor_pasal": "51A",
+        "target_pasal_id": "PSL-REG-PP-4-2022-51A",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-4-2022-PASAL-II",
+        "nomor_pasal": "II",
+        "target_pasal_id": "PSL-REG-PP-4-2022-II",
+        "teks_isi": "Cukup jelas. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6762 SK No010987 A"
+      }
+    ]
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang memerintahkan pengundangan Peraturan Pemerintah ini dengan dalam Lembaran Negara Indonesia. Ditetapkan di Jakarta pada tanggal L2 Jal;uari2O22 PRESIDEN REPUBLIK INDONESI.A ttd JOKO WIDODO Diundangkan di Jakarta pada tanggal 12 Jan'uari 2022 MENTERI HUKUM DAN HAKASASI MANUSIA REPUBLIK INDONESIA, ttd YASONNA H.I,AOLY LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR T4 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARTAT NEGARA K INDONESIA Perundang-undangan dan Hukum, Djaman SK No 082486A",
+    "tanggal_ditetapkan": "L2 Jal;uari2O22 2022",
+    "tanggal_diundangkan": "12 Jan'uari 2022",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESI.A JOKO WIDODO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAKASASI MANUSIA REPUBLIK INDONESIA YASONNA H.I,AOLY"
+  },
+  "parse_quality": {
+    "status": "WARN",
+    "scan_detected": false,
+    "total_pasal": 11,
+    "total_ayat": 26,
+    "total_bab": 0,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": [
+      "Numeric pasal sequence has gaps: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, ...."
+    ]
+  }
+}

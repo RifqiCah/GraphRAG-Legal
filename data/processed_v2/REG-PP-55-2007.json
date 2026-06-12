@@ -1,0 +1,2769 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-55-2007",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "55",
+    "tahun": 2007,
+    "judul": "Pendidikan Agama dan Pendidikan Keagamaan",
+    "tentang": "Pendidikan Agama dan Pendidikan Keagamaan",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": true
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-55-2007.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-55-2007-MENIMBANG-1",
+        "nomor": "1",
+        "teks_isi": "bahwa dalam rangka melaksanakan ketentuan Pasal 12 ayat (4), Pasal 30 ayat (5), dan Pasal 37 ayat (3) Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional, perlu menetapkan Peraturan Pemerintah tentang Pendidikan Agama dan Pendidikan Keagamaan;",
+        "urutan": 1
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-55-2007-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-55-2007-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78 Tambahan Lembaran Negara Republik Indonesia Nomor 4301);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-20-2003",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-55-2007-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Undang-Undang Nomor 1/PNPS/1965 jo Undang-Undang Nomor 5 Tahun 1969 Tentang Pencegahan Penyalahgunaan dan/atau Penodaan Agama (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 3, Tambahan Negara Republik Indonesia Nomor 2727);",
+        "urutan": 3,
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "PERATURAN PEMERINTAH TENTANG PENDIDIKAN AGAMA DAN PENDIDIKAN KEAGAMAAN BAB I . . ."
+  },
+  "body": {
+    "bab": [
+      {
+        "id": "BAB-REG-PP-55-2007-I",
+        "nomor_bab": "I",
+        "judul": "KETENTUAN UMUM",
+        "urutan": 1,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-55-2007-1"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-55-2007-II",
+        "nomor_bab": "II",
+        "judul": "PENDIDIKAN AGAMA",
+        "urutan": 2,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-55-2007-2",
+          "PSL-REG-PP-55-2007-3",
+          "PSL-REG-PP-55-2007-4",
+          "PSL-REG-PP-55-2007-5",
+          "PSL-REG-PP-55-2007-6",
+          "PSL-REG-PP-55-2007-7"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-55-2007-III",
+        "nomor_bab": "III",
+        "judul": "PENDIDIKAN KEAGAMAAN",
+        "urutan": 3,
+        "bagian": [
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+            "nomor_bagian": "Kesatu",
+            "judul": "Pendidikan Keagamaan Islam",
+            "urutan": 1,
+            "paragraf": [
+              {
+                "id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1",
+                "nomor_paragraf": "1",
+                "judul": "Pendidikan Diniyah Formal",
+                "urutan": 1,
+                "pasal_ids": [
+                  "PSL-REG-PP-55-2007-15",
+                  "PSL-REG-PP-55-2007-16",
+                  "PSL-REG-PP-55-2007-17",
+                  "PSL-REG-PP-55-2007-18",
+                  "PSL-REG-PP-55-2007-19",
+                  "PSL-REG-PP-55-2007-20"
+                ]
+              },
+              {
+                "id": "PARAGRAF-REG-PP-55-2007-III-KESATU-2",
+                "nomor_paragraf": "2",
+                "judul": "Pendidikan Diniyah Nonformal",
+                "urutan": 2,
+                "pasal_ids": [
+                  "PSL-REG-PP-55-2007-21",
+                  "PSL-REG-PP-55-2007-22",
+                  "PSL-REG-PP-55-2007-23",
+                  "PSL-REG-PP-55-2007-24",
+                  "PSL-REG-PP-55-2007-25"
+                ]
+              },
+              {
+                "id": "PARAGRAF-REG-PP-55-2007-III-KESATU-3",
+                "nomor_paragraf": "3 . . .",
+                "judul": "Pesantren",
+                "urutan": 3,
+                "pasal_ids": [
+                  "PSL-REG-PP-55-2007-26"
+                ]
+              }
+            ],
+            "pasal_ids": [
+              "PSL-REG-PP-55-2007-14",
+              "PSL-REG-PP-55-2007-15",
+              "PSL-REG-PP-55-2007-16",
+              "PSL-REG-PP-55-2007-17",
+              "PSL-REG-PP-55-2007-18",
+              "PSL-REG-PP-55-2007-19",
+              "PSL-REG-PP-55-2007-20",
+              "PSL-REG-PP-55-2007-21",
+              "PSL-REG-PP-55-2007-22",
+              "PSL-REG-PP-55-2007-23",
+              "PSL-REG-PP-55-2007-24",
+              "PSL-REG-PP-55-2007-25",
+              "PSL-REG-PP-55-2007-26"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-KEDUA",
+            "nomor_bagian": "Kedua",
+            "judul": "Pendidikan Keagamaan Kristen",
+            "urutan": 2,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-55-2007-27",
+              "PSL-REG-PP-55-2007-28",
+              "PSL-REG-PP-55-2007-29",
+              "PSL-REG-PP-55-2007-30"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-KETIGA",
+            "nomor_bagian": "Ketiga",
+            "judul": "Pendidikan Keagamaan Katolik",
+            "urutan": 3,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-55-2007-31",
+              "PSL-REG-PP-55-2007-32",
+              "PSL-REG-PP-55-2007-33",
+              "PSL-REG-PP-55-2007-34",
+              "PSL-REG-PP-55-2007-35",
+              "PSL-REG-PP-55-2007-36",
+              "PSL-REG-PP-55-2007-37"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-KEEMPAT",
+            "nomor_bagian": "Keempat",
+            "judul": "Pendidikan Keagamaan Hindu",
+            "urutan": 4,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-55-2007-38",
+              "PSL-REG-PP-55-2007-39",
+              "PSL-REG-PP-55-2007-40",
+              "PSL-REG-PP-55-2007-41"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-KELIMA",
+            "nomor_bagian": "Kelima",
+            "judul": "Pendidikan Keagamaan Buddha",
+            "urutan": 5,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-55-2007-42",
+              "PSL-REG-PP-55-2007-43",
+              "PSL-REG-PP-55-2007-44"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-DARI-PENDIDIKAN-AGAMA-PADA-SATUAN-PENDIDIKAN",
+            "nomor_bagian": "dari pendidikan agama pada satuan pendidikan",
+            "judul": "formal.",
+            "urutan": 6,
+            "paragraf": [],
+            "pasal_ids": []
+          },
+          {
+            "id": "BAGIAN-REG-PP-55-2007-III-KEENAM",
+            "nomor_bagian": "Keenam",
+            "judul": "Pendidikan Keagamaan Khonghucu",
+            "urutan": 7,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-55-2007-45",
+              "PSL-REG-PP-55-2007-46",
+              "PSL-REG-PP-55-2007-47"
+            ]
+          }
+        ],
+        "pasal_ids": [
+          "PSL-REG-PP-55-2007-8",
+          "PSL-REG-PP-55-2007-9",
+          "PSL-REG-PP-55-2007-10",
+          "PSL-REG-PP-55-2007-11",
+          "PSL-REG-PP-55-2007-12",
+          "PSL-REG-PP-55-2007-13",
+          "PSL-REG-PP-55-2007-14",
+          "PSL-REG-PP-55-2007-15",
+          "PSL-REG-PP-55-2007-16",
+          "PSL-REG-PP-55-2007-17",
+          "PSL-REG-PP-55-2007-18",
+          "PSL-REG-PP-55-2007-19",
+          "PSL-REG-PP-55-2007-20",
+          "PSL-REG-PP-55-2007-21",
+          "PSL-REG-PP-55-2007-22",
+          "PSL-REG-PP-55-2007-23",
+          "PSL-REG-PP-55-2007-24",
+          "PSL-REG-PP-55-2007-25",
+          "PSL-REG-PP-55-2007-26",
+          "PSL-REG-PP-55-2007-27",
+          "PSL-REG-PP-55-2007-28",
+          "PSL-REG-PP-55-2007-29",
+          "PSL-REG-PP-55-2007-30",
+          "PSL-REG-PP-55-2007-31",
+          "PSL-REG-PP-55-2007-32",
+          "PSL-REG-PP-55-2007-33",
+          "PSL-REG-PP-55-2007-34",
+          "PSL-REG-PP-55-2007-35",
+          "PSL-REG-PP-55-2007-36",
+          "PSL-REG-PP-55-2007-37",
+          "PSL-REG-PP-55-2007-38",
+          "PSL-REG-PP-55-2007-39",
+          "PSL-REG-PP-55-2007-40",
+          "PSL-REG-PP-55-2007-41",
+          "PSL-REG-PP-55-2007-42",
+          "PSL-REG-PP-55-2007-43",
+          "PSL-REG-PP-55-2007-44",
+          "PSL-REG-PP-55-2007-45",
+          "PSL-REG-PP-55-2007-46",
+          "PSL-REG-PP-55-2007-47"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-55-2007-IV",
+        "nomor_bab": "IV",
+        "judul": "KETENTUAN LAIN",
+        "urutan": 4,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-55-2007-48"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-55-2007-V",
+        "nomor_bab": "V",
+        "judul": "KETENTUAN PERALIHAN",
+        "urutan": 5,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-55-2007-49"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-55-2007-VI",
+        "nomor_bab": "VI",
+        "judul": "KETENTUAN PENUTUP",
+        "urutan": 6,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-55-2007-50",
+          "PSL-REG-PP-55-2007-51"
+        ]
+      }
+    ],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-55-2007-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam Peraturan Pemerintah ini, yang dimaksud dengan: 1. Pendidikan agama adalah pendidikan yang memberikan pengetahuan dan membentuk sikap, kepribadian, dan keterampilan peserta didik dalam mengamalkan ajaran agamanya, yang dilaksanakan sekurang-kurangnya melalui mata pelajaran/kuliah pada semua jalur, jenjang, dan jenis pendidikan. 2. Pendidikan keagamaan adalah pendidikan yang mempersiapkan peserta didik untuk dapat menjalankan peranan yang menuntut penguasaan pengetahuan tentang ajaran agama dan/atau menjadi ahli ilmu agama dan mengamalkan ajaran agamanya. 3. Pendidikan diniyah adalah pendidikan keagamaan Islam yang diselenggarakan pada semua jalur dan jenjang pendidikan. 4. Pesantren atau pondok pesantren adalah lembaga pendidikan keagamaan Islam berbasis masyarakat yang menyelenggarakan pendidikan diniyah atau secara terpadu dengan jenis pendidikan lainnya. 5. Pasraman adalah satuan pendidikan keagamaan Hindu pada jalur pendidikan formal dan nonformal. 6. Pesantian adalah satuan pendidikan keagamaan Hindu pada jalur pendidikan nonformal yang mengacu pada sastra agama dan/atau kitab suci Weda. 7. Pabbajja samanera adalah satuan pendidikan keagamaan Buddha pada jalur pendidikan nonformal. 8. Shuyuan adalah satuan pendidikan keagamaan Khonghucu yang diselenggarakan pada semua jalur dan jenjang pendidikan yang mengacu pada Si Shu Wu Jing. 9. Tempat . . . 9. Tempat pendidikan agama adalah ruangan yang digunakan untuk melaksanakan pendidikan agama. 10. Rumah ibadah adalah bangunan yang secara khusus dibangun untuk keperluan tempat beribadah warga satuan pendidikan yang bersangkutan dan/atau masyarakat umum. 11. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan. 12. Menteri Agama adalah menteri yang menyelenggarakan urusan pemerintahan di bidang agama.",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Pendidikan agama adalah pendidikan yang memberikan pengetahuan dan membentuk sikap, kepribadian, dan keterampilan peserta didik dalam mengamalkan ajaran agamanya, yang dilaksanakan sekurang-kurangnya melalui mata pelajaran/kuliah pada semua jalur, jenjang, dan jenis pendidikan.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Pendidikan keagamaan adalah pendidikan yang mempersiapkan peserta didik untuk dapat menjalankan peranan yang menuntut penguasaan pengetahuan tentang ajaran agama dan/atau menjadi ahli ilmu agama dan mengamalkan ajaran agamanya.",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-3",
+            "jenis": "angka",
+            "nomor": "3",
+            "teks_isi": "Pendidikan diniyah adalah pendidikan keagamaan Islam yang diselenggarakan pada semua jalur dan jenjang pendidikan.",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-4",
+            "jenis": "angka",
+            "nomor": "4",
+            "teks_isi": "Pesantren atau pondok pesantren adalah lembaga pendidikan keagamaan Islam berbasis masyarakat yang menyelenggarakan pendidikan diniyah atau secara terpadu dengan jenis pendidikan lainnya.",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Pasraman adalah satuan pendidikan keagamaan Hindu pada jalur pendidikan formal dan nonformal.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Pesantian adalah satuan pendidikan keagamaan Hindu pada jalur pendidikan nonformal yang mengacu pada sastra agama dan/atau kitab suci Weda.",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Pabbajja samanera adalah satuan pendidikan keagamaan Buddha pada jalur pendidikan nonformal.",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Shuyuan adalah satuan pendidikan keagamaan Khonghucu yang diselenggarakan pada semua jalur dan jenjang pendidikan yang mengacu pada Si Shu Wu Jing.",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Tempat . . .",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Tempat pendidikan agama adalah ruangan yang digunakan untuk melaksanakan pendidikan agama.",
+            "urutan": 10,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-10",
+            "jenis": "angka",
+            "nomor": "10",
+            "teks_isi": "Rumah ibadah adalah bangunan yang secara khusus dibangun untuk keperluan tempat beribadah warga satuan pendidikan yang bersangkutan dan/atau masyarakat umum.",
+            "urutan": 11,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-11",
+            "jenis": "angka",
+            "nomor": "11",
+            "teks_isi": "Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang pendidikan.",
+            "urutan": 12,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-55-2007-1-angka-12",
+            "jenis": "angka",
+            "nomor": "12",
+            "teks_isi": "Menteri Agama adalah menteri yang menyelenggarakan urusan pemerintahan di bidang agama.",
+            "urutan": 13,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-55-2007-I"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-2",
+        "nomor_pasal": "2",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-2-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan agama berfungsi membentuk manusia Indonesia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa serta berakhlak mulia dan mampu menjaga kedamaian dan kerukunan hubungan inter dan antarumat beragama.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-2-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan agama bertujuan untuk berkembangnya kemampuan peserta didik dalam memahami, menghayati, dan mengamalkan nilai-nilai agama yang menyerasikan penguasaannya dalam ilmu pengetahuan, teknologi dan seni.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-II"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-3",
+        "nomor_pasal": "3",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-3-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap satuan pendidikan pada semua jalur, jenjang, dan jenis pendidikan wajib menyelenggarakan pendidikan agama.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-3-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengelolaan pendidikan agama dilaksanakan oleh Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-II"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-4",
+        "nomor_pasal": "4",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-4-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan agama pada pendidikan formal dan program pendidikan kesetaraan sekurang-kurangnya diselenggarakan dalam bentuk mata pelajaran atau mata kuliah agama.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-4-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap peserta didik pada satuan pendidikan di semua jalur, jenjang, dan jenis pendidikan berhak mendapat pendidikan agama sesuai agama yang dianutnya dan diajar oleh pendidik yang seagama.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-4-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Setiap satuan pendidikan menyediakan tempat menyelenggarakan pendidikan agama.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-4-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Satuan pendidikan yang tidak dapat menyediakan tempat menyelenggarakan pendidikan agama sebagaimana dimaksud pada ayat (3) dapat bekerja sama dengan satuan pendidikan yang setingkat atau penyelenggara pendidikan agama di masyarakat untuk menyelenggarakan pendidikan agama bagi peserta didik.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-4-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Setiap satuan pendidikan menyediakan tempat dan kesempatan kepada peserta didik untuk melaksanakan ibadah berdasarkan ketentuan agama yang dianut oleh peserta didik.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-4-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Tempat melaksanakan ibadah agama sebagaimana dimaksud pada ayat (5) dapat berupa ruangan di dalam atau di sekitar lingkungan satuan pendidikan yang dapat digunakan peserta didik menjalankan ibadahnya.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-4-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Satuan pendidikan yang berciri khas agama tertentu tidak berkewajiban membangun rumah ibadah agama lain selain yang sesuai dengan ciri khas agama satuan pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-II"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-5",
+        "nomor_pasal": "5",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-5-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum pendidikan agama dilaksanakan sesuai Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan agama diajarkan sesuai dengan tahap perkembangan kejiwaan peserta didik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan agama mendorong peserta didik untuk taat menjalankan ajaran agamanya dalam kehidupan seharihari dan menjadikan agama sebagai landasan etika dan moral dalam kehidupan pribadi, berkeluarga, bermasyarakat, berbangsa, dan bernegara.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan agama mewujudkan keharmonisan, kerukunan, dan rasa hormat diantara sesama pemeluk agama yang dianut dan terhadap pemeluk agama lain.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pendidikan agama membangun sikap mental peserta didik untuk bersikap dan berperilaku jujur, amanah, disiplin, bekerja keras, mandiri, percaya diri, kompetitif, kooperatif, tulus, dan bertanggung jawab.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidikan agama menumbuhkan sikap kritis, inovatif, dan dinamis, sehingga menjadi pendorong peserta didik untuk memiliki kompetensi dalam bidang ilmu pengetahuan, teknologi, seni, dan/atau olahraga.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Pendidikan agama diselenggarakan secara interaktif, inspiratif, menyenangkan, menantang, mendorong kreativitas dan kemandirian, serta menumbuhkan motivasi untuk hidup sukses.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-8",
+            "nomor_ayat": "8",
+            "teks_isi": "Satuan pendidikan dapat menambah muatan pendidikan agama sesuai kebutuhan.",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-5-9",
+            "nomor_ayat": "9",
+            "teks_isi": "Muatan sebagaimana dimaksud pada ayat (8) dapat berupa tambahan materi, jam pelajaran, dan kedalaman materi.",
+            "status": "Aktif",
+            "urutan": 9,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-II"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-6",
+        "nomor_pasal": "6",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-6-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidik pendidikan agama pada satuan pendidikan yang diselenggarakan oleh Pemerintah atau pemerintah daerah disediakan oleh Pemerintah atau pemerintah daerah sesuai kewenangan masing-masing berdasarkan ketentuan Peraturan Perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-6-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidik pendidikan agama pada satuan pendidikan yang diselenggarakan oleh masyarakat disediakan oleh satuan pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-6-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dalam hal satuan pendidikan tidak dapat menyediakannya, maka Pemerintah dan/atau pemerintah daerah wajib menyediakannya sesuai kebutuhan satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-II"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-7",
+        "nomor_pasal": "7",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-7-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Satuan pendidikan yang menyelenggarakan pendidikan agama tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 3 ayat (1), Pasal 4 ayat (2) sampai dengan ayat (7), dan Pasal 5 ayat (1) dikenakan sanksi administratif berupa peringatan sampai dengan penutupan setelah diadakan pembinaan/pembimbingan oleh Pemerintah dan/atau pemerintah daerah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-7-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Sanksi administratif sebagaimana dimaksud pada ayat (1) untuk: a. satuan pendidikan tinggi dilakukan oleh Menteri setelah memperoleh pertimbangan dari Menteri Agama; b. satuan pendidikan dasar dan menengah dilakukan oleh bupati/walikota setelah memperoleh pertimbangan dari Kepala Kantor Departemen Agama Kabupaten/Kota. c. satuan . . . c. satuan pendidikan dasar dan menengah yang dikembangkan oleh pemerintah daerah menjadi bertaraf internasional dilakukan oleh kepala pemerintahan daerah yang mengembangkannya setelah memperoleh pertimbangan dari Kepala Kantor Wilayah Departemen Agama Provinsi atau Kepala Kantor Departemen Agama Kabupaten/Kota.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-55-2007-7-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "satuan pendidikan tinggi dilakukan oleh Menteri setelah memperoleh pertimbangan dari Menteri Agama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-7-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "satuan pendidikan dasar dan menengah dilakukan oleh bupati/walikota setelah memperoleh pertimbangan dari Kepala Kantor Departemen Agama Kabupaten/Kota.",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-7-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "satuan . . .",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-7-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "satuan pendidikan dasar dan menengah yang dikembangkan oleh pemerintah daerah menjadi bertaraf internasional dilakukan oleh kepala pemerintahan daerah yang mengembangkannya setelah memperoleh pertimbangan dari Kepala Kantor Wilayah Departemen Agama Provinsi atau Kepala Kantor Departemen Agama Kabupaten/Kota.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-7-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ketentuan lebih lanjut tentang sanksi administratif sebagaimana dimaksud pada ayat (1) dan ayat (2), tentang pengelolaan dan penyelenggaraan pendidikan agama sebagaimana dimaksud dalam Pasal 3, Pasal 4, dan Pasal 5, serta tentang pendidik pendidikan agama sebagaimana dimaksud dalam Pasal 6 diatur dengan Peraturan Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-II"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-8",
+        "nomor_pasal": "8",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-8-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan berfungsi mempersiapkan peserta didik menjadi anggota masyarakat yang memahami dan mengamalkan nilai-nilai ajaran agamanya dan/atau menjadi ahli ilmu agama.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-8-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan bertujuan untuk terbentuknya peserta didik yang memahami dan mengamalkan nilainilai ajaran agamanya dan/atau menjadi ahli ilmu agama yang berwawasan luas, kritis, kreatif, inovatif, dan dinamis dalam rangka mencerdaskan kehidupan bangsa yang beriman, bertakwa, dan berakhlak mulia.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-9",
+        "nomor_pasal": "9",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-9-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan meliputi pendidikan keagamaan Islam, Kristen, Katolik, Hindu, Buddha, dan Khonghucu.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-9-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan diselenggarakan pada jalur pendidikan formal, nonformal, dan informal.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-9-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengelolaan pendidikan keagamaan dilakukan oleh Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-10",
+        "nomor_pasal": "10",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-10-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan menyelenggarakan pendidikan ilmu-ilmu yang bersumber dari ajaran agama.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-10-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggaraan pendidikan ilmu yang bersumber dari ajaran agama sebagaimana dimaksud pada ayat (1) yang memadukan ilmu agama dan ilmu umum/keterampilan terutama bertujuan untuk mempersiapkan peserta didik pindah pada jenjang yang sama atau melanjutkan ke pendidikan umum atau yang lainnya pada jenjang berikutnya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-11",
+        "nomor_pasal": "11",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-11-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Peserta didik pada pendidikan keagamaan jenjang pendidikan dasar dan menengah yang terakreditasi berhak pindah ke tingkat yang setara di Sekolah Dasar (SD), Madrasah Ibtidaiyah (MI), Sekolah Menengah Pertama (SMP), Madrasah Tsanawiyah (MTs), Sekolah Menengah Atas (SMA), Madrasah Aliyah (MA), Sekolah Menengah Kejuruan (SMK), Madrasah Aliyah Kejuruan (MAK), atau bentuk lain yang sederajat setelah memenuhi persyaratan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-11-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Hasil pendidikan keagamaan nonformal dan/atau informal dapat dihargai sederajat dengan hasil pendidikan formal keagamaan/umum/kejuruan setelah lulus ujian yang diselenggarakan oleh satuan pendidikan yang terakreditasi yang ditunjuk oleh Pemerintah dan/atau pemerintah daerah.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-11-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Peserta . . .",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-11-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Peserta didik pendidikan keagamaan formal, nonformal, dan informal yang memperoleh ijazah sederajat pendidikan formal umum/kejuruan dapat melanjutkan ke jenjang berikutnya pada pendidikan keagamaan atau jenis pendidikan yang lainnya.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-12",
+        "nomor_pasal": "12",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-12-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah dan/atau pemerintah daerah memberi bantuan sumber daya pendidikan kepada pendidikan keagamaan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-12-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah melindungi kemandirian dan kekhasan pendidikan keagamaan selama tidak bertentangan dengan tujuan pendidikan nasional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-12-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah dan/atau lembaga mandiri yang berwenang, melakukan akreditasi atas pendidikan keagamaan untuk penjaminan dan pengendalian mutu pendidikan sesuai Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-12-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Akreditasi atas pendidikan keagamaan sebagaimana dimaksud pada ayat (3) dilaksanakan setelah memperoleh pertimbangan dari Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-13",
+        "nomor_pasal": "13",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-13-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan dapat berbentuk satuan atau program pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-13-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan dapat didirikan oleh Pemerintah, pemerintah daerah dan/atau masyarakat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-13-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendirian satuan pendidikan keagamaan wajib memperoleh izin dari Menteri Agama atau pejabat yang ditunjuk.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-13-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Syarat pendirian satuan pendidikan keagamaan sebagaimana dimaksud pada ayat (3) terdiri atas: a. isi pendidikan . . . a. isi pendidikan/kurikulum; b. jumlah dan kualifikasi pendidik dan tenaga kependidikan; c. sarana dan prasarana yang memungkinkan terselenggaranya kegiatan pembelajaran; d. sumber pembiayaan untuk kelangsungan program pendidikan sekurang-kurangnya untuk 1 (satu) tahun pendidikan/akademik berikutnya; e. sistem evaluasi; dan f. manajemen dan proses pendidikan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "isi pendidikan . . .",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "isi pendidikan/kurikulum;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "jumlah dan kualifikasi pendidik dan tenaga kependidikan;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "sarana dan prasarana yang memungkinkan terselenggaranya kegiatan pembelajaran;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "sumber pembiayaan untuk kelangsungan program pendidikan sekurang-kurangnya untuk 1 (satu) tahun pendidikan/akademik berikutnya;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "sistem evaluasi; dan",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-55-2007-13-4-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "manajemen dan proses pendidikan.",
+                "urutan": 7,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-13-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan lebih lanjut tentang syarat-syarat pendirian satuan pendidikan keagamaan sebagaimana dimaksud pada ayat (4) huruf a, huruf b, huruf c, huruf d, dan huruf e diatur dengan Peraturan Menteri Agama dengan berpedoman pada ketentuan Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-13-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidikan keagamaan jalur nonformal yang tidak berbentuk satuan pendidikan yang memiliki peserta didik 15 (lima belas) orang atau lebih merupakan program pendidikan yang wajib mendaftarkan diri kepada Kantor Departemen Agama Kabupaten/Kota. Pendidikan Keagamaan Islam",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-14",
+        "nomor_pasal": "14",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-14-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Islam berbentuk pendidikan diniyah dan pesantren.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-14-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan diniyah sebagaimana dimaksud pada ayat (1) diselenggarakan pada jalur formal, nonformal, dan informal.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-14-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pesantren . . .",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-14-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pesantren dapat menyelenggarakan 1 (satu) atau berbagai satuan dan/atau program pendidikan pada jalur formal, nonformal, dan informal. Pendidikan Diniyah Formal",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-15",
+        "nomor_pasal": "15",
+        "teks_isi": "Pendidikan diniyah formal menyelenggarakan pendidikan ilmu-ilmu yang bersumber dari ajaran agama Islam pada jenjang pendidikan anak usia dini, pendidikan dasar, pendidikan menengah, dan pendidikan tinggi.",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-16",
+        "nomor_pasal": "16",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-16-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan diniyah dasar menyelenggarakan pendidikan dasar sederajat MI/SD yang terdiri atas 6 (enam) tingkat dan pendidikan diniyah menengah pertama sederajat MTs/SMP yang terdiri atas 3 (tiga) tingkat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-16-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan diniyah menengah menyelenggarakan pendidikan diniyah menengah atas sederajat MA/SMA yang terdiri atas 3 (tiga) tingkat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-16-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penamaan satuan pendidikan diniyah dasar dan menengah sebagaimana dimaksud pada ayat (1) dan ayat",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-16-2",
+            "nomor_ayat": "2",
+            "teks_isi": "merupakan hak penyelenggara pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-17",
+        "nomor_pasal": "17",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 17,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-17-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik pendidikan diniyah dasar, seseorang harus berusia sekurangkurangnya 7 (tujuh) tahun.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-17-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Dalam . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-17-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Dalam hal daya tampung satuan pendidikan masih tersedia maka seseorang yang berusia 6 (enam) tahun dapat diterima sebagai peserta didik pendidikan diniyah dasar.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-17-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik pendidikan diniyah menengah pertama, seseorang harus berijazah pendidikan diniyah dasar atau yang sederajat.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-17-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik pendidikan diniyah menengah atas, seseorang harus berijazah pendidikan diniyah menengah pertama atau yang sederajat.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-18",
+        "nomor_pasal": "18",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 18,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-18-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum pendidikan diniyah dasar formal wajib memasukkan muatan pendidikan kewarganegaraan, bahasa Indonesia, matematika, dan ilmu pengetahuan alam dalam rangka pelaksanaan program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-18-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kurikulum pendidikan diniyah menengah formal wajib memasukkan muatan pendidikan kewarganegaraan, bahasa Indonesia, matematika, ilmu pengetahuan alam, serta seni dan budaya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-19",
+        "nomor_pasal": "19",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 19,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-19-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Ujian nasional pendidikan diniyah dasar dan menengah diselenggarakan untuk menentukan standar pencapaian kompetensi peserta didik atas ilmu-ilmu yang bersumber dari ajaran Islam.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-19-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ketentuan lebih lanjut tentang ujian nasional pendidikan diniyah dan standar kompetensi ilmu-ilmu yang bersumber dari ajaran Islam sebagaimana dimaksud pada ayat (1), ditetapkan dengan peraturan Menteri Agama dengan berpedoman kepada Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-20",
+        "nomor_pasal": "20",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 20,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-20-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan diniyah pada jenjang pendidikan tinggi dapat menyelenggarakan program akademik, vokasi, dan profesi berbentuk universitas, institut, atau sekolah tinggi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-20-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kerangka dasar dan struktur kurikulum pendidikan untuk setiap program studi pada perguruan tinggi keagamaan Islam selain menekankan pembelajaran ilmu agama, wajib memasukkan pendidikan kewarganegaraan dan bahasa Indonesia.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-20-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Mata kuliah dalam kurikulum program studi memiliki beban belajar yang dinyatakan dalam satuan kredit semester (sks).",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-20-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan diniyah jenjang pendidikan tinggi diselenggarakan sesuai dengan Standar Nasional Pendidikan. Pendidikan Diniyah Nonformal",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-1"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-21",
+        "nomor_pasal": "21",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 21,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-21-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan diniyah nonformal diselenggarakan dalam bentuk pengajian kitab, Majelis Taklim, Pendidikan Al Qur'an, Diniyah Takmiliyah, atau bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-21-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan diniyah nonformal sebagaimana dimaksud pada ayat (1) dapat berbentuk satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-21-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan diniyah nonformal yang berkembang menjadi satuan pendidikan wajib mendapatkan izin dari kantor Departemen Agama Kabupaten/Kota setelah memenuhi ketentuan tentang persyaratan pendirian satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-2"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-22",
+        "nomor_pasal": "22",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 22,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-22-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengajian kitab diselenggarakan dalam rangka mendalami ajaran Islam dan/atau menjadi ahli ilmu agama Islam.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-22-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggaraan pengajian kitab dapat dilaksanakan secara berjenjang atau tidak berjenjang.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-22-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengajian kitab dilaksanakan di pondok pesantren, masjid, mushalla, atau tempat lain yang memenuhi syarat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-2"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-23",
+        "nomor_pasal": "23",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 23,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-23-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Majelis Taklim atau nama lain yang sejenis bertujuan untuk meningkatkan keimanan dan ketakwaan kepada Allah SWT dan akhlak mulia peserta didik serta mewujudkan rahmat bagi alam semesta.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-23-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kurikulum Majelis Taklim bersifat terbuka dengan mengacu pada pemahaman terhadap Al-Qur'an dan Hadits sebagai dasar untuk meningkatkan keimanan dan ketakwaan kepada Allah SWT, serta akhlak mulia.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-23-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Majelis Taklim dilaksanakan di masjid, mushalla, atau tempat lain yang memenuhi syarat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-2"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-24",
+        "nomor_pasal": "24",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 24,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-24-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan Al-Qur'an bertujuan meningkatkan kemampuan peserta didik membaca, menulis, memahami, dan mengamalkan kandungan Al Qur'an.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-24-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan Al-Qur'an terdiri dari Taman Kanak-Kanak Al-Qur'an (TKQ), Taman Pendidikan Al-Qur'an (TPQ), Ta'limul Qur'an lil Aulad (TQA), dan bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-24-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan Al-Qur'an dapat dilaksanakan secara berjenjang dan tidak berjenjang.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-24-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penyelenggaraan . . .",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-24-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penyelenggaraan pendidikan Al-Qur'an dipusatkan di masjid, mushalla, atau ditempat lain yang memenuhi syarat.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-24-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Kurikulum pendidikan Al-Qur'an adalah membaca, menulis dan menghafal ayat-ayat Al Qur'an, tajwid, serta menghafal doa-doa utama.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-24-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidik pada pendidikan Al-Qur'an minimal lulusan pendidikan diniyah menengah atas atau yang sederajat, dapat membaca Al-Qur'an dengan tartil dan menguasai teknik pengajaran Al-Qur'an.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-2"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-25",
+        "nomor_pasal": "25",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 25,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-25-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Diniyah takmiliyah bertujuan untuk melengkapi pendidikan agama Islam yang diperoleh di SD/MI, SMP/MTs, SMA/MA, SMK/MAK atau di pendidikan tinggi dalam rangka peningkatan keimanan dan ketakwaan peserta didik kepada Allah SWT.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-25-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggaraan diniyah takmiliyah dapat dilaksanakan secara berjenjang atau tidak berjenjang.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-25-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggaraan diniyah takmiliyah dilaksanakan di masjid, mushalla, atau di tempat lain yang memenuhi syarat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-25-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penamaan atas diniyah takmiliyah merupakan kewenangan penyelenggara.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-25-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Penyelenggaraan diniyah takmiliyah dapat dilaksanakan secara terpadu dengan SD/MI, SMP/MTs, SMA/MA, SMK/MAK atau pendidikan tinggi. Pesantren",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-2"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-26",
+        "nomor_pasal": "26",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 26,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-26-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pesantren menyelenggarakan pendidikan dengan tujuan menanamkan keimanan dan ketakwaan kepada Allah SWT, akhlak mulia, serta tradisi pesantren untuk mengembangkan kemampuan, pengetahuan, dan keterampilan peserta didik untuk menjadi ahli ilmu agama Islam (mutafaqqih fiddin) dan/atau menjadi muslim yang memiliki keterampilan/keahlian untuk membangun kehidupan yang Islami di masyarakat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-26-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pesantren menyelenggarakan pendidikan diniyah atau secara terpadu dengan jenis pendidikan lainnya pada jenjang pendidikan anak usia dini, pendidikan dasar, menengah, dan/atau pendidikan tinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-26-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Peserta didik dan/atau pendidik di pesantren yang diakui keahliannya di bidang ilmu agama tetapi tidak memiliki ijazah pendidikan formal dapat menjadi pendidik mata pelajaran/kuliah pendidikan agama di semua jalur, jenjang, dan jenis pendidikan yang memerlukan, setelah menempuh uji kompetensi sesuai ketentuan Peraturan Perundang-undangan. Pendidikan Keagamaan Kristen",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KESATU",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-55-2007-III-KESATU-3"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-27",
+        "nomor_pasal": "27",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 27,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-27-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Kristen diselenggarakan pada jalur pendidikan formal, nonformal, dan informal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-27-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-27-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Kristen jalur pendidikan formal diselenggarakan pada jenjang pendidikan dasar, pendidikan menengah, dan pendidikan tinggi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-27-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan keagamaan Kristen jalur pendidikan formal sebagaimana dimaksud pada ayat (2) dibina oleh Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-28",
+        "nomor_pasal": "28",
+        "teks_isi": "Penamaan satuan pendidikan keagamaan Kristen jalur pendidikan formal jenjang pendidikan menengah dan tinggi merupakan hak penyelenggara satuan pendidikan yang bersangkutan.",
+        "status": "Aktif",
+        "urutan": 28,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-29",
+        "nomor_pasal": "29",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 29,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-29-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Kristen jenjang pendidikan dasar adalah Sekolah Dasar Teologi Kristen (SDTK) dan Sekolah Menengah Pertama Teologi Kristen (SMPTK).",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-29-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Kristen jenjang pendidikan menengah adalah Sekolah Menengah Agama Kristen (SMAK) dan Sekolah Menengah Teologi Kristen (SMTK) atau yang sederajat, yang terdiri atas 3 (tiga) tingkat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-29-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik pada pendidikan menengah keagamaan Kristen seseorang harus berijazah SMP atau yang sederajat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-29-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pengelolaan SMAK dan SMTK diselenggarakan oleh Pemerintah, gereja dan/atau lembaga keagamaan Kristen.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-29-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Kurikulum SMAK dan SMTK memuat bahan kajian tentang agama/teologi Kristen dan kajian lainnya pada jenjang menengah.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-29-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Isi dan materi kurikulum yang menyangkut iman dan moral merupakan kewenangan gereja dan/atau kelembagaan Kristen.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-30",
+        "nomor_pasal": "30",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 30,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-30-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan tinggi keagamaan Kristen diselenggarakan oleh gereja dan atau lembaga keagamaan Kristen.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-30-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan jenjang pendidikan tinggi diselenggarakan dalam bentuk Sekolah Tinggi Agama Kristen (STAK) dan Sekolah Tinggi Teologi (STT) atau bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-30-3",
+            "nomor_ayat": "3",
+            "teks_isi": "STAK, STT atau bentuk lain yang sejenis dapat diselenggarakan oleh Pemerintah, pemerintah daerah dan/atau masyarakat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-30-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penamaan satuan jenjang pendidikan tinggi yang diselenggarakan oleh gereja dan/atau lembaga keagamaan Kristen merupakan hak penyelenggara satuan pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-30-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Isi/materi kurikulum menyangkut iman dan moral pendidikan keagamaan Kristen/Teologi jenjang pendidikan tinggi merupakan kewenangan gereja dan/atau lembaga keagamaan Kristen.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-30-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Untuk dapat diterima sebagai mahasiswa pada pendidikan tinggi keagamaan Kristen seseorang harus berijazah SMA atau yang sederajat. Pendidikan Keagamaan Katolik",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-31",
+        "nomor_pasal": "31",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 31,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-31-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Katolik diselenggarakan pada jalur pendidikan formal, nonformal, dan informal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-31-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Katolik pada jalur pendidikan formal diselenggarakan pada jenjang pendidikan menengah dan tinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-31-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan keagamaan Katolik pada jalur formal dibina oleh Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-32",
+        "nomor_pasal": "32",
+        "teks_isi": "Penamaan satuan pendidikan keagamaan Katolik jalur pendidikan formal pada jenjang pendidikan menengah dan tinggi merupakan hak penyelenggara satuan pendidikan yang bersangkutan.",
+        "status": "Aktif",
+        "urutan": 32,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-33",
+        "nomor_pasal": "33",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 33,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-33-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Katolik tingkat menengah merupakan Sekolah Menengah Agama Katolik (SMAK) atau yang sederajat yang terdiri atas 3 (tiga) tingkat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-33-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Katolik tingkat menengah dibina oleh Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-34",
+        "nomor_pasal": "34",
+        "teks_isi": "Untuk dapat diterima sebagai peserta didik pendidikan menengah keagamaan Katolik seseorang harus berijazah SMP atau yang sederajat.",
+        "status": "Aktif",
+        "urutan": 34,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-35",
+        "nomor_pasal": "35",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 35,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-35-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum pendidikan keagamaan Katolik memuat bahan kajian tentang agama Katolik dan kajian lainnya pada jenjang menengah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-35-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Isi dan materi kurikulum yang menyangkut iman dan moral merupakan wewenang gereja Katolik dan/atau Uskup.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-36",
+        "nomor_pasal": "36",
+        "teks_isi": "Pengelolaan satuan pendidikan keagamaan Katolik tingkat menengah dilakukan oleh gereja Katolik/keuskupan.",
+        "status": "Aktif",
+        "urutan": 36,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-37",
+        "nomor_pasal": "37",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 37,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-37-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Katolik jenjang pendidikan tinggi diselenggarakan oleh gereja Katolik/keuskupan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-37-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Katolik jenjang pendidikan tinggi merupakan satuan pendidikan tinggi keagamaan yang mendapat ijin dari Menteri Agama.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-37-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan keagamaan Katolik jenjang pendidikan tinggi diselenggarakan dalam bentuk Sekolah Tinggi Pastoral/Kateketik/Teologi atau bentuk lain yang sejenis dan sederajat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-37-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penamaan satuan pendidikan keagamaan Katolik jenjang pendidikan tinggi merupakan hak penyelenggara yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-37-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Isi dan/atau materi kurikulum yang menyangkut iman dan moral pendidikan keagamaan Katolik jenjang pendidikan tinggi merupakan kewenangan gereja Katolik.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-37-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik pada pendidikan tinggi keagamaan Katolik seseorang harus berijazah SMA atau sederajat. Pendidikan Keagamaan Hindu",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-38",
+        "nomor_pasal": "38",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 38,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-38-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Hindu merupakan pendidikan berbasis masyarakat yang diselenggarakan dalam bentuk Pasraman, Pesantian, dan bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengelolaan satuan pendidikan keagamaan Hindu dilakukan oleh Pemerintah, pemerintah daerah, dan/atau masyarakat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan . . .",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pendidikan Pasraman diselenggarakan pada jalur formal, dan nonformal.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan Pasraman diselenggarakan pada jalur formal setingkat TK disebut Pratama Widya Pasraman, yaitu tingkat Pratama Widya Pasraman A (TK A) dan tingkat Pratama Widya Pasraman B (TK B).",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pendidikan pasraman pada jalur formal jenjang pendidikan dasar setingkat SD disebut Adi Widya Pasraman terdiri atas 6 (enam) tingkat.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidikan Pasraman pada jalur formal jenjang pendidikan dasar setingkat SMP disebut Madyama Widya Pasraman terdiri atas 3 (tiga) tingkat.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-38-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Pendidikan Pasraman pada jalur formal jenjang pendidikan menengah setingkat SMA disebut Utama Widya Pasraman terdiri atas 3 (tiga) tingkat.",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-39",
+        "nomor_pasal": "39",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 39,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-39-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik (Brahmacari) Adi Widya Pasraman, seseorang harus berijazah Pratama Widya Pasraman atau yang sederajat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-39-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik (Brahmacari) Madyama Widya Pasraman, seseorang harus berijazah Adi Widya Pasraman atau yang sederajat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-39-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Untuk dapat diterima sebagai peserta didik (Brahmacari) Utama Widya Pasraman, seseorang harus berijazah Madyama Widya Pasraman atau yang sederajat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-39-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan Adi Widya Pasraman terdiri atas 6 (enam) tingkat selama 6 (enam) tahun, pendidikan Madyama Widya Pasraman terdiri atas 3 (tiga) tingkat selama 3 (tiga) tahun, dan pendidikan Utama Widya Pasraman terdiri atas 3 (tiga) tingkat selama 3 (tiga) tahun.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-39-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Peserta didik . . .",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-39-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Peserta didik (Brahmacari) pada pendidikan Pasraman berkewajiban melaksanakan warna asrama dharma.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-39-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Acarya atau pendidik membimbing, menuntun, dan membekali peserta didik (Brahmacari) dengan pengetahuan agama lainnya sesuai dengan kurikulum.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-40",
+        "nomor_pasal": "40",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 40,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-40-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Maha Widya Pasraman atau pendidikan keagamaan tinggi Hindu, diselenggarakan oleh Pemerintah maupun masyarakat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-40-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penamaan satuan jenjang Maha Widya Pasraman yang diselenggarakan oleh masyarakat merupakan hak penyelenggara satuan pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-40-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Maha Widya Pasraman diselenggarakan sesuai dengan ketentuan tentang pendidikan tinggi dalam Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-41",
+        "nomor_pasal": "41",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 41,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-41-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Hindu nonformal dilaksanakan dalam bentuk Pesantian, sad dharma yaitu dharmatulla, dharma sadhana, dharma wacana, dharma yatra, dharma gita, dharma santi atau dalam bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-41-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Hindu nonformal merupakan kegiatan pendidikan keagamaan Hindu secara berjenjang atau tidak berjenjang bertujuan untuk melengkapi pendidikan agama di sekolah formal dalam rangka meningkatkan sraddha dan bhakti peserta didik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-41-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggaraan pendidikan keagamaan Hindu nonformal sebagai kegiatan pendidikan keagamaan Hindu berbasis masyarakat, diselenggarakan oleh lembaga sosial dan tradisional keagamaan Hindu, dilaksanakan di lingkungan tempat ibadah, balai adat, dan tempat lainnya yang memenuhi syarat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-41-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan . . .",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-41-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pendidikan keagamaan Hindu nonformal didaftarkan keberadaannya kepada Menteri Agama. Pendidikan Keagamaan Buddha",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-42",
+        "nomor_pasal": "42",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 42,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-42-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Buddha diselenggarakan oleh masyarakat pada jalur pendidikan nonformal dalam bentuk program Sekolah Minggu Buddha, Pabbajja Samanera, dan bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-42-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengelolaan satuan pendidikan keagamaan Buddha dilakukan oleh Pemerintah, pemerintah daerah, dan/atau masyarakat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KELIMA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-43",
+        "nomor_pasal": "43",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 43,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-43-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pabbajja Samanera merupakan pendidikan nonformal yang diselenggarakan oleh Sangha atau Majelis Keagamaan Buddha bertempat di Vihara/Cetiya yang diperuntukkan khusus bagi samanera, samaneri, silacarini, buddhasiswa, dalam rangka peningkatan kualitas keimanan dan ketakwaan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-43-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pabbajja Samanera bertujuan untuk menanamkan disiplin pertapaan sesuai dengan ajaran Sang Buddha dalam meningkatkan kualitas keimanan umat Buddha.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-43-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pabbajja Samanera dilaksanakan sekurang-kurangnya 2 (dua) minggu.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-43-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Peserta didik Pabbajja Samanera meliputi anak-anak, remaja, dan dewasa.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-43-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Kurikulum Pabbajja Samanera meliputi riwayat hidup Buddha Gotama, etika samanera, pokok-pokok dasar agama Buddha, paritta/mantra, meditasi, kedharmadutaan, dan materi penting terkait lainnya.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-43-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidik . . .",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-43-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Pendidik pada Pabbajja Samanera mencakup para Bhikkhu/Bhiksu, Bhikkhuni/Bhiksuni, Pandita, Pendidik Agama, atau yang berkompetensi.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KELIMA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-44",
+        "nomor_pasal": "44",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 44,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-44-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Sekolah Minggu Buddha merupakan kegiatan belajar mengajar nonformal yang dilaksanakan di Vihara atau Cetya setiap hari Minggu secara rutin.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-44-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Sekolah Minggu Buddha bertujuan untuk menanamkan saddha/sraddha dan bhakti peserta didik dalam rangka meningkatkan keimanan umat Buddha secara berkesinambungan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-44-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Sekolah Minggu Buddha diselenggarakan secara berjenjang atau tidak berjenjang.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-44-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Sekolah Minggu Buddha merupakan pelengkap atau formal.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-44-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Kurikulum Sekolah Minggu Buddha memuat bahan kajian Paritta/Mantram, Dharmagita, Dhammapada, Meditasi, Jataka, Riwayat Hidup Buddha Gotama, dan Pokok-pokok Dasar Agama Buddha.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-44-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Tenaga Pendidik pada Sekolah Minggu Buddhis mencakup Bhikkhu/Bhiksu, Bhikkhuni/Bhiksuni, Samanera/Sramanera, Samaneri/Sramaneri, Pandita, Pendidik Agama, atau yang berkompetensi. Pendidikan Keagamaan Khonghucu",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KELIMA"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-45",
+        "nomor_pasal": "45",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 45,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-45-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pendidikan keagamaan Khonghucu diselenggarakan oleh masyarakat pada jalur pendidikan formal, nonformal, dan informal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-45-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-45-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pendidikan keagamaan Khonghucu berbentuk program Sekolah Minggu, Diskusi Pendalaman Kitab Suci, Pendidikan Guru dan Rohaniwan Agama Khonghucu, atau bentuk lain yang sejenis.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-45-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengelolaan satuan pendidikan keagamaan Khonghucu dilakukan oleh Pemerintah, pemerintah daerah, dan/atau masyarakat.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEENAM"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-46",
+        "nomor_pasal": "46",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 46,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-55-2007-46-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Sekolah Minggu Khonghucu dan Diskusi Pendalaman Kitab Suci merupakan kegiatan belajar-mengajar nonformal yang dilaksanakan di Xuetang, Litang, Miao dan Klenteng, yang dilaksanakan setiap minggu dan tanggal 1 serta 15 penanggalan lunar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-46-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Sekolah Minggu Khonghucu dan Diskusi Pendalaman Kitab Suci bertujuan untuk menanamkan keimanan dan budi pekerti peserta didik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-46-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kurikulum Sekolah Minggu Khonghucu memuat bahan kajian Daxue, Zhongyong, Lunyu, Mengzi, Yijing, Shujing, Liji, Shijing, Chun Qiu Jing, Xiaojing, Sejarah Suci Agama Khonghucu, serta Tata Agama/Peribadahan Khonghucu.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-55-2007-46-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Tenaga Pendidik pada pendidikan keagamaan Khonghucu mencakup Jiaosheng, Wenshi, Xueshi, Zhanglao atau yang mempunyai kompetensi.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEENAM"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-47",
+        "nomor_pasal": "47",
+        "teks_isi": "Pendidikan Guru dan Rohaniwan Agama Khonghucu adalah pendidikan formal dan nonformal yang diselenggarakan di Shuyuan atau lembaga pendidikan lainnya dan oleh yayasan yang bergerak dalam pendidikan atau perkumpulan umat Khonghucu.",
+        "status": "Aktif",
+        "urutan": 47,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-III",
+        "parent_bagian_id": "BAGIAN-REG-PP-55-2007-III-KEENAM"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-48",
+        "nomor_pasal": "48",
+        "teks_isi": "Seluruh satuan pendidikan, program, dan kegiatan pendidikan keagamaan diselenggarakan dengan mengacu pada ketentuan yang ditetapkan dalam Peraturan Pemerintah ini.",
+        "status": "Aktif",
+        "urutan": 48,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-IV"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-49",
+        "nomor_pasal": "49",
+        "teks_isi": "Semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan peraturan perundang-undangan di bidang pendidikan agama dan pendidikan keagamaan yang ada pada saat diberlakukan Peraturan Pemerintah ini masih tetap berlaku sepanjang tidak bertentangan dengan Peraturan Pemerintah ini atau belum diganti dengan peraturan yang baru berdasarkan Peraturan Pemerintah ini.",
+        "status": "Aktif",
+        "urutan": 49,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-V"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-50",
+        "nomor_pasal": "50",
+        "teks_isi": "Semua peraturan perundang-undangan yang diperlukan untuk melaksanakan Peraturan Pemerintah ini harus diselesaikan paling lambat dua tahun terhitung sejak tanggal berlakunya Peraturan Pemerintah ini.",
+        "status": "Aktif",
+        "urutan": 50,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-VI"
+      },
+      {
+        "id": "PSL-REG-PP-55-2007-51",
+        "nomor_pasal": "51",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 5 Oktober 2007 ttd Diundangkan di Jakarta pada tanggal 5 Oktober 2007 ttd LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2007 NOMOR 124",
+        "status": "Aktif",
+        "urutan": 51,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-55-2007-VI"
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 Pasal 31 ayat (3) berbunyi: \"Pemerintah mengusahakan dan menyelenggarakan satu sistem pendidikan nasional yang meningkatkan keimanan dan ketakwaan serta akhlak mulia dalam rangka mencerdaskan kehidupan bangsa yang diatur dengan undang-undang\". Atas dasar amanat Undang-Undang Dasar 1945 tersebut, Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional pada Pasal 3 menyatakan bahwa pendidikan nasional bertujuan untuk berkembangnya potensi peserta didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Mahan Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga negara yang demokratis serta bertanggung jawab. Dalam Penjelasan Umum Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional ditegaskan bahwa strategi pertama dalam melaksanakan pembaruan sistem pendidikan nasional adalah \"pelaksanaan pendidikan agama dan akhlak mulia\". Selanjutnya, Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional pada Pasal 37 ayat (1) mewajibkan Pendidikan Agama dimuat dalam kurikulum pendidikan dasar, menengah dan tinggi. Pendidikan agama pada jenis pendidikan umum, kejuruan, akademik, profesi, vokasi, dan khusus disebut \"Pendidikan Agama\". Penyebutan pendidikan agama ini dimaksudkan agar agama dapat dibelajarkan secara lebih luas dari sekedar mata pelajaran /kuliah agama. Pendidikan Agama dengan demikian sekurang-kurangnya perlu berbentuk mata pelajaran/mata kuliah Pendidikan Agama untuk menghindari kemungkinan peniadaan pendidikan agama di suatu satuan pendidikan dengan alasan telah dibelajarkan secara terintegrasi. Ketentuan tersebut terutama pada penyelenggaraan pendidikan formal dan pendidikan kesetaraan. Selain itu . . . Selain itu, Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional pada Pasal 12 ayat (1) huruf a mengamanatkan bahwa setiap peserta didik pada setiap satuan pendidikan berhak mendapatkan pendidikan agama sesuai agama yang dianutnya dan diajar oleh pendidik yang seagama. Ketentuan ini setidaknya mempunyai 3 (tiga) tujuan, yaitu pertama, untuk menjaga keutuhan dan kemurnian ajaran agama; kedua, dengan adanya guru agama yang seagama dan memenuhi syarat kelayakan mengajar akan dapat menjaga kerukunan hidup beragama bagi peserta didik yang berbeda agama tapi belajar pada satuan pendidikan yang sama; ketiga, pendidikan agama yang diajarkan oleh pendidik yang seagama menunjukan profesionalitas dalam penyelenggaraan proses pembelajaran pendidikan agama. Pendidikan keagamaan pada umumnya diselenggarakan oleh masyarakat sebagai perwujudan pendidikan dari, oleh, dan untuk masyarakat. Jauh sebelum Indonesia merdeka, perguruan-perguruan keagamaan sudah lebih dulu berkembang. Selain menjadi akar budaya bangsa, agama disadari merupakan bagian tak terpisahkan dalam pendidikan. Pendidikan keagamaan juga berkembang akibat mata pelajaran/kuliah pendidikan agama yang dinilai menghadapi berbagai keterbatasan. Sebagian masyarakat mengatasinya dengan tambahan pendidikan agama di rumah, rumah ibadah, atau di perkumpulan-perkumpulan yang kemudian berkembang menjadi satuan atau program pendidikan keagamaan formal, nonformal atau informal. Secara historis, keberadaan pendidikan keagamaan berbasis masyarakat menjadi sangat penting dalam upaya pembangunan masyarakat belajar, terlebih lagi karena bersumber dari aspirasi masyarakat yang sekaligus mencerminkan kebutuhan masyarakat sesungguhnya akan jenis layanan pendidikan. Dalam kenyataan terdapat kesenjangan sumber daya yang besar antar satuan pendidikan keagamaan. Sebagai komponen Sistem Pendidikan Nasional, pendidikan keagamaan perlu diberi kesempatan untuk berkembang, dibina dan ditingkatkan mutunya oleh semua komponen bangsa, termasuk Pemerintah dan pemerintah daerah. Rancangan Peraturan Pemerintah tentang Pendidikan Agama dan Pendidikan Keagamaan merupakan kesepakatan bersama pihak-pihak yang mewakili umat Islam, Kristen, Katolik, Hindu, Buddha, dan Khonghucu. Masing-masing telah memvalidasi rumusan norma hukum secara optimal sesuai karakteristik agama masing-masing. II. PASAL . . .",
+    "pasal_demi_pasal": [
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-1",
+        "nomor_pasal": "1",
+        "target_pasal_id": "PSL-REG-PP-55-2007-1",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-2",
+        "nomor_pasal": "2",
+        "target_pasal_id": "PSL-REG-PP-55-2007-2",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-3",
+        "nomor_pasal": "3",
+        "target_pasal_id": "PSL-REG-PP-55-2007-3",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-4",
+        "nomor_pasal": "4",
+        "target_pasal_id": "PSL-REG-PP-55-2007-4",
+        "teks_isi": "Ayat (1) Kurikulum pendidikan agama bagi peserta didik yang beragama berbeda dengan kekhasan agama satuan pendidikan menggunakan kurikulum pendidikan agama sesuai dengan agama yang dianut peserta didik. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Kerjasama tentang penyelenggaraan pendidikan agama dengan penyelenggara pendidikan agama di masyarakat memperhatikan kurikulum tingkat satuan pendidikan. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-5",
+        "nomor_pasal": "5",
+        "target_pasal_id": "PSL-REG-PP-55-2007-5",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-6",
+        "nomor_pasal": "6",
+        "target_pasal_id": "PSL-REG-PP-55-2007-6",
+        "teks_isi": "Ayat (1) Beberapa satuan pendidikan dapat bekerjasama menyediakan pendidik pendidikan agama. Ayat (2) . . . Ayat (2) Dalam hal penyediaan pendidik pendidikan agama tidak dapat dilakukan oleh setiap atau beberapa satuan pendidikan, maka Pemerintah dan/atau pemerintah daerah dapat menyediakan tempat penyelenggaraan pendidikan agama dengan menggabungkan para peserta didik seagama dari beberapa satuan pendidikan. Ayat (3) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-7",
+        "nomor_pasal": "7",
+        "target_pasal_id": "PSL-REG-PP-55-2007-7",
+        "teks_isi": "Ayat (1) Pemerintah/pemerintah daerah wajib menyalurkan peserta didik, pendidik, dan tenaga kependidikan pada satuan pendidikan yang ditutup ke satuan pendidikan lain yang sejenis. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-8",
+        "nomor_pasal": "8",
+        "target_pasal_id": "PSL-REG-PP-55-2007-8",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-9",
+        "nomor_pasal": "9",
+        "target_pasal_id": "PSL-REG-PP-55-2007-9",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-10",
+        "nomor_pasal": "10",
+        "target_pasal_id": "PSL-REG-PP-55-2007-10",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Keterampilan mencakup pola-pola pendidikan yang dikembangkan pada jenis pendidikan kejuruan, vokasi, dan pendidikan kecakapan/keahlian lainnya."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-11",
+        "nomor_pasal": "11",
+        "target_pasal_id": "PSL-REG-PP-55-2007-11",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-12",
+        "nomor_pasal": "12",
+        "target_pasal_id": "PSL-REG-PP-55-2007-12",
+        "teks_isi": "Ayat (1) Pemberian bantuan sumber daya pendidikan meliputi pendidik, tenaga kependidikan, dana, serta sarana dan prasarana pendidikan lainnya. Pemberian . . . Pemberian bantuan disalurkan secara adil kepada seluruh pendidikan keagamaan pada semua jalur, jenjang dan jenis pendidikan yang diselenggarakan oleh Pemerintah, pemerintah daerah, dan/atau masyarakat. Bantuan dana pendidikan menggunakan satuan dan mata anggaran yang berlaku pada jenis pendidikan lain sesuai peraturan perundang-undangan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-13",
+        "nomor_pasal": "13",
+        "target_pasal_id": "PSL-REG-PP-55-2007-13",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-14",
+        "nomor_pasal": "14",
+        "target_pasal_id": "PSL-REG-PP-55-2007-14",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-15",
+        "nomor_pasal": "15",
+        "target_pasal_id": "PSL-REG-PP-55-2007-15",
+        "teks_isi": "Ilmu-ilmu yang bersumber dari ajaran agama Islam meliputi ilmu agama Islam (dirasah Islamiyah), atau terpadu dengan ilmu-ilmu umum dan keterampilan. Ilmu agama Islam (dirasah Islamiyah) dapat menggunakan klasifikasi tema: aqidah, tafsir, hadis, usul fikih, fikih, akhlak, tasawuf, dan tarikh Islam."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-16",
+        "nomor_pasal": "16",
+        "target_pasal_id": "PSL-REG-PP-55-2007-16",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-17",
+        "nomor_pasal": "17",
+        "target_pasal_id": "PSL-REG-PP-55-2007-17",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-18",
+        "nomor_pasal": "18",
+        "target_pasal_id": "PSL-REG-PP-55-2007-18",
+        "teks_isi": "Ayat (1) dan Ayat (2) Pendidik/satuan pendidikan dapat menggabungkan berbagai muatan pendidikan menjadi satu mata pelajaran atau lebih dalam kurikulum."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-19",
+        "nomor_pasal": "19",
+        "target_pasal_id": "PSL-REG-PP-55-2007-19",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-20",
+        "nomor_pasal": "20",
+        "target_pasal_id": "PSL-REG-PP-55-2007-20",
+        "teks_isi": "Ayat (1) Pendidikan diniyah jenjang pendidikan tinggi antara lain Ma'had 'Aly. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-21",
+        "nomor_pasal": "21",
+        "target_pasal_id": "PSL-REG-PP-55-2007-21",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-22",
+        "nomor_pasal": "22",
+        "target_pasal_id": "PSL-REG-PP-55-2007-22",
+        "teks_isi": "Ayat (1) Pengajian kitab di dalam pesantren diselenggarakan untuk mengkaji kandungan Al Quran dan As sunnah dan pemahaman transformatif atas kitab-kitab salaf (kitab kuning) dan kholaf (modern). Ayat (2) Cukup jelas. Ayat (3) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-23",
+        "nomor_pasal": "23",
+        "target_pasal_id": "PSL-REG-PP-55-2007-23",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-24",
+        "nomor_pasal": "24",
+        "target_pasal_id": "PSL-REG-PP-55-2007-24",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-25",
+        "nomor_pasal": "25",
+        "target_pasal_id": "PSL-REG-PP-55-2007-25",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (4) Penamaan \"diniyah takmiliyah\" yang umum dipakai masyarakat adalah madrasah diniyah. Ayat (5) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-26",
+        "nomor_pasal": "26",
+        "target_pasal_id": "PSL-REG-PP-55-2007-26",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-27",
+        "nomor_pasal": "27",
+        "target_pasal_id": "PSL-REG-PP-55-2007-27",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-28",
+        "nomor_pasal": "28",
+        "target_pasal_id": "PSL-REG-PP-55-2007-28",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-29",
+        "nomor_pasal": "29",
+        "target_pasal_id": "PSL-REG-PP-55-2007-29",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-30",
+        "nomor_pasal": "30",
+        "target_pasal_id": "PSL-REG-PP-55-2007-30",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-31",
+        "nomor_pasal": "31",
+        "target_pasal_id": "PSL-REG-PP-55-2007-31",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-32",
+        "nomor_pasal": "32",
+        "target_pasal_id": "PSL-REG-PP-55-2007-32",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-33",
+        "nomor_pasal": "33",
+        "target_pasal_id": "PSL-REG-PP-55-2007-33",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-34",
+        "nomor_pasal": "34",
+        "target_pasal_id": "PSL-REG-PP-55-2007-34",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-35",
+        "nomor_pasal": "35",
+        "target_pasal_id": "PSL-REG-PP-55-2007-35",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-36",
+        "nomor_pasal": "36",
+        "target_pasal_id": "PSL-REG-PP-55-2007-36",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-37",
+        "nomor_pasal": "37",
+        "target_pasal_id": "PSL-REG-PP-55-2007-37",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-38",
+        "nomor_pasal": "38",
+        "target_pasal_id": "PSL-REG-PP-55-2007-38",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-39",
+        "nomor_pasal": "39",
+        "target_pasal_id": "PSL-REG-PP-55-2007-39",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-40",
+        "nomor_pasal": "40",
+        "target_pasal_id": "PSL-REG-PP-55-2007-40",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-41",
+        "nomor_pasal": "41",
+        "target_pasal_id": "PSL-REG-PP-55-2007-41",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-42",
+        "nomor_pasal": "42",
+        "target_pasal_id": "PSL-REG-PP-55-2007-42",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-43",
+        "nomor_pasal": "43",
+        "target_pasal_id": "PSL-REG-PP-55-2007-43",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-44",
+        "nomor_pasal": "44",
+        "target_pasal_id": "PSL-REG-PP-55-2007-44",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-45",
+        "nomor_pasal": "45",
+        "target_pasal_id": "PSL-REG-PP-55-2007-45",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-46",
+        "nomor_pasal": "46",
+        "target_pasal_id": "PSL-REG-PP-55-2007-46",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-47",
+        "nomor_pasal": "47",
+        "target_pasal_id": "PSL-REG-PP-55-2007-47",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-48",
+        "nomor_pasal": "48",
+        "target_pasal_id": "PSL-REG-PP-55-2007-48",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-49",
+        "nomor_pasal": "49",
+        "target_pasal_id": "PSL-REG-PP-55-2007-49",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-50",
+        "nomor_pasal": "50",
+        "target_pasal_id": "PSL-REG-PP-55-2007-50",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-55-2007-PASAL-51",
+        "nomor_pasal": "51",
+        "target_pasal_id": "PSL-REG-PP-55-2007-51",
+        "teks_isi": "Cukup jelas. TAMBAHANLEMBARAN NEGARAREPUBLIKINDONESIA NOMOR4769 أ"
+      }
+    ]
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 5 Oktober 2007 PRESIDEN REPUBLIK INDONESIA, ttd DR.H.SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada tanggal 5 Oktober 2007 MENTERI HUKUM DAN HAK ASASI MANUSIA ttd ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2007 NOMOR 124",
+    "tanggal_ditetapkan": "5 Oktober 2007",
+    "tanggal_diundangkan": "5 Oktober 2007",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA DR.H.SUSILO BAMBANG YUDHOYONO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAK ASASI MANUSIA ANDI MATTALATTA"
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": true,
+    "total_pasal": 51,
+    "total_ayat": 167,
+    "total_bab": 6,
+    "total_bagian": 7,
+    "total_paragraf": 3,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": []
+  }
+}

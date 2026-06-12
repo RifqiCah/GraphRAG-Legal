@@ -30,8 +30,26 @@ htmlcov/
 *.pem
 *.key
 
-# Generated data and experiment artifacts
-data/
+# Research data shared for review/reproducibility
+data/*
+!data/raw/
+!data/raw/**
+!data/chunks_v2/
+!data/chunks_v2/**
+!data/sft/
+!data/sft/**
+!data/processed_v2/
+!data/processed_v2/**
+!data/triplets_v2/
+!data/triplets_v2/**
+
+# Exclude known mislabeled source and all derivatives
+data/raw/REG-UUD-1945.pdf
+data/chunks_v2/chunks_REG-UUD-1945.jsonl
+data/processed_v2/REG-UUD-1945.json
+data/triplets_v2/triplets_REG-UUD-1945.json
+
+# Generated experiment artifacts
 logs/
 outputs/
 indexes/
@@ -42,7 +60,6 @@ wandb/
 mlruns/
 
 # Keep placeholder files if we add folder skeletons later
-!data/**/.gitkeep
 !logs/**/.gitkeep
 !outputs/**/.gitkeep
 !indexes/**/.gitkeep

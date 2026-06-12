@@ -1,0 +1,1034 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-47-2008",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "47",
+    "tahun": 2008,
+    "judul": "Wajib Belajar",
+    "tentang": "Wajib Belajar",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": true
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-47-2008.pdf",
+    "explanation_pdf": "data/raw/PJL-REG-PP-47-2008.pdf",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-47-2008-MENIMBANG-1",
+        "nomor": "1",
+        "teks_isi": "bahwa dalam rangka melaksanakan ketentuan Pasal 34 ayat (4) Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional perlu menetapkan Peraturan Pemerintah tentang Wajib Belajar;",
+        "urutan": 1
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-47-2008-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-47-2008-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Tahun 2003 Nomor 78, Tambahan Lembaran Negara Nomor 4301);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-20-2003",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "PERATURAN PEMERINTAH TENTANG WAJIB BELAJAR."
+  },
+  "body": {
+    "bab": [
+      {
+        "id": "BAB-REG-PP-47-2008-I",
+        "nomor_bab": "I",
+        "judul": "KETENTUAN UMUM",
+        "urutan": 1,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-1"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-II",
+        "nomor_bab": "II",
+        "judul": "FUNGSI DAN TUJUAN",
+        "urutan": 2,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-2"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-III",
+        "nomor_bab": "III",
+        "judul": "PENYELENGGARAAN",
+        "urutan": 3,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-3",
+          "PSL-REG-PP-47-2008-4",
+          "PSL-REG-PP-47-2008-5"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-IV",
+        "nomor_bab": "IV",
+        "judul": "PENGELOLAAN",
+        "urutan": 4,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-6",
+          "PSL-REG-PP-47-2008-7"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-V",
+        "nomor_bab": "V",
+        "judul": "EVALUASI",
+        "urutan": 5,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-8"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-VI",
+        "nomor_bab": "VI",
+        "judul": "PENJAMINAN WAJIB BELAJAR",
+        "urutan": 6,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-9",
+          "PSL-REG-PP-47-2008-10",
+          "PSL-REG-PP-47-2008-11",
+          "PSL-REG-PP-47-2008-12"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-VII",
+        "nomor_bab": "VII",
+        "judul": "HAK DAN KEWAJIBAN MASYARAKAT",
+        "urutan": 7,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-13"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-VIII",
+        "nomor_bab": "VIII",
+        "judul": "PENGAWASAN",
+        "urutan": 8,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-14",
+          "PSL-REG-PP-47-2008-15"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-47-2008-IX",
+        "nomor_bab": "IX",
+        "judul": "KETENTUAN PENUTUP",
+        "urutan": 9,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-47-2008-16"
+        ]
+      }
+    ],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-47-2008-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam Peraturan Pemerintah ini yang dimaksud dengan: 1. Wajib belajar adalah program pendidikan minimal yang harus diikuti oleh warga negara Indonesia atas tanggung jawab Pemerintah dan pemerintah daerah. 2. Pendidikan dasar adalah jenjang pendidikan yang melandasi jenjang pendidikan menengah, berbentuk Sekolah Dasar (SD) dan Madrasah Ibtidaiyah (MI) atau bentuk lain yang sederajat serta sekolah menengah pertama (SMP) dan madrasah tsanawiyah (MTs), atau bentuk lain yang sederajat. 3. Sekolah Dasar yang selanjutnya disebut SD adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar. 4 Madrasah . . . 4. Madrasah Ibtidaiyah yang selanjutnya disebut MI adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar, di dalam pembinaan Menteri Agama. 5. Sekolah Menengah Pertama yang selanjutnya disebut SMP adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI, atau bentuk lain yang sederajat. 6. Madrasah Tsanawiyah yang selanjutnya disebut MTs adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI, atau bentuk lain yang sederajat, di dalam pembinaan Menteri Agama. 7. Program paket A adalah program pendidikan dasar jalur nonformal yang setara SD. 8. Program paket B adalah program pendidikan dasar jalur nonformal yang setara SMP. 9. Pemerintah adalah Pemerintah pusat. 10. Pemerintah daerah adalah pemerintah provinsi, pemerintah kabupaten, atau pemerintah kota. 11. Menteri adalah menteri yang menangani urusan pemerintahan di bidang pendidikan nasional.",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Wajib belajar adalah program pendidikan minimal yang harus diikuti oleh warga negara Indonesia atas tanggung jawab Pemerintah dan pemerintah daerah.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Pendidikan dasar adalah jenjang pendidikan yang melandasi jenjang pendidikan menengah, berbentuk Sekolah Dasar (SD) dan Madrasah Ibtidaiyah (MI) atau bentuk lain yang sederajat serta sekolah menengah pertama (SMP) dan madrasah tsanawiyah (MTs), atau bentuk lain yang sederajat.",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-3",
+            "jenis": "angka",
+            "nomor": "3",
+            "teks_isi": "Sekolah Dasar yang selanjutnya disebut SD adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar. 4 Madrasah . . .",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-4",
+            "jenis": "angka",
+            "nomor": "4",
+            "teks_isi": "Madrasah Ibtidaiyah yang selanjutnya disebut MI adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar, di dalam pembinaan Menteri Agama.",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Sekolah Menengah Pertama yang selanjutnya disebut SMP adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI, atau bentuk lain yang sederajat.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Madrasah Tsanawiyah yang selanjutnya disebut MTs adalah salah satu bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum dengan kekhasan agama Islam pada jenjang pendidikan dasar sebagai lanjutan dari SD, MI, atau bentuk lain yang sederajat, di dalam pembinaan Menteri Agama.",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Program paket A adalah program pendidikan dasar jalur nonformal yang setara SD.",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Program paket B adalah program pendidikan dasar jalur nonformal yang setara SMP.",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Pemerintah adalah Pemerintah pusat.",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-10",
+            "jenis": "angka",
+            "nomor": "10",
+            "teks_isi": "Pemerintah daerah adalah pemerintah provinsi, pemerintah kabupaten, atau pemerintah kota.",
+            "urutan": 10,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-47-2008-1-angka-11",
+            "jenis": "angka",
+            "nomor": "11",
+            "teks_isi": "Menteri adalah menteri yang menangani urusan pemerintahan di bidang pendidikan nasional.",
+            "urutan": 11,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-47-2008-I"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-2",
+        "nomor_pasal": "2",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-2-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Wajib belajar berfungsi mengupayakan perluasan dan pemerataan kesempatan memperoleh pendidikan yang bermutu bagi setiap warga negara Indonesia.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-2-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Wajib belajar bertujuan memberikan pendidikan minimal bagi warga negara Indonesia untuk dapat mengembangkan potensi dirinya agar dapat hidup mandiri di dalam masyarakat atau melanjutkan pendidikan ke jenjang yang lebih tinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-II"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-3",
+        "nomor_pasal": "3",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-3-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Wajib belajar diselenggarakan pada jalur pendidikan formal, pendidikan nonformal, dan pendidikan informal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-3-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penyelenggaraan wajib belajar pada jalur formal dilaksanakan minimal pada jenjang pendidikan dasar yang meliputi SD, MI, SMP, MTs, dan bentuk lain yang sederajat.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-3-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggaraan wajib belajar pada jalur pendidikan nonformal dilaksanakan melalui program paket A, program paket B, dan bentuk lain yang sederajat.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-3-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penyelenggaraan wajib belajar pada jalur pendidikan informal dilaksanakan melalui pendidikan keluarga dan/atau pendidikan lingkungan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-3-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan mengenai penyetaraan pendidikan nonformal dan pengakuan hasil pendidikan informal penyelenggara program wajib belajar terhadap pendidikan dasar jalur formal diatur dalam peraturan perundang-undangan yang mengatur tentang penyelenggaraan dan pengelolaan pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-III"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-4",
+        "nomor_pasal": "4",
+        "teks_isi": "Program wajib belajar diselenggarakan oleh Pemerintah, pemerintah daerah sesuai kewenangannya, atau masyarakat.",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-III"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-5",
+        "nomor_pasal": "5",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-5-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Satuan pendidikan dasar penyelenggara program wajib belajar wajib menjaga keberlangsungan pelaksanaan program wajib belajar yang bermutu dan memenuhi Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-5-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Satuan pendidikan dasar penyelenggara program wajib belajar wajib menerima peserta didik program wajib belajar dari lingkungan sekitarnya tanpa diskriminasi sesuai daya tampung satuan pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-5-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penerimaan peserta didik sebagaimana dimaksud pada ayat (2) pada SD/MI atau yang sederajat tidak mempersyaratkan bahwa calon peserta didik yang bersangkutan telah menyelesaikan pendidikan anak usia dini.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-5-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Satuan . . .",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-5-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Satuan pendidikan dasar penyelenggara program wajib belajar yang melanggar ketentuan sebagaimana dimaksud pada ayat (2) dikenakan sanksi administrasi berupa teguran, penghentian pemberian bantuan hingga penutupan satuan pendidikan yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-III"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-6",
+        "nomor_pasal": "6",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-6-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengelolaan program wajib belajar secara nasional menjadi tanggung jawab Menteri.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-6-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Koordinasi pengelolaan program wajib belajar pendidikan dasar tingkat provinsi menjadi tanggung jawab gubernur.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-6-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengelolaan program wajib belajar pendidikan dasar tingkat kabupaten/kota menjadi tanggung jawab bupati/walikota.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-6-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pengelolaan program wajib belajar pada tingkat satuan pendidikan dasar menjadi tanggung jawab pemimpin satuan pendidikan dasar.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-6-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pengelolaan program wajib belajar pendidikan dasar di luar negeri menjadi tanggung jawab Kepala Perwakilan Negara Kesatuan Republik Indonesia di luar negeri yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-IV"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-7",
+        "nomor_pasal": "7",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-7-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah menetapkan kebijakan nasional pelaksanaan program wajib belajar yang dicantumkan dalam Rencana Kerja Pemerintah, Anggaran Pendapatan dan Belanja Negara, Rencana Strategis Bidang Pendidikan, Rencana Pembangunan Jangka Menengah, dan Rencana Pembangunan Jangka Panjang.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah dan pemerintah daerah sesuai kewenangannya berkewajiban menyelenggarakan program wajib belajar berdasarkan kebijakan nasional sebagaimana dimaksud pada ayat (1).",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggaraan . . .",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penyelenggaraan program wajib belajar oleh pemerintah daerah sebagaimana dimaksud pada ayat (2) ditetapkan dalam Rencana Kerja Pemerintah Daerah, Anggaran Pendapatan dan Belanja Daerah, Rencana Strategis Daerah Bidang Pendidikan, Rencana Pembangunan Jangka Menengah Daerah, dan Rencana Pembangunan Jangka Panjang Daerah.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pemerintah daerah dapat menetapkan kebijakan untuk meningkatkan jenjang pendidikan wajib belajar sampai pendidikan menengah.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pemerintah daerah dapat mengatur lebih lanjut pelaksanaan program wajib belajar, sesuai dengan kondisi daerah masingmasing melalui Peraturan Daerah.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan mengenai pelaksanaan program wajib belajar yang diatur oleh pemerintah daerah sebagaimana dimaksud pada ayat",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-7-5",
+            "nomor_ayat": "5",
+            "teks_isi": "termasuk kewenangan memberikan sanksi administratif kepada warga negara Indonesia yang memiliki anak berusia 7 (tujuh) sampai dengan 15 (lima belas) tahun yang tidak mengikuti program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-IV"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-8",
+        "nomor_pasal": "8",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-8-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah, pemerintah provinsi, dan pemerintah kabupaten/kota melakukan evaluasi terhadap pelaksanaan program wajib belajar secara berkala.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-8-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi terhadap pelaksanaan program wajib belajar sebagaimana dimaksud pada ayat (1) sekurang-kurangnya meliputi: a. tingkat pencapaian program wajib belajar; b. pelaksanaan kurikulum pendidikan dasar; c. hasil belajar peserta didik; dan d. realisasi anggaran.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-47-2008-8-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "tingkat pencapaian program wajib belajar;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-47-2008-8-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pelaksanaan kurikulum pendidikan dasar;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-47-2008-8-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "hasil belajar peserta didik; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-47-2008-8-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "realisasi anggaran.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-8-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Hasil evaluasi sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaporkan kepada Menteri.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-8-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Atas . . .",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-8-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Atas dasar hasil evaluasi sebagaimana dimaksud pada ayat (3) Menteri melakukan evaluasi komprehensif untuk menilai: a. ketercapaian program wajib belajar; b. kemajuan program wajib belajar; dan c. hambatan penyelenggaraan program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-47-2008-8-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "ketercapaian program wajib belajar;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-47-2008-8-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "kemajuan program wajib belajar; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-47-2008-8-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "hambatan penyelenggaraan program wajib belajar.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-8-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Evaluasi terhadap pelaksanaan program wajib belajar dapat dilakukan oleh lembaga evaluasi mandiri yang didirikan masyarakat sesuai Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-V"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-9",
+        "nomor_pasal": "9",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-9-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah dan pemerintah daerah menjamin terselenggaranya program wajib belajar minimal pada jenjang pendidikan dasar tanpa memungut biaya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-9-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Warga negara Indonesia yang berusia 6 (enam) tahun dapat mengikuti program wajib belajar apabila daya tampung satuan pendidikan masih memungkinkan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-9-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Warga negara Indonesia yang berusia di atas 15 (lima belas) tahun dan belum lulus pendidikan dasar dapat menyelesaikan pendidikannya sampai lulus atas biaya Pemerintah dan/atau pemerintah daerah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-9-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Warga negara Indonesia usia wajib belajar yang orang tua/walinya tidak mampu membiayai pendidikan, Pemerintah dan/atau pemerintah daerah wajib memberikan bantuan biaya pendidikan sesuai peraturan perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VI"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-10",
+        "nomor_pasal": "10",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-10-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Investasi pada lahan, sarana, dan prasarana selain lahan pendidikan pada satuan pendidikan dasar pelaksana program wajib belajar yang diselenggarakan oleh Pemerintah atau pemerintah daerah menjadi tanggung jawab Pemerintah atau pemerintah daerah sesuai kewenangan masing-masing.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-10-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Investasi . . .",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-10-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Investasi pada lahan, sarana, dan prasarana selain lahan pendidikan pada satuan pendidikan dasar pelaksana program wajib belajar yang diselenggarakan oleh masyarakat menjadi tanggung jawab badan hukum penyelenggara satuan pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-10-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Biaya operasi pada satuan pendidikan dasar pelaksana program wajib belajar menjadi tanggung jawab Pemerintah atau pemerintah daerah sesuai kewenangan masing-masing.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-10-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan mengenai investasi dan biaya operasi sebagaimana dimaksud pada ayat (1), ayat (2) dan ayat (3) diatur dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VI"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-11",
+        "nomor_pasal": "11",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-11-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah dan pemerintah daerah menjamin tersedianya lahan, sarana, dan prasarana selain lahan pendidikan untuk setiap satuan pendidikan pelaksana program wajib belajar yang diselenggarakan oleh Pemerintah atau pemerintah daerah sesuai kewenangannya masing-masing, dengan pembagian beban tanggung jawab sebagaimana diatur dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-11-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah dan pemerintah daerah menjamin tersedianya pendidik, tenaga kependidikan, dan biaya operasi untuk setiap satuan pendidikan penyelenggara program wajib belajar dengan pembagian beban tanggung jawab sebagaimana diatur dalam dalam peraturan perundang-undangan yang mengatur tentang pendanaan pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-11-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah provinsi menjamin terselenggaranya koordinasi atas penyelenggaraan pendidikan, pengembangan tenaga kependidikan, dan penyediaan fasilitas penyelenggaraan pendidikan lintas kabupaten/kota di wilayahnya untuk pelaksanaan program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VI"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-12",
+        "nomor_pasal": "12",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-12-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Setiap warga negara Indonesia usia wajib belajar wajib mengikuti program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-12-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Setiap warga negara Indonesia yang memiliki anak usia wajib belajar bertanggung jawab memberikan pendidikan wajib belajar kepada anaknya.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-12-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pemerintah kabupaten/kota wajib mengupayakan agar setiap warga negara Indonesia usia wajib belajar mengikuti program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VI"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-13",
+        "nomor_pasal": "13",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-13-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Masyarakat berhak: a. berperan serta dalam perencanaan, pelaksanaan, pengawasan, dan evaluasi terhadap penyelenggaraan program wajib belajar; serta b. mendapat data dan informasi tentang penyelenggaraan program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-47-2008-13-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "berperan serta dalam perencanaan, pelaksanaan, pengawasan, dan evaluasi terhadap penyelenggaraan program wajib belajar; serta",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-47-2008-13-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "mendapat data dan informasi tentang penyelenggaraan program wajib belajar.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-13-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Masyarakat berkewajiban mendukung penyelenggaraan program wajib belajar.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-13-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Hak dan kewajiban masyarakat sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai peraturan perundangundangan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VII"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-14",
+        "nomor_pasal": "14",
+        "teks_isi": "Pemerintah, pemerintah daerah, dewan pendidikan, dan komite sekolah/madrasah melakukan pengawasan atas penyelenggaraan program wajib belajar sesuai kewenangan masing-masing.",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VIII"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-15",
+        "nomor_pasal": "15",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-47-2008-15-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pemerintah melaksanakan pengawasan terhadap penyelenggaraan program wajib belajar secara nasional.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-15-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pemerintah daerah melaksanakan pengawasan penyelenggaraan program wajib belajar pada satuan pendidikan di daerah masing-masing.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-47-2008-15-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengawasan sebagaimana dimaksud pada ayat (1) dan ayat (2) meliputi pengarahan, bimbingan, dan pemberian sanksi dalam pelaksanaan ketentuan Pasal 9, Pasal 10, Pasal 11, dan Pasal 12.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-VIII"
+      },
+      {
+        "id": "PSL-REG-PP-47-2008-16",
+        "nomor_pasal": "16",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan menempatkannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada Tanggal 4 Juli 2008 ttd Diundangkan di Jakarta pada Tanggal 4 Juli 2008 ttd LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2008 NOMOR 90",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-47-2008-IX"
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "data/raw/PJL-REG-PP-47-2008.pdf",
+    "umum": "Pasal 34 Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional menetapkan bahwa Pemerintah dan pemerintah daerah menjamin terselenggaranya program wajib belajar minimal pada jenjang pendidikan dasar tanpa memungut biaya. Penyelenggaraan program wajib belajar pendidikan dasar merupakan bagian dari kebijakan pendidikan di Indonesia dalam mencapai pendidikan untuk semua (education for all). Program wajib belajar diselenggarakan untuk memberikan pelayanan pendidikan dasar seluas-luasnya kepada warga negara Indonesia tanpa membedakan latar belakang agama, suku, sosial, budaya, dan ekonomi. Setiap warga negara Indonesia usia wajib belajar berhak mendapatkan pelayanan pendidikan yang bermutu dan orang tua/walinya berkewajiban memberi kesempatan kepada anaknya untuk mendapatkan pendidikan dasar. Program wajib belajar diselenggarakan pada satuan pendidikan dasar pada jalur pendidikan formal, nonformal, dan informal dan harus dapat menampung anak yang normal maupun yang berkelainan dan mempunyai hambatan. Peraturan tentang program wajib belajar mencakup hak dan kewajiban warga negara Indonesia, tanggung jawab Pemerintah dan pemerintah daerah. Penyelenggaraan program wajib belajar pendidikan dasar perlu dievaluasi pencapaiannya minimal setiap tiga tahun. Sebagai bentuk dari akuntabilitas publik, masyarakat berhak mendapat data dan informasi tentang hasil evaluasi penyelenggaraan program wajib belajar tersebut. Program wajib belajar merupakan gerakan nasional yang dilaksanakan oleh Pemerintah, pemerintah daerah, dan masyarakat di seluruh wilayah Negara Kesatuan Republik Indonesia dan oleh Perwakilan Negara Republik Indonesia di luar negeri.",
+    "pasal_demi_pasal": [
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-1",
+        "nomor_pasal": "1",
+        "target_pasal_id": "PSL-REG-PP-47-2008-1",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-2",
+        "nomor_pasal": "2",
+        "target_pasal_id": "PSL-REG-PP-47-2008-2",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-3",
+        "nomor_pasal": "3",
+        "target_pasal_id": "PSL-REG-PP-47-2008-3",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Yang dimaksud SD termasuk SDLB. Yang dimaksud SMP termasuk SMPLB. Bentuk lain yang sederajat dengan SD dan MI antara lain Paket A, pendidikan diniyah dasar, dan Adi Vidyalaya (AV), sedangkan bentuk lain yang sederajat dengan SMP dan MTs antara lain Paket B, pendidikan diniyah menengah pertama, dan Madyama Vidyalaya. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-4",
+        "nomor_pasal": "4",
+        "target_pasal_id": "PSL-REG-PP-47-2008-4",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-5",
+        "nomor_pasal": "5",
+        "target_pasal_id": "PSL-REG-PP-47-2008-5",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-6",
+        "nomor_pasal": "6",
+        "target_pasal_id": "PSL-REG-PP-47-2008-6",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-7",
+        "nomor_pasal": "7",
+        "target_pasal_id": "PSL-REG-PP-47-2008-7",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Program wajib belajar yang diselenggarakan oleh Pemerintah antara lain MI dan MTs yang berada di dalam pembinaan Departemen Agama, atau SD dan SMP yang diselenggarakan oleh Pemerintah karena kondisi tertentu atau berlokasi di luar negeri. Ayat (3) Cukup jelas. Ayat (4) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) . . . Ayat (6) Sanksi administratif dalam ketentuan ini dapat berupa tindakan paksa agar anaknya mengikuti program wajib belajar, penghentian sementara atau penundaan pelayanan kepemerintahan."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-8",
+        "nomor_pasal": "8",
+        "target_pasal_id": "PSL-REG-PP-47-2008-8",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-9",
+        "nomor_pasal": "9",
+        "target_pasal_id": "PSL-REG-PP-47-2008-9",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-10",
+        "nomor_pasal": "10",
+        "target_pasal_id": "PSL-REG-PP-47-2008-10",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-11",
+        "nomor_pasal": "11",
+        "target_pasal_id": "PSL-REG-PP-47-2008-11",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-12",
+        "nomor_pasal": "12",
+        "target_pasal_id": "PSL-REG-PP-47-2008-12",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-13",
+        "nomor_pasal": "13",
+        "target_pasal_id": "PSL-REG-PP-47-2008-13",
+        "teks_isi": "Ayat (1) Bentuk pelaksanaan hak masyarakat, antara lain: a. ikut memberikan masukan untuk pelaksanaan program; b. mengikut sertakan anaknya yang berusia 7 sampai dengan 15 tahun untuk mengikuti program wajib belajar; c. ikut memantau, mengawasi pelaksanaan wajib belajar, memantau anak usia wajib belajar yang belum mengikuti wajib belajar, menyelenggarakan program wajib belajar di sekitar tempat tinggalnya; d. ikut memberi penilaian tentang keterlaksanaan program wajib belajar, mendata anak usia wajib belajar, ikut serta dalam proses pembelajaran dan penilaian, serta keberlangsungan program wajib belajar. Ayat (2) Bentuk pelaksanaan kewajiban masyarakat, antara lain: a. sebagai orangtua memberikan pendidikan dasar bagi anaknya yang sesuai program wajib belajar; b. berperanserta dalam bentuk pemberian dukungan sumberdaya (dana, sarana dan prasarana, tenaga, penyelenggaraan, manajemen) menjadi orang tua asuh. Ayat (3) . . . Ayat (3) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-14",
+        "nomor_pasal": "14",
+        "target_pasal_id": "PSL-REG-PP-47-2008-14",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-15",
+        "nomor_pasal": "15",
+        "target_pasal_id": "PSL-REG-PP-47-2008-15",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-47-2008-PASAL-16",
+        "nomor_pasal": "16",
+        "target_pasal_id": "PSL-REG-PP-47-2008-16",
+        "teks_isi": "Cukup jelas. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4863"
+      }
+    ]
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan menempatkannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada Tanggal 4 Juli 2008 PRESIDEN REPUBLIK INDONESIA, ttd DR. H. SUSILO BAMBANG YUDHOYONO Diundangkan di Jakarta pada Tanggal 4 Juli 2008 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd ANDI MATTALATTA LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2008 NOMOR 90",
+    "tanggal_ditetapkan": "4 Juli 2008",
+    "tanggal_diundangkan": "4 Juli 2008",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA DR. H. SUSILO BAMBANG YUDHOYONO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA ANDI MATTALATTA"
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": true,
+    "total_pasal": 16,
+    "total_ayat": 52,
+    "total_bab": 9,
+    "total_bagian": 0,
+    "total_paragraf": 0,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": []
+  }
+}

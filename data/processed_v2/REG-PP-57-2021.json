@@ -1,0 +1,4277 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-PP-57-2021",
+  "metadata": {
+    "jenis": "PP",
+    "nomor": "57",
+    "tahun": 2021,
+    "judul": "Standar Nasional Pendidikan",
+    "tentang": "Standar Nasional Pendidikan",
+    "status": "Tidak_Diketahui",
+    "tanggal_penetapan": "",
+    "tanggal_pengundangan": "",
+    "tanggal_berlaku": "",
+    "sumber": "local_pdf",
+    "url_sumber": "",
+    "has_full_text": true,
+    "scan_detected": false
+  },
+  "sources": {
+    "main_pdf": "data/raw/REG-PP-57-2021.pdf",
+    "explanation_pdf": "",
+    "attachment_files": []
+  },
+  "preamble": {
+    "opening_phrase": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+    "menimbang": [
+      {
+        "id": "KONS-REG-PP-57-2021-MENIMBANG-A",
+        "nomor": "a",
+        "teks_isi": "bahwa pendidikan di Indonesia membutuhkan standar nasional yang memerlukan penyesuaian terhadap dinamika dan perkembangan ilmu pengetahuan, teknologi, serta kehidupan masyarakat untuk kepentingan peningkatan mutu pendidikan;",
+        "urutan": 1
+      },
+      {
+        "id": "KONS-REG-PP-57-2021-MENIMBANG-B",
+        "nomor": "b",
+        "teks_isi": "bahwa untuk melaksanakan ketentuan Pasal 35 ayat (41, Pasal 36 ayat (4), Pasal 37 ayat (3), Pasal 59 ayat (3), Pasal 60 ayat (4), dan Pasal 61 ayat (4) Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional telah ditetapkan Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan;",
+        "urutan": 2
+      },
+      {
+        "id": "KONS-REG-PP-57-2021-MENIMBANG-C",
+        "nomor": "c",
+        "teks_isi": "bahwa Peraturan Pemerintah Nomor 19 Tahun 20Os tentang Standar Nasional Pendidikan sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan belum dapat memenuhi kebutuhan sistem pendidikan saat ini, sehingga perlu diganti;",
+        "urutan": 3
+      },
+      {
+        "id": "KONS-REG-PP-57-2021-MENIMBANG-D",
+        "nomor": "d",
+        "teks_isi": "bahwa. . . SK No 102501 A -2d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu",
+        "urutan": 4
+      }
+    ],
+    "mengingat": [
+      {
+        "id": "DASAR-REG-PP-57-2021-MENGINGAT-1",
+        "nomor": "1",
+        "teks_isi": "Pasal 5 ayat (21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+        "urutan": 1,
+        "target_regulasi_id": "REG-UUD-1945",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-57-2021-MENGINGAT-2",
+        "nomor": "2",
+        "teks_isi": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301);",
+        "urutan": 2,
+        "target_regulasi_id": "REG-UU-20-2003",
+        "target_pasal_id": ""
+      },
+      {
+        "id": "DASAR-REG-PP-57-2021-MENGINGAT-3",
+        "nomor": "3",
+        "teks_isi": "Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 5336);",
+        "urutan": 3,
+        "target_regulasi_id": "REG-UU-12-2012",
+        "target_pasal_id": ""
+      }
+    ],
+    "memutuskan": "MEMUTUSKAN:",
+    "menetapkan": "Peraturan Pemerintah tentang Standar Nasional Pendidikan; Mengingat 1. Pasal 5 ayat (21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301); 3. Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 5336); MEMUTUSKAN: Menetapkan PERATURAN PEMERINTAH TENTANG STANDAR NASIONAL PENDIDIKAN."
+  },
+  "body": {
+    "bab": [
+      {
+        "id": "BAB-REG-PP-57-2021-I",
+        "nomor_bab": "I",
+        "judul": "KETENTUAN UMUM",
+        "urutan": 1,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-1"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-II",
+        "nomor_bab": "II",
+        "judul": "LINGKUP STANDAR NASIONAL PENDIDIKAN",
+        "urutan": 2,
+        "bagian": [
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KESATU",
+            "nomor_bagian": "Kesatu",
+            "judul": "Umum",
+            "urutan": 1,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-2",
+              "PSL-REG-PP-57-2021-3"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KEDUA",
+            "nomor_bagian": "Kedua",
+            "judul": "Standar Kompetensi Lulusan",
+            "urutan": 2,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-4",
+              "PSL-REG-PP-57-2021-5",
+              "PSL-REG-PP-57-2021-6",
+              "PSL-REG-PP-57-2021-7"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KETIGA",
+            "nomor_bagian": "Ketiga",
+            "judul": "Standar Isi",
+            "urutan": 3,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-8",
+              "PSL-REG-PP-57-2021-9"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT",
+            "nomor_bagian": "Keempat",
+            "judul": "Standar Proses",
+            "urutan": 4,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-10",
+              "PSL-REG-PP-57-2021-11",
+              "PSL-REG-PP-57-2021-12",
+              "PSL-REG-PP-57-2021-13",
+              "PSL-REG-PP-57-2021-14",
+              "PSL-REG-PP-57-2021-15",
+              "PSL-REG-PP-57-2021-16",
+              "PSL-REG-PP-57-2021-17",
+              "PSL-REG-PP-57-2021-18",
+              "PSL-REG-PP-57-2021-19"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-",
+            "nomor_bagian": ". .",
+            "judul": ".",
+            "urutan": 5,
+            "paragraf": [
+              {
+                "id": "PARAGRAF-REG-PP-57-2021-II--2",
+                "nomor_paragraf": "2",
+                "judul": "Tenaga Kependidikan Selain Pendidik",
+                "urutan": 1,
+                "pasal_ids": [
+                  "PSL-REG-PP-57-2021-23",
+                  "PSL-REG-PP-57-2021-24"
+                ]
+              }
+            ],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-20",
+              "PSL-REG-PP-57-2021-21",
+              "PSL-REG-PP-57-2021-22",
+              "PSL-REG-PP-57-2021-23",
+              "PSL-REG-PP-57-2021-24"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KETUJUH",
+            "nomor_bagian": "Ketujuh",
+            "judul": "Standar Sarana dan Prasarana",
+            "urutan": 6,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-25",
+              "PSL-REG-PP-57-2021-26"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KEDELAPAN",
+            "nomor_bagian": "Kedelapan",
+            "judul": "Standar Pengelolaan",
+            "urutan": 7,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-27",
+              "PSL-REG-PP-57-2021-28",
+              "PSL-REG-PP-57-2021-29",
+              "PSL-REG-PP-57-2021-30",
+              "PSL-REG-PP-57-2021-31"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-II-KESEMBILAN",
+            "nomor_bagian": "Kesembilan",
+            "judul": "Standar Pembiayaan",
+            "urutan": 8,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-32",
+              "PSL-REG-PP-57-2021-33"
+            ]
+          }
+        ],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-2",
+          "PSL-REG-PP-57-2021-3",
+          "PSL-REG-PP-57-2021-4",
+          "PSL-REG-PP-57-2021-5",
+          "PSL-REG-PP-57-2021-6",
+          "PSL-REG-PP-57-2021-7",
+          "PSL-REG-PP-57-2021-8",
+          "PSL-REG-PP-57-2021-9",
+          "PSL-REG-PP-57-2021-10",
+          "PSL-REG-PP-57-2021-11",
+          "PSL-REG-PP-57-2021-12",
+          "PSL-REG-PP-57-2021-13",
+          "PSL-REG-PP-57-2021-14",
+          "PSL-REG-PP-57-2021-15",
+          "PSL-REG-PP-57-2021-16",
+          "PSL-REG-PP-57-2021-17",
+          "PSL-REG-PP-57-2021-18",
+          "PSL-REG-PP-57-2021-19",
+          "PSL-REG-PP-57-2021-20",
+          "PSL-REG-PP-57-2021-21",
+          "PSL-REG-PP-57-2021-22",
+          "PSL-REG-PP-57-2021-23",
+          "PSL-REG-PP-57-2021-24",
+          "PSL-REG-PP-57-2021-25",
+          "PSL-REG-PP-57-2021-26",
+          "PSL-REG-PP-57-2021-27",
+          "PSL-REG-PP-57-2021-28",
+          "PSL-REG-PP-57-2021-29",
+          "PSL-REG-PP-57-2021-30",
+          "PSL-REG-PP-57-2021-31",
+          "PSL-REG-PP-57-2021-32",
+          "PSL-REG-PP-57-2021-33"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-III",
+        "nomor_bab": "III",
+        "judul": "PENGEMBANGAN, PEMANTAUAN, DAN PELAPORAN",
+        "urutan": 3,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-34"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-IV",
+        "nomor_bab": "IV",
+        "judul": "KURIKULUM",
+        "urutan": 4,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-35",
+          "PSL-REG-PP-57-2021-36",
+          "PSL-REG-PP-57-2021-37",
+          "PSL-REG-PP-57-2021-38",
+          "PSL-REG-PP-57-2021-39",
+          "PSL-REG-PP-57-2021-40"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-V",
+        "nomor_bab": "V",
+        "judul": "EVALUASI",
+        "urutan": 5,
+        "bagian": [
+          {
+            "id": "BAGIAN-REG-PP-57-2021-V-KESATU",
+            "nomor_bagian": "Kesatu",
+            "judul": "Umum",
+            "urutan": 1,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-41"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-V-KEDUA",
+            "nomor_bagian": "Kedua",
+            "judul": "Evaluasi Hasil Belajar Peserta Didik",
+            "urutan": 2,
+            "paragraf": [],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-42"
+            ]
+          },
+          {
+            "id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+            "nomor_bagian": "Ketiga",
+            "judul": "Evaluasi Sistem Pendidikan",
+            "urutan": 3,
+            "paragraf": [
+              {
+                "id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-2",
+                "nomor_paragraf": "2",
+                "judul": "Evaluasi Sistem Pendidikan oleh Pemerintah Pusat",
+                "urutan": 1,
+                "pasal_ids": [
+                  "PSL-REG-PP-57-2021-44",
+                  "PSL-REG-PP-57-2021-45",
+                  "PSL-REG-PP-57-2021-46",
+                  "PSL-REG-PP-57-2021-47"
+                ]
+              },
+              {
+                "id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-3",
+                "nomor_paragraf": "3",
+                "judul": "Evaluasi Sistem Pendidikan oleh Pemerintah Daerah",
+                "urutan": 2,
+                "pasal_ids": [
+                  "PSL-REG-PP-57-2021-48"
+                ]
+              },
+              {
+                "id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-4",
+                "nomor_paragraf": "4",
+                "judul": "Evaluasi Sistem Pendidikan oleh Lembaga Mandiri",
+                "urutan": 3,
+                "pasal_ids": [
+                  "PSL-REG-PP-57-2021-49"
+                ]
+              }
+            ],
+            "pasal_ids": [
+              "PSL-REG-PP-57-2021-43",
+              "PSL-REG-PP-57-2021-44",
+              "PSL-REG-PP-57-2021-45",
+              "PSL-REG-PP-57-2021-46",
+              "PSL-REG-PP-57-2021-47",
+              "PSL-REG-PP-57-2021-48",
+              "PSL-REG-PP-57-2021-49"
+            ]
+          }
+        ],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-41",
+          "PSL-REG-PP-57-2021-42",
+          "PSL-REG-PP-57-2021-43",
+          "PSL-REG-PP-57-2021-44",
+          "PSL-REG-PP-57-2021-45",
+          "PSL-REG-PP-57-2021-46",
+          "PSL-REG-PP-57-2021-47",
+          "PSL-REG-PP-57-2021-48",
+          "PSL-REG-PP-57-2021-49"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-VI",
+        "nomor_bab": "VI",
+        "judul": "AKREDITASI",
+        "urutan": 6,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-50",
+          "PSL-REG-PP-57-2021-51",
+          "PSL-REG-PP-57-2021-52"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-VII",
+        "nomor_bab": "VII",
+        "judul": "SERTIFIKASI",
+        "urutan": 7,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-53",
+          "PSL-REG-PP-57-2021-54"
+        ]
+      },
+      {
+        "id": "BAB-REG-PP-57-2021-VIII",
+        "nomor_bab": "VIII",
+        "judul": "KETENTUAN PENUTUP",
+        "urutan": 8,
+        "bagian": [],
+        "pasal_ids": [
+          "PSL-REG-PP-57-2021-55",
+          "PSL-REG-PP-57-2021-56",
+          "PSL-REG-PP-57-2021-57",
+          "PSL-REG-PP-57-2021-58",
+          "PSL-REG-PP-57-2021-59"
+        ]
+      }
+    ],
+    "pasal": [
+      {
+        "id": "PSL-REG-PP-57-2021-1",
+        "nomor_pasal": "1",
+        "teks_isi": "Dalam Peraturan Pemerintah ini yang dimaksud dengan: 1. Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa dan negara. 2. Standar Nasional Pendidikan adalah kriteria minimal tentang sistem Pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia 3. Peserta SK No 102502 A REPUJLTIt,',35]*.u,o, -33. Peserta Didik adalah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses pembelajaran yang tersedia pada jalur, jenjang, dan jenis Pendidikan tertentu. 4. Satuan Pendidikan adalah kelompok layanan Pendidikan yang menyelenggarakan Pendidikan pada jalur formal, nonformal, dan informal pada setiap jenjang dan jenis Pendidikan. 5. Jalur Pendidikan adalah wahana yang dilalui Peserta Didik untuk mengembangkan potensi diri dalam suatu proses Pendidikan yang sesuai dengan tujuan Pendidikan. 6. Jenjang Pendidikan adalah tahapan Pendidikan yang ditetapkan berdasarkan tingkat perkembangan Peserta Didik, tujuan yang akan dicapai, dan kemampuan dikembangkan. yang 7. Jenis Pendidikan adalah kelompok yang didasarkan pada kekhususan tujuan Pendidikan suatu Satuan Pendidikan. 8. Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam UndangUndang Dasar Negara Republik Indonesia Tahun 1945. 9. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom. 10.Kementerian... SK No 102503 A -4Kementerian adalah kementerian 10. yang menyelenggarakan urusan pemerintahan di bidang Pendidikan. 1 1. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Pendidikan. Umum",
+        "status": "Aktif",
+        "urutan": 1,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-1",
+            "jenis": "angka",
+            "nomor": "1",
+            "teks_isi": "Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa dan negara.",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-2",
+            "jenis": "angka",
+            "nomor": "2",
+            "teks_isi": "Standar Nasional Pendidikan adalah kriteria minimal tentang sistem Pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-3",
+            "jenis": "angka",
+            "nomor": "3",
+            "teks_isi": "Peserta SK No 102502 A REPUJLTIt,',35]*.u,o, -33. Peserta Didik adalah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses pembelajaran yang tersedia pada jalur, jenjang, dan jenis Pendidikan tertentu.",
+            "urutan": 3,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-4",
+            "jenis": "angka",
+            "nomor": "4",
+            "teks_isi": "Satuan Pendidikan adalah kelompok layanan Pendidikan yang menyelenggarakan Pendidikan pada jalur formal, nonformal, dan informal pada setiap jenjang dan jenis Pendidikan.",
+            "urutan": 4,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-5",
+            "jenis": "angka",
+            "nomor": "5",
+            "teks_isi": "Jalur Pendidikan adalah wahana yang dilalui Peserta Didik untuk mengembangkan potensi diri dalam suatu proses Pendidikan yang sesuai dengan tujuan Pendidikan.",
+            "urutan": 5,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-6",
+            "jenis": "angka",
+            "nomor": "6",
+            "teks_isi": "Jenjang Pendidikan adalah tahapan Pendidikan yang ditetapkan berdasarkan tingkat perkembangan Peserta Didik, tujuan yang akan dicapai, dan kemampuan dikembangkan. yang",
+            "urutan": 6,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-7",
+            "jenis": "angka",
+            "nomor": "7",
+            "teks_isi": "Jenis Pendidikan adalah kelompok yang didasarkan pada kekhususan tujuan Pendidikan suatu Satuan Pendidikan.",
+            "urutan": 7,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-8",
+            "jenis": "angka",
+            "nomor": "8",
+            "teks_isi": "Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam UndangUndang Dasar Negara Republik Indonesia Tahun 1945.",
+            "urutan": 8,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-9",
+            "jenis": "angka",
+            "nomor": "9",
+            "teks_isi": "Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom. 10.Kementerian... SK No 102503 A -4Kementerian adalah kementerian",
+            "urutan": 9,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-1-angka-10",
+            "jenis": "angka",
+            "nomor": "10",
+            "teks_isi": "yang menyelenggarakan urusan pemerintahan di bidang Pendidikan. 1 1. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Pendidikan. Umum",
+            "urutan": 10,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-57-2021-I"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-2",
+        "nomor_pasal": "2",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 2,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-2-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar Nasional Pendidikan digunakan pada Pendidikan yang diselenggarakan oleh Pemerintah Pusat, Pemerintah Daerah, dan masyarakat pada Jalur Pendidikan formal, Jalur Pendidikan nonformal, dan Jalur Pendidikan informal.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-2-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Jalur Pendidikan formal sebagaimana dimaksud pada ayat (1) terdiri atas: a. pendidikan anak usia dini formal; b. pendidikan dasar; c. pendidikan menengah; dan d. pendidikan tinggi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-2-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan anak usia dini formal;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-2-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan dasar;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-2-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pendidikan menengah; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-2-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "pendidikan tinggi.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-2-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Jalur Pendidikan nonformal sebagaimana dimaksud pada ayat (1) terdiri atas: a. pendidikan anak usia dini nonformal; dan b. pendidikan kesetaraan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-2-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan anak usia dini nonformal; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-2-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan kesetaraan.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KESATU"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-3",
+        "nomor_pasal": "3",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 3,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-3-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar Nasional Pendidikan mencakup a. standar kompetensi lulusan; b. standar isi; c. standar SK No 102504 A -5c. standar proses; d. standar penilaian Pendidikan; e. standar tenaga kependidikan; f. standar sarana dan prasarana; g. standar pengelolaan; dan h. standar pembiayaan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "standar kompetensi lulusan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "standar isi;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "standar SK No 102504 A -5c. standar proses;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "standar penilaian Pendidikan;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "standar tenaga kependidikan;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "standar sarana dan prasarana;",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "standar pengelolaan; dan",
+                "urutan": 7,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-3-1-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "standar pembiayaan.",
+                "urutan": 8,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-3-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Standar Nasional Pendidikan digunakan sebagai acuan pengembangan kurikulum dan penyelenggaraan Pendidikan untuk mewrrjudkan tujuan Pendidikan nasional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-3-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Standar Nasional Pendidikan disempurnakan secara terencana, terarah, dan berkelanjutan untuk meningkatkan mutu Pendidikan sesuai dengan tuntutan perubahan kehidupan lokal, nasional, dan global. Standar Kompetensi Lulusan",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KESATU"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-4",
+        "nomor_pasal": "4",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 4,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-4-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar kompetensi lulusan merupakan kriteria minimal tentang kesatuan sikap, keterampilan, dan pengetahuan yang menunjukkan capaian kemampuan Peserta Didik dari hasil pembelajarannya pada akhir Jenjang Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-4-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Standar kompetensi lulusan sebagaimana dimaksud pada ayat (1) dirumuskan berdasarkan: a. tujuan Pendidikan nasional; b. tingkat perkembangan Peserta Didik; c. kerangka kualifikasi nasional Indonesia; dan d. jalur, jenjang, dan jenis Pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-4-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "tujuan Pendidikan nasional;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "tingkat perkembangan Peserta Didik;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kerangka kualifikasi nasional Indonesia; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "jalur, jenjang, dan jenis Pendidikan.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-4-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Standar kompetensi lulusan sebagaimana dimaksud pada ayat (1) digunakan sebagai pedoman dalam penentuan kelulusan Peserta Didik dari Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-4-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Standar SK No 102551 A",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-4-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Standar kompetensi lulusan digunakan sebagai acuan dalam pengembangan: a. standar isi; b. standar proses; c. standar penilaian Pendidikan; d. standar tenaga kependidikan; e. standar sarana dan prasarana; f. standar pengelolaan; dan g. standar pembiayaan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "standar isi;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "standar proses;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "standar penilaian Pendidikan;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "standar tenaga kependidikan;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "standar sarana dan prasarana;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "standar pengelolaan; dan",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-4-4-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "standar pembiayaan.",
+                "urutan": 7,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-4-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketercapaian standar kompetensi lulusan ditentukan berdasarkan data komprehensif mengenai Peserta Didik yang diperoleh secara berkesinambungan selama periode pembelajaran.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-4-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Penggunaan standar kompetensi lulusan sebagai pedoman dalam penentuan kelulusan sebagaimana dimaksud pada ayat (3) dikecualikan bagi pendidikan anak usia dini.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-5",
+        "nomor_pasal": "5",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 5,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-5-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar kompetensi lulusan pada pendidikan anak usia dini merupakan standar tingkat pencapaian perkembangan anak usia dini.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-5-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Standar tingkat pencapaian perkembangan anak usia dini sebagaimana dimaksud pada ayat (1) difokuskan pada aspek perkembangan anak yang mencakup: a. nilai agama dan moral; b. fisik motorik; c. kognitif; d. bahasa; dan e. sosial emosional. SK No 102506 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-5-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "nilai agama dan moral;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-5-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "fisik motorik;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-5-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kognitif;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-5-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "bahasa; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-5-2-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "sosial emosional. SK No 102506 A",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-6",
+        "nomor_pasal": "6",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 6,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-6-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan dasar difokuskan pada penanaman karakter yang sesuai dengan nilai-nilai Pancasila serta kompetensi literasi dan numerasi Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-6-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan menengah umum difokuskan pada pengetahuan untuk meningkatkan kompetensi Peserta Didik agar dapat hidup mandiri dan mengikuti Pendidikan lebih lanjut.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-6-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan menengah kejuruan difokuskan pada keterampilan untuk meningkatkan kompetensi Peserta Didik agar dapat hidup mandiri dan mengikuti Pendidikan lebih lanjut sesuai dengan kejuruannya.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-6-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Standar kompetensi lulusan pada Satuan Pendidikan Jenjang Pendidikan tinggi difokuskan pada persiapan Peserta Didik menjadi anggota masyarakat yang berakhlak mulia, memiliki pengetahLlan, keterampilan, kemandirian, dan sikap untuk menemukan, mengembangkan, serta menerapkan ilmu pengetahLlan, teknologi, dan seni, yang bermanfaat bagi kemanusiaan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-7",
+        "nomor_pasal": "7",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar kompetensi lulusan diatur dengan Peraturan Menteri. Standar Isi",
+        "status": "Aktif",
+        "urutan": 7,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-8",
+        "nomor_pasal": "8",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 8,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-8-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar isi merupakan kriteria minimal yang mencakup rLrang lingkup materi untuk mencapai kompetensi lulusan pada jalur, jenjang, dan jenis Pendidikan tertentu.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-8-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ruang SK No 102507 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-8-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ruang lingkup materi sebagaimana dimaksud pada ayat (1) merupakan bahan kajian dalam muatan pembelajaran.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-8-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Ruang lingkup materi sebagaimana dimaksud pada ayat (1) dirumuskan berdasarkan: a. muatan wajib sesuai dengan ketentuan peraturan perundang-undangan; b. konsep keilmuan; dan c. jalur, jenjang, dan jenis Pendidikan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-8-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "muatan wajib sesuai dengan ketentuan peraturan perundang-undangan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-8-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "konsep keilmuan; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-8-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "jalur, jenjang, dan jenis Pendidikan.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-9",
+        "nomor_pasal": "9",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar isi diatur dengan Peraturan Menteri. Standar Proses",
+        "status": "Aktif",
+        "urutan": 9,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-10",
+        "nomor_pasal": "10",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 10,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-10-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar proses merupakan kriteria minimal proses pembelajaran berdasarkan jalur, jenjang, dan jenis Pendidikan untuk mencapai standar kompetensi lulusan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-10-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Standar proses sebagaimana dimaksud pada ayat (1) meliputi: a. perencanaan pembelajaran; b. pelaksanaan pembelajaran; dan c. penilaian proses pembelajaran.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-10-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "perencanaan pembelajaran;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-10-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pelaksanaan pembelajaran; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-10-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "penilaian proses pembelajaran.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-11",
+        "nomor_pasal": "11",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 11,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-11-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Perencanaan pembelajaran sebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a merupakan aktivitas untuk merumuskan: a. capaian pembelajaran yang menjadi tujuan belajar dari suatu unit pembelajaran; b. cara SK No 102508 A b. cara untuk mencapai tujuan belajar; dan c. cara menilai ketercapaian tujuan belajar.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-11-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "capaian pembelajaran yang menjadi tujuan belajar dari suatu unit pembelajaran;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-11-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "cara SK No 102508 A",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-11-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "cara untuk mencapai tujuan belajar; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-11-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "cara menilai ketercapaian tujuan belajar.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-11-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Perencanaan pembelajaran sebagaimana dimaksud pada ayat (1) dilakukan oleh pendidik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-12",
+        "nomor_pasal": "12",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 12,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-12-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pelaksanaan pembelajaran sebagaimana dimaksud dalam Pasal 10 ayat (2) huruf b diselenggarakan dalam suasana belajar yang: a. interaktif; b. inspiratif; c. menyenangkan; d. menantang; e. memotivasi Peserta Didik untuk berpartisipasi aktif; dan f. memberikan ruang yang cukup bagi prakarsa, kreativitas, kemandirian sesuai dengan bakat, minat, dan perkembangan fisik, serta psikologis Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-12-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "interaktif;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-12-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "inspiratif;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-12-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "menyenangkan;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-12-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "menantang;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-12-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "memotivasi Peserta Didik untuk berpartisipasi aktif; dan",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-12-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "memberikan ruang yang cukup bagi prakarsa, kreativitas, kemandirian sesuai dengan bakat, minat, dan perkembangan fisik, serta psikologis Peserta Didik.",
+                "urutan": 6,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-12-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pelaksanaan pembelajaran sebagaimana dimaksud pada ayat (1) dilakukan oleh pendidik dengan memberikan keteladanan, pendampingan, dan : .-. Iasrlrtasr.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-13",
+        "nomor_pasal": "13",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 13,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-13-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Penilaian proses pembelajaran sebagaimana dimaksud dalam Pasal 10 ayat (2) huruf c merupakan asesmen terhadap perencanaan dan pelaksanaan pembelajaran.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-13-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penilaian proses pembelajaran sebagaimana dimaksud pada ayat (1) dilakukan oleh pendidik yang bersangkutan. 14... Pasal SK No 102509 A t',?5X*.r,o nepuJr-Tr",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-14",
+        "nomor_pasal": "14",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 14,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-14-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Dalam rangka meningkatkan kualitas proses pembelaj aran1, penilaian proses pembelajaran selain dilaksanakan oleh pendidik sebagaimana dimaksud dalam Pasal 13 ayat (2) dapat dilaksanakan oleh: a. sesama pendidik; b. kepala Satuan Pendidikan; dan/atau c. Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-14-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "sesama pendidik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-14-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "kepala Satuan Pendidikan; dan/atau",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-14-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "Peserta Didik.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-14-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penilaian proses pembelajaran oleh sesama pendidik sebagaimana dimaksud pada ayat (1) huruf a merupakan asesmen oleh sesama pendidik atas perencanaan dan pelaksanaan pembelajaran yang dilakukan oleh pendidik yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-14-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penilaian proses pembelajaran oleh kepala Satuan Pendidikan sebagaimana dimaksud pada ayat (1) huruf b merupakan asesmen oleh kepala Satuan Pendidikan pada Satuan Pendidikan tempat pendidik yang bersangkutan atas perencanaan dan pelaksanaan pembelajaran yang dilakukan oleh pendidik yang bersangkutan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-14-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penilaian proses pembelajaran oleh Peserta Didik sebagaimana dimaksud pada ayat (1) huruf c merupakan asesmen oleh Peserta Didik yang diajar langsung oleh pendidik yang bersangkutan atas pelaksanaan pembelajaran yang dilakukannya.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-15",
+        "nomor_pasal": "15",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar proses diatur dengan Peraturan Menteri. Bagian SK No 102510 A - 11Bagian Kelima Standar Penilaian Pendidikan",
+        "status": "Aktif",
+        "urutan": 15,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-16",
+        "nomor_pasal": "16",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 16,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-16-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar penilaian Pendidikan merupakan kriteria minimal mengenai mekanisme penilaian hasil belajar Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-16-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Mekanisme sebagaimana dimaksud pada ayat (1) merupakan prosedur dalam melakukan penilaian yang meliputi: a. perumusan tujuan penilaian; b. pemilihan dan/atau pengembangan instrumen penilaian; c. pelaksanaan penilaian; d. pengolahan hasil penilaian; dan e. pelaporan hasil penilaian.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-16-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "perumusan tujuan penilaian;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-16-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pemilihan dan/atau pengembangan instrumen penilaian;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-16-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pelaksanaan penilaian;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-16-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "pengolahan hasil penilaian; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-16-2-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "pelaporan hasil penilaian.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-16-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penilaian hasil belajar Peserta Didik sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan tujuan penilaian secara berkeadilan, objektif, dan edukatif.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-16-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penilaian hasil belajar Peserta Didik sebagaimana dimaksud pada ayat (1) dilakukan oleh pendidik.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-16-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Penilaian hasil belajar Peserta Didik sebagaimana dimaksud pada ayat (41berbentuk: a. penilaian formatif; dan b. penilaian sumatif.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-16-5-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "penilaian formatif; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-16-5-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penilaian sumatif.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-17",
+        "nomor_pasal": "17",
+        "teks_isi": "Penilaian formatif sebagaimana dimaksud dalam Pasal 16 ayat (5) huruf a bertujuan untuk memantau dan memperbaiki proses pembelajaran serta mengevaluasi pencapaian tujuan pembelaj aran.",
+        "status": "Aktif",
+        "urutan": 17,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-18",
+        "nomor_pasal": "18",
+        "teks_isi": "SK No 102511A -t218 Pasal",
+        "status": "Aktif",
+        "urutan": 18,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-18-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Penilaian sumatif sebagaimana dimaksud dalam Pasal 16 ayat (5) huruf b pada Jenjang Pendidikan dasar dan Jenjang Pendidikan menengah bertujuan untuk menilai pencapaian hasil belajar Peserta Didik sebagai dasar penentuan: a. kenaikan kelas; dan b. kelulusan dari Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-18-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "kenaikan kelas; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-18-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "kelulusan dari Satuan Pendidikan.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-18-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Penilaian hasil belajar Peserta Didik untuk penentuan kelulusan dari Satuan Pendidikan sebagaimana dimaksud pada ayat (1) huruf b dilakukan melalui mekanisme yang ditentukan oleh Satuan Pendidikan dengan mengacu pada standar kompetensi lulusan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-18-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Penilaian sumatif sebagaimana dimaksud dalam Pasal 16 ayat (5) huruf b pada Jenjang Pendidikan tinggi bertujuan untuk menilai pencapaian hasil belajar Peserta Didik sebagai dasar penentuan: a. kelulusan dari mata kuliah; dan b. kelulusan dari program studi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-18-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "kelulusan dari mata kuliah; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-18-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "kelulusan dari program studi.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-18-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Penilaian hasil belajar Peserta Didik sebagaimana dimaksud dalam Pasal 16 pada Jenjang Pendidikan tinggi diatur lebih lanjut oleh masing-masing perguruan tinggi sesuai dengan ketentuan peraturan perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-19",
+        "nomor_pasal": "19",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar penilaian Pendidikan diatur dengan Peraturan Menteri. . SK No 102512 A -13Bagian Keenam Standar Tenaga Kependidikan Paragraf Pendidik",
+        "status": "Aktif",
+        "urutan": 19,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEEMPAT"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-20",
+        "nomor_pasal": "20",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 20,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-20-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar pendidik merupakan kriteria minimal kompetensi dan kualifikasi yang dimiliki pendidik untuk melaksanakan tugas dan fungsi sebagai teladan, perancang pembelaj arar7, fasilitator, d\"r, motivator Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-20-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kriteria minimal kompetensi pendidik sebagaimana dimaksud pada ayat (1) meliputi kompetensi pedagogik, kompetensi kepribadian, kompetensi sosial, dan kompetensi profesional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-20-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kriteria minimal kualifikasi pendidik sebagaimana dimaksud pada ayat (1) merupakan kualifikasi akademik minimal yang harus dipenuhi oleh pendidik yang dibuktikan dengan: a. tjazah; atau b. tjazah dan sertifikat keahlian.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-20-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "tjazah; atau",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-20-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "tjazah dan sertifikat keahlian.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-20-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Kriteria minimal kualifikasi pendidik sebagaimana dimaksud pada ayat (1) meliputi: a. sarjana untuk pendidik pada pendidikan anak usia dini jalur formal, dan pendidik pada Jenjang jalur Pendidikan dasar dan menengah formal; b. magister atau magister terapan untuk pendidik pada Jenjang Pendidikan tinggi program diploma dan sarjana; c. doktor atau doktor terapan untuk pendidik pada Jenjang Pendidikan tinggi program magister dan doktor; dan d. magister SK No 102513 A -14d. magister atau magister terapan berpengalaman kerja minimal 2 (dua) tahun yang relevan dengan program studi untuk pendidik pada pendidikan profesi.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-20-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "sarjana untuk pendidik pada pendidikan anak usia dini jalur formal, dan pendidik pada Jenjang jalur Pendidikan dasar dan menengah formal;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-20-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "magister atau magister terapan untuk pendidik pada Jenjang Pendidikan tinggi program diploma dan sarjana;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-20-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "doktor atau doktor terapan untuk pendidik pada Jenjang Pendidikan tinggi program magister dan doktor; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-20-4-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "magister SK No 102513 A -14d. magister atau magister terapan berpengalaman kerja minimal 2 (dua) tahun yang relevan dengan program studi untuk pendidik pada pendidikan profesi.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-20-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Kriteria minimal kualifikasi pendidik sebagaimana dimaksud pada ayat (1) pada pendidikan nonformal diatur oleh Menteri.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-20-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Dalam hal Pemerintah Pusat atau Pemerintah Daerah belum dapat memenuhi kebutuhan pendidik, maka kualifikasi pendidik sebagaimana dimaksud pada ayat (4) dapat dipenuhi melalui uji kelayakan dan uji kesetaraan.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-21",
+        "nomor_pasal": "21",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar pendidik bagi pendidik selain yang mengajar muatan agama diatur dengan Peraturan Menteri.",
+        "status": "Aktif",
+        "urutan": 21,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-22",
+        "nomor_pasal": "22",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar pendidik bagi pendidik yang mengajar muatan agama diatur dengan Peraturan Menteri setelah berkoordinasi dengan menteri yang menyelenggarakan urusan pemerintahan di bidang agama. Tenaga Kependidikan Selain Pendidik",
+        "status": "Aktif",
+        "urutan": 22,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-23",
+        "nomor_pasal": "23",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 23,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-23-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar tenaga kependidikan selain pendidik merupakan kriteria minimal kompetensi yang dimiliki tenaga kependidikan selain pendidik sesuai dengan tugas dan fungsi dalam melaksanakan administrasi, pengelolaan, pengembangan, pengawasan, dan pelayanan teknis untuk menunjang proses Pendidikan pada Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-23-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kompetensi. . . SK No 102514 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-23-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kompetensi tenaga kependidikan sebagaimana dimaksud pada ayat (1) meliputi kompetensi kepribadian, kompetensi sosial, dan kompetensi profesional untuk menunjang proses Pendidikan pada Pendidikan. Satuan",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-23-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Tenaga kependidikan selain pendidik sebagaimana dimaksud pada ayat (1) jumlah dan jenisnya disesuaikan dengan kebutuhan pengelolaan dan penyelenggaraan di Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-II--2"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-24",
+        "nomor_pasal": "24",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar tenaga kependidikan selain pendidik diatur dengan Peraturan Menteri. Standar Sarana dan Prasarana",
+        "status": "Aktif",
+        "urutan": 24,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-II--2"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-25",
+        "nomor_pasal": "25",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 25,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-25-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar sarana dan prasarana merupakan kriteria minimal sarana dan prasarana yang harus tersedia pada Satuan Pendidikan dalam penyelenggaraan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-25-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Sarana sebagaimana dimaksud pada ayat (1) merupakan segala sesuatu yang dapat dipakai sebagai alat dan perlengkapan dalam mencapai tujuan pembelajaran.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-25-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Prasarana sebagaimana dimaksud pada ayat (1) merupakan fasilitas dasar yang dibutuhkan untuk menjalankan fungsi Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-25-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Standar sarana dan prasarana sebagaimana dimaksud pada ayat (1) ditentukan dengan prinsip: a. menunJang SK No 102515 A pu Jr-Tr',',355*.', o n e -t6a. menunjang penyelenggaraan pembelajaran yang aktif, kreatif, kolaboratif, menyenangkan, dan efektif; b. menjamin keamanan, kesehatan, dan keselamatan; c. ramah terhadap penyandang disabilitas; dan d. ramah terhadap kelestarian lingkungan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-25-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "menunJang SK No 102515 A pu Jr-Tr',',355*.', o n e -t6a. menunjang penyelenggaraan pembelajaran yang aktif, kreatif, kolaboratif, menyenangkan, dan efektif;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-25-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "menjamin keamanan, kesehatan, dan keselamatan;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-25-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "ramah terhadap penyandang disabilitas; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-25-4-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "ramah terhadap kelestarian lingkungan.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-25-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Sarana dan prasarana sebagaimana dimaksud pada ayat (21 dan ayat (3) harus tersedia pada Satuan Pendidikan dan disesuaikan dengan kebutuhan pada setiap jalur, jenjang, dan jenis Pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KETUJUH"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-26",
+        "nomor_pasal": "26",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar sarana dan prasarana diatur dengan Peraturan Menteri. Standar Pengelolaan",
+        "status": "Aktif",
+        "urutan": 26,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KETUJUH"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-27",
+        "nomor_pasal": "27",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 27,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-27-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar pengelolaan merupakan kriteria minimal mengenai perencanaan, pelaksanaan, dan pengawasan kegiatan pendidikan yang dilaksanakan oleh Satuan Pendidikan agar penyelenggaraan Pendidikan efisien dan efektif.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-27-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Perencanaan, pelaksanaan, dan pengawasan kegiatan Pendidikan sebagaimana dimaksud pada ayat (1) pada pendidikan anak usia dini dan Jenjang Pendidikan dasar dan menengah menerapkan manajemen berbasis sekolah yang ditunjukkan dengan kemandirian, kemitraan, partisipasi, keterbukaan, dan akuntabilitas.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-27-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Perencanaan SK No 102516 A =,',3ot}*.r,o nepuJr-Tx -t7-",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-27-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Perencanaan, pelaksanaan, dan pengawasan kegiatan Pendidikan sebagaimana dimaksud pada ayat (1) pada Jenjang Pendidikan tinggi menerapkan otonomi perguruan tinggi sesuai dengan ketentuan peraturan perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDELAPAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-28",
+        "nomor_pasal": "28",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 28,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-28-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Perencanaan kegiatan Pendidikan sebagaimana dimaksud dalam Pasal 27 bertujuan untuk peningkatan kualitas proses dan hasil belajar secara berkelanjutan berdasarkan evaluasi diri Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-28-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Perencanaan kegiatan Pendidikan sebagaimana dimaksud pada ayat (1) dituangkan dalam rencana kerja jangka pendek dan rencana kerja jangka menengah.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-28-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Rencana kerja jangka pendek sebagaimana dimaksud pada ayat (21 merupakan rencana kerja tahunan sebagai penjabaran rinci dari rencana kerja jangka menengah Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-28-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Rencana kerja jangka menengah sebagaimana dimaksud pada ayat (2) dan ayat (3) merupakan perencanaan kegiatan Pendidikan yang disusun untuk periode 4 (empat) tahun.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDELAPAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-29",
+        "nomor_pasal": "29",
+        "teks_isi": "Pelaksanaan kegiatan Pendidikan sebagaimana dimaksud dalam Pasal 27 merupakan tindakan untuk menggerakkan dan menggunakan seluruh sumber daya yang tersedia di Satuan Pendidikan, dalam rangka mencapai tujuan dan sasaran sesuai dengan perencanaan yang telah ditetapkan.",
+        "status": "Aktif",
+        "urutan": 29,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDELAPAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-30",
+        "nomor_pasal": "30",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 30,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-30-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengawasan kegiatan Pendidikan sebagaimana dimaksud dalam Pasal 27 merupakan kegiatan pemantauan, supervisi, serta evaluasi secara berkala dan berkesinambungan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-30-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengawasan kegiatan Pendidikan sebagaimana dimaksud pada ayat (1) bertujuan untuk memastikan pelaksanaan Pendidikan yang transparan dan akuntabel serta peningkatan kualitas proses dan hasil belajar secara berkelanjutan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-30-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengawasan kegiatan Pendidikan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh: a. kepala Satuan Pendidikan; b. pemimpin perguruan tinggi; c. komite sekolah/madrasah; d. Pemerintah Pusat; dan/atau e. Pemerintah Daerah, sesuai dengan ketentuan peraturan perundangundangan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-30-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "kepala Satuan Pendidikan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-30-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pemimpin perguruan tinggi;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-30-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "komite sekolah/madrasah;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-30-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "Pemerintah Pusat; dan/atau",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-30-3-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "Pemerintah Daerah, sesuai dengan ketentuan peraturan perundangundangan.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDELAPAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-31",
+        "nomor_pasal": "31",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar pengelolaan diatur dengan Peraturan Menteri. Standar Pembiayaan",
+        "status": "Aktif",
+        "urutan": 31,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KEDELAPAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-32",
+        "nomor_pasal": "32",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 32,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-32-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Standar pembiayaan merupakan kriteria minimal mengenai komponen pembiayaan Pendidikan pada Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-32-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pembiayaan SK No 102518 A REPUJLTIt,',35]*.r,o",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-32-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pembiayaan Pendidikan terdiri atas: a. biaya investasi; dan b. biaya operasional.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-32-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "biaya investasi; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-32-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "biaya operasional.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-32-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Biaya investasi sebagaimana dimaksud pada ayat (2) huruf a meliputi komponen biaya: a. investasi lahan; b. penyediaan sarana dan prasarana; c. penyediaan dan pengembangan sumber daya manusia; dan d. modal kerja tetap.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-32-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "investasi lahan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-32-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penyediaan sarana dan prasarana;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-32-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "penyediaan dan pengembangan sumber daya manusia; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-32-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "modal kerja tetap.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-32-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Biaya operasional sebagaimana dimaksud pada ayat (21huruf b meliputi komponen biaya: a. personalia; dan b. nonpersonalia.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-32-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "personalia; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-32-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "nonpersonalia.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KESEMBILAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-33",
+        "nomor_pasal": "33",
+        "teks_isi": "Ketentuan lebih lanjut mengenai standar pembiayaan diatur dengan Peraturan Menteri.",
+        "status": "Aktif",
+        "urutan": 33,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-II",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-II-KESEMBILAN"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-34",
+        "nomor_pasal": "34",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 34,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-34-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pengembangan Standar Nasional Pendidikan serta pemantauan dan pelaporan pencapaiannya secara nasional dilaksanakan oleh suatu badan yang menyelenggarakan tugas dan fungsi standardisasi, penjaminan, dan pengendalian mutu Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-34-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Badan sebagaimana dimaksud pada ayat (1) bertanggung jawab kepada Menteri.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-34-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dalam... SK No 102519 A",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-34-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Dalam melaksanakan tugas dan fungsinya, badan sebagaimana dimaksud pada ayat (i) dapat melibatkan pakar.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-34-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan lebih lanjut mengenai badan sebagaimana dimaksud pada ayat (1) diatur oleh Menteri.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-III"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-35",
+        "nomor_pasal": "35",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 35,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-35-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum merupakan seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara yang digunakan sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk mencapai tujuan Pendidikan tertentu.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-35-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengembangan kurikulum dilakukan dengan mengacu pada Standar Nasional Pendidikan untuk mewujudkan tujuan Pendidikan nasional.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-35-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Standar Nasional Pendidikan yang menjadi acuan dalam pengembangan kurikulum sebagaimana dimaksud pada ayat (21meliputi: a. standar kompetensi lulusan; b. standar isi; c. standar proses; dan d. standar penilaian Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-35-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "standar kompetensi lulusan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-35-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "standar isi;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-35-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "standar proses; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-35-3-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "standar penilaian Pendidikan.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-IV"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-36",
+        "nomor_pasal": "36",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 36,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-36-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum terdiri atas: a. kerangka dasar kurikulum; dan b. struktur kurikulum.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-36-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "kerangka dasar kurikulum; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-36-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "struktur kurikulum.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-36-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kerangka dasar kurikulum sebagaimana dimaksud pada ayat (1) huruf a merupakan rancangan landasan utama dalam pengembangan struktur kurikulum. Struktur...",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-36-3",
+            "nomor_ayat": "3",
+            "teks_isi": "SK No 102520 A -2t-",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-36-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Struktur kurikulum sebagaimana dimaksud pada ayat (1) huruf b merupakan pengorganisasian atas kompetensi, muatan pembelajaran, dan beban belajar.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-IV"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-37",
+        "nomor_pasal": "37",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 37,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-37-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kerangka dasar kurikulum dan struktur kurikulum sebagaimana dimaksud dalam Pasal 36 untuk pendidikan anak usia dini, pendidikan dasar, dan pendidikan menengah ditetapkan oleh Menteri.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-37-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kerangka dasar kurikulum dan struktur kurikulum sebagaimana dimaksud pada ayat (1) dievaluasi relevansi dan dampaknya terhadap praktik dan hasil pembelajaran oleh Kementerian.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-37-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Hasil evaluasi sebagaimana dimaksud pada ayat,(2) digunakan sebagai dasar melakukan pengembangan kerangka dasar kurikulum dan struktur kurikulum.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-IV"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-38",
+        "nomor_pasal": "38",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 38,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-38-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kerangka dasar kurikulum dan struktur kurikulum sebagaimana dimaksud dalam Pasal 37 ayat (1) menjadi landasan bagi pengembangan kurikulum Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-38-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Pengembangan kurikulum Satuan Pendidikan sebagaimana dimaksud pada ayat (1) dilakukan dengan prinsip diversifikasi sesuai dengan Satuan Pendidikan, potensi daerah, dan Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-38-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Pengembangan kurikulum Satuan Pendidikan sebagaimana dimaksud pada ayat (1) dilakukan oleh Satuan Pendidikan atau kelompok Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-38-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Pengembangan kurikulum Satuan Pendidikan sebagaimana dimaksud pada ayat (1) melibatkan komite sekolah/madrasah di bawah koordinasi dan supervisi dinas Pendidikan atau kantor kementerian yang menyelenggarakan urusan pemerintahan di bidang agama kabupaten/ kota.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-38-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pengembangan... SK No 102521 A",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-38-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Pengembangan kurikulum Satuan Pendidikan sebagaimana dimaksud pada ayat (1) dapat melibatkan masyarakat.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-IV"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-39",
+        "nomor_pasal": "39",
+        "teks_isi": "Kurikulum sebagaimana dimaksud dalam Pasal 36 pada Jenjang Pendidikan tinggi dikembangkan dan ditetapkan oleh masing-masing perguruan tinggi untuk setiap program studi dengan mengacu pada standar nasional pendidikan tinggi sesuai dengan ketentuan peraturan perundang-undangan.",
+        "status": "Aktif",
+        "urutan": 39,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-IV"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-40",
+        "nomor_pasal": "40",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 40,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-40-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Kurikulum disusun sesuai dengan Jenjang Pendidikan dalam kerangka Negara Kesatuan Republik Indonesia dengan memperhatikan: a. peningkatan iman dan takwa; b. peningkatan akhlak mulia; c. peningkatan potensi, kecerdasan, dan minat Peserta Didik; d. keragaman potensi daerah dan lingkungan; e. tuntutan pembangunan daerah dan nasional; f. tuntutan dunia kerja; g. perkembangan ilmu pengetahLran, teknologi, dan seni; h. agama; i. dinamika perkembangan global; dan j. persatuan nasional dan nilai-nilai kebangsaan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "peningkatan iman dan takwa;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "peningkatan akhlak mulia;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "peningkatan potensi, kecerdasan, dan minat Peserta Didik;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "keragaman potensi daerah dan lingkungan;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "tuntutan pembangunan daerah dan nasional;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "tuntutan dunia kerja;",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "perkembangan ilmu pengetahLran, teknologi, dan seni;",
+                "urutan": 7,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "agama;",
+                "urutan": 8,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-I",
+                "jenis": "huruf",
+                "nomor": "i",
+                "teks_isi": "dinamika perkembangan global; dan",
+                "urutan": 9,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-1-huruf-J",
+                "jenis": "huruf",
+                "nomor": "j",
+                "teks_isi": "persatuan nasional dan nilai-nilai kebangsaan.",
+                "urutan": 10,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-40-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Kurikulum pendidikan dasar dan menengah wajib memuat: a. pendidikan agama; b. pendidikan kewarganegaraan; c. bahasa; d. matematika; e.ilmu... SK No 102522 A -23e. ilmu pengetahuan alam; f. ilmu pengetahuan sosial; g. seni dan budaya; h. pendidikan jasmani dan olahraga; i. keterampilan/kejuruan; dan j. muatan lokal.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan agama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan kewarganegaraan;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "bahasa;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "matematika; e.ilmu... SK No 102522 A -23e. ilmu pengetahuan alam;",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-F",
+                "jenis": "huruf",
+                "nomor": "f",
+                "teks_isi": "ilmu pengetahuan sosial;",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-G",
+                "jenis": "huruf",
+                "nomor": "g",
+                "teks_isi": "seni dan budaya;",
+                "urutan": 6,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-H",
+                "jenis": "huruf",
+                "nomor": "h",
+                "teks_isi": "pendidikan jasmani dan olahraga;",
+                "urutan": 7,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-I",
+                "jenis": "huruf",
+                "nomor": "i",
+                "teks_isi": "keterampilan/kejuruan; dan",
+                "urutan": 8,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-2-huruf-J",
+                "jenis": "huruf",
+                "nomor": "j",
+                "teks_isi": "muatan lokal.",
+                "urutan": 9,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-40-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Kurikulum pendidikan tinggi wajib memuat: a. pendidikan agama; b. pendidikan kewarganegaraan; dan c. bahasa.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-40-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan agama;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan kewarganegaraan; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-3-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "bahasa.",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-40-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Muatan sebagaimana dimaksud pada ayat (21 dan ayat (3) dapat dituangkan secara terpisah atau terintegrasi dalam bentuk: a. mata pelajaran lmata kuliah; b. modul; c. blok; atau d. tematik. Umum",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-40-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "mata pelajaran lmata kuliah;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "modul;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "blok; atau",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-40-4-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "tematik. Umum",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-IV"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-41",
+        "nomor_pasal": "41",
+        "teks_isi": "Evaluasi meliputi: a. evaluasi hasil belajar Peserta Didik; dan b. evaluasi sistem Pendidikan. Evaluasi Hasil Belajar Peserta Didik",
+        "status": "Aktif",
+        "urutan": 41,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-57-2021-41-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "evaluasi hasil belajar Peserta Didik; dan",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-41-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "evaluasi sistem Pendidikan. Evaluasi Hasil Belajar Peserta Didik",
+            "urutan": 2,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KESATU"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-42",
+        "nomor_pasal": "42",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 42,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-42-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi hasil belajar Peserta Didik sebagaimana dimaksud dalam Pasal 4l huruf a dilakukan oleh pendidik.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-42-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi . SK No 102523 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-42-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi hasil belajar Peserta Didik sebagaimana dimaksud pada ayat (1) dilakukan untuk: a. memantau proses, kemajuan, dan perbaikan hasil belajar Peserta Didik secara berkesinambungan; dan b. menilai pencapaian hasil belajar Peserta Didik.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-42-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "memantau proses, kemajuan, dan perbaikan hasil belajar Peserta Didik secara berkesinambungan; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-42-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "menilai pencapaian hasil belajar Peserta Didik.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-42-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Evaluasi hasil belajar Peserta Didik sebagaimana dimaksud pada ayat (1) mengacu pada: a. standar penilaian Pendidikan; dan b. standar kompetensi lulusan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-42-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "standar penilaian Pendidikan; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-42-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "standar kompetensi lulusan.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-42-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Evaluasi hasil belajar Peserta Didik sebagaimana dimaksud pada ayat (1) dilakukan terhadap Peserta Didik pendidikan anak usia dini, pendidikan dasar, pendidikan menengah, dan pendidikan tinggi. Evaluasi Sistem Pendidikan Paragraf Umum",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KEDUA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-43",
+        "nomor_pasal": "43",
+        "teks_isi": "Evaluasi sistem Pendidikan sebagaimana dimaksud dalam Pasal 41 huruf b dilakukan oleh: a. Pemerintah Pusat; b. Pemerintah Daerah; dan c. lembaga mandiri. Evaluasi Sistem Pendidikan oleh Pemerintah Pusat",
+        "status": "Aktif",
+        "urutan": 43,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-57-2021-43-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "Pemerintah Pusat;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-43-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "Pemerintah Daerah; dan",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-43-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "lembaga mandiri. Evaluasi Sistem Pendidikan oleh Pemerintah Pusat",
+            "urutan": 3,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-44",
+        "nomor_pasal": "44",
+        "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 43 huruf a dilaksanakan terhadap: a. pendidikan anak usia dini; b. pendidikan. . . SK No 102524 A -25b. pendidikan dasar dan menengah; dan c. pendidikan tinggi.",
+        "status": "Aktif",
+        "urutan": 44,
+        "ayat": [],
+        "sub_items": [
+          {
+            "id": "SUB-REG-PP-57-2021-44-huruf-A",
+            "jenis": "huruf",
+            "nomor": "a",
+            "teks_isi": "pendidikan anak usia dini;",
+            "urutan": 1,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-44-huruf-B",
+            "jenis": "huruf",
+            "nomor": "b",
+            "teks_isi": "pendidikan. . . SK No 102524 A -25b. pendidikan dasar dan menengah; dan",
+            "urutan": 2,
+            "children": []
+          },
+          {
+            "id": "SUB-REG-PP-57-2021-44-huruf-C",
+            "jenis": "huruf",
+            "nomor": "c",
+            "teks_isi": "pendidikan tinggi.",
+            "urutan": 3,
+            "children": []
+          }
+        ],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-2"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-45",
+        "nomor_pasal": "45",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 45,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-45-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Pusat terhadap pendidikan anak usia dini sebagaimana dimaksud dalam Pasal 44 huruf a merupakan evaluasi yang dilakukan oleh Menteri terhadap layanan pendidikan anak usia dini yang diselenggarakan oleh kementerian yang menyelenggarakan urusan pemerintahan di bidang agama, pemerintah kabupatenf kota, dan masyarakat.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-45-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan paling sedikit berdasarkan: a. tingkat capaian perkembangan anak; b. tingkat pemerataan akses dan kualitas layanan pendidikan anak usia dini; c. kualitas proses pembelajaran di Satuan Pendidikan anak usia dini; d. kualitas pengelolaan Satuan Pendidikan anak usia dini; dan e. jumlah, distribusi, dan kompetensi pendidik dan tenaga kependidikan pada pendidikan anak usia dini.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-45-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "tingkat capaian perkembangan anak;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "tingkat pemerataan akses dan kualitas layanan pendidikan anak usia dini;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kualitas proses pembelajaran di Satuan Pendidikan anak usia dini;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "kualitas pengelolaan Satuan Pendidikan anak usia dini; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-2-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "jumlah, distribusi, dan kompetensi pendidik dan tenaga kependidikan pada pendidikan anak usia dini.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-45-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Hasil evaluasi sebagaimana dimaksud pada ayat (1) menjadi dasar bagi Menteri untuk menetapkan: a. profil Pendidikan daerah; dan b. profil Pendidikan nasional. (a) Profil Pendidikan sebagaimana dimaksud pada ayat 1S1 merupakan laporan komprehensif tentang layanan pendidikan anak usia dini yang digunakan sebagai landasan: a. peningkatan mutu layanan pendidikan anak usia dini; dan b. penetapan SK No 102525 A -26b. penetapan rapor Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-45-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "profil Pendidikan daerah; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "profil Pendidikan nasional. (a) Profil Pendidikan sebagaimana dimaksud pada ayat 1S1 merupakan laporan komprehensif tentang layanan pendidikan anak usia dini yang digunakan sebagai landasan:",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "peningkatan mutu layanan pendidikan anak usia dini; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-45-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penetapan SK No 102525 A -26b. penetapan rapor Pendidikan.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-45-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan lebih lanjut mengenai evaluasi sistem Pendidikan oleh Pemerintah Pusat terhadap pendidikan anak usia dini diatur dalam Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-2"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-46",
+        "nomor_pasal": "46",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 46,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-46-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Pusat terhadap pendidikan dasar dan menengah sebagaimana dimaksud dalam Pasal 44 huruf b merupakan evaluasi yang dilakukan oleh Menteri terhadap layanan pendidikan dasar dan pendidikan menengah yang diselenggarakan oleh: a. Satuan Pendidikan; b. program pendidikan kesetaraan; c. kementerian yang menyelenggarakan pendidikan dasar dan menengah; dan d. Pemerintah Daerah.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "Satuan Pendidikan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "program pendidikan kesetaraan;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kementerian yang menyelenggarakan pendidikan dasar dan menengah; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "Pemerintah Daerah.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan paling sedikit berdasarkan: a. efektivitas Satuan Pendidikan dalam mengembangkan kompetensi Peserta Didik; b. tingkat pemerataan akses dan kualitas layanan pendidikan; c. kualitas dan relevansi proses pembelajaran; d. kualitas pengelolaan Satuan Pendidikan; dan e. jumlah, distribusi, dan kompetensi pendidik dan tenaga kependidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-2-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "efektivitas Satuan Pendidikan dalam mengembangkan kompetensi Peserta Didik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-2-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "tingkat pemerataan akses dan kualitas layanan pendidikan;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-2-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kualitas dan relevansi proses pembelajaran;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-2-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "kualitas pengelolaan Satuan Pendidikan; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-2-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "jumlah, distribusi, dan kompetensi pendidik dan tenaga kependidikan.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan dalam bentuk: a. asesmen nasional; dan b. analisis data Satuan Pendidikan, pendidik, tenaga kependidikan, dan Pemerintah Daerah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "asesmen nasional; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "analisis data Satuan Pendidikan, pendidik, tenaga kependidikan, dan Pemerintah Daerah.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Asesmen SK No 102526 A",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Asesmen nasional sebagaimana dimaksud pada ayat (3) huruf a mengukur: a. kompetensi Peserta Didik; b. kualitas pembelajaran; c. kualitas pengelolaan Satuan Pendidikan; dan d. faktor-faktor yang mempengaruhi kualitas pembelajaran dan kualitas pengelolaan Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-4-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "kompetensi Peserta Didik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-4-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "kualitas pembelajaran;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-4-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "kualitas pengelolaan Satuan Pendidikan; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-4-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "faktor-faktor yang mempengaruhi kualitas pembelajaran dan kualitas pengelolaan Satuan Pendidikan.",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Asesmen nasional sebagaimana dimaksud pada ayat (4) dilaksanakan pada: a. Satuan Pendidikan Jenjang Pendidikan dasar dan menengah pada jalur formal; dan b. program pendidikan kesetaraan Jenjang Pendidikan dasar dan menengah pada jalur nonformal.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-5-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "Satuan Pendidikan Jenjang Pendidikan dasar dan menengah pada jalur formal; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-5-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "program pendidikan kesetaraan Jenjang Pendidikan dasar dan menengah pada jalur nonformal.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Hasil dari evaluasi sebagaimana dimaksud pada ayat (1) menjadi dasar bagi Menteri untuk menetapkan: a. profil Satuan Pendidikan; b. profil program pendidikan kesetaraan; c. profil Pendidikan daerah; dan d. profil Pendidikan nasional. :",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-6-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "profil Satuan Pendidikan;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-6-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "profil program pendidikan kesetaraan;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-6-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "profil Pendidikan daerah; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-6-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "profil Pendidikan nasional. :",
+                "urutan": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-7",
+            "nomor_ayat": "7",
+            "teks_isi": "Profil Pendidikan sebagaimana dimaksud pada ayat (6) merupakan laporan komprehensif tentang layanan pendidikan dasar dan menengah yang digunakan sebagai landasan: a. peningkatan mutu layanan pendidikan dasar dan menengah; dan b. penetapan rapor Pendidikan.",
+            "status": "Aktif",
+            "urutan": 8,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-46-7-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "peningkatan mutu layanan pendidikan dasar dan menengah; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-46-7-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "penetapan rapor Pendidikan.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-46-8",
+            "nomor_ayat": "8",
+            "teks_isi": "Ketentuan lebih lanjut mengenai evaluasi sistem Pendidikan oleh Pemerintah Pusat terhadap pendidikan dasar dan menengah diatur dalam Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 9,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-2"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-47",
+        "nomor_pasal": "47",
+        "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Pusat terhadap pendidikan tinggi sebagaimana dimaksud dalam Pasal 44 huruf c dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. I Evaluasi Sistem Pendidikan oleh Pemerintah Daerah",
+        "status": "Aktif",
+        "urutan": 47,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-2"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-48",
+        "nomor_pasal": "48",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 48,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-48-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 43 huruf b merupakan evaluasi terhadap kinerja Satuan Pendidikan dan program Pendidikan sesuai dengan kewenangannya.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-48-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan profil Pendidikan daerah sebagaimana dimaksud dalam Pasal 45 ayat (3) huruf a dan Pasal46 ayat (6) huruf c.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-48-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan terhadap: a. pendidikan anak usia dini; dan b. pendidikan dasar dan menengah.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-48-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "pendidikan anak usia dini; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-48-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pendidikan dasar dan menengah.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-48-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh Pemerintah Daerah sebagaimana dimaksud pada ayat (1) bertujuan untuk perluasan akses dan peningkatan mutu layanan Pendidikan daerah sesuai kebutuhan Satuan Pendidikan dan program Pendidikan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-48-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Ketentuan lebih lanjut mengenai evaluasi sistem Pendidikan oleh Pemerintah Daerah diatur dalam Peraturan Menteri. Paragraf4... SK No 102528 A _29_ Evaluasi Sistem Pendidikan oleh Lembaga Mandiri",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-3"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-49",
+        "nomor_pasal": "49",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 49,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-49-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Evaluasi sistem Pendidikan oleh lembaga mandiri sebagaimana dimaksud dalam Pasal 43 huruf c merupakan evaluasi terhadap penyelenggaraan Pendidikan secara keseluruhan dalam mencapai Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-49-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan data mengenai Peserta Didik, Satuan Pendidikan, dan program Pendidikan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-49-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Data sebagaimana dimaksud pada ayat (21 diperoleh paling sedikit dari profil Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-49-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Evaluasi sebagaimana dimaksud pada ayat ,(1) dilakukan secara berkala, menyeluiuh, transparan, dan sistemik.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-49-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Hasil evaluasi sebagaimana dimaksud pada ayat (1) paling sedikit mencakup: a. identifikasi akar permasalahan sistem Pendidikan; dan b. rekomendasi perbaikan sistem Pendidikan.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-49-5-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identifikasi akar permasalahan sistem Pendidikan; dan",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-49-5-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "rekomendasi perbaikan sistem Pendidikan.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-49-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan lebih lanjut mengenai evaluasi sistem Pendidikan oleh lembaga mandiri diatur dalam Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-V",
+        "parent_bagian_id": "BAGIAN-REG-PP-57-2021-V-KETIGA",
+        "parent_paragraf_id": "PARAGRAF-REG-PP-57-2021-V-KETIGA-4"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-50",
+        "nomor_pasal": "50",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 50,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-50-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi dilakukan untuk menentukan kelayakan satuan dan/atau program Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-50-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Akreditasi . SK No 102529 A",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-50-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Akreditasi sebagaimana dimaksud pada ayat (1) menggunakan instrumen dan kriteria yang mengacu kepada Standar Nasional Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-50-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Akreditasi sebagaimana dimaksud pada ayat (1) dilakukan sebagai bentuk akuntabilitas publik oleh: a. Pemerintah Pusat; dan/atau b. lembaga mandiri.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-50-3-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "Pemerintah Pusat; dan/atau",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-50-3-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "lembaga mandiri.",
+                "urutan": 2,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VI"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-51",
+        "nomor_pasal": "51",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 51,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-51-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi oleh Pemerintah Pusat sebagaimana dimaksud dalam Pasal 50 ayat (3) huruf a dilakukan terhadap: a. Satuan Pendidikan anak usia dini; b. Satuan Pendidikan pada Jenjang Pendidikan dasar dan menengah; c. program pendidikan kesetaraan; d. Satuan Pendidikan pada Jenjang Pendidikan tinggi; dan e. program Pendidikan pada Jenjang Pendidikan tinggi.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-51-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "Satuan Pendidikan anak usia dini;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-51-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "Satuan Pendidikan pada Jenjang Pendidikan dasar dan menengah;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-51-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "program pendidikan kesetaraan;",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-51-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "Satuan Pendidikan pada Jenjang Pendidikan tinggi; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-51-1-huruf-E",
+                "jenis": "huruf",
+                "nomor": "e",
+                "teks_isi": "program Pendidikan pada Jenjang Pendidikan tinggi.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-51-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Hasil dari akreditasi oleh Pemerintah Pusat menjadi dasar untuk penetapan status akreditasi.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-51-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Akreditasi oleh Pemerintah Pusat sebagaimana dimaksud pada ayat (1) dilaksanakan oleh suatu badan yang menyelenggarakan tugas dan fungsi akreditasi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-51-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Badan sebagaimana dimaksud pada ayat (3) berada di bawah dan bertanggung jawab kepada Menteri.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-51-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Dalam hal program Pendidikan pada Jenjang Pendidikan tinggi telah dilakukan akreditasi oleh lembaga mandiri sebagaimana dimaksud dalam Pasal 50 ayat (3) huruf b, maka Pemerintah Pusat tidak melakukan akreditasi sebagaimana dimaksud pada ayat (1) huruf e.",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-51-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan SK No 102530 A",
+            "status": "Aktif",
+            "urutan": 6,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-51-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Ketentuan lebih lanjut mengenai akreditasi oleh Pemerintah Pusat diatur dengan Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 7,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VI"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-52",
+        "nomor_pasal": "52",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 52,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-52-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Akreditasi oleh lembaga mandiri sebagaimana dimaksud dalam Pasal 50 ayat (3) huruf b dapat dilakukan terhadap: a. Satuan Pendidikan anak usia dinii b. Satuan Pendidikan pada Jenjang Pendidikan d ar dan menengah; c. program pendidikan kesetaraan; dan d. program Pendidikan pada Jenjang Pendidikan tinggi. (21 Lembaga mandiri sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan paling sedikit: a. berbadan hukum Indonesia yang bersifat nirlaba; dan b. memiliki pakar yang berpengalaman di bidang evaluasi Pendidikan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-52-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "Satuan Pendidikan anak usia dinii",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-52-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "Satuan Pendidikan pada Jenjang Pendidikan d ar dan menengah;",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-52-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "program pendidikan kesetaraan; dan",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-52-1-huruf-D",
+                "jenis": "huruf",
+                "nomor": "d",
+                "teks_isi": "program Pendidikan pada Jenjang Pendidikan tinggi. (21 Lembaga mandiri sebagaimana dimaksud pada ayat (1) harus memenuhi persyaratan paling sedikit:",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-52-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "berbadan hukum Indonesia yang bersifat nirlaba; dan",
+                "urutan": 5,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-52-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "memiliki pakar yang berpengalaman di bidang evaluasi Pendidikan.",
+                "urutan": 6,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-52-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Lembaga mandiri yang berwenang menyelenggarakan tugas dan fungsi akreditasi ditetapkan oleh Menteri.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-52-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Ketentuan lebih lanjut mengenai kriteria dan tata kelola lembaga mandiri diatur dengan Peraturan Menteri.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VI"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-53",
+        "nomor_pasal": "53",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 53,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-53-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Pencapaian kompetensi akhir Peserta Didik dinyatakan dalam dokumen ijaza}l dan/atau sertifikat kompetensi. (21ljazah SK No 102531 A",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-53-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Ijazah sebagaimana dimaksud pada ayat",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-53-1",
+            "nomor_ayat": "1",
+            "teks_isi": "diterbitkan oleh Satuan Pendidikan pada Jenjang Pendidikan dasar, menengah, dan tinggi, sebagai pengakuan bahwa Peserta Didik yang bersangkutan telah lulus dari Satuan Pendidikan. l3l ljazah Jenjang Pendidikan dasar dan menengah sebagaimana dimaksud pada ayat (2) paling sedikit memuat: a. identitas Peserta Didik; b. pernyataan bahwa Peserta Didik yang bersangkutan telah lulus dari penilaian akhir Satuan Pendidikan beserta daftar nilai mata pelajaran yang ditempuhnya; dan c. pernyataan bahwa Peserta Didik yang bersangkutan telah memenuhi seluruh kriteria dan dinyatakan lulus dari Satuan Pendidikan. $) ljazah Jenjang Pendidikan tinggi sebagaimana dimaksud pada ayat (21paling sedikit memuat: a. identitas Peserta Didik; dan b. pernyataan bahwa Peserta Didik yang bersangkutan telah memenuhi seluruh kriteria dan dinyatakan lulus dari Satuan Pendidikan.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-53-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas Peserta Didik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-53-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan telah lulus dari penilaian akhir Satuan Pendidikan beserta daftar nilai mata pelajaran yang ditempuhnya; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-53-1-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan telah memenuhi seluruh kriteria dan dinyatakan lulus dari Satuan Pendidikan. $) ljazah Jenjang Pendidikan tinggi sebagaimana dimaksud pada ayat (21paling sedikit memuat:",
+                "urutan": 3,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-53-1-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas Peserta Didik; dan",
+                "urutan": 4,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-53-1-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan telah memenuhi seluruh kriteria dan dinyatakan lulus dari Satuan Pendidikan.",
+                "urutan": 5,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-53-5",
+            "nomor_ayat": "5",
+            "teks_isi": "Sertifikat kompetensi sebagaimana dimaksud pada ayat (1) diterbitkan oleh Satuan Pendidikan yang terakreditasi atau lembaga sertifikasi mandiri yang dibentuk oleh organisasi profesi yang diakui Pemerintah sebagai pengakuan bahwa Peserta Didik yang bersangkutan telah lulus uji kompetensi.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-53-6",
+            "nomor_ayat": "6",
+            "teks_isi": "Sertifikat kompetensi sebagaimana dimaksud pada ayat (5) paling sedikit memuat: a. identitas Peserta Didik; b. pernyataan bahwa Peserta Didik yang bersangkutan telah lulus uji kompetensi; dan c. daftar semua mata pelajaran atau mata kuliah keahlian yang telah ditempuh uji kompetensinya oleh Peserta Didik, beserta nilai akhirnya. SK No 102532 A",
+            "status": "Aktif",
+            "urutan": 5,
+            "sub_items": [
+              {
+                "id": "SUB-REG-PP-57-2021-53-6-huruf-A",
+                "jenis": "huruf",
+                "nomor": "a",
+                "teks_isi": "identitas Peserta Didik;",
+                "urutan": 1,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-53-6-huruf-B",
+                "jenis": "huruf",
+                "nomor": "b",
+                "teks_isi": "pernyataan bahwa Peserta Didik yang bersangkutan telah lulus uji kompetensi; dan",
+                "urutan": 2,
+                "children": []
+              },
+              {
+                "id": "SUB-REG-PP-57-2021-53-6-huruf-C",
+                "jenis": "huruf",
+                "nomor": "c",
+                "teks_isi": "daftar semua mata pelajaran atau mata kuliah keahlian yang telah ditempuh uji kompetensinya oleh Peserta Didik, beserta nilai akhirnya. SK No 102532 A",
+                "urutan": 3,
+                "children": []
+              }
+            ]
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VII"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-54",
+        "nomor_pasal": "54",
+        "teks_isi": "",
+        "status": "Aktif",
+        "urutan": 54,
+        "ayat": [
+          {
+            "id": "AYT-REG-PP-57-2021-54-1",
+            "nomor_ayat": "1",
+            "teks_isi": "Peserta Didik pendidikan informal dapat memperoleh ijazah sebagaimana dimaksud dalam Pasal 53 ayat (1) yang setara dengan ijazah dari pendidikan dasar dan menengah jalur formal setelah lulus uji kesetaraan.",
+            "status": "Aktif",
+            "urutan": 1,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-54-2",
+            "nomor_ayat": "2",
+            "teks_isi": "Uji kesetaraan sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Satuan Pendidikan yang terakreditasi sesuai dengan ketentuan peraturan perundang-undangan.",
+            "status": "Aktif",
+            "urutan": 2,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-54-3",
+            "nomor_ayat": "3",
+            "teks_isi": "Peserta Didik pendidikan informal dapat memperoleh sertifikat kompetensi sebagaimana dimaksud dalam Pasal 53 ayat (1) yang setara dengan sertifikat kompetensi dari pendidikan formal setelah lulus uji kompetensi.",
+            "status": "Aktif",
+            "urutan": 3,
+            "sub_items": []
+          },
+          {
+            "id": "AYT-REG-PP-57-2021-54-4",
+            "nomor_ayat": "4",
+            "teks_isi": "Uji kompetensi sebagaimana dimaksud pada ayat (3) diselenggarakan oleh Satuan Pendidikan yang terakreditasi atau lembaga sertifikasi mandiri/profesi sesuai dengan ketentuan peraturan perundangundangan.",
+            "status": "Aktif",
+            "urutan": 4,
+            "sub_items": []
+          }
+        ],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VII"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-55",
+        "nomor_pasal": "55",
+        "teks_isi": "Pada saat Peraturan Pemerintah ini mulai berlaku, ketentuan mengenai ujian akhir sekolah berstandar nasional sebagaimana diatur dalam Pasal 74 ayat (4) dan ujian nasional sebagaimana diatur dalam Pasal 82 ayat(4), Pasal 123 ayat (1) huruf b, dan Pasal 161 ayat (3) huruf c Peraturan Pemerintah Nomor 17 Tahun 2010 tentang Pengelolaan dan Penyelenggaraan Pendidikan (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 23, Tambahan Lembaran Negara Republik Indonesia Nomor 5105) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 66 Tahun 2010 tentang Perubahan atas Peraturan Pemerintah Nomor 17 Tahun 2010 tentang Pengelolaan dan Penyelenggaraan Pendidikan (Lembaran Negara Republik Indonesia Tahun 2010 Nomor Il2, Tambahan Lembaran Negara Republik Indonesia Nomor 5157), dicabut dan dinyatakan tidak berlaku. . SK No 102533 A",
+        "status": "Aktif",
+        "urutan": 55,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VIII"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-56",
+        "nomor_pasal": "56",
+        "teks_isi": "Pada saat Peraturan Pemerintah ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 4I, Tambahan Lembaran Negara Republik Indonesia Nomor 44961 sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 45, Tambahan Lembaran Negara Republik Indonesia Nomor 5670), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan Peraturan Pemerintah ini.",
+        "status": "Aktif",
+        "urutan": 56,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VIII"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-57",
+        "nomor_pasal": "57",
+        "teks_isi": "Pada saat Peraturan Pemerintah ini mulai berlaku, Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 44961 sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 45, Tambahan Lembaran Negara Republik Indonesia Nomor 5670lr, dicabut dan dinyatakan tidak berlaku.",
+        "status": "Aktif",
+        "urutan": 57,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VIII"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-58",
+        "nomor_pasal": "58",
+        "teks_isi": "Peraturan pelaksanaan dari Peraturan Pemerintah ini harus ditetapkan paling lama 2 (dua) tahun sejak Peraturan Pemerintah ini diundangkan.",
+        "status": "Aktif",
+        "urutan": 58,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VIII"
+      },
+      {
+        "id": "PSL-REG-PP-57-2021-59",
+        "nomor_pasal": "59",
+        "teks_isi": "Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan Agar SK No 102534 A -35Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 30 Maret ttd Diundangkan di Jakarta pada tanggal 31 Maret 2021 ttd. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2O2T NOMOR 87 Salinan sesuai dengan aslinya Perundang-undangan dan Hukum, Djaman SK No l0l0l0A",
+        "status": "Aktif",
+        "urutan": 59,
+        "ayat": [],
+        "sub_items": [],
+        "parent_bab_id": "BAB-REG-PP-57-2021-VIII"
+      }
+    ]
+  },
+  "explanation": {
+    "available": true,
+    "source_file": "",
+    "umum": "Pendidikan nasional berfungsi untuk mencerdaskan kehidupan bangsa melalui pengembangan potensi setiap warga negara tanpa kecuali. Pendidikan nasional yang bermutu merupakan fondasi pembangunan sumber daya manusia yang unggul dan mampu secara proaktif menjawab tantangan zaman yang terus berubah. Untuk mewujudkan sistem Pendidikan nasional yang bermutu, diperlukan Standar Nasional Pendidikan yang menjadi pedoman dasar bagi penyelenggaraan Pendidikan. Standar Nasional Pendidikan meliputi kriteria minimal tentang berbagai aspek Pendidikan yang harus dipenuhi oleh penyelenggara dan Satuan Pendidikan. Sebagai pedoman dasar, Standar Nasional Pendidikan perlu secara berkala ditinjau kesesuaiannya dengan perkembangan ilmu pengetahuan, teknologi, serta tantangan zarnan yang berubah, melalui penyempurnaan substansi pengaturan. Penyempurnaan tersebut dimaksudkan agar Standar Nasional Pendidikan tetap mutakhir dan relevan, sehingga dapat mendukung akselerasi peningkatan mutu sistem Pendidikan dan pembangunan sumber daya manusia Indonesia. Beberapa hal yang menjadi pokok penyempurnaan pengaturan dilakukan terhadap susunan Standar Nasional Pendidikan, kurikulum, evaluasi hasil belajar Peserta Didik, dan evaluasi sistem Pendidikan oleh Pemerintah Pusat, Pemerintah Daerah, dan lembaga mandiri. Penyempurnaan. . . SK No 102536 A -2Penyempurnaan pengaturan mengenai susunan Standar Nasional Pendidikan menempatkan standar kompetensi lulusan sebagai standar yang pertama. Hal ini dimaksudkan untuk menandakan pergeseran orientasi dari Pendidikan yang berbasis isi, menjadi Pendidikan yang berbasis kompetensi. Pengembangan kompetensi Peserta Didik menjadi tujuan utama yang perlu didukung melalui pemenuhan komponen-komponen lain dari Standar Nasional Pendidikan. Makna kompetensi juga dirumuskan ulang untuk menegaskan sifat terintegrasi dari ranah sikap, pengetahuan, dan keterampilan. Penyempurnaan pengaturan mengenai kurikulum dilakukan untuk menjadi landasan bagi upaya penyederhanaan kurikulum nasional yang lebih berorientasi pada pengembangan kompetensi. Kerangka dasar dan struktur kurikulum di tingkat nasional dibuat menjadi lebih sederhana. Satuan Pendidikan kembali diberi kewenangan penuh untuk mengembangkan kurikulum tingkat Satuan Pendidikan untuk mengakomodasi keragaman kondisi dan kebutuhan. Penyempurnaan pengaturan mengenai evaluasi memisahkan secara lebih tegas antara evaluasi terhadap hasil belajar peserta didik dan evaluasi terhadap sistem Pendidikan. Sejalan dengan Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional dan prinsip pedagogi, evaluasi terhadap hasil belajar Peserta Didik merupakan kewenangan dan tugas pendidik. Peran Pemerintah Pusat dan Pemerintah Daerah adalah melakukan evaluasi terhadap sistem Pendidikan untuk memantau kemajuan dan kesenjangan di dalam sistem, serta melaporkan hasil evaluasi tersebut sebagai bentuk akuntabilitas publik. Dalam hal ini, Pemerintah Pusat dan Pemerintah Daerah juga dibantu oleh lembaga mandiri untuk melakukan telaah kritis dan objektif. Penyempurnaan . SK No 102537 A -3Penyempurnaan pengaturan mengenai evaluasi sistem Pendidikan oleh Pemerintah Pusat, Pemerintah Daerah, dan lembaga mandiri akan memotret mutu secara lebih komprehensif, meliputi efektivitas Satuan Pendidikan dalam memfasilitasi pembelajararl, pemerataan akses dan kualitas layanan pendidikan, kualitas proses pembelajaran dan pengelolaan Satuan Pendidikan, serta jumlah, distribusi, dan kompetensi pendidik dan tenaga kependidikan. Potret yang komprehensif ini dirancang agar dapat dimanfaatkan oleh kepala Satuan Pendidikan dan Pemerintah Daerah untuk melakukan evaluasi diri dan perencanaan program serta anggaran yang pembelajaran. berorientasi pada peningkatan mutu t Berdasarkan pertimbangan tersebut, Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan sebagaimana telah beberapa kali diubah, terakhir dengan Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan perlu dilakukan penyempurnaan melalui penggantian. Penggantian dimaksud dilakukan melalui penyusunan Peraturan Pemerintah tentang Standar Nasional Pendidikan.",
+    "pasal_demi_pasal": [
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-1",
+        "nomor_pasal": "1",
+        "target_pasal_id": "PSL-REG-PP-57-2021-1",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-2",
+        "nomor_pasal": "2",
+        "target_pasal_id": "PSL-REG-PP-57-2021-2",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (21 Huruf a Pendidikan anak usia dini formal berbentuk Taman Kanak-kanak (TK), Raudhatul Athfal (RA), atau bentuk lain yang sederajat Huruf b Cukup jelas. Huruf c. . . SK No 102552 A -4Huruf c Cukup jelas. Huruf d Cukup jelas. Ayat (3) Huruf a Pendidikan anak usia dini nonformal berbentuk Kelompok Bermain (KB), Taman Penitipan Anak (TPA), atau bentuk lain yang sederajat. Huruf b Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-3",
+        "nomor_pasal": "3",
+        "target_pasal_id": "PSL-REG-PP-57-2021-3",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-4",
+        "nomor_pasal": "4",
+        "target_pasal_id": "PSL-REG-PP-57-2021-4",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Ketercapaian standar kompetensi lulusan ditentukan oleh pendidik. Ayat (6) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-5",
+        "nomor_pasal": "5",
+        "target_pasal_id": "PSL-REG-PP-57-2021-5",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-6",
+        "nomor_pasal": "6",
+        "target_pasal_id": "PSL-REG-PP-57-2021-6",
+        "teks_isi": "Cukup jelas. SK No 102539 A REPLIBLIK INDONESIA"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-7",
+        "nomor_pasal": "7",
+        "target_pasal_id": "PSL-REG-PP-57-2021-7",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-8",
+        "nomor_pasal": "8",
+        "target_pasal_id": "PSL-REG-PP-57-2021-8",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-9",
+        "nomor_pasal": "9",
+        "target_pasal_id": "PSL-REG-PP-57-2021-9",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-10",
+        "nomor_pasal": "10",
+        "target_pasal_id": "PSL-REG-PP-57-2021-10",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-11",
+        "nomor_pasal": "11",
+        "target_pasal_id": "PSL-REG-PP-57-2021-11",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-12",
+        "nomor_pasal": "12",
+        "target_pasal_id": "PSL-REG-PP-57-2021-12",
+        "teks_isi": "Ayat (1) Huruf a Yang dimaksud dengan \"suasana belajar yang interaktif' adalah suasana belajar yang dirancang untuk memfasilitasi interaksi yang sistematis dan produktif antara pendidik dengan Peserta Didik, antar Peserta Didik, dan antara Peserta Didik dengan materi belajdr. Huruf b Yang dimaksud dengan \"suasana belajaryang inspiratif' adalah suasana belajar yang dirancang untuk memberi keteladanan dan menjadi sumber inspirasi positif bagi Peserta Didik. Huruf c Yang dimaksud dengan \"suasana belajar yang menyenangkan\" adalah suasana belajar yang dirancang agar Peserta Didik mengalami proses belajar sebagai pengalaman yang menimbulkan emosi positif. Huruf d SK No 102540 A REPTJBLIK INDONESIA -6Huruf d Yang dimaksud dengan \"suasana belajar yang menantang\" adalah suasana belajar yang dirancang untuk mendorong Peserta Didik terus meningkatkan kompetensinya melalui tugas dan aktivitas dengan tingkat kesulitan yang tepat. Huruf e Cukup jelas. Huruf f Cukup jelas. Ayat (2) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-13",
+        "nomor_pasal": "13",
+        "target_pasal_id": "PSL-REG-PP-57-2021-13",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-14",
+        "nomor_pasal": "14",
+        "target_pasal_id": "PSL-REG-PP-57-2021-14",
+        "teks_isi": "Ayat (1) Penilaian proses pembelajaran dapat dilaksanakan oleh sesama pendidik, kepala Satuan Pendidikan, dan/atau Peserta Didik sepanjang tersedia sumber daya pada Satuan Pendidikan yang bersangkutan. Ayat (2) Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-15",
+        "nomor_pasal": "15",
+        "target_pasal_id": "PSL-REG-PP-57-2021-15",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-16",
+        "nomor_pasal": "16",
+        "target_pasal_id": "PSL-REG-PP-57-2021-16",
+        "teks_isi": "Cukup jelas. ..."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-17",
+        "nomor_pasal": "17",
+        "target_pasal_id": "PSL-REG-PP-57-2021-17",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-18",
+        "nomor_pasal": "18",
+        "target_pasal_id": "PSL-REG-PP-57-2021-18",
+        "teks_isi": "Ayat (1) Penilaian \"hasil belajar Peserta Didik sebagai dasar penentuan kenaikan kelas\" mencakup semua aktivitas penilaian yang akan dimasukkan ke dalam rapor Peserta Didik dan menentukan kenaikan kelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) ' Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-19",
+        "nomor_pasal": "19",
+        "target_pasal_id": "PSL-REG-PP-57-2021-19",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-20",
+        "nomor_pasal": "20",
+        "target_pasal_id": "PSL-REG-PP-57-2021-20",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (21 Kompetensi pendidik dibuktikan dengan kepemilikan sertifikat pendidik. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. SK No 102542A"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-21",
+        "nomor_pasal": "21",
+        "target_pasal_id": "PSL-REG-PP-57-2021-21",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-22",
+        "nomor_pasal": "22",
+        "target_pasal_id": "PSL-REG-PP-57-2021-22",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-23",
+        "nomor_pasal": "23",
+        "target_pasal_id": "PSL-REG-PP-57-2021-23",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-24",
+        "nomor_pasal": "24",
+        "target_pasal_id": "PSL-REG-PP-57-2021-24",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-25",
+        "nomor_pasal": "25",
+        "target_pasal_id": "PSL-REG-PP-57-2021-25",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Yang dimaksud dengan \"tersedia\" adalah dimiliki oleh Satuan Pendidikan yang bersangkutan atau berbagi sumber daya dengan Satuan Pendidikan lain."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-26",
+        "nomor_pasal": "26",
+        "target_pasal_id": "PSL-REG-PP-57-2021-26",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-27",
+        "nomor_pasal": "27",
+        "target_pasal_id": "PSL-REG-PP-57-2021-27",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-28",
+        "nomor_pasal": "28",
+        "target_pasal_id": "PSL-REG-PP-57-2021-28",
+        "teks_isi": "Cukup jelas. SK No 102543 A PRESIOEN"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-29",
+        "nomor_pasal": "29",
+        "target_pasal_id": "PSL-REG-PP-57-2021-29",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-30",
+        "nomor_pasal": "30",
+        "target_pasal_id": "PSL-REG-PP-57-2021-30",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-31",
+        "nomor_pasal": "31",
+        "target_pasal_id": "PSL-REG-PP-57-2021-31",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-32",
+        "nomor_pasal": "32",
+        "target_pasal_id": "PSL-REG-PP-57-2021-32",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Huruf a Biaya personalia meliputi gaji pendidik dan tenaga kependidikan serta tunjangan yang melekat pada gaji. Huruf b Biaya nonpersonalia meliputi bahan atau peralatan pendidikan habis pakai, dan biaya tak langsung berupa daya, air, jasa telekomunikasi, pemeliharaan sarana dan prasaratla, uang lembur, transportasi, konsumsi, pajak, asuransi, dan lain sebagainya."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-33",
+        "nomor_pasal": "33",
+        "target_pasal_id": "PSL-REG-PP-57-2021-33",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-34",
+        "nomor_pasal": "34",
+        "target_pasal_id": "PSL-REG-PP-57-2021-34",
+        "teks_isi": "Ayat (1) Pemantauan dan pelaporan pencapaian Standar Nasional Pendidikan dilakukan dalam rangka penyempurnaan Standar Nasional Pendidikan. Ayat (2) SK No 102544 A -10Ayat (21 Cukup jelas. Ayat (3) Yang dimaksud dengan \"pakar\" adalah orang yang mempunyai keahlian dalam bidang ilmu tertentu yang memberikan pemikiran dan rekomendasi akademik secara mandiri sesuai bidang keahliannya. Ayat (4) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-35",
+        "nomor_pasal": "35",
+        "target_pasal_id": "PSL-REG-PP-57-2021-35",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-36",
+        "nomor_pasal": "36",
+        "target_pasal_id": "PSL-REG-PP-57-2021-36",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-37",
+        "nomor_pasal": "37",
+        "target_pasal_id": "PSL-REG-PP-57-2021-37",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-38",
+        "nomor_pasal": "38",
+        "target_pasal_id": "PSL-REG-PP-57-2021-38",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (21 Prinsip diversifikasi dalam pengembangan kurikulum dimaksudkan untuk memungkinkan penyesuaian program pendidikan pada Satuan Pendidikan dengan kondisi dan kekhasan potensi yang ada di daerah. Ayat (3) Contoh pengembangan kurikulum oleh kelompok Satuan Pendidikan antara lain dilakukan oleh: a. 2 (dua) atau lebih Satuan Pendidikan yang dimiliki (satu) yayasan atau badan hukum lainnya; atau b. kelompok pendidik dari 2 (dua) atau lebih Satuan Pendidikan yang berkolaborasi dalam perancangan kurikulum. ... Ayat(41 SK No 102545 A - 11Ayat (a) Cukup jelas. Ayat (5) Masyarakat termasuk dunia usaha, dunia industri, dan dunia kerja."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-39",
+        "nomor_pasal": "39",
+        "target_pasal_id": "PSL-REG-PP-57-2021-39",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-40",
+        "nomor_pasal": "40",
+        "target_pasal_id": "PSL-REG-PP-57-2021-40",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-41",
+        "nomor_pasal": "41",
+        "target_pasal_id": "PSL-REG-PP-57-2021-41",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-42",
+        "nomor_pasal": "42",
+        "target_pasal_id": "PSL-REG-PP-57-2021-42",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-43",
+        "nomor_pasal": "43",
+        "target_pasal_id": "PSL-REG-PP-57-2021-43",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-44",
+        "nomor_pasal": "44",
+        "target_pasal_id": "PSL-REG-PP-57-2021-44",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-45",
+        "nomor_pasal": "45",
+        "target_pasal_id": "PSL-REG-PP-57-2021-45",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-46",
+        "nomor_pasal": "46",
+        "target_pasal_id": "PSL-REG-PP-57-2021-46",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (2) Cukup jelas. Ayat (3) SK No 102546 A -t2Ayat (3) Cukup jelas. Ayat (a) Huruf a Yang dimaksud dengan \"kompetensi Peserta Didik\" antara lain kompetensi kognitif dan nonkognitif. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Faktor-faktor yang mempengaruhi kualitas pembelaj aran dan kualitas pengelolaan Satuan Pendidikan antara lain tingkat Pendidikan orang tua/wali Peserta Didik, fasilitas belajar di rumah, dan kualifikasi pendidik. Ayat (5) Cukup jelas. Ayat (6) Cukup jelas. Ayat (7) Cukup jelas. Ayat (8) Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-47",
+        "nomor_pasal": "47",
+        "target_pasal_id": "PSL-REG-PP-57-2021-47",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-48",
+        "nomor_pasal": "48",
+        "target_pasal_id": "PSL-REG-PP-57-2021-48",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-49",
+        "nomor_pasal": "49",
+        "target_pasal_id": "PSL-REG-PP-57-2021-49",
+        "teks_isi": "Cukup jeIas. . SK No 102547 A REPUBLIK INDONESIA."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-50",
+        "nomor_pasal": "50",
+        "target_pasal_id": "PSL-REG-PP-57-2021-50",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-51",
+        "nomor_pasal": "51",
+        "target_pasal_id": "PSL-REG-PP-57-2021-51",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-52",
+        "nomor_pasal": "52",
+        "target_pasal_id": "PSL-REG-PP-57-2021-52",
+        "teks_isi": "Cukup jelas"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-53",
+        "nomor_pasal": "53",
+        "target_pasal_id": "PSL-REG-PP-57-2021-53",
+        "teks_isi": "Ayat (1) Cukup jelas. Ayat (21 Cukup jelas. Ayat (3) Cukup jelas. Ayat (a) Cukup jelas. Ayat (5) Cukup jelas. Ayat (6) Huruf a Cukup jelas. Huruf b Yang dimaksud dengan \"lulus uji kompetensi\" adalah lulus uji kompetensi untuk semua mata pelajaran atau mata kuliah keahlian yang dipersyaratkan dengan nilai yang memenuhi syarat sesuai dengan ketentuan peraturan perundang-undangan. Huruf c Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-54",
+        "nomor_pasal": "54",
+        "target_pasal_id": "PSL-REG-PP-57-2021-54",
+        "teks_isi": "Cukup jelas. . SK No 102548 A"
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-55",
+        "nomor_pasal": "55",
+        "target_pasal_id": "PSL-REG-PP-57-2021-55",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-56",
+        "nomor_pasal": "56",
+        "target_pasal_id": "PSL-REG-PP-57-2021-56",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-57",
+        "nomor_pasal": "57",
+        "target_pasal_id": "PSL-REG-PP-57-2021-57",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-58",
+        "nomor_pasal": "58",
+        "target_pasal_id": "PSL-REG-PP-57-2021-58",
+        "teks_isi": "Cukup jelas."
+      },
+      {
+        "id": "PJL-REG-PP-57-2021-PASAL-59",
+        "nomor_pasal": "59",
+        "target_pasal_id": "PSL-REG-PP-57-2021-59",
+        "teks_isi": "Cukup jelas. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6676 SK No 102549 A"
+      }
+    ]
+  },
+  "attachments": [],
+  "closing": {
+    "teks_isi": "Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 30 Maret PRESIDEN REPUBLIK INDONESIA, ttd JOKO WIDODO Diundangkan di Jakarta pada tanggal 31 Maret 2021 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, ttd. YASONNA H. LAOLY LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2O2T NOMOR 87 Salinan sesuai dengan aslinya KEMENTERIAN SEKRETARIAT NEGARA Perundang-undangan dan Hukum, Djaman SK No l0l0l0A",
+    "tanggal_ditetapkan": "30 Maret 2021",
+    "tanggal_diundangkan": "31 Maret 2021",
+    "pejabat_penetapan": "PRESIDEN REPUBLIK INDONESIA JOKO WIDODO",
+    "pejabat_pengundangan": "MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA YASONNA H. LAOLY"
+  },
+  "parse_quality": {
+    "status": "PASS",
+    "scan_detected": false,
+    "total_pasal": 59,
+    "total_ayat": 152,
+    "total_bab": 8,
+    "total_bagian": 11,
+    "total_paragraf": 4,
+    "total_attachments": 0,
+    "has_preamble": true,
+    "has_explanation": true,
+    "warnings": []
+  }
+}

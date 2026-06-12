@@ -1,0 +1,2672 @@
+{
+  "schema_version": "2.0.0",
+  "regulasi_id": "REG-UU-1-PNPS-1965",
+  "extraction_metadata": {
+    "timestamp": "2026-05-23T02:13:19.225334+00:00",
+    "extractor": "extract_triplets_v2_explicit.py",
+    "methods": [
+      "llm",
+      "regex",
+      "structural"
+    ],
+    "processed_path": "data/processed_v2/REG-UU-1-PNPS-1965.json",
+    "chunks_path": "data/chunks_v2/chunks_REG-UU-1-PNPS-1965.jsonl",
+    "note": "Explicit triplets are rule-based and do not use an LLM."
+  },
+  "triplets": [
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_KONSIDERANS",
+      "target_id": "KONS-REG-UU-1-PNPS-1965-MENIMBANG-A",
+      "target_type": "Konsiderans",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa dalam rangka pengamanan Negara dan Masyarakat, cita-cita Revolusi Nasional dan pembangunan Nasional Semesta menuju ke masyarakat adil dan makmur, perlu mengadakan peraturan untuk mencegah penyalah-gunaan atau penodaan agama;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor": "a"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_KONSIDERANS",
+      "target_id": "KONS-REG-UU-1-PNPS-1965-MENIMBANG-B",
+      "target_type": "Konsiderans",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa untuk pengamanan revolusi dan ketentuan masyarakat, soal ini perlu diatur dengan Penetapan Presiden;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor": "b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-1",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "pasal 29 Undang-undang Dasar;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-2",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "pasal IV Aturan Peralihan Undang-undang Dasar;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-3",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "penetapan Presiden No. 2 tahun 1962 (Lembara-Negara tahun 1962 No. 34);",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "nomor": "3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DASAR_HUKUM",
+      "target_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-4",
+      "target_type": "Dasar_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "pasal 2 ayat (1) Ketetapan M.P.R.S. No. II/MPRS/1960;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "nomor": "4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DIKTUM",
+      "target_id": "DIKTUM-REG-UU-1-PNPS-1965-MEMUTUSKAN",
+      "target_type": "Diktum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "MEMUTUSKAN:",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "jenis": "memutuskan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_DIKTUM",
+      "target_id": "DIKTUM-REG-UU-1-PNPS-1965-MENETAPKAN",
+      "target_type": "Diktum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Penetapan Presiden Republik Indonesia tentang pencegahan penyalahgunaan dan/atau penodaan Agama.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "jenis": "menetapkan"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 1",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor_pasal": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 2",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor_pasal": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 3",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "nomor_pasal": "3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 4",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "nomor_pasal": "4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PASAL",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-5",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pasal 5",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 5,
+        "nomor_pasal": "5"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PENJELASAN",
+      "target_id": "PJL-REG-UU-1-PNPS-1965",
+      "target_type": "Penjelasan",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "PENJELASAN",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {},
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965",
+      "source_type": "Penjelasan",
+      "predicate": "MEMILIKI_PENJELASAN_UMUM",
+      "target_id": "PJL-REG-UU-1-PNPS-1965-UMUM",
+      "target_type": "Penjelasan_Umum",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "1. Dekrit Presiden tanggal 5 Juli 1959 yang menetapkan Undang-undang Dasar 1945 berlaku lagi bagi segenap bangsa Indonesia telah menyatakan, bahwa Piagam Jakarta tertanggal 22 Juni 1945 menjiwai dan merupakan suatu rangkaian kesatuan dengan konstitusi tersebut. Menurut Undang-undang Dasar 1945 Negara kita berdasarkan : 1. Ketuhanan Yang Maha Esa; 2. Kemanusiaan yang adil dan beradab; 3. Persatuan Indonesia; 4. Kerakyatan; 5. Keadilan Sosial. Sebagai dasar pertama, Ke-Tuhanan Yang Maha Esa bukan saja meletakkan dasar moral diatas Negara dan Pemerintah, tetapi juga memastikan adanya kesatuan Nasional yang berasas keagamaan. Pengakuan sila pertama (Ke-Tuhanan Yang Maha Esa) tidak dapat dipisah-pisahkan dengan Agama, karena adalah salah satu tiang pokok daripada perikehidupan manusia dan bagi bangsa Indonesia adalah juga sebagai sendi perikehidupan Negara dan unsur mutlak dalam usaha nation-building. 2. Telah… 2. Telah teryata, bahwa pada akhir-akhir ini hampir diseluruh Indonesia tidak sedikit timbul aliran-aliran atau Organisasi-organisasi kebatinan/kepercayaan masyarakat yang bertentangan dengan ajaran-ajaran dan hukum Agama. Diantara ajaran-ajaran/perbuatan-perbuatan pada pemeluk aliran-aliran tersebut sudah banyak yang telah menimbulkan hal-hal yang melanggar hukum, memecah persatuan Nasional dan menodai Agama. Dari kenyataan teranglah, bahwa aliran-aliran atau Organisasi-organisasi kebatinan/kepercayaan masyarakat yang menyalah-gunakan dan/atau mempergunakan Agama sebagai pokok, pada akhir-akhir ini bertambah banyak dan telah berkembang kearah yang sangat membahayakan Agama-agama yang ada. 3. Untuk mencegah berlarut-larutnya hal-hal tersebut diatas yang dapat membahayakan persatuan Bangsa dan Negara, maka dalam rangka kewaspadaan Nasional dan dalam Demokrasi Terpimpin dianggap perlu dikeluarkan Penetapan Presiden sebagai realisasi Dekrit Presiden tanggal 5 Juli 1959 yang merupakan salah satu jalan untuk menyalurkan ketata-negaraan dan keagamaan, agar oleh segenap rakyat diseluruh wilayah Indonesia ini dapat dinikmati ketenteraman beragama dan jaminan untuk menunaikan ibadah menurut Agamanya masing-masing. 4. Berhubung dengan maksud memupuk ketenteraman beragama inilah, maka Penetapan Presiden ini pertama-tama mencegah agar jangan sampai terjadi penyelewenganpenyelewengan dari ajaran-ajaran agama yang dianggap sebagai ajaran-ajaran pokok oleh para ulama dari agama yang bersangkutan (pasal 1-3); dan kedua kalinya aturan ini melindungi ketenteraman beragama tersebut dari penodaan/penghinaan serta dari ajaran-ajaran untuk tidak memeluk agama yang bersendikan Ke-Tuhanan Yang Maha Esa/(Pasal 4). 5. Adapun… 5. Adapun penyelewengan-penyelewengan keagamaan yang nyata-nyata merupakan pelanggaran pidana dirasa tidak perlu diatur lagi dalam peraturan ini, oleh karena telah cukup diaturnya dalam berbagai-bagai aturan pidana yang telah ada. Dengan Penetapan Presiden ini tidaklah sekali-kali dimaksudkan hendak mengganggu gugat hak hidup Agama-gama yang sudah diakui oleh Pemerintah sebelum Penetapan Presiden ini diundangkan.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {},
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965",
+      "source_type": "Penjelasan",
+      "predicate": "MEMILIKI_PENJELASAN_PASAL",
+      "target_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "target_type": "Penjelasan_Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "nomor_pasal": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENJELASKAN",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor_pasal": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965",
+      "source_type": "Penjelasan",
+      "predicate": "MEMILIKI_PENJELASAN_PASAL",
+      "target_id": "PJL-REG-UU-1-PNPS-1965-PASAL-2",
+      "target_type": "Penjelasan_Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "nomor_pasal": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-2",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENJELASKAN",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor_pasal": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965",
+      "source_type": "Penjelasan",
+      "predicate": "MEMILIKI_PENJELASAN_PASAL",
+      "target_id": "PJL-REG-UU-1-PNPS-1965-PASAL-3",
+      "target_type": "Penjelasan_Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "nomor_pasal": "3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-3",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENJELASKAN",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor_pasal": "3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965",
+      "source_type": "Penjelasan",
+      "predicate": "MEMILIKI_PENJELASAN_PASAL",
+      "target_id": "PJL-REG-UU-1-PNPS-1965-PASAL-4",
+      "target_type": "Penjelasan_Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "nomor_pasal": "4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-4",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENJELASKAN",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor_pasal": "4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965",
+      "source_type": "Penjelasan",
+      "predicate": "MEMILIKI_PENJELASAN_PASAL",
+      "target_id": "PJL-REG-UU-1-PNPS-1965-PASAL-5",
+      "target_type": "Penjelasan_Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Cukup jelas. Mengetahui : Sekretaris Negara, ttd MOHD. ICHSAN. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 2726",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 5,
+        "nomor_pasal": "5"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-5",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENJELASKAN",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-5",
+      "target_type": "Pasal",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Cukup jelas. Mengetahui : Sekretaris Negara, ttd MOHD. ICHSAN. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 2726",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor_pasal": "5"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MEMILIKI_PENUTUP",
+      "target_id": "PENUTUP-REG-UU-1-PNPS-1965",
+      "target_type": "Penutup",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Agar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan Penetapan Presiden Republik Indonesia ini dengan penempatan dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 27 Januari 1965. Presiden Republik Indonesia, ttd SUKARNO. Diundangkan di Jakarta pada tanggal 27 Januari 1965. Sekretaris Negara, ttd MOHD. ICHSAN. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1965 NOMOR 3",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "tanggal_ditetapkan": "27 Januari 1965.",
+        "tanggal_diundangkan": "27 Januari 1965."
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-UU-1-PNPS-1965-MENIMBANG-A",
+      "source_type": "Konsiderans",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0001",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa dalam rangka pengamanan Negara dan Masyarakat, cita-cita Revolusi Nasional dan pembangunan Nasional Semesta menuju ke masyarakat adil dan makmur, perlu mengadakan peraturan untuk mencegah penyalah-gunaan atau penodaan agama;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0001"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 1,
+        "section_type": "menimbang",
+        "reference_label": "REG-UU-1-PNPS-1965 Menimbang a"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "KONS-REG-UU-1-PNPS-1965-MENIMBANG-B",
+      "source_type": "Konsiderans",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0002",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "bahwa untuk pengamanan revolusi dan ketentuan masyarakat, soal ini perlu diatur dengan Penetapan Presiden;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0002"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 2,
+        "section_type": "menimbang",
+        "reference_label": "REG-UU-1-PNPS-1965 Menimbang b"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0003",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "pasal 29 Undang-undang Dasar;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0003"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 3,
+        "section_type": "mengingat",
+        "reference_label": "REG-UU-1-PNPS-1965 Mengingat 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0004",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "pasal IV Aturan Peralihan Undang-undang Dasar;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0004"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 4,
+        "section_type": "mengingat",
+        "reference_label": "REG-UU-1-PNPS-1965 Mengingat 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-3",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0005",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "penetapan Presiden No. 2 tahun 1962 (Lembara-Negara tahun 1962 No. 34);",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0005"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 5,
+        "section_type": "mengingat",
+        "reference_label": "REG-UU-1-PNPS-1965 Mengingat 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-4",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0006",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "pasal 2 ayat (1) Ketetapan M.P.R.S. No. II/MPRS/1960;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0006"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 6,
+        "section_type": "mengingat",
+        "reference_label": "REG-UU-1-PNPS-1965 Mengingat 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0007",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 7,
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0008",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 8,
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0009",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 9,
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0010",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 10,
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-5",
+      "source_type": "Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0011",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Cukup jelas. Mengetahui : Sekretaris Negara, ttd TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 2726",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0011"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 11,
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 5"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-UMUM",
+      "source_type": "Penjelasan_Umum",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0012",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "1. Dekrit Presiden tanggal 5 Juli 1959 yang menetapkan Undang-undang Dasar 1945 berlaku lagi bagi segenap bangsa Indonesia telah menyatakan, bahwa Piagam Jakarta tertanggal 22 Juni 1945 menjiwai dan merupakan suatu rangkaian kesatuan dengan konstitusi tersebut. Menurut Undang-undang Dasar 1945 Negara kita berdasarkan : 1. Ketuhanan Yang Maha Esa; 2. Kemanusiaan yang adil dan beradab; 3. Persatuan Indonesia; 4. Kerakyatan; 5. Keadilan Sosial. Sebagai dasar pertama, Ke-Tuhanan Yang Maha Esa bukan saja meletakkan dasar moral diatas Negara dan Pemerintah, tetapi juga memastikan adanya kesatuan Nasional yang berasas keagamaan. Pengakuan sila pertama (Ke-Tuhanan Yang Maha Esa) tidak dapat dipisah-pisahkan dengan Agama, karena adalah salah satu tiang pokok daripada perikehidupan manusia dan bagi bangsa Indonesia adalah juga sebagai sendi perikehidupan Negara dan unsur mutlak dalam usaha nation-building. 2. Telah… 2. Telah teryata, bahwa pada akhir-akhir ini hampir diseluruh Indonesia tidak sedikit timbul aliran-aliran atau Organisasi-organisasi kebatinan/kepercayaan masyarakat yang bertentangan dengan ajaran-ajaran dan hukum Agama. Diantara ajaran-ajaran/perbuatan-perbuatan pada pemeluk aliran-aliran tersebut sudah banyak yang telah menimbulkan hal-hal yang melanggar hukum, memecah persatuan Nasional dan menodai Agama. Dari kenyataan teranglah, bahwa aliran-aliran atau Organisasi-organisasi kebatinan/kepercayaan masyarakat yang menyalah-gunakan dan/atau mempergunakan Agama sebagai pokok, pada akhir-akhir ini bertambah banyak dan telah berkembang kearah yang sangat membahayakan Agama-agama yang ada. 3. Untuk mencegah berlarut-larutnya hal-hal tersebut diatas yang dapat membahayakan persatuan Bangsa dan Negara, maka dalam rangka kewaspadaan Nasional dan dalam Demokrasi Terpimpin dianggap perlu dikeluarkan Penetapan Presiden sebagai realisasi Dekrit Presiden tanggal 5 Juli 1959 yang merupakan salah satu jalan untuk menyalurkan ketata-negaraan dan keagamaan, agar oleh segenap rakyat diseluruh wilayah Indonesia ini dapat dinikmati ketenteraman beragama dan jaminan untuk menunaikan ibadah menurut Agamanya masing-masing. 4. Berhubung dengan maksud memupuk ketenteraman beragama inilah, maka Penetapan Presiden ini pertama-tama mencegah agar jangan sampai terjadi penyelewenganpenyelewengan dari ajaran-ajaran agama yang dianggap sebagai ajaran-ajaran pokok oleh para ulama dari agama yang bersangkutan (pasal 1-3); dan kedua kalinya aturan ini melindungi ketenteraman beragama tersebut dari penodaan/penghinaan serta dari ajaran-ajaran untuk tidak memeluk agama yang bersendikan Ke-Tuhanan Yang Maha Esa/(Pasal 4). 5. Adapun… 5. Adapun penyelewengan-penyelewengan keagamaan yang nyata-nyata merupakan pelanggaran pidana dirasa tidak perlu diatur lagi dalam peraturan ini, oleh karena telah cukup diaturnya dalam berbagai-bagai aturan pidana yang telah ada. Dengan Penetapan Presiden ini tidaklah sekali-kali dimaksudkan hendak mengganggu gugat hak hidup Agama-gama yang sudah diakui oleh Pemerintah sebelum Penetapan Presiden ini diundangkan.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0012"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 12,
+        "section_type": "penjelasan_umum",
+        "reference_label": "REG-UU-1-PNPS-1965 Penjelasan Umum"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0013",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 13,
+        "section_type": "penjelasan_pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Penjelasan Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-2",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0014",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0014"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 14,
+        "section_type": "penjelasan_pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Penjelasan Pasal 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-3",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0015",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0015"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 15,
+        "section_type": "penjelasan_pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Penjelasan Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-4",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0016",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0016"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 16,
+        "section_type": "penjelasan_pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Penjelasan Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-5",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0017",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Cukup jelas. Mengetahui : Sekretaris Negara, ttd MOHD. ICHSAN. TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 2726",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0017"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 17,
+        "section_type": "penjelasan_pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Penjelasan Pasal 5"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PENUTUP-REG-UU-1-PNPS-1965",
+      "source_type": "Penutup",
+      "predicate": "MEMILIKI_CHUNK",
+      "target_id": "CHK-REG-UU-1-PNPS-1965-0018",
+      "target_type": "Chunk",
+      "confidence": 1.0,
+      "extraction_method": "structural",
+      "evidence": {
+        "text": "Agar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan Penetapan Presiden Republik Indonesia ini dengan penempatan dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 27 Januari 1965. Presiden Republik Indonesia, ttd SUKARNO. Diundangkan di Jakarta pada tanggal 27 Januari 1965. Sekretaris Negara, ttd MOHD. ICHSAN. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1965 NOMOR 3",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0018"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "urutan": 18,
+        "section_type": "penutup",
+        "reference_label": "REG-UU-1-PNPS-1965 Penutup"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENDEFINISIKAN",
+      "target_id": "TOPIK-dimuka-umum",
+      "target_type": "Topik",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Dimuka Umum",
+        "category": "istilah",
+        "reason": "Mendefinisikan istilah Dimuka Umum",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENDEFINISIKAN",
+      "target_id": "TOPIK-agama-yang-dipeluk-penduduk-indonesia",
+      "target_type": "Topik",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius).",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Agama yang dipeluk penduduk Indonesia",
+        "category": "konsep",
+        "reason": "Menentukan agama yang dipeluk penduduk",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MEMBERIKAN_HAK",
+      "target_id": "SBJ-pemeluk-enam-agama-islam-kristen-katolik-hindu-budha-khong-cu",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.85,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Pemeluk enam agama (Islam, Kristen, Katolik, Hindu, Budha, Khong Cu)",
+        "category": "subjek",
+        "reason": "Pemeluk enam agama mendapat jaminan, bantuan, perlindungan",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENDEFINISIKAN",
+      "target_id": "TOPIK-kegiatan-keagamaan",
+      "target_type": "Topik",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Kegiatan keagamaan",
+        "category": "istilah",
+        "reason": "Mendefinisikan kegiatan keagamaan",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MEMBERIKAN_HAK",
+      "target_id": "SBJ-pemeluk-agama-lain-yahudi-zarasustrian-shinto-taoism",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.8,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Pemeluk agama lain (Yahudi, Zarasustrian, Shinto, Taoism)",
+        "category": "subjek",
+        "reason": "Pemeluk agama lain mendapat jaminan penuh dan dibiarkan ada",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-badan-aliran-kebatinan",
+      "target_type": "Topik",
+      "confidence": 0.7,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Badan/aliran kebatinan",
+        "category": "topik",
+        "reason": "Pemerintah mengatur pembinaan badan/aliran kebatinan",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MEMBERIKAN_HAK",
+      "target_id": "SBJ-departemen-agama",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.8,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Pokok-pokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Departemen Agama",
+        "category": "subjek",
+        "reason": "Departemen Agama memiliki hak untuk mengetahui pokok ajaran agama",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_SUBJEK",
+      "target_id": "SBJ-pelanggar-larangan-pasal-1",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "terhadap orang-orang ataupun penganut-penganut ... yang melanggar larangan tersebut",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "pelanggar larangan pasal 1",
+        "category": "subjek yang dikenakan nasehat",
+        "reason": "Pasal ini menetapkan subjek yang diberikan nasehat",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MEMBERIKAN_HAK",
+      "target_id": "SBJ-presiden",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "Presiden",
+        "category": "kewenangan membubarkan organisasi dan menyatakan terlarang",
+        "reason": "Teks memberikan wewenang kepada Presiden",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-pemberian-nasehat",
+      "target_type": "Topik",
+      "confidence": 0.85,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "diberi nasehat seperlunya",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "pemberian nasehat",
+        "category": "tindakan awal",
+        "reason": "Pasal mengatur tentang pemberian nasehat sebagai langkah awal",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-pembubaran-organisasi-dan-pernyataan-sebagai-aliran-terlarang",
+      "target_type": "Topik",
+      "confidence": 0.8,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "pembubaran organisasi dan pernyataan sebagai aliran terlarang",
+        "category": "tindakan lanjutan",
+        "reason": "Pasal mengatur tentang pembubaran jika efek serius",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-ancaman-pidana",
+      "target_type": "Topik",
+      "confidence": 1.0,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "ancaman pidana",
+        "category": "",
+        "reason": "Pasal ini secara eksplisit mengatur tentang pemberian ancaman pidana.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_SUBJEK",
+      "target_id": "SBJ-penganut-aliran-kepercayaan",
+      "target_type": "Subjek_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "penganut aliran kepercayaan",
+        "category": "",
+        "reason": "Pasal ini mengatur bahwa hanya penganut yang melakukan pelanggaran berkelanjutan yang dapat dipidana.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MEMBERIKAN_HAK",
+      "target_id": "SBJ-pemuka-aliran-kepercayaan",
+      "target_type": "Subjek_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "pemuka aliran kepercayaan",
+        "category": "",
+        "reason": "Pasal ini memberikan hak imunitas kepada pemuka aliran yang menghentikan kegiatan.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-tindak-pidana-aliran-kepercayaan",
+      "target_type": "Topik",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Mengingat sifat idiil dari tindak pidana dalam pasal ini",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "tindak pidana aliran kepercayaan",
+        "category": "",
+        "reason": "Pasal ini mengatur tentang tindak pidana terkait aliran kepercayaan.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-ancaman-pidana-5-tahun",
+      "target_type": "Topik",
+      "confidence": 1.0,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "ancaman pidana 5 tahun dirasa sudah wajar",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "ancaman pidana 5 tahun",
+        "category": "",
+        "reason": "Pasal ini menetapkan ancaman pidana 5 tahun sebagai hukuman.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 3"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MENDEFINISIKAN",
+      "target_id": "TOPIK-tindak-pidana-menurut-pasal-ini",
+      "target_type": "Topik",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "tindak pidana menurut pasal ini",
+        "category": "konsep hukum",
+        "reason": "Teks secara eksplisit mendefinisikan apa yang dimaksud sebagai tindak pidana dalam pasal ini.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MENDEFINISIKAN",
+      "target_id": "TOPIK-bukan-tindak-pidana-menurut-pasal-ini",
+      "target_type": "Topik",
+      "confidence": 0.9,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "bukan tindak pidana menurut pasal ini",
+        "category": "konsep hukum",
+        "reason": "Teks menjelaskan pengecualian terhadap definisi tindak pidana, yaitu uraian objektif dan ilmiah.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MELARANG",
+      "target_id": "TOPIK-perbuatan-yang-ditujukan-untuk-memusuhi-atau-menghina-agama",
+      "target_type": "Topik",
+      "confidence": 0.8,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "perbuatan yang ditujukan untuk memusuhi atau menghina agama",
+        "category": "tindakan",
+        "reason": "Definisi tindak pidana mengimplikasikan larangan terhadap perbuatan tersebut.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_TOPIK",
+      "target_id": "TOPIK-penistaan-agama",
+      "target_type": "Topik",
+      "confidence": 0.7,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "penistaan agama",
+        "category": "topik",
+        "reason": "Pasal ini secara umum mengatur tentang penistaan atau penghinaan terhadap agama, sebagaimana konteks penjelasan.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MENGATUR_SUBJEK",
+      "target_id": "SBJ-setiap-orang",
+      "target_type": "Subjek_Hukum",
+      "confidence": 0.65,
+      "extraction_method": "llm",
+      "evidence": {
+        "text": "Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "target_name": "setiap orang",
+        "category": "subjek hukum",
+        "reason": "Subjek yang diatur adalah orang yang melakukan tindak pidana tersebut, yaitu setiap orang.",
+        "section_type": "pasal",
+        "reference_label": "REG-UU-1-PNPS-1965 Pasal 4"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "BERDASARKAN",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal 29 Undang-undang Dasar;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor": "1",
+        "urutan": 1
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "BERDASARKAN",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal IV Aturan Peralihan Undang-undang Dasar;",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "nomor": "2",
+        "urutan": 2
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "DIUNDANGKAN_PADA",
+      "target_id": "EVT-REG-UU-1-PNPS-1965-DIUNDANGKAN",
+      "target_type": "Peristiwa_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Agar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan Penetapan Presiden Republik Indonesia ini dengan penempatan dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 27 Januari 1965. Presiden Republik Indonesia, ttd SUKARNO. Diundangkan di Jakarta pada tanggal 27 Januari 1965. Sekretaris Negara, ttd MOHD. ICHSAN. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1965 NOMOR 3",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "jenis": "diundangkan",
+        "tanggal": "27 Januari 1965."
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "REG-UU-1-PNPS-1965",
+      "source_type": "Regulasi",
+      "predicate": "MULAI_BERLAKU",
+      "target_id": "EVT-REG-UU-1-PNPS-1965-MULAI-BERLAKU",
+      "target_type": "Peristiwa_Hukum",
+      "confidence": 1.0,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Agar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan Penetapan Presiden Republik Indonesia ini dengan penempatan dalam Lembaran Negara Republik Indonesia. Ditetapkan di Jakarta pada tanggal 27 Januari 1965. Presiden Republik Indonesia, ttd SUKARNO. Diundangkan di Jakarta pada tanggal 27 Januari 1965. Sekretaris Negara, ttd MOHD. ICHSAN. LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1965 NOMOR 3",
+        "chunk_ids": [],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "jenis": "mulai_berlaku",
+        "tanggal": "27 Januari 1965."
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal 29 Undang-undang Dasar;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0003"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-1",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-29",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal 29 Undang-undang Dasar;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0003"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "29",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal IV Aturan Peralihan Undang-undang Dasar;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0004"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-2",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-IV",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal IV Aturan Peralihan Undang-undang Dasar;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0004"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "IV",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "DASAR-REG-UU-1-PNPS-1965-MENGINGAT-4",
+      "source_type": "Dasar_Hukum",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "pasal 2 ayat (1) Ketetapan M.P.R.S. No. II/MPRS/1960;",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0006"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "2",
+        "nomor_ayat": "1"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-HUKUM",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-HUKUM-29",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-HUKUM",
+        "nomor_pasal": "29",
+        "nomor_ayat": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-29",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "29",
+        "nomor_ayat": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-HUKUM-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-HUKUM",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0007"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "1",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-169",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "169",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0008"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "3",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0009"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "2",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PSL-REG-UU-1-PNPS-1965-4",
+      "source_type": "Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-5",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0010"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "5",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-HUKUM",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "REG-UU-DASAR",
+      "target_type": "Regulasi",
+      "confidence": 0.9,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "regulasi"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-HUKUM-29",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-HUKUM",
+        "nomor_pasal": "29",
+        "nomor_ayat": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-29",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "29",
+        "nomor_ayat": "2"
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-HUKUM-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-HUKUM",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-1",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-DASAR-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Dengan kata-kata \"Dimuka Umum\" dimaksudkan apa yang lazim diartikan dengan kata-kata itu dalam Kitab Undang-undang Hukum Pidana. Agama-agama yang dipeluk oleh penduduk di Indonesia ialah Islam, Kristen, Katolik, Hindu, Budha dan khong Cu (Confusius). Hal ini dapat dibuktikan dalam sejarah perkembangan Agama-agama di Indonesia. Karena 6 macam Agama ini adalah agama-gama yang dipeluk hampir seluruh penduduk Indonesia, maka kecuali mereka mendapat jaminan seperti yang diberikan oleh pasal 29 ayat 2 Undang-undang Dasar, juga mereka mendapat bantuan-bantuan dan perlindungan seperti yang diberikan oleh pasal ini. Ini tidak berarti bahwa agama-agama lain, misalnya : Yahudi,Zarasustrian, Shinto, Taoism dilarang di Indonesia. Mereka mendapat jaminan penuh seperti yang diberikan oleh pasal 29 ayat 2 dan mereka dibiarkan adanya, asal tidak melanggar ketentuan-ketentuan yang terdapat dalam peraturan ini atau peraturan perundangan lain. Terhadap… Terhadap badan/aliran kebatinan, Pemerintah berusaha menyalurkannya kearah pandangan yang sehat dan kearah Ke-Tuhanan Yang Maha Esa. Hal ini sesuai dengan ketetapan M.P.R.S. No. II/MPRS/1960, lampiran A. Bidang I, angka 6. Dengan kata-kata \"Kegiatan keagamaan\" dimaksudkan segala macam kegiatan yang bersifat keagamaan, misalnya menamakan suatu aliran sebagai Agama, mempergunakan istilah-istilah dalam menjalankan atau mengamalkan ajaranajaran kepercayaannya ataupun melakukan ibadahnya dan sebagainya. Pokokpokok ajaran agama dapat diketahui oleh Departemen Agama yang untuk itu mempunyai alat-alat/cara-cara untuk menyelidikinya.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0013"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-DASAR",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-2",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-1",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0014"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "1",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-2",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-169",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0014"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "169",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-2",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-3",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Sesuai dengan kepribadian Indonesia, maka terhadap orang-orang ataupun penganut-penganut sesuatu aliran kepercayaan maupun anggota atau anggota Pengurus Organisasi yang melanggar larangan tersebut dalam pasal 1, untuk permulaannya dirasa cukup diberi nasehat seperlunya. Apabila penyelewengan itu dilakukan oleh organisasi atau penganut-penganut aliran kepercayaan dan mempunyai effek yang cukup serius bagi masyarakat yang beragama, maka Presiden berwenang untuk membubarkan organisasi itu dan untuk menyatakan sebagai organisasi atau aliran terlarang dengan akibat-akibatnya (jo pasal 169 K.U.H.P.). Pasal 3…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0014"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "3",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-3",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0015"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-3",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-2",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Pemberian ancaman pidana yang diatur dalam pasal ini, adalah tindakan lanjutan terhadap anasir-anasir yang tetap mengabaikan peringatan tersebut, dalam pasal 2. Oleh karena aliran kepercayaan biasanya tidak mempunyai bentuk seperti organisasi/perhimpunan, dimana mudah dibedakan siapa pengurus dan siapa anggotanya, maka mengenai aliran-aliran kepercayaan, hanya penganutnya yang masih terus melakukan pelanggaran dapat dikenakan pidana, sedang pemuka aliran sendiri yang menghentikan kegiatannya tidak dapat dituntut. Mengingat sifat idiil dari tindak pidana dalam pasal ini, maka ancaman pidana 5 tahun dirasa sudah wajar.",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0015"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "2",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-4",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-I",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0016"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "i",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    },
+    {
+      "schema_version": "2.0.0",
+      "source_id": "PJL-REG-UU-1-PNPS-1965-PASAL-4",
+      "source_type": "Penjelasan_Pasal",
+      "predicate": "MENGACU_PADA",
+      "target_id": "PSL-REG-UU-1-PNPS-1965-5",
+      "target_type": "Pasal",
+      "confidence": 0.85,
+      "extraction_method": "regex",
+      "evidence": {
+        "text": "Maksud ketentuan ini telah cukup dijelaskan dalam penjelasan umum diatas. Cara mengeluarkan persamaan atau melakukan perbuatan dapat dilakukan dengan lisan, tulisan ataupun perbuatan lain. Huruf a, tindak pidana yang dimaksudkan disini, ialah yang semata-mata (pada pokoknya) ditujukan kepada niat untuk memusuhi atau menghina. Dengan demikian, maka, uraian-uraian tertulis maupun lisan yang dilakukan secara obyektif, zakelijk dan ilmiah mengenai sesuatu agama yang disertai dengan usaha untuk menghindari adanya kata-kata atau susunan kata-kata yang bersifat permusuhan atau penghinaan, bukanlah tinak pidana menurut pasal ini. Huruf b, Orang yang melakukan tindak pidana tersebut disini, disamping mengganggu ketentraman orang beragama, pada dasarnya menghianati sila pertama dari Negara secara total, dan oleh karenanya adalah pada tempatnya, bahwa perbuatannya itu dipidana sepantasnya. Pasal 5…",
+        "chunk_ids": [
+          "CHK-REG-UU-1-PNPS-1965-0016"
+        ],
+        "source_file": "data/raw/REG-UU-1-PNPS-1965.pdf"
+      },
+      "properties": {
+        "reference_type": "pasal",
+        "target_regulasi_id": "REG-UU-1-PNPS-1965",
+        "nomor_pasal": "5",
+        "nomor_ayat": ""
+      },
+      "validation": {
+        "status": "valid",
+        "errors": [],
+        "warnings": []
+      }
+    }
+  ]
+}
