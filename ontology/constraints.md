@@ -1,6 +1,6 @@
 # Constraint Rules — PSKP Legal Knowledge Graph
 
-Dokumen ini mendokumentasikan 8 aturan validasi yang **wajib** ditegakkan secara programatik sebelum ingestion ke Neo4j.
+Dokumen ini mendokumentasikan 8 aturan validasi yang **wajib** ditegakkan secara programatik sebelum graph index dibangun.
 
 ---
 

@@ -1,99 +1,154 @@
-# PSKP Legal Knowledge Graph ⚖️🕸️
+# PSKP Legal GraphRAG
 
-Proyek ini bertujuan untuk membangun Knowledge Graph dari korpus kebijakan PSKP (Peraturan Pemerintah terkait Standar Nasional Pendidikan, Guru, Dosen, serta UU Sisdiknas dan UUD 1945). Knowledge Graph ini akan menggantikan mekanisme Vector RAG pada model ASVRI-Legal untuk mendeteksi konflik hukum dan traversal aturan yang saling merujuk.
+Implementasi riset Knowledge Graph dan GraphRAG untuk korpus regulasi
+pendidikan Indonesia. Repository ini berfokus pada eksperimen yang digunakan
+dalam paper:
 
-Pipeline ini dirancang sesuai dengan **[Detailed Issues Document](PSKP_KG_Detailed_Issues.md)**, mengimplementasikan ekstraksi berbasis Regex + LLM Hybrid, serta ingestion ke dalam Neo4j Property Graph.
+1. **Part 1 - Baseline Validation** pada dataset legal QA.
+2. **Part 2 - Structural Legal Reasoning** dengan exact reference resolution,
+   vector retrieval, graph expansion, dan context reranking.
 
----
+Graph disimpan dan diproses sebagai index lokal. Pipeline ini tidak
+memerlukan database graph eksternal.
 
-## 📁 Struktur Proyek Akhir
+## Scope Repository
+
+File yang dilacak Git:
+
+- `dataset.csv`: dataset QA sumber untuk menyiapkan split Part 1.
+- `ontology/`: schema dan constraint Knowledge Graph.
+- `scripts/`: ekstraksi, graph construction, retrieval, training, dan evaluasi.
+- `docs/`: rencana eksperimen, checklist, serta ringkasan hasil.
+
+File yang sengaja tidak dilacak Git:
+
+- `.env` dan credential lokal.
+- `data/raw/`: PDF sumber yang diperoleh dari portal regulasi resmi.
+- `data/processed*`, `data/chunks_v2`, `data/triplets_v2`, dan `data/sft`.
+- `indexes/`, `outputs/`, `logs/`, model, checkpoint, dan artefak eksperimen.
+
+Raw PDF tidak perlu dipush untuk review mentor. Simpan PDF secara lokal dan
+cantumkan sumber dokumen dalam paper. Artefak intermediate dan hasil eksperimen
+dapat diregenerasi dari script yang tersedia.
+
+## Struktur Utama
 
 ```text
 pskp-legal-graph/
-├── data/
-│   ├── raw/                        # File PDF asli (14 dokumen)
-│   ├── processed/                  # Hasil segmentasi JSON (hierarki Regulasi > Pasal > Ayat)
-│   ├── triplets/                   # Triplet hasil ekstraksi (Regex + LLM)
-│   └── corpus_manifest.json        # Inventaris dan status ekstraksi seluruh dokumen
-├── ontology/
-│   ├── schema.json                 # Skema graph ketat (node, property, dan relasi yang diizinkan)
-│   ├── constraints.md              # 8 Constraint Rules validasi
-│   └── few_shot_examples.json      # Contoh ekstraksi sebagai few-shot prompt LLM
-├── scripts/
-│   ├── extraction/                 # Ekstraksi PDF -> processed JSON -> triplets
-│   ├── graph/                      # Build index graph + retrieval utilities
-│   ├── ingestion/                  # Ingestion/validasi Neo4j
-│   ├── evaluation/                 # Script evaluasi dan audit dataset
-│   └── training/                   # Persiapan SFT, train, inferensi
-├── evaluation/                     # Direktori untuk Ground Truth Dataset (Issue #6)
-├── docker-compose.yml              # Konfigurasi container Neo4j
-├── requirements.txt                # Dependensi Python
-├── .env                            # Env vars untuk API keys (OpenAI, Neo4j)
-└── README.md                       # Panduan ini
+|-- dataset.csv
+|-- docs/
+|-- ontology/
+|   `-- v2/
+|-- scripts/
+|   |-- evaluation/
+|   |-- extraction/
+|   |-- graph/
+|   `-- training/
+|-- .env.example
+|-- .gitignore
+`-- requirements.txt
 ```
 
----
+Direktori berikut akan dibuat secara lokal ketika pipeline dijalankan:
 
-## 🚀 Instalasi & Setup Database (Docker)
+```text
+data/raw/
+data/processed_v2/
+data/chunks_v2/
+data/triplets_v2/
+data/sft/
+indexes/graph_v2/
+indexes/vector_v2_model/
+outputs/
+logs/
+```
 
-1. **Instal Library Python:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Konfigurasi Environment:**
-   Salin `.env.example` (jika ada) ke `.env`, lalu isi:
-   ```env
-   OPENAI_API_KEY=your_key
-   NEO4J_PASSWORD=pskp_admin_2026
-   ```
-
-3. **Jalankan Database Neo4j via Docker-compose:**
-   ```bash
-   docker-compose up -d
-   ```
-   > Dashboard Neo4j dapat diakses di `http://localhost:7474` dengan kredensial `neo4j` / `pskp_admin_2026`.
-
-4. **Inisialisasi Database Constraints:**
-   ```bash
-   python scripts/ingestion/ingest_neo4j.py --init
-   ```
-
----
-
-## 🛠️ Step-by-Step Penggunaan Pipeline
-
-Proses ekstraksi ke ingestion dilakukan secara berurutan sesuai issue yang ada. Pastikan file PDF dari korpus (11 PP, UU 20/2003, UU 14/2005, UUD 1945) telah berada di dalam folder `data/raw/` dan metadata terdaftar di `data/corpus_manifest.json`.
-
-### 1. Ekstraksi Batch (Issue #2 & #3)
-Menjalankan ekstraksi teks, segmentasi struktural (ke format Hierarki JSON), dilanjutkan dengan ekstraksi Triplet menggunakan Regex (relasi eksplisit) dan LLM Hybrid (relasi semantik).
+## Setup
 
 ```bash
-python scripts/extraction/batch_extract.py
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
 ```
-*Gunakan `python scripts/extraction/batch_extract.py --force` jika ingin memproses ulang seluruh file.*
-*Gunakan `python scripts/extraction/extract.py --file REG-PP-4-2022` untuk ekstraksi spesifik.*
 
-### 2. Memasukkan Triplet ke Neo4j (Issue #4)
-Membaca seluruh triplet hasil dari pipeline sebelumnya dan mengingestinya menggunakan teknik idempotent (MERGE).
+Isi `OPENAI_API_KEY` hanya jika menjalankan semantic triplet extraction atau
+embedding melalui endpoint OpenAI-compatible. Embedding lokal dengan
+`sentence-transformers` tidak membutuhkan API key.
+
+## Menyiapkan Dataset Part 1
+
+`dataset.csv` adalah satu-satunya data penelitian yang dilacak langsung.
+Split train/test dibuat secara deterministik dengan seed `42`:
 
 ```bash
-python scripts/ingestion/ingest_neo4j.py
+python scripts/training/prepare_sft_dataset.py \
+  --input dataset.csv \
+  --out_dir data/sft \
+  --seed 42
 ```
-> Script ini otomatis akan memastikan node dibuat sebelum edge dan melaporkan keseluruhan proses di direktori `/reports/ingestion_report.json`.
 
-### 3. Validasi Graph (Issue #5)
-Mendeteksi apakah terdapat *orphaned nodes* serta menguji jalur rujukan logika hukum untuk memastikan graph layak dan bisa merespon pertanyaan hierarki.
+## Pipeline Knowledge Graph V2
+
+Letakkan PDF regulasi yang diperoleh secara legal di `data/raw/`, kemudian
+jalankan:
 
 ```bash
-python scripts/ingestion/validate_graph.py
+# Parse dokumen dan buat chunks
+python scripts/extraction/extract_v2.py --all
+
+# Ekstrak relasi structural, explicit, dan semantic
+python scripts/extraction/extract_triplets_v2_structural.py --all
+python scripts/extraction/extract_triplets_v2_explicit.py --all
+python scripts/extraction/extract_triplets_v2_semantic.py --all
+
+# QC dan build graph index lokal
+python scripts/evaluation/qc_triplets_v2.py
+python scripts/graph/build_graph_v2.py
+
+# Build embedding index lokal
+python scripts/graph/build_embedding_index_v2.py \
+  --backend sentence_transformers \
+  --model intfloat/multilingual-e5-base
 ```
 
----
+Smoke test retriever:
 
-## 🚧 Dataset Evaluasi Ground Truth (Issue #6)
+```bash
+python scripts/graph/graphrag_retriever_v2.py \
+  "Apa ketentuan mengenai standar nasional pendidikan?" \
+  --allow-download
+```
 
-Fase berikutnya (setelah graph valid) adalah pembuatan dataset evaluasi konflik hukum. Silakan lihat `PSKP_KG_Detailed_Issues.md` bagian Issue #6 untuk instruksi manual review dari kandidat konflik dan menyusun set lengkap Ground Truth.
+## Eksperimen dan Evaluasi
 
-## 📜 Lisensi
-MIT
+Implementasi skenario Part 1 tersedia untuk:
+
+- Fine-tune only
+- Fine-tune + RAG v2
+- Fine-tune + GraphRAG v2
+- Zero-shot only
+- Zero-shot + RAG v2
+- Zero-shot + GraphRAG v2
+
+Detail konfigurasi, urutan eksekusi, dan hasil eksperimen tersedia di:
+
+- `docs/experiment_part1_part2_execution.md`
+- `docs/kg_graphrag_rerun_plan.md`
+- `docs/kg_graphrag_execution_checklist.md`
+- `docs/kg_graphrag_v2_results.md`
+
+Evaluasi prediksi QA dapat dijalankan dengan:
+
+```bash
+python scripts/evaluation/eval_predictions_qa.py \
+  --predictions outputs/predictions/lora_graphrag_v2_predictions.csv \
+  --name lora_graphrag_v2
+```
+
+## Reproducibility dan Keamanan
+
+- Jangan commit `.env`, token, model weights, checkpoint, atau output eksperimen.
+- Simpan versi model, seed, dan parameter eksperimen pada laporan.
+- Pastikan lisensi dan sumber PDF regulasi dicantumkan sebelum mendistribusikan
+  salinan raw corpus.

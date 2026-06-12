@@ -1,12 +1,27 @@
-# Core
+# Document processing and API clients
 pdfplumber>=0.10.0
+PyMuPDF>=1.23.0
 openai>=1.0.0
 python-dotenv>=1.0.0
-neo4j>=5.0.0
 
-# Fallback PDF extraction
-PyMuPDF>=1.23.0
+# Graph, data, and retrieval
+networkx>=3.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+sentence-transformers>=2.2.0
 
-# OCR (optional — install jika ada PDF scan)
+# Training and inference
+accelerate>=0.27.0
+datasets>=2.18.0
+peft>=0.10.0
+torch>=2.1.0
+transformers>=4.38.0
+
+# Evaluation
+nltk>=3.8.0
+rouge-score>=0.1.2
+
+# Optional OCR support for scanned PDFs:
 # pytesseract>=0.3.10
 # pdf2image>=1.16.0

@@ -17,7 +17,7 @@ Urutan kerja paling efektif:
 3. Rerun semua PDF: hasilkan `processed` v2 dan QC report.
 4. Generate chunk: satu chunk per unit hukum yang logis.
 5. Extract triplets: structural, explicit regex, dan semantic LLM.
-6. Build graph: local graph index dan Neo4j.
+6. Build graph: local graph index.
 7. Build embedding: simpan chunk embedding ke vector index.
 8. Implement GraphRAG retrieval: exact reference + embedding search + graph expansion + rerank.
 9. Buat dataset: extraction, retrieval, QA, conflict, dan regression.
@@ -56,9 +56,8 @@ Output utama yang harus tersedia:
 3. `data/triplets_v2/*.json`: relasi graph tervalidasi.
 4. `indexes/graph_v2/graph_index.pkl`: graph index lokal.
 5. `indexes/vector_v2/*`: vector index atau export untuk Chroma/Milvus/Qdrant.
-6. Neo4j graph: node dan edge final.
-7. Dataset evaluasi: QA, retrieval relevance, dan conflict/ground-truth cases.
-8. Report evaluasi: extraction quality, graph quality, retrieval quality, dan generation quality.
+6. Dataset evaluasi: QA, retrieval relevance, dan conflict/ground-truth cases.
+7. Report evaluasi: extraction quality, graph quality, retrieval quality, dan generation quality.
 
 Detail kontrak output v2 ada di `docs/v2_output_contract.md`.
 
@@ -380,23 +379,11 @@ Rekomendasi awal:
 2. Simpan `chunk_id` sebagai primary key.
 3. Simpan `source_node_id` agar vector result bisa diekspansi via graph.
 
-## 9. Graph Index dan Neo4j
-
-Graph lokal:
+## 9. Graph Index Lokal
 
 1. Build graph dari processed JSON dan triplets.
 2. Simpan ke `indexes/graph_v2/graph_index.pkl`.
 3. Gunakan untuk audit cepat dan retrieval lokal.
-
-Neo4j:
-
-1. Ingest node struktural.
-2. Ingest node semantik.
-3. Ingest edge struktural.
-4. Ingest edge eksplisit.
-5. Ingest edge semantik.
-6. Buat constraint uniqueness untuk semua node ID.
-7. Buat index untuk `Regulasi.tahun`, `Regulasi.jenis`, `Pasal.topik`, `Chunk.section_type`.
 
 ## 10. GraphRAG Retrieval
 
@@ -628,11 +615,10 @@ Rerun dari awal sebaiknya dilakukan dengan urutan ini:
 7. [x] Validate triplets teknis dengan QC v2.
 8. [x] Build graph index lokal.
 9. [x] Build embedding dan vector index.
-10. [ ] Ingest ke Neo4j jika dibutuhkan.
-11. [ ] Jalankan graph audit.
-12. [ ] Jalankan retrieval evaluation.
-13. [ ] Jalankan generation evaluation.
-14. [ ] Simpan report final di `outputs/reports/v2/`.
+10. [ ] Jalankan graph audit.
+11. [ ] Jalankan retrieval evaluation.
+12. [ ] Jalankan generation evaluation.
+13. [ ] Simpan report final di `outputs/reports/v2/`.
 
 ## 15. Implementasi Bertahap
 

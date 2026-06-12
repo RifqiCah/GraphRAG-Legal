@@ -1,6 +1,6 @@
 # Constraint Rules — PSKP Legal Knowledge Graph v2
 
-Dokumen ini mendefinisikan aturan validasi untuk ontology v2. Aturan ini menjadi kontrak untuk parser, extractor, graph builder, ingestion Neo4j, dan evaluasi.
+Dokumen ini mendefinisikan aturan validasi untuk ontology v2. Aturan ini menjadi kontrak untuk parser, extractor, graph builder lokal, retrieval, dan evaluasi.
 
 ## RULE-V2-01: ID Unik Global
 

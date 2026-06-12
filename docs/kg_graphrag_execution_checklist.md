@@ -12,7 +12,7 @@ Legend:
 
 - [x] Pakai istilah `GraphRAG`, bukan `Hybrid GraphRAG`.
 - [x] GraphRAG berarti retrieval mengambil konteks dari graph, chunk text, metadata, exact reference, dan graph expansion sebagai bagian dari augmentation.
-- [x] Tools seperti Neo4j, Chroma, Milvus, atau Qdrant hanya dipakai untuk storage, query, visualisasi, atau indexing.
+- [x] Graph dan vector index disimpan secara lokal agar eksperimen mudah direproduksi.
 - [x] Proses utama tetap dibuat by code di repository ini.
 - [x] V1 tidak dihapus; output v2 dipisahkan.
 - [x] Untuk sementara pakai dokumen yang sudah ada di `data/raw/`.
@@ -286,10 +286,8 @@ Yang sudah dibuat:
 - [x] Output graph lokal di `indexes/graph_v2/`.
 - [x] QC graph v2 PASS: `21,757` nodes, `30,876` edges, `0` errors, `0` warnings.
 
-Yang masih opsional:
+QC lanjutan:
 
-- [ ] Export/import ke Neo4j jika dibutuhkan.
-- [ ] Constraint Neo4j untuk node ID unik.
 - [ ] Query audit graph.
 
 QC graph:
