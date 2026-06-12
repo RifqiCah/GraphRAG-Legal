@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PSKP Chunk v2",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "chunk_id",
+    "regulasi_id",
+    "source_node_id",
+    "section_type",
+    "reference_label",
+    "text",
+    "metadata"
+  ],
+  "properties": {
+    "schema_version": {"type": "string", "const": "2.0.0"},
+    "chunk_id": {"type": "string", "pattern": "^CHK-REG-.+"},
+    "regulasi_id": {"type": "string", "pattern": "^REG-.+"},
+    "source_node_id": {"type": "string"},
+    "section_type": {
+      "type": "string",
+      "enum": [
+        "menimbang",
+        "mengingat",
+        "diktum",
+        "bab",
+        "bagian",
+        "paragraf",
+        "pasal",
+        "ayat",
+        "subitem",
+        "penjelasan_umum",
+        "penjelasan_pasal",
+        "lampiran",
+        "penutup"
+      ]
+    },
+    "reference_label": {"type": "string"},
+    "text": {"type": "string", "minLength": 1},
+    "metadata": {
+      "type": "object",
+      "required": ["jenis", "nomor", "tahun", "judul"],
+      "properties": {
+        "jenis": {"type": "string"},
+        "nomor": {"type": "string"},
+        "tahun": {"type": "integer"},
+        "judul": {"type": "string"},
+        "nomor_pasal": {"type": "string"},
+        "nomor_ayat": {"type": "string"},
+        "source_file": {"type": "string"},
+        "page_start": {"type": "integer"},
+        "page_end": {"type": "integer"},
+        "char_start": {"type": "integer"},
+        "char_end": {"type": "integer"}
+      },
+      "additionalProperties": true
+    },
+    "embedding": {
+      "type": "object",
+      "properties": {
+        "model": {"type": "string"},
+        "vector_id": {"type": "string"},
+        "created_at": {"type": "string"}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

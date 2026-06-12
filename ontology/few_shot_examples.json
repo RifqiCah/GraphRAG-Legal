@@ -1,0 +1,62 @@
+[
+  {
+    "subject": {"label": "Regulasi", "id": "REG-PP-4-2022"},
+    "predicate": "MENCABUT",
+    "object": {"label": "Regulasi", "id": "REG-PP-19-2005"},
+    "properties": {"tanggal_efektif": "2022-02-11"}
+  },
+  {
+    "subject": {"label": "Pasal", "id": "PSL-REG-UU-20-2003-3-1"},
+    "predicate": "MENGACU_PADA",
+    "object": {"label": "Regulasi", "id": "REG-UUD-1945"},
+    "properties": {"konteks": "sebagaimana diamanatkan dalam Pembukaan UUD 1945"}
+  },
+  {
+    "subject": {"label": "Pasal", "id": "PSL-REG-PP-57-2021-12-0"},
+    "predicate": "MENGATUR_TOPIK",
+    "object": {"label": "Subjek_Hukum", "id": "SBJ-peserta-didik"},
+    "properties": {"jenis_pengaturan": "Hak"}
+  },
+  {
+    "subject": {"label": "Regulasi", "id": "REG-PP-4-2022"},
+    "predicate": "MEMILIKI_PASAL",
+    "object": {"label": "Pasal", "id": "PSL-REG-PP-4-2022-3-0"},
+    "properties": {"urutan": 3}
+  },
+  {
+    "subject": {"label": "Pasal", "id": "PSL-REG-PP-4-2022-5-2"},
+    "predicate": "MENGACU_PADA",
+    "object": {"label": "Pasal", "id": "PSL-REG-PP-4-2022-3-1"},
+    "properties": {"konteks": "sebagaimana dimaksud dalam Pasal 3 ayat (1)"}
+  },
+  {
+    "subject": {"label": "Regulasi", "id": "REG-PP-57-2021"},
+    "predicate": "MENDAHULUI",
+    "object": {"label": "Regulasi", "id": "REG-PP-4-2022"},
+    "properties": {"selisih_tahun": 1}
+  },
+  {
+    "subject": {"label": "Pasal", "id": "PSL-REG-UU-14-2005-8-1"},
+    "predicate": "MENGATUR_TOPIK",
+    "object": {"label": "Subjek_Hukum", "id": "SBJ-guru"},
+    "properties": {"jenis_pengaturan": "Kewajiban"}
+  },
+  {
+    "subject": {"label": "Regulasi", "id": "REG-PP-4-2022"},
+    "predicate": "MENCABUT_PASAL",
+    "object": {"label": "Pasal", "id": "PSL-REG-PP-19-2005-25-0"},
+    "properties": {"tanggal_efektif": "2022-02-11"}
+  },
+  {
+    "subject": {"label": "Pasal", "id": "PSL-REG-UU-20-2003-35-1"},
+    "predicate": "MENGATUR_TOPIK",
+    "object": {"label": "Subjek_Hukum", "id": "SBJ-badan-standar-nasional-pendidikan"},
+    "properties": {"jenis_pengaturan": "Definisi"}
+  },
+  {
+    "subject": {"label": "Regulasi", "id": "REG-PP-74-2008"},
+    "predicate": "MENGAMANDEMEN",
+    "object": {"label": "Pasal", "id": "PSL-REG-PP-19-2005-28-3"},
+    "properties": {"tanggal_efektif": "2008-12-01", "teks_lama": "Kompetensi guru sebagai agen pembelajaran..."}
+  }
+]

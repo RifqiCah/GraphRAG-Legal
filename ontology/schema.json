@@ -1,0 +1,248 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PSKP Legal Knowledge Graph Schema",
+  "description": "Ontologi untuk Knowledge Graph regulasi PSKP. Schema ini merupakan kontrak tunggal yang mengikat seluruh pipeline.",
+  "version": "1.0.0",
+
+  "node_definitions": {
+    "Regulasi": {
+      "description": "Node representasi satu regulasi hukum (UU, PP, Perpres, dll.)",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^REG-(UUD|UU|PP|Perpres|Permendikbud)-[A-Za-z0-9]+-[0-9]{4}$",
+          "description": "Format: REG-[JENIS]-[NOMOR]-[TAHUN]. Contoh: REG-PP-4-2022",
+          "required": true
+        },
+        "jenis": {
+          "type": "string",
+          "enum": ["UUD", "UU", "PP", "Perpres", "Permendikbud"],
+          "description": "Jenis regulasi",
+          "required": true
+        },
+        "nomor": {
+          "type": "string",
+          "description": "Nomor regulasi. Contoh: \"20\"",
+          "required": true
+        },
+        "tahun": {
+          "type": "integer",
+          "description": "Tahun terbit. Contoh: 2003",
+          "required": true
+        },
+        "judul": {
+          "type": "string",
+          "description": "Judul lengkap regulasi",
+          "required": true
+        },
+        "status": {
+          "type": "string",
+          "enum": ["Berlaku", "Dicabut", "Diubah_Sebagian"],
+          "description": "Status berlaku regulasi",
+          "required": true
+        },
+        "url_sumber": {
+          "type": "string",
+          "description": "URL dokumen asli jika tersedia",
+          "required": false,
+          "default": ""
+        }
+      }
+    },
+
+    "Pasal": {
+      "description": "Node representasi satu pasal atau ayat dalam regulasi.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^PSL-REG-[A-Za-z]+-[A-Za-z0-9]+-[0-9]{4}-[0-9A-Z]+-[0-9]+$",
+          "description": "Format: PSL-[ID_REGULASI]-[NOMOR_PASAL]-[NOMOR_AYAT]. Contoh: PSL-REG-PP-4-2022-3-1",
+          "required": true
+        },
+        "nomor_pasal": {
+          "type": "string",
+          "description": "Nomor pasal. Contoh: \"3\"",
+          "required": true
+        },
+        "nomor_ayat": {
+          "type": "string",
+          "description": "Nomor ayat. Gunakan \"0\" jika pasal tidak memiliki ayat",
+          "required": true
+        },
+        "teks_isi": {
+          "type": "string",
+          "description": "Teks verbatim isi pasal/ayat dari dokumen asli",
+          "required": true
+        },
+        "topik": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Daftar topik semantik. Contoh: [\"kurikulum\", \"standar_nasional\"]",
+          "required": true
+        },
+        "status": {
+          "type": "string",
+          "enum": ["Aktif", "Dicabut", "Diubah"],
+          "description": "Status berlaku pasal",
+          "required": true
+        }
+      }
+    },
+
+    "Subjek_Hukum": {
+      "description": "Node representasi entitas hukum yang diatur oleh regulasi.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^SBJ-[a-z0-9-]+$",
+          "description": "Format: SBJ-[SLUG_NAMA]. Contoh: SBJ-peserta-didik",
+          "required": true
+        },
+        "nama": {
+          "type": "string",
+          "description": "Nama entitas. Contoh: \"Peserta Didik\"",
+          "required": true
+        },
+        "kategori": {
+          "type": "string",
+          "enum": ["Individu", "Lembaga", "Badan_Pemerintah", "Kelompok"],
+          "description": "Kategori entitas hukum",
+          "required": true
+        },
+        "deskripsi": {
+          "type": "string",
+          "description": "Deskripsi singkat peran entitas dalam konteks hukum",
+          "required": false,
+          "default": ""
+        }
+      }
+    }
+  },
+
+  "edge_definitions": {
+    "explicit_relations": [
+      {
+        "label": "MEMILIKI_PASAL",
+        "source_type": "Regulasi",
+        "target_type": "Pasal",
+        "description": "Relasi struktural regulasi ke pasalnya",
+        "properties": {
+          "urutan": {"type": "integer", "required": true, "description": "Urutan pasal dalam regulasi"}
+        }
+      },
+      {
+        "label": "MENGACU_PADA",
+        "source_type": "Pasal",
+        "target_type": ["Pasal", "Regulasi"],
+        "description": "Rujukan eksplisit dalam teks (\"sebagaimana dimaksud dalam...\")",
+        "properties": {
+          "konteks": {"type": "string", "required": true, "description": "Kutipan teks yang menjadi konteks rujukan"}
+        }
+      },
+      {
+        "label": "MENCABUT",
+        "source_type": "Regulasi",
+        "target_type": "Regulasi",
+        "description": "Regulasi baru mencabut regulasi lama sepenuhnya",
+        "properties": {
+          "tanggal_efektif": {"type": "string", "required": true, "description": "Tanggal efektif pencabutan (YYYY-MM-DD)"}
+        }
+      },
+      {
+        "label": "MENCABUT_PASAL",
+        "source_type": "Regulasi",
+        "target_type": "Pasal",
+        "description": "Regulasi baru mencabut pasal tertentu dari regulasi lain",
+        "properties": {
+          "tanggal_efektif": {"type": "string", "required": true, "description": "Tanggal efektif pencabutan (YYYY-MM-DD)"}
+        }
+      },
+      {
+        "label": "MENGAMANDEMEN",
+        "source_type": "Regulasi",
+        "target_type": "Pasal",
+        "description": "Perubahan sebagian isi pasal",
+        "properties": {
+          "tanggal_efektif": {"type": "string", "required": true, "description": "Tanggal efektif perubahan (YYYY-MM-DD)"},
+          "teks_lama": {"type": "string", "required": true, "description": "Teks pasal sebelum diubah"}
+        }
+      },
+      {
+        "label": "MENDAHULUI",
+        "source_type": "Regulasi",
+        "target_type": "Regulasi",
+        "description": "Relasi temporal hierarki regulasi",
+        "properties": {
+          "selisih_tahun": {"type": "integer", "required": true, "description": "Selisih tahun antar regulasi"}
+        }
+      }
+    ],
+    "semantic_relations": [
+      {
+        "label": "MENGATUR_TOPIK",
+        "source_type": "Pasal",
+        "target_type": "Subjek_Hukum",
+        "description": "Hubungan pasal dengan entitas yang diaturnya",
+        "properties": {
+          "jenis_pengaturan": {
+            "type": "string",
+            "enum": ["Hak", "Kewajiban", "Larangan", "Definisi"],
+            "required": true,
+            "description": "Jenis pengaturan pasal terhadap subjek hukum"
+          }
+        }
+      },
+      {
+        "label": "BERTENTANGAN_DENGAN",
+        "source_type": "Pasal",
+        "target_type": "Pasal",
+        "description": "Relasi konflik antar pasal — HANYA diisi saat Ground Truth construction (Issue #6)",
+        "properties": {
+          "jenis_konflik": {
+            "type": "string",
+            "enum": ["Direct_Contradiction", "Hierarchical_Conflict", "Temporal_Inconsistency", "Regulatory_Overlap"],
+            "required": true,
+            "description": "Kategori konflik hukum"
+          },
+          "penjelasan": {
+            "type": "string",
+            "required": true,
+            "description": "Penjelasan detail tentang konflik yang terjadi"
+          }
+        }
+      }
+    ]
+  },
+
+  "constraint_rules": [
+    {"id": "RULE-01", "rule": "Edge MENCABUT hanya boleh antara dua Node berlabel Regulasi."},
+    {"id": "RULE-02", "rule": "Edge MEMILIKI_PASAL hanya boleh dari Node Regulasi ke Node Pasal."},
+    {"id": "RULE-03", "rule": "Properti id pada semua Node harus unik secara global."},
+    {"id": "RULE-04", "rule": "Node Pasal dengan nomor_ayat \"0\" berarti pasal tanpa ayat (bukan error)."},
+    {"id": "RULE-05", "rule": "Edge MENGAMANDEMEN wajib menyertakan properti teks_lama (teks sebelum diubah)."},
+    {"id": "RULE-06", "rule": "Node Regulasi dengan status \"Dicabut\" tidak boleh menjadi source Edge MENGACU_PADA."},
+    {"id": "RULE-07", "rule": "Nilai field jenis pada Node Regulasi harus berasal dari Enum yang telah ditetapkan."},
+    {"id": "RULE-08", "rule": "Edge BERTENTANGAN_DENGAN hanya dibuat pada fase Issue #6 (Ground Truth), bukan fase ekstraksi otomatis."}
+  ],
+
+  "few_shot_examples": [
+    {
+      "subject": {"label": "Regulasi", "id": "REG-PP-4-2022"},
+      "predicate": "MENCABUT",
+      "object": {"label": "Regulasi", "id": "REG-PP-19-2005"},
+      "properties": {"tanggal_efektif": "2022-02-11"}
+    },
+    {
+      "subject": {"label": "Pasal", "id": "PSL-REG-UU-20-2003-3-1"},
+      "predicate": "MENGACU_PADA",
+      "object": {"label": "Regulasi", "id": "REG-UUD-1945"},
+      "properties": {"konteks": "sebagaimana diamanatkan dalam Pembukaan UUD 1945"}
+    },
+    {
+      "subject": {"label": "Pasal", "id": "PSL-REG-PP-57-2021-12-0"},
+      "predicate": "MENGATUR_TOPIK",
+      "object": {"label": "Subjek_Hukum", "id": "SBJ-peserta-didik"},
+      "properties": {"jenis_pengaturan": "Hak"}
+    }
+  ]
+}

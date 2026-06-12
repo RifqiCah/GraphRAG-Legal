@@ -1,0 +1,48 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+.venv-legal/
+
+# Tooling/test caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE/OS artifacts
+.DS_Store
+.idea/
+.vscode/
+
+# Common private key files
+*.pem
+*.key
+
+# Generated data and experiment artifacts
+data/
+logs/
+outputs/
+indexes/
+models/
+checkpoints/
+runs/
+wandb/
+mlruns/
+
+# Keep placeholder files if we add folder skeletons later
+!data/**/.gitkeep
+!logs/**/.gitkeep
+!outputs/**/.gitkeep
+!indexes/**/.gitkeep

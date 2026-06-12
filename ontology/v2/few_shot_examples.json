@@ -1,0 +1,158 @@
+[
+  {
+    "name": "structural_pasal_ayat",
+    "input_text": "Pasal 5\n(1) Pemerintah menetapkan kebijakan nasional pelaksanaan program wajib belajar.\n(2) Pemerintah daerah dapat menetapkan kebijakan untuk meningkatkan jenjang pendidikan wajib belajar.",
+    "expected_nodes": [
+      {
+        "label": "Pasal",
+        "id": "PSL-REG-PP-47-2008-5",
+        "properties": {
+          "regulasi_id": "REG-PP-47-2008",
+          "nomor_pasal": "5",
+          "status": "Aktif"
+        }
+      },
+      {
+        "label": "Ayat",
+        "id": "AYT-REG-PP-47-2008-5-1",
+        "properties": {
+          "regulasi_id": "REG-PP-47-2008",
+          "pasal_id": "PSL-REG-PP-47-2008-5",
+          "nomor_pasal": "5",
+          "nomor_ayat": "1",
+          "teks_isi": "Pemerintah menetapkan kebijakan nasional pelaksanaan program wajib belajar.",
+          "status": "Aktif"
+        }
+      }
+    ],
+    "expected_edges": [
+      {
+        "source_id": "REG-PP-47-2008",
+        "predicate": "MEMILIKI_PASAL",
+        "target_id": "PSL-REG-PP-47-2008-5",
+        "properties": {"urutan": 5}
+      },
+      {
+        "source_id": "PSL-REG-PP-47-2008-5",
+        "predicate": "MEMILIKI_AYAT",
+        "target_id": "AYT-REG-PP-47-2008-5-1",
+        "properties": {"urutan": 1}
+      }
+    ]
+  },
+  {
+    "name": "dasar_hukum_mengingat",
+    "input_text": "Mengingat: 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional;",
+    "expected_nodes": [
+      {
+        "label": "Dasar_Hukum",
+        "id": "DASAR-REG-PP-57-2021-MENGINGAT-1",
+        "properties": {
+          "regulasi_id": "REG-PP-57-2021",
+          "nomor": "1",
+          "target_regulasi_id": "REG-UUD-1945"
+        }
+      },
+      {
+        "label": "Dasar_Hukum",
+        "id": "DASAR-REG-PP-57-2021-MENGINGAT-2",
+        "properties": {
+          "regulasi_id": "REG-PP-57-2021",
+          "nomor": "2",
+          "target_regulasi_id": "REG-UU-20-2003"
+        }
+      }
+    ],
+    "expected_edges": [
+      {
+        "source_id": "REG-PP-57-2021",
+        "predicate": "MEMILIKI_DASAR_HUKUM",
+        "target_id": "DASAR-REG-PP-57-2021-MENGINGAT-1",
+        "properties": {"urutan": 1}
+      },
+      {
+        "source_id": "DASAR-REG-PP-57-2021-MENGINGAT-2",
+        "predicate": "BERDASARKAN",
+        "target_id": "REG-UU-20-2003",
+        "properties": {
+          "konteks": "Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional"
+        }
+      }
+    ]
+  },
+  {
+    "name": "status_mencabut_sebagian",
+    "input_text": "Ketentuan mengenai ujian akhir sekolah berstandar nasional sebagaimana diatur dalam Pasal 74 ayat (4) dan ujian nasional sebagaimana diatur dalam Pasal 82 ayat (4), dicabut.",
+    "expected_edges": [
+      {
+        "source_id": "REG-PP-57-2021",
+        "predicate": "MENCABUT_PASAL",
+        "target_id": "AYT-REG-PP-17-2010-74-4",
+        "properties": {
+          "konteks": "Ketentuan mengenai ujian akhir sekolah berstandar nasional sebagaimana diatur dalam Pasal 74 ayat (4) ... dicabut."
+        }
+      },
+      {
+        "source_id": "REG-PP-57-2021",
+        "predicate": "MENCABUT_PASAL",
+        "target_id": "AYT-REG-PP-17-2010-82-4",
+        "properties": {
+          "konteks": "ujian nasional sebagaimana diatur dalam Pasal 82 ayat (4) ... dicabut."
+        }
+      }
+    ]
+  },
+  {
+    "name": "penjelasan_dokumen",
+    "input_text": "PENJELASAN ATAS PERATURAN PEMERINTAH NOMOR 47 TAHUN 2008 TENTANG WAJIB BELAJAR\nI. UMUM\nPasal 34 Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional menetapkan bahwa Pemerintah dan pemerintah daerah menjamin terselenggaranya program wajib belajar.",
+    "expected_nodes": [
+      {
+        "label": "Penjelasan",
+        "id": "PJL-REG-PP-47-2008",
+        "properties": {
+          "regulasi_id": "REG-PP-47-2008",
+          "source_file": "PJL-REG-PP-47-2008.pdf"
+        }
+      },
+      {
+        "label": "Penjelasan_Umum",
+        "id": "PJL-REG-PP-47-2008-UMUM",
+        "properties": {
+          "regulasi_id": "REG-PP-47-2008",
+          "penjelasan_id": "PJL-REG-PP-47-2008"
+        }
+      }
+    ],
+    "expected_edges": [
+      {
+        "source_id": "REG-PP-47-2008",
+        "predicate": "MEMILIKI_PENJELASAN",
+        "target_id": "PJL-REG-PP-47-2008",
+        "properties": {}
+      },
+      {
+        "source_id": "PJL-REG-PP-47-2008",
+        "predicate": "MEMILIKI_PENJELASAN_UMUM",
+        "target_id": "PJL-REG-PP-47-2008-UMUM",
+        "properties": {}
+      }
+    ]
+  },
+  {
+    "name": "conflict_candidate_direct_contradiction",
+    "input_text": "Pasal A mewajibkan satuan pendidikan melakukan X, sedangkan Pasal B dari regulasi setara melarang satuan pendidikan melakukan X.",
+    "expected_edges": [
+      {
+        "source_id": "AYT-REG-PP-A-1-1",
+        "predicate": "BERTENTANGAN_DENGAN",
+        "target_id": "AYT-REG-PP-B-2-1",
+        "properties": {
+          "jenis_konflik": "Direct_Contradiction",
+          "penjelasan": "Kedua ayat mengatur subjek dan tindakan yang sama, tetapi satu mewajibkan dan yang lain melarang.",
+          "evidence_chunk_ids": ["CHK-REG-PP-A-0001", "CHK-REG-PP-B-0001"],
+          "review_status": "candidate"
+        }
+      }
+    ]
+  }
+]

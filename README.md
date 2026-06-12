@@ -20,11 +20,11 @@ pskp-legal-graph/
 │   ├── constraints.md              # 8 Constraint Rules validasi
 │   └── few_shot_examples.json      # Contoh ekstraksi sebagai few-shot prompt LLM
 ├── scripts/
-│   ├── extract.py                  # Core script: Ekstraksi, pembersihan, Regex + LLM
-│   ├── batch_extract.py            # Batch processing untuk seluruh manifest
-│   ├── ingest_neo4j.py             # Script ingestion ke Neo4j via Cypher (Idempotent MERGE)
-│   ├── init_constraints.cypher     # Inisialisasi DB Constraints dan Index
-│   └── validate_graph.py           # Verifikasi integritas Graph (Issue #5)
+│   ├── extraction/                 # Ekstraksi PDF -> processed JSON -> triplets
+│   ├── graph/                      # Build index graph + retrieval utilities
+│   ├── ingestion/                  # Ingestion/validasi Neo4j
+│   ├── evaluation/                 # Script evaluasi dan audit dataset
+│   └── training/                   # Persiapan SFT, train, inferensi
 ├── evaluation/                     # Direktori untuk Ground Truth Dataset (Issue #6)
 ├── docker-compose.yml              # Konfigurasi container Neo4j
 ├── requirements.txt                # Dependensi Python
@@ -56,7 +56,7 @@ pskp-legal-graph/
 
 4. **Inisialisasi Database Constraints:**
    ```bash
-   python scripts/ingest_neo4j.py --init
+   python scripts/ingestion/ingest_neo4j.py --init
    ```
 
 ---
@@ -69,16 +69,16 @@ Proses ekstraksi ke ingestion dilakukan secara berurutan sesuai issue yang ada. 
 Menjalankan ekstraksi teks, segmentasi struktural (ke format Hierarki JSON), dilanjutkan dengan ekstraksi Triplet menggunakan Regex (relasi eksplisit) dan LLM Hybrid (relasi semantik).
 
 ```bash
-python scripts/batch_extract.py
+python scripts/extraction/batch_extract.py
 ```
-*Gunakan `python scripts/batch_extract.py --force` jika ingin memproses ulang seluruh file.*
-*Gunakan `python scripts/extract.py --file REG-PP-4-2022` untuk ekstraksi spesifik.*
+*Gunakan `python scripts/extraction/batch_extract.py --force` jika ingin memproses ulang seluruh file.*
+*Gunakan `python scripts/extraction/extract.py --file REG-PP-4-2022` untuk ekstraksi spesifik.*
 
 ### 2. Memasukkan Triplet ke Neo4j (Issue #4)
 Membaca seluruh triplet hasil dari pipeline sebelumnya dan mengingestinya menggunakan teknik idempotent (MERGE).
 
 ```bash
-python scripts/ingest_neo4j.py
+python scripts/ingestion/ingest_neo4j.py
 ```
 > Script ini otomatis akan memastikan node dibuat sebelum edge dan melaporkan keseluruhan proses di direktori `/reports/ingestion_report.json`.
 
@@ -86,7 +86,7 @@ python scripts/ingest_neo4j.py
 Mendeteksi apakah terdapat *orphaned nodes* serta menguji jalur rujukan logika hukum untuk memastikan graph layak dan bisa merespon pertanyaan hierarki.
 
 ```bash
-python scripts/validate_graph.py
+python scripts/ingestion/validate_graph.py
 ```
 
 ---

@@ -1,0 +1,280 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PSKP Legal Knowledge Graph Schema v2",
+  "description": "Ontologi v2 untuk GraphRAG dan deteksi konflik regulasi PSKP. Schema ini memisahkan struktur dokumen, status hukum, chunk retrieval, dan relasi semantik.",
+  "version": "2.0.0",
+  "id_prefixes": {
+    "Regulasi": "REG",
+    "Bab": "BAB",
+    "Bagian": "BGN",
+    "Paragraf": "PRG",
+    "Pasal": "PSL",
+    "Ayat": "AYT",
+    "SubItem": "SUB",
+    "Konsiderans": "KONS",
+    "Dasar_Hukum": "DASAR",
+    "Diktum": "DIKTUM",
+    "Penjelasan": "PJL",
+    "Penjelasan_Umum": "PJL",
+    "Penjelasan_Pasal": "PJL",
+    "Lampiran": "LAMP",
+    "Penutup": "PENUTUP",
+    "Peristiwa_Hukum": "EVT",
+    "Chunk": "CHK",
+    "Subjek_Hukum": "SBJ",
+    "Topik": "TOPIK"
+  },
+  "node_definitions": {
+    "Regulasi": {
+      "description": "Satu dokumen hukum utama atau dokumen rujukan.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^REG-[A-Z]+-[A-Za-z0-9-]+$", "required": true},
+        "jenis": {"type": "string", "enum": ["UUD", "UU", "PP", "Perpres", "Permendikbud", "Permenristekdikti", "Inpres", "Perda", "Unknown"], "required": true},
+        "nomor": {"type": "string", "required": true},
+        "tahun": {"type": "integer", "required": true},
+        "judul": {"type": "string", "required": true},
+        "tentang": {"type": "string", "required": false, "default": ""},
+        "status": {"type": "string", "enum": ["Berlaku", "Dicabut", "Dicabut_Sebagian", "Diubah", "Diubah_Sebagian", "Tidak_Diketahui"], "required": true},
+        "tanggal_penetapan": {"type": "string", "required": false, "default": ""},
+        "tanggal_pengundangan": {"type": "string", "required": false, "default": ""},
+        "tanggal_berlaku": {"type": "string", "required": false, "default": ""},
+        "sumber": {"type": "string", "required": false, "default": ""},
+        "url_sumber": {"type": "string", "required": false, "default": ""},
+        "has_full_text": {"type": "boolean", "required": true, "default": true}
+      }
+    },
+    "Bab": {
+      "description": "Bab dalam batang tubuh regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^BAB-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "nomor_bab": {"type": "string", "required": true},
+        "judul": {"type": "string", "required": false, "default": ""},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Bagian": {
+      "description": "Bagian dalam bab atau batang tubuh regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^BGN-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "nomor_bagian": {"type": "string", "required": true},
+        "judul": {"type": "string", "required": false, "default": ""},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Paragraf": {
+      "description": "Paragraf dalam bagian atau bab.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^PRG-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "nomor_paragraf": {"type": "string", "required": true},
+        "judul": {"type": "string", "required": false, "default": ""},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Pasal": {
+      "description": "Pasal normatif dalam batang tubuh regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^PSL-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "nomor_pasal": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": false, "default": ""},
+        "status": {"type": "string", "enum": ["Aktif", "Dicabut", "Dicabut_Sebagian", "Diubah", "Tidak_Diketahui"], "required": true},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Ayat": {
+      "description": "Ayat dalam pasal normatif.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^AYT-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "pasal_id": {"type": "string", "required": true},
+        "nomor_pasal": {"type": "string", "required": true},
+        "nomor_ayat": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": true},
+        "status": {"type": "string", "enum": ["Aktif", "Dicabut", "Dicabut_Sebagian", "Diubah", "Tidak_Diketahui"], "required": true},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "SubItem": {
+      "description": "Huruf atau angka di bawah ayat/pasal.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^SUB-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "parent_id": {"type": "string", "required": true},
+        "jenis": {"type": "string", "enum": ["huruf", "angka"], "required": true},
+        "nomor": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": true},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Konsiderans": {
+      "description": "Item Menimbang dalam bagian pembukaan regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^KONS-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "jenis": {"type": "string", "enum": ["menimbang"], "required": true},
+        "nomor": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": true},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Dasar_Hukum": {
+      "description": "Item Mengingat sebagai dasar hukum regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^DASAR-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "nomor": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": true},
+        "target_regulasi_id": {"type": "string", "required": false, "default": ""},
+        "target_pasal_id": {"type": "string", "required": false, "default": ""},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Diktum": {
+      "description": "Bagian Memutuskan atau Menetapkan.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^DIKTUM-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "jenis": {"type": "string", "enum": ["memutuskan", "menetapkan"], "required": true},
+        "teks_isi": {"type": "string", "required": true},
+        "urutan": {"type": "integer", "required": true}
+      }
+    },
+    "Penjelasan": {
+      "description": "Bagian penjelasan dokumen, bukan norma utama.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^PJL-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": false, "default": ""},
+        "source_file": {"type": "string", "required": false, "default": ""}
+      }
+    },
+    "Penjelasan_Umum": {
+      "description": "Subbagian umum dalam penjelasan.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^PJL-REG-.+-UMUM$", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "penjelasan_id": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": true}
+      }
+    },
+    "Penjelasan_Pasal": {
+      "description": "Penjelasan pasal demi pasal.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^PJL-REG-.+-PASAL-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "penjelasan_id": {"type": "string", "required": true},
+        "nomor_pasal": {"type": "string", "required": true},
+        "target_pasal_id": {"type": "string", "required": false, "default": ""},
+        "teks_isi": {"type": "string", "required": true}
+      }
+    },
+    "Lampiran": {
+      "description": "Lampiran regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^LAMP-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "nomor_lampiran": {"type": "string", "required": true},
+        "judul": {"type": "string", "required": false, "default": ""},
+        "teks_isi": {"type": "string", "required": false, "default": ""},
+        "source_file": {"type": "string", "required": false, "default": ""}
+      }
+    },
+    "Penutup": {
+      "description": "Bagian penutup dan pengundangan regulasi.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^PENUTUP-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "teks_isi": {"type": "string", "required": true},
+        "tanggal_ditetapkan": {"type": "string", "required": false, "default": ""},
+        "tanggal_diundangkan": {"type": "string", "required": false, "default": ""}
+      }
+    },
+    "Peristiwa_Hukum": {
+      "description": "Peristiwa hukum seperti mulai berlaku, pengundangan, penetapan, pencabutan, atau perubahan.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^EVT-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "jenis": {"type": "string", "enum": ["mulai_berlaku", "diundangkan", "ditetapkan", "dicabut", "diubah"], "required": true},
+        "tanggal": {"type": "string", "required": false, "default": ""},
+        "teks_isi": {"type": "string", "required": false, "default": ""}
+      }
+    },
+    "Chunk": {
+      "description": "Unit teks untuk retrieval dan embedding.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^CHK-REG-.+", "required": true},
+        "regulasi_id": {"type": "string", "required": true},
+        "source_node_id": {"type": "string", "required": true},
+        "section_type": {"type": "string", "enum": ["menimbang", "mengingat", "diktum", "bab", "bagian", "paragraf", "pasal", "ayat", "subitem", "penjelasan_umum", "penjelasan_pasal", "lampiran", "penutup"], "required": true},
+        "reference_label": {"type": "string", "required": true},
+        "text": {"type": "string", "required": true},
+        "page_start": {"type": "integer", "required": false},
+        "page_end": {"type": "integer", "required": false},
+        "char_start": {"type": "integer", "required": false},
+        "char_end": {"type": "integer", "required": false},
+        "embedding_model": {"type": "string", "required": false, "default": ""},
+        "embedding_id": {"type": "string", "required": false, "default": ""}
+      }
+    },
+    "Subjek_Hukum": {
+      "description": "Entitas hukum yang diatur.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^SBJ-[a-z0-9-]+$", "required": true},
+        "nama": {"type": "string", "required": true},
+        "kategori": {"type": "string", "enum": ["Individu", "Lembaga", "Badan_Pemerintah", "Kelompok", "Objek_Hukum", "Unknown"], "required": true},
+        "deskripsi": {"type": "string", "required": false, "default": ""}
+      }
+    },
+    "Topik": {
+      "description": "Konsep/topik hukum yang menjadi objek pengaturan.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^TOPIK-[a-z0-9-]+$", "required": true},
+        "nama": {"type": "string", "required": true},
+        "deskripsi": {"type": "string", "required": false, "default": ""}
+      }
+    }
+  },
+  "edge_definitions": {
+    "structural_relations": [
+      {"label": "MEMILIKI_BAB", "source_type": "Regulasi", "target_type": "Bab", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_BAGIAN", "source_type": ["Regulasi", "Bab"], "target_type": "Bagian", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_PARAGRAF", "source_type": ["Bab", "Bagian"], "target_type": "Paragraf", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_PASAL", "source_type": ["Regulasi", "Bab", "Bagian", "Paragraf"], "target_type": "Pasal", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_AYAT", "source_type": "Pasal", "target_type": "Ayat", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_SUBITEM", "source_type": ["Pasal", "Ayat", "SubItem"], "target_type": "SubItem", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_KONSIDERANS", "source_type": "Regulasi", "target_type": "Konsiderans", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_DASAR_HUKUM", "source_type": "Regulasi", "target_type": "Dasar_Hukum", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_DIKTUM", "source_type": "Regulasi", "target_type": "Diktum", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_PENJELASAN", "source_type": "Regulasi", "target_type": "Penjelasan", "properties": {}},
+      {"label": "MEMILIKI_PENJELASAN_UMUM", "source_type": "Penjelasan", "target_type": "Penjelasan_Umum", "properties": {}},
+      {"label": "MEMILIKI_PENJELASAN_PASAL", "source_type": "Penjelasan", "target_type": "Penjelasan_Pasal", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MENJELASKAN", "source_type": "Penjelasan_Pasal", "target_type": "Pasal", "properties": {"konteks": {"type": "string", "required": false}}},
+      {"label": "MEMILIKI_LAMPIRAN", "source_type": "Regulasi", "target_type": "Lampiran", "properties": {"urutan": {"type": "integer", "required": true}}},
+      {"label": "MEMILIKI_PENUTUP", "source_type": "Regulasi", "target_type": "Penutup", "properties": {}},
+      {"label": "MEMILIKI_CHUNK", "source_type": ["Regulasi", "Bab", "Bagian", "Paragraf", "Pasal", "Ayat", "SubItem", "Konsiderans", "Dasar_Hukum", "Diktum", "Penjelasan", "Penjelasan_Umum", "Penjelasan_Pasal", "Lampiran", "Penutup"], "target_type": "Chunk", "properties": {"urutan": {"type": "integer", "required": true}}}
+    ],
+    "explicit_relations": [
+      {"label": "MENGACU_PADA", "source_type": ["Konsiderans", "Dasar_Hukum", "Diktum", "Pasal", "Ayat", "SubItem", "Penjelasan_Pasal", "Lampiran", "Chunk"], "target_type": ["Regulasi", "Pasal", "Ayat", "SubItem"], "properties": {"konteks": {"type": "string", "required": true}}},
+      {"label": "BERDASARKAN", "source_type": ["Regulasi", "Dasar_Hukum"], "target_type": ["Regulasi", "Pasal", "Ayat"], "properties": {"konteks": {"type": "string", "required": true}}},
+      {"label": "MENGAMANDEMEN", "source_type": "Regulasi", "target_type": ["Regulasi", "Pasal", "Ayat", "SubItem"], "properties": {"tanggal_efektif": {"type": "string", "required": false}, "konteks": {"type": "string", "required": true}}},
+      {"label": "MENCABUT", "source_type": "Regulasi", "target_type": "Regulasi", "properties": {"tanggal_efektif": {"type": "string", "required": false}, "konteks": {"type": "string", "required": true}}},
+      {"label": "MENCABUT_PASAL", "source_type": "Regulasi", "target_type": ["Pasal", "Ayat", "SubItem"], "properties": {"tanggal_efektif": {"type": "string", "required": false}, "konteks": {"type": "string", "required": true}}},
+      {"label": "MULAI_BERLAKU", "source_type": ["Regulasi", "Pasal", "Ayat"], "target_type": "Peristiwa_Hukum", "properties": {"tanggal": {"type": "string", "required": true}, "konteks": {"type": "string", "required": false}}},
+      {"label": "DIUNDANGKAN_PADA", "source_type": "Regulasi", "target_type": "Peristiwa_Hukum", "properties": {"tanggal": {"type": "string", "required": true}, "konteks": {"type": "string", "required": false}}}
+    ],
+    "semantic_relations": [
+      {"label": "MENGATUR_TOPIK", "source_type": ["Pasal", "Ayat", "SubItem", "Chunk"], "target_type": "Topik", "properties": {"confidence": {"type": "number", "required": false}}},
+      {"label": "MENGATUR_SUBJEK", "source_type": ["Pasal", "Ayat", "SubItem", "Chunk"], "target_type": "Subjek_Hukum", "properties": {"confidence": {"type": "number", "required": false}}},
+      {"label": "MEMBERIKAN_HAK", "source_type": ["Pasal", "Ayat", "SubItem"], "target_type": "Subjek_Hukum", "properties": {"konteks": {"type": "string", "required": true}}},
+      {"label": "MEMBEBANKAN_KEWAJIBAN", "source_type": ["Pasal", "Ayat", "SubItem"], "target_type": "Subjek_Hukum", "properties": {"konteks": {"type": "string", "required": true}}},
+      {"label": "MELARANG", "source_type": ["Pasal", "Ayat", "SubItem"], "target_type": ["Topik", "Subjek_Hukum"], "properties": {"konteks": {"type": "string", "required": true}}},
+      {"label": "MENDEFINISIKAN", "source_type": ["Pasal", "Ayat", "SubItem"], "target_type": ["Topik", "Subjek_Hukum"], "properties": {"definisi": {"type": "string", "required": true}}}
+    ],
+    "conflict_relations": [
+      {"label": "BERTENTANGAN_DENGAN", "source_type": ["Pasal", "Ayat", "SubItem"], "target_type": ["Pasal", "Ayat", "SubItem"], "properties": {"jenis_konflik": {"type": "string", "enum": ["Direct_Contradiction", "Hierarchical_Conflict", "Temporal_Inconsistency", "Regulatory_Overlap"], "required": true}, "penjelasan": {"type": "string", "required": true}, "evidence_chunk_ids": {"type": "array", "items": {"type": "string"}, "required": true}, "review_status": {"type": "string", "enum": ["candidate", "reviewed", "rejected"], "required": true}}}
+    ]
+  }
+}

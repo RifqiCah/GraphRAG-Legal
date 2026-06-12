@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PSKP Triplet v2",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "source_id",
+    "source_type",
+    "predicate",
+    "target_id",
+    "target_type",
+    "confidence",
+    "extraction_method",
+    "evidence",
+    "properties"
+  ],
+  "properties": {
+    "schema_version": {"type": "string", "const": "2.0.0"},
+    "source_id": {"type": "string", "minLength": 1},
+    "source_type": {"type": "string", "minLength": 1},
+    "predicate": {"type": "string", "minLength": 1},
+    "target_id": {"type": "string", "minLength": 1},
+    "target_type": {"type": "string", "minLength": 1},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "extraction_method": {
+      "type": "string",
+      "enum": [
+        "structural",
+        "regex",
+        "llm",
+        "metadata_status",
+        "manual_review",
+        "candidate_generation"
+      ]
+    },
+    "evidence": {
+      "type": "object",
+      "required": ["text"],
+      "properties": {
+        "text": {"type": "string"},
+        "chunk_ids": {"type": "array", "items": {"type": "string"}},
+        "source_file": {"type": "string"},
+        "page_start": {"type": "integer"},
+        "page_end": {"type": "integer"}
+      },
+      "additionalProperties": false
+    },
+    "properties": {"type": "object"},
+    "validation": {
+      "type": "object",
+      "properties": {
+        "status": {"type": "string", "enum": ["valid", "invalid", "warning"]},
+        "errors": {"type": "array", "items": {"type": "string"}},
+        "warnings": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

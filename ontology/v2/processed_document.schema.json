@@ -1,0 +1,249 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PSKP Processed Document v2",
+  "type": "object",
+  "required": ["schema_version", "regulasi_id", "metadata", "sources", "preamble", "body", "explanation", "attachments", "closing", "parse_quality"],
+  "properties": {
+    "schema_version": {"type": "string", "const": "2.0.0"},
+    "regulasi_id": {"type": "string", "pattern": "^REG-.+"},
+    "metadata": {
+      "type": "object",
+      "required": ["jenis", "nomor", "tahun", "judul", "status"],
+      "properties": {
+        "jenis": {"type": "string"},
+        "nomor": {"type": "string"},
+        "tahun": {"type": "integer"},
+        "judul": {"type": "string"},
+        "tentang": {"type": "string"},
+        "status": {"type": "string"},
+        "tanggal_penetapan": {"type": "string"},
+        "tanggal_pengundangan": {"type": "string"},
+        "tanggal_berlaku": {"type": "string"},
+        "sumber": {"type": "string"},
+        "url_sumber": {"type": "string"},
+        "has_full_text": {"type": "boolean"}
+      },
+      "additionalProperties": true
+    },
+    "sources": {
+      "type": "object",
+      "required": ["main_pdf"],
+      "properties": {
+        "main_pdf": {"type": "string"},
+        "explanation_pdf": {"type": "string"},
+        "attachment_files": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "preamble": {
+      "type": "object",
+      "required": ["opening_phrase", "menimbang", "mengingat", "memutuskan", "menetapkan"],
+      "properties": {
+        "opening_phrase": {"type": "string"},
+        "menimbang": {"type": "array", "items": {"$ref": "#/definitions/numberedTextItem"}},
+        "mengingat": {"type": "array", "items": {"$ref": "#/definitions/dasarHukumItem"}},
+        "memutuskan": {"type": "string"},
+        "menetapkan": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "body": {
+      "type": "object",
+      "required": ["bab", "pasal"],
+      "properties": {
+        "bab": {"type": "array", "items": {"$ref": "#/definitions/babItem"}},
+        "pasal": {"type": "array", "items": {"$ref": "#/definitions/pasalItem"}}
+      },
+      "additionalProperties": false
+    },
+    "explanation": {
+      "type": "object",
+      "required": ["available", "source_file", "umum", "pasal_demi_pasal"],
+      "properties": {
+        "available": {"type": "boolean"},
+        "source_file": {"type": "string"},
+        "umum": {"type": "string"},
+        "pasal_demi_pasal": {"type": "array", "items": {"$ref": "#/definitions/penjelasanPasalItem"}}
+      },
+      "additionalProperties": false
+    },
+    "attachments": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/attachmentItem"}
+    },
+    "closing": {
+      "type": "object",
+      "required": ["teks_isi"],
+      "properties": {
+        "teks_isi": {"type": "string"},
+        "tanggal_ditetapkan": {"type": "string"},
+        "tanggal_diundangkan": {"type": "string"},
+        "pejabat_penetapan": {"type": "string"},
+        "pejabat_pengundangan": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "parse_quality": {
+      "type": "object",
+      "required": ["status", "warnings"],
+      "properties": {
+        "status": {"type": "string", "enum": ["PASS", "WARN", "FAIL"]},
+        "scan_detected": {"type": "boolean"},
+        "total_pasal": {"type": "integer"},
+        "total_ayat": {"type": "integer"},
+        "has_preamble": {"type": "boolean"},
+        "has_explanation": {"type": "boolean"},
+        "warnings": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": true
+    }
+  },
+  "definitions": {
+    "textSpan": {
+      "type": "object",
+      "properties": {
+        "page_start": {"type": "integer"},
+        "page_end": {"type": "integer"},
+        "char_start": {"type": "integer"},
+        "char_end": {"type": "integer"}
+      },
+      "additionalProperties": false
+    },
+    "numberedTextItem": {
+      "type": "object",
+      "required": ["id", "nomor", "teks_isi", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    },
+    "dasarHukumItem": {
+      "type": "object",
+      "required": ["id", "nomor", "teks_isi", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "target_regulasi_id": {"type": "string"},
+        "target_pasal_id": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    },
+    "babItem": {
+      "type": "object",
+      "required": ["id", "nomor_bab", "judul", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_bab": {"type": "string"},
+        "judul": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "bagian": {"type": "array", "items": {"$ref": "#/definitions/bagianItem"}},
+        "pasal_ids": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "bagianItem": {
+      "type": "object",
+      "required": ["id", "nomor_bagian", "judul", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_bagian": {"type": "string"},
+        "judul": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "paragraf": {"type": "array", "items": {"$ref": "#/definitions/paragrafItem"}},
+        "pasal_ids": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "paragrafItem": {
+      "type": "object",
+      "required": ["id", "nomor_paragraf", "judul", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_paragraf": {"type": "string"},
+        "judul": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "pasal_ids": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "pasalItem": {
+      "type": "object",
+      "required": ["id", "nomor_pasal", "teks_isi", "status", "urutan", "ayat"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_pasal": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "status": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "parent_bab_id": {"type": "string"},
+        "parent_bagian_id": {"type": "string"},
+        "parent_paragraf_id": {"type": "string"},
+        "ayat": {"type": "array", "items": {"$ref": "#/definitions/ayatItem"}},
+        "sub_items": {"type": "array", "items": {"$ref": "#/definitions/subItem"}},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    },
+    "ayatItem": {
+      "type": "object",
+      "required": ["id", "nomor_ayat", "teks_isi", "status", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_ayat": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "status": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "sub_items": {"type": "array", "items": {"$ref": "#/definitions/subItem"}},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    },
+    "subItem": {
+      "type": "object",
+      "required": ["id", "jenis", "nomor", "teks_isi", "urutan"],
+      "properties": {
+        "id": {"type": "string"},
+        "jenis": {"type": "string", "enum": ["huruf", "angka"]},
+        "nomor": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "urutan": {"type": "integer"},
+        "children": {"type": "array", "items": {"$ref": "#/definitions/subItem"}},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    },
+    "penjelasanPasalItem": {
+      "type": "object",
+      "required": ["id", "nomor_pasal", "teks_isi"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_pasal": {"type": "string"},
+        "target_pasal_id": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    },
+    "attachmentItem": {
+      "type": "object",
+      "required": ["id", "nomor_lampiran", "judul", "teks_isi"],
+      "properties": {
+        "id": {"type": "string"},
+        "nomor_lampiran": {"type": "string"},
+        "judul": {"type": "string"},
+        "teks_isi": {"type": "string"},
+        "source_file": {"type": "string"},
+        "span": {"$ref": "#/definitions/textSpan"}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

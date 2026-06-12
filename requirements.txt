@@ -1,0 +1,12 @@
+# Core
+pdfplumber>=0.10.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+neo4j>=5.0.0
+
+# Fallback PDF extraction
+PyMuPDF>=1.23.0
+
+# OCR (optional — install jika ada PDF scan)
+# pytesseract>=0.3.10
+# pdf2image>=1.16.0
