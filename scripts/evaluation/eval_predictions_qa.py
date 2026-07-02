@@ -7,7 +7,7 @@ library-based metrics that are appropriate for paper reporting:
 - BLEU via NLTK
 - METEOR via NLTK
 - ROUGE-L via rouge_score
-- BERT-Cosine via sentence-transformers embeddings
+- Embedding cosine via sentence-transformers embeddings
 
 Supported outputs:
 - scripts/training/infer_lora.py
@@ -154,7 +154,7 @@ def evaluate_rows(
 
         meteor = safe_meteor(ground_truth, prediction)
         rouge_score = rouge.score(normalize_spaces(ground_truth), normalize_spaces(prediction))["rougeL"]
-        bert_cos = bert_scores.get(idx, 0.0)
+        embedding_cos = bert_scores.get(idx, 0.0)
 
         result = {
             "index": safe_int(row.get("index", str(idx))),
@@ -165,7 +165,7 @@ def evaluate_rows(
             "rouge_l": round(float(rouge_score.fmeasure), 6),
             "rouge_l_precision": round(float(rouge_score.precision), 6),
             "rouge_l_recall": round(float(rouge_score.recall), 6),
-            "bert_cosine": round(bert_cos, 6),
+            "embedding_cosine": round(embedding_cos, 6),
             "prompt_token_count": safe_int(row.get("prompt_token_count", "0")),
             "prediction_chars": len(prediction),
             "ground_truth_chars": len(ground_truth),
@@ -215,14 +215,14 @@ def evaluate_rows(
         "avg_rouge_l": round(mean_or_zero(row["rouge_l"] for row in per_row), 6),
         "avg_rouge_l_precision": round(mean_or_zero(row["rouge_l_precision"] for row in per_row), 6),
         "avg_rouge_l_recall": round(mean_or_zero(row["rouge_l_recall"] for row in per_row), 6),
-        "avg_bert_cosine": round(mean_or_zero(row["bert_cosine"] for row in per_row), 6),
+        "avg_embedding_cosine": round(mean_or_zero(row["embedding_cosine"] for row in per_row), 6),
         "avg_prompt_token_count": round(mean_or_zero(row["prompt_token_count"] for row in per_row), 2),
         "by_label": {},
         "metric_impl": {
             "bleu": "nltk.corpus_bleu + nltk.sentence_bleu",
             "meteor": "nltk.translate.meteor_score",
             "rouge_l": "rouge_score.RougeScorer(rougeL)",
-            "bert_cosine": "sentence-transformers cosine similarity",
+            "embedding_cosine": "sentence-transformers cosine similarity",
         },
     }
 
@@ -232,7 +232,7 @@ def evaluate_rows(
             "avg_sentence_bleu": round(mean_or_zero(row["bleu"] for row in label_rows), 6),
             "avg_meteor": round(mean_or_zero(row["meteor"] for row in label_rows), 6),
             "avg_rouge_l": round(mean_or_zero(row["rouge_l"] for row in label_rows), 6),
-            "avg_bert_cosine": round(mean_or_zero(row["bert_cosine"] for row in label_rows), 6),
+            "avg_embedding_cosine": round(mean_or_zero(row["embedding_cosine"] for row in label_rows), 6),
         }
 
     return per_row, summary
@@ -252,7 +252,7 @@ def write_per_row_csv(path: Path, rows: List[Dict[str, object]]) -> None:
                 "rouge_l",
                 "rouge_l_precision",
                 "rouge_l_recall",
-                "bert_cosine",
+                "embedding_cosine",
                 "prompt_token_count",
                 "prediction_chars",
                 "ground_truth_chars",
@@ -272,8 +272,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--out-json", type=Path, default=Path("outputs/reports/part1_baseline_eval.json"))
     parser.add_argument("--out-csv", type=Path, default=Path("outputs/reports/part1_baseline_eval_rows.csv"))
     parser.add_argument("--limit", type=int, default=None)
-    parser.add_argument("--skip-bert-cosine", action="store_true")
-    parser.add_argument("--bert-model", default="intfloat/multilingual-e5-base")
+    parser.add_argument(
+        "--skip-embedding-cosine",
+        "--skip-bert-cosine",
+        action="store_true",
+        dest="skip_embedding_cosine",
+    )
+    parser.add_argument(
+        "--embedding-model",
+        "--bert-model",
+        default="intfloat/multilingual-e5-base",
+        dest="embedding_model",
+    )
     parser.add_argument("--device", default="cpu")
     return parser.parse_args()
 
@@ -286,10 +296,10 @@ def main() -> None:
         rows = rows[: args.limit]
 
     encoder_model = None
-    if not args.skip_bert_cosine:
-        print(f"Loading semantic similarity model: {args.bert_model}", flush=True)
+    if not args.skip_embedding_cosine:
+        print(f"Loading semantic similarity model: {args.embedding_model}", flush=True)
         encoder_model = load_sentence_transformer(
-            model_name=args.bert_model,
+            model_name=args.embedding_model,
             device=args.device,
             local_files_only=True,
         )
@@ -299,6 +309,7 @@ def main() -> None:
         "run_name": args.name or args.predictions.stem,
         "predictions_file": str(args.predictions),
         "rows": summary["total_rows"],
+        "embedding_model": args.embedding_model if not args.skip_embedding_cosine else "",
         "metrics": summary,
     }
 
@@ -313,7 +324,7 @@ def main() -> None:
     print(f"avg_sentence_bleu: {summary['avg_sentence_bleu']}")
     print(f"avg_meteor: {summary['avg_meteor']}")
     print(f"avg_rouge_l: {summary['avg_rouge_l']}")
-    print(f"avg_bert_cosine: {summary['avg_bert_cosine']}")
+    print(f"avg_embedding_cosine: {summary['avg_embedding_cosine']}")
     print(f"avg_prompt_token_count: {summary['avg_prompt_token_count']}")
     print(f"report_json: {args.out_json}")
     print(f"report_rows_csv: {args.out_csv}")

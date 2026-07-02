@@ -122,7 +122,7 @@ def main():
     )
 
     parser.add_argument("--train_file", default="data/sft/train.jsonl")
-    parser.add_argument("--eval_file", default="data/sft/test.jsonl")
+    parser.add_argument("--eval_file", default="data/sft/validation.jsonl")
     parser.add_argument("--output_dir", default="outputs/lora/llama2-7b-legal")
 
     # Konfigurasi utama sesuai paper
@@ -203,7 +203,6 @@ def main():
     model = AutoModelForCausalLM.from_pretrained(
         args.model_name,
         torch_dtype=torch.float16,
-        device_map="auto",
     )
 
     model.config.use_cache = False

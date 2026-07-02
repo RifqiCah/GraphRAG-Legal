@@ -1,17 +1,50 @@
 {
   "input_file": "dataset.csv",
   "total_after_cleaning": 8507,
-  "train_size": 6805,
-  "test_size": 1702,
+  "train_size": 5955,
+  "validation_size": 851,
+  "test_size": 1701,
+  "split_method": "grouped_components_by_reference_and_output",
+  "group_key_basis": "regulasi+pasal+ayat, fallback ke reference mentah jika tidak ter-parse",
+  "target_sizes": {
+    "train": 5955,
+    "validation": 851,
+    "test": 1701
+  },
+  "actual_sizes": {
+    "train": 5955,
+    "validation": 851,
+    "test": 1701
+  },
+  "total_components": 1016,
+  "component_size_stats": {
+    "max": 4260,
+    "mean": 8.37,
+    "median": 1
+  },
+  "overlap_checks": {
+    "group_key": {
+      "train__validation": 0,
+      "train__test": 0,
+      "validation__test": 0
+    },
+    "output_key": {
+      "train__validation": 0,
+      "train__test": 0,
+      "validation__test": 0
+    }
+  },
   "columns": [
     "reference",
     "instruction",
     "output",
     "label",
-    "input"
+    "input",
+    "group_key",
+    "output_key"
   ],
   "sample": {
-    "input": "Referensi: PP 48 Tahun 2008, Bab 3, Tanggung Jawab Pendanaan Pendidikan oleh Penyelenggara atau Satuan Pendidikan yang Didirikan Masyarakat, Bagian Kesatu, Biaya Investasi Satuan Pendidikan, Paragraf 1, Biaya Investasi Lahan Pendidikan Pasal 32\nPertanyaan: Apa yang harus dilakukan penyelenggara atau satuan pendidikan terkait penggunaan dana pungutan?",
-    "output": "Penyelenggara atau satuan pendidikan harus memastikan bahwa dana pungutan digunakan untuk peningkatan mutu pendidikan dan tidak dialokasikan untuk kesejahteraan anggota komite sekolah/madrasah atau lembaga representasi pemangku kepentingan."
+    "input": "Referensi: Pasal 94 ayat (1)\nPertanyaan: Siapa yang dapat menerbitkan terbitan berkala ilmiah?",
+    "output": "Perguruan tinggi, fakultas, lembaga penelitian, program studi, pusat studi, atau lembaga sejenis dapat menerbitkan terbitan berkala ilmiah."
   }
 }

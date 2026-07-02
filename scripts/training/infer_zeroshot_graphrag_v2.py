@@ -30,9 +30,12 @@ def load_jsonl(path):
 def build_prompt(input_text, legal_context):
     return (
         "### Instruksi:\n"
-        "Gunakan konteks hukum berikut untuk menjawab pertanyaan. "
-        "Jika konteks memuat rujukan antar pasal atau perubahan regulasi, gunakan sebagai dasar jawaban. "
-        "Jika konteks tidak cukup, jawab seperlunya tanpa mengarang detail baru.\n\n"
+        "Anda adalah asisten untuk tanya jawab hukum pendidikan Indonesia.\n"
+        "Jawab pertanyaan secara singkat, jelas, dan langsung ke inti.\n"
+        "Gunakan konteks hukum berikut sebagai dasar utama jawaban.\n"
+        "Jika konteks memuat rujukan antar pasal atau perubahan regulasi, gunakan keterkaitan itu bila relevan.\n"
+        "Jangan mengarang pasal, ayat, definisi, atau detail yang tidak didukung konteks.\n"
+        "Jika konteks tidak cukup untuk menjawab dengan yakin, nyatakan bahwa informasi tidak cukup tersedia pada konteks.\n\n"
         "Konteks Hukum:\n"
         f"{legal_context}\n\n"
         "Pertanyaan:\n"

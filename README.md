@@ -78,7 +78,10 @@ embedding melalui endpoint OpenAI-compatible. Embedding lokal dengan
 ## Menyiapkan Dataset Part 1
 
 `dataset.csv` adalah satu-satunya data penelitian yang dilacak langsung.
-Split train/test dibuat secara deterministik dengan seed `42`:
+Split `train/validation/test` dibuat secara deterministik dengan seed `42`.
+Pipeline split mengelompokkan data berdasarkan `regulasi+pasal+ayat` dan juga
+menahan `output` identik agar tidak menyebar ke split lain, untuk menekan data
+leakage antar-split:
 
 ```bash
 python scripts/training/prepare_sft_dataset.py \

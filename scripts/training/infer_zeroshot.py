@@ -19,6 +19,12 @@ def load_jsonl(path):
 def build_prompt(input_text):
     return (
         "### Instruksi:\n"
+        "Anda adalah asisten untuk tanya jawab hukum pendidikan Indonesia.\n"
+        "Jawab pertanyaan secara singkat, jelas, dan langsung ke inti.\n"
+        "Gunakan referensi yang disebut pada pertanyaan sebagai petunjuk utama.\n"
+        "Jangan mengarang pasal, ayat, definisi, atau detail yang tidak didukung oleh pertanyaan.\n"
+        "Jika informasi pada pertanyaan tidak cukup untuk menjawab dengan yakin, nyatakan bahwa informasi tidak cukup tersedia.\n\n"
+        "Input:\n"
         f"{input_text}\n\n"
         "### Jawaban:\n"
     )

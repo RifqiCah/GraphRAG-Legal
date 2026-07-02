@@ -25,7 +25,7 @@ def build_prompt(input_text):
     )
 
 
-def generate_answer(model, tokenizer, prompt, max_new_tokens=256):
+def generate_answer(model, tokenizer, prompt, max_new_tokens=1024):
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
     with torch.no_grad():
@@ -49,7 +49,7 @@ def main():
     parser.add_argument("--adapter_path", default="outputs/lora/llama2-7b-legal")
     parser.add_argument("--test_file", default="data/sft/test.jsonl")
     parser.add_argument("--output_file", default="outputs/predictions/lora_predictions.csv")
-    parser.add_argument("--max_new_tokens", type=int, default=256)
+    parser.add_argument("--max_new_tokens", type=int, default=1024)
     parser.add_argument("--limit", type=int, default=None)
     args = parser.parse_args()
 
@@ -61,6 +61,7 @@ def main():
     print(f"Adapter path : {args.adapter_path}", flush=True)
     print(f"Test file    : {args.test_file}", flush=True)
     print(f"Output file  : {args.output_file}", flush=True)
+    print(f"max_new_tokens : {args.max_new_tokens}", flush=True)
 
     tokenizer = AutoTokenizer.from_pretrained(args.adapter_path, use_fast=False)
 
