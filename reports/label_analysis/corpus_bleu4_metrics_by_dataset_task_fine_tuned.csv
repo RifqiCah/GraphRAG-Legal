@@ -1,0 +1,7 @@
+model,training_state,group_column,group_value,count,corpus_bleu4_rag,corpus_bleu4_graphrag,delta_corpus_bleu4,bleu4_winner
+all,fine-tuned,dataset_task,drafting_provisions,584,0.290249,0.325922,0.035672,GraphRAG
+all,fine-tuned,dataset_task,drafting_revisions,578,0.439011,0.428296,-0.010714,RAG
+all,fine-tuned,dataset_task,element_extraction,462,0.395133,0.425236,0.030103,GraphRAG
+all,fine-tuned,dataset_task,legal_overlapping_analysis,502,0.478921,0.446826,-0.032095,RAG
+all,fine-tuned,dataset_task,legal_qna,648,0.421241,0.394686,-0.026555,RAG
+all,fine-tuned,dataset_task,legal_summarization,628,0.377909,0.384312,0.006403,GraphRAG

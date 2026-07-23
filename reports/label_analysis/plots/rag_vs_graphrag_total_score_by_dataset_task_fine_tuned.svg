@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="170" y="36" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#222">RAG vs GraphRAG by Task (Fine-tuned)</text>
+<text x="170" y="62" font-family="Arial, sans-serif" font-size="13" fill="#555">Total score = mean(METEOR + ROUGE-L + Embedding-Cosine)</text>
+<rect x="170" y="76" width="14" height="14" fill="#4C78A8"/><text x="190" y="88" font-family="Arial, sans-serif" font-size="13" fill="#333">RAG</text>
+<rect x="252" y="76" width="14" height="14" fill="#F58518"/><text x="272" y="88" font-family="Arial, sans-serif" font-size="13" fill="#333">GraphRAG</text>
+<line x1="170.0" y1="86" x2="170.0" y2="468" stroke="#e7e7e7" stroke-width="1"/>
+<text x="170.0" y="492" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">0.0</text>
+<line x1="314.0" y1="86" x2="314.0" y2="468" stroke="#e7e7e7" stroke-width="1"/>
+<text x="314.0" y="492" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">0.5</text>
+<line x1="458.0" y1="86" x2="458.0" y2="468" stroke="#e7e7e7" stroke-width="1"/>
+<text x="458.0" y="492" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">1.0</text>
+<line x1="602.0" y1="86" x2="602.0" y2="468" stroke="#e7e7e7" stroke-width="1"/>
+<text x="602.0" y="492" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">1.5</text>
+<line x1="746.0" y1="86" x2="746.0" y2="468" stroke="#e7e7e7" stroke-width="1"/>
+<text x="746.0" y="492" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">2.0</text>
+<line x1="890.0" y1="86" x2="890.0" y2="468" stroke="#e7e7e7" stroke-width="1"/>
+<text x="890.0" y="492" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">2.5</text>
+<text x="158" y="132.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Overlap analysis</text>
+<line x1="170" y1="152.0" x2="890" y2="152.0" stroke="#f2f2f2" stroke-width="1"/>
+<rect x="170" y="106.5" width="633.5" height="18" rx="2" fill="#4C78A8"/>
+<rect x="170" y="129.5" width="635.1" height="18" rx="2" fill="#F58518"/>
+<text x="809.5" y="119.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.200</text>
+<text x="811.1" y="142.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.205</text>
+<text x="942" y="132.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#2f7f5f">Δ +0.006</text>
+<text x="158" y="194.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Element extraction</text>
+<line x1="170" y1="214.0" x2="890" y2="214.0" stroke="#f2f2f2" stroke-width="1"/>
+<rect x="170" y="168.5" width="569.0" height="18" rx="2" fill="#4C78A8"/>
+<rect x="170" y="191.5" width="584.6" height="18" rx="2" fill="#F58518"/>
+<text x="745.0" y="181.5" font-family="Arial, sans-serif" font-size="11" fill="#333">1.976</text>
+<text x="760.6" y="204.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.030</text>
+<text x="942" y="194.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#2f7f5f">Δ +0.054</text>
+<text x="158" y="256.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Legal Q&amp;A</text>
+<line x1="170" y1="276.0" x2="890" y2="276.0" stroke="#f2f2f2" stroke-width="1"/>
+<rect x="170" y="230.5" width="595.9" height="18" rx="2" fill="#4C78A8"/>
+<rect x="170" y="253.5" width="602.2" height="18" rx="2" fill="#F58518"/>
+<text x="771.9" y="243.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.069</text>
+<text x="778.2" y="266.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.091</text>
+<text x="942" y="256.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#2f7f5f">Δ +0.022</text>
+<text x="158" y="318.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Summarization</text>
+<line x1="170" y1="338.0" x2="890" y2="338.0" stroke="#f2f2f2" stroke-width="1"/>
+<rect x="170" y="292.5" width="562.4" height="18" rx="2" fill="#4C78A8"/>
+<rect x="170" y="315.5" width="572.1" height="18" rx="2" fill="#F58518"/>
+<text x="738.4" y="305.5" font-family="Arial, sans-serif" font-size="11" fill="#333">1.953</text>
+<text x="748.1" y="328.5" font-family="Arial, sans-serif" font-size="11" fill="#333">1.987</text>
+<text x="942" y="318.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#2f7f5f">Δ +0.034</text>
+<text x="158" y="380.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Drafting revisions</text>
+<line x1="170" y1="400.0" x2="890" y2="400.0" stroke="#f2f2f2" stroke-width="1"/>
+<rect x="170" y="354.5" width="605.2" height="18" rx="2" fill="#4C78A8"/>
+<rect x="170" y="377.5" width="615.4" height="18" rx="2" fill="#F58518"/>
+<text x="781.2" y="367.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.101</text>
+<text x="791.4" y="390.5" font-family="Arial, sans-serif" font-size="11" fill="#333">2.137</text>
+<text x="942" y="380.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#2f7f5f">Δ +0.036</text>
+<text x="158" y="442.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Drafting provisions</text>
+<line x1="170" y1="462.0" x2="890" y2="462.0" stroke="#f2f2f2" stroke-width="1"/>
+<rect x="170" y="416.5" width="495.4" height="18" rx="2" fill="#4C78A8"/>
+<rect x="170" y="439.5" width="520.1" height="18" rx="2" fill="#F58518"/>
+<text x="671.4" y="429.5" font-family="Arial, sans-serif" font-size="11" fill="#333">1.720</text>
+<text x="696.1" y="452.5" font-family="Arial, sans-serif" font-size="11" fill="#333">1.806</text>
+<text x="942" y="442.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#2f7f5f">Δ +0.086</text>
+<text x="530.0" y="536" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#555">Mean total score</text>
+</svg>

@@ -1,0 +1,7 @@
+dataset_task,count,percentage
+legal_overlapping_analysis,251,14.76
+element_extraction,231,13.58
+legal_qna,324,19.05
+legal_summarization,314,18.46
+drafting_revisions,289,16.99
+drafting_provisions,292,17.17

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="452" viewBox="0 0 920 452">
+<rect width="100%" height="100%" fill="white"/>
+<text x="180" y="34" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#222">Fine-tuned BLEU-4 Delta by Task</text>
+<text x="180" y="58" font-family="Arial, sans-serif" font-size="13" fill="#555">Delta BLEU-4 = GraphRAG BLEU-4 - RAG BLEU-4. Positive means GraphRAG better.</text>
+<line x1="180.0" y1="76" x2="180.0" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="180.0" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">-0.08</text>
+<line x1="266.8" y1="76" x2="266.8" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="266.8" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">-0.06</text>
+<line x1="353.5" y1="76" x2="353.5" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="353.5" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">-0.04</text>
+<line x1="440.2" y1="76" x2="440.2" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="440.2" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">-0.02</text>
+<line x1="527.0" y1="76" x2="527.0" y2="374" stroke="#333" stroke-width="1"/>
+<text x="527.0" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">+0.00</text>
+<line x1="613.8" y1="76" x2="613.8" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="613.8" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">+0.02</text>
+<line x1="700.5" y1="76" x2="700.5" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="700.5" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">+0.04</text>
+<line x1="787.2" y1="76" x2="787.2" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="787.2" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">+0.06</text>
+<line x1="874.0" y1="76" x2="874.0" y2="374" stroke="#e7e7e7" stroke-width="1"/>
+<text x="874.0" y="396" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">+0.08</text>
+<text x="168" y="115.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Overlap analysis</text>
+<rect x="527.0" y="100.0" width="38.7" height="20" rx="2" fill="#2f7f5f"/>
+<text x="571.7" y="114.0" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#333">+0.0089</text>
+<text x="168" y="163.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Element extraction</text>
+<rect x="527.0" y="148.0" width="87.7" height="20" rx="2" fill="#2f7f5f"/>
+<text x="620.7" y="162.0" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#333">+0.0202</text>
+<text x="168" y="211.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Legal Q&amp;A</text>
+<rect x="527.0" y="196.0" width="73.3" height="20" rx="2" fill="#2f7f5f"/>
+<text x="606.3" y="210.0" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#333">+0.0169</text>
+<text x="168" y="259.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Summarization</text>
+<rect x="527.0" y="244.0" width="80.2" height="20" rx="2" fill="#2f7f5f"/>
+<text x="613.2" y="258.0" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#333">+0.0185</text>
+<text x="168" y="307.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Drafting revisions</text>
+<rect x="527.0" y="292.0" width="91.6" height="20" rx="2" fill="#2f7f5f"/>
+<text x="624.6" y="306.0" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#333">+0.0211</text>
+<text x="168" y="355.0" font-family="Arial, sans-serif" font-size="13" text-anchor="end" fill="#222">Drafting provisions</text>
+<rect x="527.0" y="340.0" width="121.6" height="20" rx="2" fill="#2f7f5f"/>
+<text x="654.6" y="354.0" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#333">+0.0280</text>
+<text x="527.0" y="430" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#555">Mean delta BLEU-4</text>
+</svg>

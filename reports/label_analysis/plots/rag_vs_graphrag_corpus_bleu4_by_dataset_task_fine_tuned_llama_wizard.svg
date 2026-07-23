@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="560" viewBox="0 0 1500 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="58" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#222">Fine-tuned RAG vs GraphRAG by Task (Corpus BLEU-4)</text>
+<text x="58" y="64" font-family="Arial, sans-serif" font-size="13" fill="#555">Separate panels by model. Higher BLEU-4 is better.</text>
+<rect x="1120" y="26" width="14" height="14" fill="#4C78A8"/><text x="1140" y="38" font-family="Arial, sans-serif" font-size="13" fill="#333">RAG</text>
+<rect x="1190" y="26" width="14" height="14" fill="#F58518"/><text x="1210" y="38" font-family="Arial, sans-serif" font-size="13" fill="#333">GraphRAG</text>
+<text x="58" y="100" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#222">LLaMA 2 7B</text>
+<rect x="58" y="114" width="680" height="374" fill="none" stroke="#dddddd" stroke-width="1"/>
+<line x1="208.0" y1="138" x2="208.0" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="208.0" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.0</text>
+<line x1="307.2" y1="138" x2="307.2" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="307.2" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.1</text>
+<line x1="406.4" y1="138" x2="406.4" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="406.4" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.2</text>
+<line x1="505.6" y1="138" x2="505.6" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="505.6" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.3</text>
+<line x1="604.8" y1="138" x2="604.8" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="604.8" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.4</text>
+<line x1="704.0" y1="138" x2="704.0" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="704.0" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.5</text>
+<text x="200" y="169.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Overlap analysis</text>
+<line x1="208" y1="182.0" x2="704" y2="182.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="208" y="151.0" width="461.0" height="12" rx="2" fill="#4C78A8"/>
+<rect x="208" y="167.0" width="423.9" height="12" rx="2" fill="#F58518"/>
+<text x="673.0" y="161.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.465</text>
+<text x="635.9" y="177.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.427</text>
+<text x="730" y="169.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.037</text>
+<text x="200" y="211.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Element extraction</text>
+<line x1="208" y1="224.0" x2="704" y2="224.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="208" y="193.0" width="365.2" height="12" rx="2" fill="#4C78A8"/>
+<rect x="208" y="209.0" width="415.7" height="12" rx="2" fill="#F58518"/>
+<text x="577.2" y="203.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.368</text>
+<text x="627.7" y="219.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.419</text>
+<text x="730" y="211.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#2f7f5f">Δ +0.051</text>
+<text x="200" y="253.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Legal Q&amp;A</text>
+<line x1="208" y1="266.0" x2="704" y2="266.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="208" y="235.0" width="397.7" height="12" rx="2" fill="#4C78A8"/>
+<rect x="208" y="251.0" width="384.3" height="12" rx="2" fill="#F58518"/>
+<text x="609.7" y="245.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.401</text>
+<text x="596.3" y="261.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.387</text>
+<text x="730" y="253.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.013</text>
+<text x="200" y="295.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Summarization</text>
+<line x1="208" y1="308.0" x2="704" y2="308.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="208" y="277.0" width="354.0" height="12" rx="2" fill="#4C78A8"/>
+<rect x="208" y="293.0" width="350.8" height="12" rx="2" fill="#F58518"/>
+<text x="566.0" y="287.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.357</text>
+<text x="562.8" y="303.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.354</text>
+<text x="730" y="295.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.003</text>
+<text x="200" y="337.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Drafting revisions</text>
+<line x1="208" y1="350.0" x2="704" y2="350.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="208" y="319.0" width="396.5" height="12" rx="2" fill="#4C78A8"/>
+<rect x="208" y="335.0" width="379.2" height="12" rx="2" fill="#F58518"/>
+<text x="608.5" y="329.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.400</text>
+<text x="591.2" y="345.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.382</text>
+<text x="730" y="337.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.017</text>
+<text x="200" y="379.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Drafting provisions</text>
+<line x1="208" y1="392.0" x2="704" y2="392.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="208" y="361.0" width="284.4" height="12" rx="2" fill="#4C78A8"/>
+<rect x="208" y="377.0" width="294.6" height="12" rx="2" fill="#F58518"/>
+<text x="496.4" y="371.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.287</text>
+<text x="506.6" y="387.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.297</text>
+<text x="730" y="379.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#2f7f5f">Δ +0.010</text>
+<text x="456.0" y="484" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">Corpus BLEU-4</text>
+<text x="776" y="100" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#222">WizardLM 13B</text>
+<rect x="776" y="114" width="680" height="374" fill="none" stroke="#dddddd" stroke-width="1"/>
+<line x1="926.0" y1="138" x2="926.0" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="926.0" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.0</text>
+<line x1="1025.2" y1="138" x2="1025.2" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="1025.2" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.1</text>
+<line x1="1124.4" y1="138" x2="1124.4" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="1124.4" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.2</text>
+<line x1="1223.6" y1="138" x2="1223.6" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="1223.6" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.3</text>
+<line x1="1322.8" y1="138" x2="1322.8" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="1322.8" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.4</text>
+<line x1="1422.0" y1="138" x2="1422.0" y2="396" stroke="#ececec" stroke-width="1"/>
+<text x="1422.0" y="420" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#555">0.5</text>
+<text x="918" y="169.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Overlap analysis</text>
+<line x1="926" y1="182.0" x2="1422" y2="182.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="926" y="151.0" width="489.8" height="12" rx="2" fill="#4C78A8"/>
+<rect x="926" y="167.0" width="464.5" height="12" rx="2" fill="#F58518"/>
+<text x="1419.8" y="161.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.494</text>
+<text x="1394.5" y="177.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.468</text>
+<text x="1448" y="169.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.026</text>
+<text x="918" y="211.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Element extraction</text>
+<line x1="926" y1="224.0" x2="1422" y2="224.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="926" y="193.0" width="420.7" height="12" rx="2" fill="#4C78A8"/>
+<rect x="926" y="209.0" width="428.0" height="12" rx="2" fill="#F58518"/>
+<text x="1350.7" y="203.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.424</text>
+<text x="1358.0" y="219.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.431</text>
+<text x="1448" y="211.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#2f7f5f">Δ +0.007</text>
+<text x="918" y="253.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Legal Q&amp;A</text>
+<line x1="926" y1="266.0" x2="1422" y2="266.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="926" y="235.0" width="437.5" height="12" rx="2" fill="#4C78A8"/>
+<rect x="926" y="251.0" width="398.5" height="12" rx="2" fill="#F58518"/>
+<text x="1367.5" y="245.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.441</text>
+<text x="1328.5" y="261.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.402</text>
+<text x="1448" y="253.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.039</text>
+<text x="918" y="295.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Summarization</text>
+<line x1="926" y1="308.0" x2="1422" y2="308.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="926" y="277.0" width="396.7" height="12" rx="2" fill="#4C78A8"/>
+<rect x="926" y="293.0" width="414.3" height="12" rx="2" fill="#F58518"/>
+<text x="1326.7" y="287.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.400</text>
+<text x="1344.3" y="303.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.418</text>
+<text x="1448" y="295.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#2f7f5f">Δ +0.018</text>
+<text x="918" y="337.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Drafting revisions</text>
+<line x1="926" y1="350.0" x2="1422" y2="350.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="926" y="319.0" width="479.6" height="12" rx="2" fill="#4C78A8"/>
+<rect x="926" y="335.0" width="478.5" height="12" rx="2" fill="#F58518"/>
+<text x="1409.6" y="329.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.484</text>
+<text x="1408.5" y="345.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.482</text>
+<text x="1448" y="337.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#b84040">Δ -0.001</text>
+<text x="918" y="379.0" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#222">Drafting provisions</text>
+<line x1="926" y1="392.0" x2="1422" y2="392.0" stroke="#f5f5f5" stroke-width="1"/>
+<rect x="926" y="361.0" width="287.4" height="12" rx="2" fill="#4C78A8"/>
+<rect x="926" y="377.0" width="352.4" height="12" rx="2" fill="#F58518"/>
+<text x="1217.4" y="371.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.290</text>
+<text x="1282.4" y="387.0" font-family="Arial, sans-serif" font-size="9.5" fill="#333">0.355</text>
+<text x="1448" y="379.0" font-family="Arial, sans-serif" font-size="10" text-anchor="end" fill="#2f7f5f">Δ +0.066</text>
+<text x="1174.0" y="484" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="#555">Corpus BLEU-4</text>
+</svg>

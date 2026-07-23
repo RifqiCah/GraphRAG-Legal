@@ -1,0 +1,13 @@
+model,training_state,group_column,group_value,count,mean_bleu4_rag,mean_bleu4_graphrag,delta_bleu,positive_delta_count,negative_delta_count,zero_delta_count,positive_delta_percentage,negative_delta_percentage,bleu4_winner
+llama2-7b,fine-tuned,dataset_task,drafting_provisions,292,0.257243,0.285357,0.028114,98,87,107,33.56,29.79,GraphRAG
+llama2-7b,fine-tuned,dataset_task,drafting_revisions,289,0.394549,0.413384,0.018834,103,98,88,35.64,33.91,GraphRAG
+llama2-7b,fine-tuned,dataset_task,element_extraction,231,0.333521,0.352979,0.019458,81,63,87,35.06,27.27,GraphRAG
+llama2-7b,fine-tuned,dataset_task,legal_overlapping_analysis,251,0.465954,0.473109,0.007156,87,70,94,34.66,27.89,GraphRAG
+llama2-7b,fine-tuned,dataset_task,legal_qna,324,0.355745,0.377673,0.021928,103,91,130,31.79,28.09,GraphRAG
+llama2-7b,fine-tuned,dataset_task,legal_summarization,314,0.312077,0.326265,0.014188,117,90,107,37.26,28.66,GraphRAG
+wizardlm-13b,fine-tuned,dataset_task,drafting_provisions,292,0.269601,0.297542,0.027941,115,84,93,39.38,28.77,GraphRAG
+wizardlm-13b,fine-tuned,dataset_task,drafting_revisions,289,0.431688,0.45507,0.023381,93,96,100,32.18,33.22,GraphRAG
+wizardlm-13b,fine-tuned,dataset_task,element_extraction,231,0.362282,0.383245,0.020962,74,59,98,32.03,25.54,GraphRAG
+wizardlm-13b,fine-tuned,dataset_task,legal_overlapping_analysis,251,0.46621,0.476902,0.010692,86,91,74,34.26,36.25,GraphRAG
+wizardlm-13b,fine-tuned,dataset_task,legal_qna,324,0.392113,0.404002,0.011889,98,85,141,30.25,26.23,GraphRAG
+wizardlm-13b,fine-tuned,dataset_task,legal_summarization,314,0.359691,0.382505,0.022814,101,96,117,32.17,30.57,GraphRAG
