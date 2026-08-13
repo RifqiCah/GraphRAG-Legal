@@ -18,7 +18,7 @@ from scripts.graph.graphrag_retriever_v2 import (
     parse_references,
     load_sentence_transformer,
 )
-from scripts.evaluation.tune_retriever import evaluate_offline_recall
+from scripts.evaluation.tune_retriever import evaluate_offline_recall, evaluate_offline_mrr
 
 def run_ablation(
     val_data: List[Dict],
@@ -29,8 +29,9 @@ def run_ablation(
     rerank: bool,
     max_hops: int,
     weights: Dict[str, float]
-) -> float:
+) -> Dict[str, float]:
     total_recall = 0.0
+    total_mrr = 0.0
     for row in tqdm(val_data, desc=config_name):
         query = row.get("input", "")
         ground_truth = row.get("output", "")
@@ -48,16 +49,20 @@ def run_ablation(
             rerank=rerank,
         )
         
-        # If graph expansion is disabled, remove graph_expansion blocks manually 
-        # (since retrieve_from_loaded_resources might still append exact match graph facts)
-        blocks = res["context_blocks"]
-        if max_hops == 0:
-            blocks = [b for b in blocks if b.get("source") != "graph_expansion"]
+        # We evaluate the raw vector_results to see the pure effect of the reranking formula
+        # because context_blocks forcefully injects exact matches at the very top.
+        blocks = res["vector_results"]
             
         recall = evaluate_offline_recall(ground_truth, blocks)
-        total_recall += recall
+        mrr = evaluate_offline_mrr(ground_truth, blocks)
         
-    return total_recall / len(val_data)
+        total_recall += recall
+        total_mrr += mrr
+        
+    return {
+        "Recall": total_recall / len(val_data),
+        "MRR": total_mrr / len(val_data)
+    }
 
 def main():
     graph_index_path = Path("indexes/graph_v2/graph_index.pkl")
@@ -127,11 +132,11 @@ def main():
     print("="*50)
     
     results = [
-        {"Stage": "1. Dense RAG + Legal Unit Chunking", "Recall": score_base},
-        {"Stage": "2. + Graph Expansion", "Recall": score_graph},
-        {"Stage": "3. + B_reg", "Recall": score_breg},
-        {"Stage": "4. + B_exact", "Recall": score_bexact},
-        {"Stage": "5. Full LegalRef-GraphRAG (+ B_section)", "Recall": score_full},
+        {"Stage": "1. Dense RAG + Legal Unit Chunking", "Recall@8": score_base["Recall"], "MRR": score_base["MRR"]},
+        {"Stage": "2. + Graph Expansion", "Recall@8": score_graph["Recall"], "MRR": score_graph["MRR"]},
+        {"Stage": "3. + B_reg", "Recall@8": score_breg["Recall"], "MRR": score_breg["MRR"]},
+        {"Stage": "4. + B_exact", "Recall@8": score_bexact["Recall"], "MRR": score_bexact["MRR"]},
+        {"Stage": "5. Full LegalRef-GraphRAG (+ B_section)", "Recall@8": score_full["Recall"], "MRR": score_full["MRR"]},
     ]
     
     df = pd.DataFrame(results)
