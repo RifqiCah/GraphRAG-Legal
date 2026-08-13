@@ -1,0 +1,55 @@
+{
+  "d27f2adb19418d4fa5b35aae3c6db71d": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 94 ayat (5)"
+      }
+    ]
+  },
+  "7fa678117dba17e7629247e5b98b7727": {
+    "is_present": false,
+    "evidence": null,
+    "reason": "Retrieved context contains references to Pasal 93 ayat (7), Pasal 93 ayat (3), and various Pasal from PP 74/2008, but no mention of Pasal 94 ayat (5)."
+  },
+  "72465c1848f08449f7e655b2bfcf86c2": {
+    "is_present": true,
+    "evidence": "REG-PP-17-2010 Pasal 94 ayat (5)",
+    "reason": "The retrieved context explicitly includes a document labeled 'REG-PP-17-2010 Pasal 94 ayat (5)'."
+  },
+  "22a2d29018d7f32ad59926821ebb2611": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 107 ayat (1)"
+      }
+    ]
+  },
+  "ffe75365ce807355948f234eb71aa4ae": {
+    "is_present": true,
+    "evidence": "Ayat (1) Yang dimaksud dengan \"kelompok bermain\" adalah salah satu bentuk satuan pendidikan anak usia dini jalur pendidikan nonformal yang menyelenggarakan program pendidikan dalam bentuk bermain sambil belajar bagi anak usia 2 (dua) sampai 6 (enam) tahun dengan prioritas 2 (dua) sampai 4 (empat) tahun yang memperhatikan aspek kesejahteraan sosial anak.",
+    "reason": "The context includes the elucidation of Pasal 107 ayat (1), explicitly mentioning 'Ayat (1)' under 'Penjelasan Pasal 107'."
+  },
+  "88563c438eda3c7fe7e1510eab479fd0": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 107 ayat (2) huruf a"
+      }
+    ]
+  },
+  "599c98e43230d229e9e3722cdb549512": {
+    "is_present": true,
+    "evidence": "REG-PP-17-2010 Pasal 107 ayat (2) huruf a\nRegulasi: REG-PP-17-2010\nChunk: CHK-REG-PP-17-2010-0836\nSkor: 0.857245\nTeks: bermain sambil belajar dalam rangka pembelajaran agama dan ahlak mulia;",
+    "reason": "Dokumen 2 secara eksplisit mencantumkan judul 'Pasal 107 ayat (2) huruf a' dan teks yang sesuai."
+  },
+  "43c779e3c97c95ae6c0e9c2087471ea6": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 107 ayat (2) huruf b"
+      }
+    ]
+  },
+  "b39a703fa866cb0c956004f462d1bcc7": {
+    "is_present": true,
+    "evidence": "bermain sambil belajar dalam rangka pembelajaran sosial dan kepribadian",
+    "reason": "Konteks memuat Pasal 107 ayat (2) dengan huruf b yang substansinya sesuai, yaitu 'bermain sambil belajar dalam rangka pembelajaran sosial dan kepribadian'."
+  }
+}

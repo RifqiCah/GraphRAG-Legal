@@ -1,12 +1,13 @@
 import argparse
 import csv
 import json
+import random
 import sys
 from pathlib import Path
 
 import torch
 from peft import PeftModel
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, set_seed
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(PROJECT_ROOT))
@@ -27,6 +28,28 @@ def load_jsonl(path):
             if line.strip():
                 data.append(json.loads(line))
     return data
+
+
+def configure_reproducibility(seed):
+    random.seed(seed)
+    try:
+        import numpy as np
+
+        np.random.seed(seed)
+    except ImportError:
+        pass
+    set_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
+
+
+def dense_score_features(results):
+    if not results:
+        return None, None
+    top1 = float(results[0]["score"])
+    if len(results) < 5:
+        return top1, None
+    return top1, round(top1 - float(results[4]["score"]), 6)
 
 
 def build_prompt(input_text, legal_context):
@@ -131,6 +154,7 @@ def main():
     parser.add_argument("--max_chars_per_chunk", type=int, default=700)
     parser.add_argument("--max_input_tokens", type=int, default=2048)
     parser.add_argument("--max_new_tokens", type=int, default=1024)
+    parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--query-cleaning", action=argparse.BooleanOptionalAction, default=True)
     args = parser.parse_args()
@@ -148,7 +172,11 @@ def main():
     print(f"max_chars_per_chunk : {args.max_chars_per_chunk}", flush=True)
     print(f"max_input_tokens    : {args.max_input_tokens}", flush=True)
     print(f"max_new_tokens      : {args.max_new_tokens}", flush=True)
+    print(f"seed                : {args.seed}", flush=True)
+    print("decoding            : do_sample=False, temperature=0.0", flush=True)
     print(f"Output file         : {args.output_file}", flush=True)
+
+    configure_reproducibility(args.seed)
 
     vector_index = load_pickle(Path(args.vector_index))
     encoder_model_name = args.model or vector_index.get("embedding_model") or "intfloat/multilingual-e5-base"
@@ -186,6 +214,8 @@ def main():
                 "label",
                 "ground_truth",
                 "vector_query",
+                "retrieval_top1_score",
+                "retrieval_score_margin",
                 "retrieved_chunk_ids",
                 "retrieved_regulasi_ids",
                 "retrieved_context",
@@ -215,6 +245,7 @@ def main():
                 local_files_only=True,
                 encoder_model=encoder_model,
             )
+            retrieval_top1_score, retrieval_score_margin = dense_score_features(rag_results)
 
             legal_context, prompt, prompt_token_count = fit_prompt_to_budget(
                 tokenizer=tokenizer,
@@ -240,6 +271,8 @@ def main():
                     "label": label,
                     "ground_truth": ground_truth,
                     "vector_query": vector_query,
+                    "retrieval_top1_score": retrieval_top1_score,
+                    "retrieval_score_margin": retrieval_score_margin,
                     "retrieved_chunk_ids": json.dumps([row.get("chunk_id", "") for row in rag_results], ensure_ascii=False),
                     "retrieved_regulasi_ids": json.dumps([row.get("regulasi_id", "") for row in rag_results], ensure_ascii=False),
                     "retrieved_context": legal_context,

@@ -1,0 +1,70 @@
+{
+  "4f743da9401706a9229eef9f700e50cf": {
+    "references": []
+  },
+  "0559c42849a1dc136de3639f812b58b6": {
+    "references": []
+  },
+  "021a5c489c531133dc7176c2b5326dcf": {
+    "references": []
+  },
+  "9ece105b7f7cd25bcf3d625d4f9057ca": {
+    "references": []
+  },
+  "b22ad5d663ddfbd5fb7978ebcd33d487": {
+    "references": []
+  },
+  "d27f2adb19418d4fa5b35aae3c6db71d": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 94 ayat (5)"
+      }
+    ]
+  },
+  "a6d46686ca6abade8643bce3ef34bdb2": {
+    "is_present": false,
+    "evidence": null,
+    "reason": "Konteks tidak memuat referensi 'Pasal 94 ayat (5)' maupun substansinya; hanya terdapat Pasal 93 ayat (3), ayat (6), ayat (7), Pasal 48 ayat (2) huruf d, dan Pasal 46 ayat (1)."
+  },
+  "585ab5005cb3c514bc2c13c70034a578": {
+    "is_present": true,
+    "evidence": "Terbitan berkala ilmiah sebagaimana dimaksud pada ayat (1) diterbitkan secara tercetak dan secara elektronik melalui jejaring teknologi informasi dan komunikasi.",
+    "reason": "Konteks 3 secara eksplisit memuat Pasal 94 ayat (5) beserta teksnya."
+  },
+  "22a2d29018d7f32ad59926821ebb2611": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 107 ayat (1)"
+      }
+    ]
+  },
+  "511d289eecdfe8f1af41e491cdaa7530": {
+    "is_present": false,
+    "evidence": null,
+    "reason": "Konteks hanya memuat Pasal 109 ayat (1), (2), (4), (6), dan Pasal 2 ayat (3) PP 57/2021; tidak ditemukan Pasal 107 ayat (1)."
+  },
+  "88563c438eda3c7fe7e1510eab479fd0": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 107 ayat (2) huruf a"
+      }
+    ]
+  },
+  "850325a91a0349cb3465ad697150484f": {
+    "is_present": true,
+    "evidence": "REG-PP-17-2010 Pasal 107 ayat (2) huruf a",
+    "reason": "Konteks 4 secara eksplisit mencantumkan referensi Pasal 107 ayat (2) huruf a beserta teksnya."
+  },
+  "43c779e3c97c95ae6c0e9c2087471ea6": {
+    "references": [
+      {
+        "mentioned_reference": "Pasal 107 ayat (2) huruf b"
+      }
+    ]
+  },
+  "2ddb6e58ef413e0112940653f4ce3c16": {
+    "is_present": true,
+    "evidence": "Pasal 107 ayat (2) --MEMILIKI_SUBITEM--> huruf b",
+    "reason": "Konteks memuat fakta ekspansi graf yang secara eksplisit menyatakan Pasal 107 ayat (2) memiliki subitem huruf b. Selain itu, Konteks 1 memuat teks Pasal 107 ayat (2) yang mencantumkan huruf b."
+  }
+}

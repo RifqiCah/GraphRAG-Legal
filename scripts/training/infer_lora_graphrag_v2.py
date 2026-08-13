@@ -1,12 +1,13 @@
 import argparse
 import csv
 import json
+import random
 import sys
 from pathlib import Path
 
 import torch
 from peft import PeftModel
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, set_seed
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(PROJECT_ROOT))
@@ -26,6 +27,28 @@ def load_jsonl(path):
             if line.strip():
                 data.append(json.loads(line))
     return data
+
+
+def configure_reproducibility(seed):
+    random.seed(seed)
+    try:
+        import numpy as np
+
+        np.random.seed(seed)
+    except ImportError:
+        pass
+    set_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
+
+
+def dense_score_features(results):
+    if not results:
+        return None, None
+    top1 = float(results[0]["score"])
+    if len(results) < 5:
+        return top1, None
+    return top1, round(top1 - float(results[4]["score"]), 6)
 
 
 def build_prompt(input_text, legal_context):
@@ -146,6 +169,7 @@ def main():
     parser.add_argument("--max_chars_per_block", type=int, default=700)
     parser.add_argument("--max_input_tokens", type=int, default=2048)
     parser.add_argument("--max_new_tokens", type=int, default=1024)
+    parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--query-cleaning", action=argparse.BooleanOptionalAction, default=True)
     parser.add_argument("--auto-skip-vector-exact-only", action=argparse.BooleanOptionalAction, default=True)
@@ -171,7 +195,11 @@ def main():
     print(f"max_chars_per_block   : {args.max_chars_per_block}", flush=True)
     print(f"max_input_tokens      : {args.max_input_tokens}", flush=True)
     print(f"max_new_tokens        : {args.max_new_tokens}", flush=True)
+    print(f"seed                  : {args.seed}", flush=True)
+    print("decoding              : do_sample=False, temperature=0.0", flush=True)
     print(f"Output file           : {args.output_file}", flush=True)
+
+    configure_reproducibility(args.seed)
 
     print("Loading graph and vector indexes...", flush=True)
     graph_index = load_pickle(Path(args.graph_index))
@@ -216,6 +244,8 @@ def main():
                 "label",
                 "ground_truth",
                 "vector_query",
+                "retrieval_top1_score",
+                "retrieval_score_margin",
                 "vector_skipped_reason",
                 "graph_seed_nodes",
                 "graph_context",
@@ -252,6 +282,9 @@ def main():
                 allow_download=args.allow_download,
                 encoder_model=encoder_model,
             )
+            retrieval_top1_score, retrieval_score_margin = dense_score_features(
+                retrieval_result.get("dense_vector_results", [])
+            )
             graph_context, prompt, prompt_token_count = fit_prompt_to_budget(
                 tokenizer=tokenizer,
                 input_text=input_text,
@@ -276,6 +309,8 @@ def main():
                     "label": label,
                     "ground_truth": ground_truth,
                     "vector_query": retrieval_result.get("query_analysis", {}).get("vector_query", ""),
+                    "retrieval_top1_score": retrieval_top1_score,
+                    "retrieval_score_margin": retrieval_score_margin,
                     "vector_skipped_reason": retrieval_result.get("query_analysis", {}).get("vector_skipped_reason", ""),
                     "graph_seed_nodes": json.dumps(retrieval_result.get("graph_context", {}).get("seed_node_ids", []), ensure_ascii=False),
                     "graph_context": graph_context,

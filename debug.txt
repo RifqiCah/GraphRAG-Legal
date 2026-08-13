@@ -1,0 +1,13 @@
+Query: 
+Expected: [{'raw': 'PP 18 Tahun 2022', 'regulasi_id': 'REG-PP-18-2022', 'pasal': '', 'ayat': '', 'node_id': ''}]
+Score: 0.0
+  Got: reg=REG-UU-20-2003 node=AYT-REG-UU-20-2003-41-1 ref=REG-UU-20-2003 Pasal 41 ayat (1)
+  Got: reg=REG-UU-20-2003 node=AYT-REG-UU-20-2003-34-2 ref=REG-UU-20-2003 Pasal 34 ayat (2)
+  Got: reg=REG-UU-20-2003 node=AYT-REG-UU-20-2003-47-2 ref=REG-UU-20-2003 Pasal 47 ayat (2)
+  Got: reg=REG-UU-20-2003 node=AYT-REG-UU-20-2003-60-3 ref=REG-UU-20-2003 Pasal 60 ayat (3)
+  Got: reg=REG-PP-17-2010 node=SUB-REG-PP-17-2010-29-3-huruf-F ref=REG-PP-17-2010 Pasal 29 ayat (3) huruf f
+  Got: reg=REG-PP-17-2010 node=SUB-REG-PP-17-2010-37-huruf-F ref=REG-PP-17-2010 Pasal 37 huruf f
+  Got: reg=REG-PP-17-2010 node=SUB-REG-PP-17-2010-37-huruf-H ref=REG-PP-17-2010 Pasal 37 huruf h
+  Got: reg=REG-UU-20-2003 node=SUB-REG-UU-20-2003-36-3-huruf-D ref=REG-UU-20-2003 Pasal 36 ayat (3) huruf d
+  Got: reg= node= ref=Graph expansion facts
+

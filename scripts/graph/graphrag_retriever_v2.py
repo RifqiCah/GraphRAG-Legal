@@ -547,6 +547,7 @@ def rerank_vector_results(
     results: Sequence[Dict[str, Any]],
     exact_matches: Sequence[Dict[str, Any]],
     top_k: int,
+    weights: Optional[Dict[str, float]] = None,
 ) -> List[Dict[str, Any]]:
     if not results:
         return []
@@ -561,6 +562,12 @@ def rerank_vector_results(
         (match.get("node", {}).get("type") in {"Pasal", "Ayat", "SubItem"})
         for match in exact_matches
     )
+
+    w_vector = weights.get("w_vector", 1.0) if weights else 1.0
+    w_reg = weights.get("w_reg", 1.0) if weights else 1.0
+    w_exact = weights.get("w_exact", 1.0) if weights else 1.0
+    w_graph = weights.get("w_graph", 1.0) if weights else 1.0
+    w_section = weights.get("w_section", 1.0) if weights else 1.0
 
     reranked = []
     for rank, result in enumerate(results, start=1):
@@ -593,11 +600,11 @@ def rerank_vector_results(
         # Keep the original vector rank as a tiny stable prior for ties.
         rank_prior = max(0.0, 0.01 - (rank * 0.0005))
         final_score = (
-            vector_score
-            + same_regulation_bonus
-            + exact_node_bonus
-            + graph_proximity_score
-            + section_priority_score
+            (w_vector * vector_score)
+            + (w_reg * same_regulation_bonus)
+            + (w_exact * exact_node_bonus)
+            + (w_graph * graph_proximity_score)
+            + (w_section * section_priority_score)
             + rank_prior
         )
 
@@ -826,6 +833,7 @@ def retrieve_from_loaded_resources(
     auto_skip_vector_exact_only: bool = True,
     rerank: bool = True,
     vector_candidate_multiplier: int = 4,
+    weights: Optional[Dict[str, float]] = None,
     vector_index: Optional[Dict[str, Any]] = None,
     model_name: str = "",
     device: str = "auto",
@@ -842,6 +850,7 @@ def retrieve_from_loaded_resources(
     )
 
     vector_results: List[Dict[str, Any]] = []
+    dense_vector_results: List[Dict[str, Any]] = []
     vector_enabled = not no_vector and not query_analysis["vector_skipped_reason"]
     if vector_enabled:
         if vector_index is None:
@@ -860,8 +869,11 @@ def retrieve_from_loaded_resources(
             local_files_only=not allow_download,
             encoder_model=encoder_model,
         )
+        # Keep the raw dense top-k before GraphRAG reranking. This is the
+        # mode-independent confidence signal available before routing.
+        dense_vector_results = [dict(row) for row in vector_results[:top_k]]
         if rerank:
-            vector_results = rerank_vector_results(graph, vector_results, exact_matches, top_k)
+            vector_results = rerank_vector_results(graph, vector_results, exact_matches, top_k, weights)
 
     seed_node_ids: List[str] = []
     seed_node_ids.extend(match["node_id"] for match in exact_matches)
@@ -894,6 +906,7 @@ def retrieve_from_loaded_resources(
         "query_analysis": query_analysis,
         "parsed_references": refs,
         "exact_matches": exact_matches,
+        "dense_vector_results": dense_vector_results,
         "vector_results": vector_results,
         "graph_context": graph_context,
         "context_blocks": context_blocks,

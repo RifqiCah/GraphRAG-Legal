@@ -1,0 +1,6 @@
+Stage,Recall
+1. Dense RAG + Legal Unit Chunking,0.85
+2. + Graph Expansion,0.85
+3. + B_reg,0.85
+4. + B_exact,0.85
+5. Full LegalRef-GraphRAG (+ B_section),0.85
